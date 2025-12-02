@@ -1,0 +1,639 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-12-02T13:20:35Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3829826086,
+  "lat": 0.7046731,
+  "lon": -51.4083024,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 4677471192,
+  "lat": 0.0822013,
+  "lon": -51.0534659,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Ônibus do Renascer",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4677481890,
+  "lat": 2.4917529,
+  "lon": -50.9699362,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4719479231,
+  "lat": 5.0134548,
+  "lon": -52.4741741,
+  "tags": {
+    "addr:city": "Macouria",
+    "addr:postcode": "97355",
+    "addr:street": "Rue Renotte Robo",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Bourg de Macouria",
+    "public_transport": "station",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10226854204,
+  "lat": 0.0582271,
+  "lon": -51.1029697,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Ônibus da Ilha Mirim",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 10226854210,
+  "lat": 0.0088516,
+  "lon": -51.0966735,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Ônibus dos Congós",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 10296301610,
+  "lat": 0.0298774,
+  "lon": -51.0519737,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de ônibus da linha Macapá/Mazagão",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 10749857043,
+  "lat": 0.0841122,
+  "lon": -51.0432502,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Ônibus do Lago da Vaca",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 10794735797,
+  "lat": 0.0269829,
+  "lon": -51.1756431,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Ônibus do Coração",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 631862070,
+  "nodes": [
+    5966397416,
+    5966397417,
+    410305265,
+    6092977148,
+    5966397416
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Gare Routière de Cayenne",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 666535446,
+  "nodes": [
+    6240513806,
+    6240513803,
+    6240513804,
+    6240513805,
+    6240513806
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Estação de Serra do Navio",
+    "railway": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 746007173,
+  "nodes": [
+    6981635462,
+    6981635459,
+    6981635460,
+    6981635461,
+    6981635462
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Terminal de Ônibus do Macapaba",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1016971379,
+  "nodes": [
+    9380172041,
+    9380172042,
+    9380172043,
+    9380172044,
+    9380172041
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1117658007,
+  "nodes": [
+    10222100774,
+    10222100775,
+    10222100776,
+    10222100777,
+    10222100778,
+    10222100779,
+    10222100780,
+    10222100774
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Expresso Macapá",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1125486477,
+  "nodes": [
+    10292076088,
+    10292076089,
+    10292076090,
+    10292076091,
+    10292076092,
+    10292076093,
+    10292076094,
+    13231499530,
+    10292076095,
+    10292076088
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Terminal Rodoviário de Macapá",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1126621260,
+  "nodes": [
+    10301841181,
+    10301841182,
+    10301841183,
+    10301841184,
+    10301841181
+  ],
+  "tags": {
+    "addr:city": "Macapá",
+    "addr:housenumber": "1393",
+    "addr:postcode": "68908-485",
+    "addr:street": "Rua Floriano Waldeck",
+    "addr:suburb": "São Lázaro",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Capital Morena & AmazonTur",
+    "phone": "+55 96 3251-2755",
+    "public_transport": "station",
+    "website": "http://www.capitalmorena.com.br/"
+  }
+},
+{
+  "type": "way",
+  "id": 1151108466,
+  "nodes": [
+    10708194966,
+    10708194967,
+    10708194968,
+    10708194969,
+    10708194966
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Ônibus do Açucena",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1151108481,
+  "nodes": [
+    10708231432,
+    10708231433,
+    10708231434,
+    10708231435,
+    10708231432
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Ônibus do Marabaixo",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1153089557,
+  "nodes": [
+    10724722167,
+    10724722168,
+    10724722169,
+    10724722170,
+    10724722167
+  ],
+  "tags": {
+    "addr:city": "Macapá",
+    "addr:postcode": "68909-326",
+    "addr:street": "Avenida Abacaxis",
+    "addr:suburb": "Brasil Novo",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Ônibus do Brasil Novo",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1447941117,
+  "nodes": [
+    13285037572,
+    13285037573,
+    13285037574,
+    13285037575,
+    13285037572
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Rodoviário - Oiapoque",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 10708194966,
+  "lat": 0.0234839,
+  "lon": -51.0896280
+},
+{
+  "type": "node",
+  "id": 10708194967,
+  "lat": 0.0233956,
+  "lon": -51.0896290
+},
+{
+  "type": "node",
+  "id": 10708194968,
+  "lat": 0.0233980,
+  "lon": -51.0894941
+},
+{
+  "type": "node",
+  "id": 10708194969,
+  "lat": 0.0234846,
+  "lon": -51.0894922
+},
+{
+  "type": "node",
+  "id": 10708231432,
+  "lat": 0.0458421,
+  "lon": -51.1175098
+},
+{
+  "type": "node",
+  "id": 10708231433,
+  "lat": 0.0457094,
+  "lon": -51.1175130
+},
+{
+  "type": "node",
+  "id": 10708231434,
+  "lat": 0.0457055,
+  "lon": -51.1174316
+},
+{
+  "type": "node",
+  "id": 10708231435,
+  "lat": 0.0458406,
+  "lon": -51.1174247
+},
+{
+  "type": "node",
+  "id": 6981635459,
+  "lat": 0.0811905,
+  "lon": -51.0946458
+},
+{
+  "type": "node",
+  "id": 6981635460,
+  "lat": 0.0811891,
+  "lon": -51.0945506
+},
+{
+  "type": "node",
+  "id": 6981635461,
+  "lat": 0.0811234,
+  "lon": -51.0945515
+},
+{
+  "type": "node",
+  "id": 6981635462,
+  "lat": 0.0811247,
+  "lon": -51.0946468
+},
+{
+  "type": "node",
+  "id": 10724722168,
+  "lat": 0.0992088,
+  "lon": -51.0853268
+},
+{
+  "type": "node",
+  "id": 10724722167,
+  "lat": 0.0993130,
+  "lon": -51.0852572
+},
+{
+  "type": "node",
+  "id": 10724722169,
+  "lat": 0.0991659,
+  "lon": -51.0852379
+},
+{
+  "type": "node",
+  "id": 10724722170,
+  "lat": 0.0992829,
+  "lon": -51.0851911
+},
+{
+  "type": "node",
+  "id": 10301841181,
+  "lat": 0.0742595,
+  "lon": -51.0617843
+},
+{
+  "type": "node",
+  "id": 10301841182,
+  "lat": 0.0751490,
+  "lon": -51.0618106
+},
+{
+  "type": "node",
+  "id": 10301841183,
+  "lat": 0.0751265,
+  "lon": -51.0626972
+},
+{
+  "type": "node",
+  "id": 10301841184,
+  "lat": 0.0742263,
+  "lon": -51.0626660
+},
+{
+  "type": "node",
+  "id": 10292076088,
+  "lat": 0.0734728,
+  "lon": -51.0542735
+},
+{
+  "type": "node",
+  "id": 10292076089,
+  "lat": 0.0734287,
+  "lon": -51.0546473
+},
+{
+  "type": "node",
+  "id": 10292076090,
+  "lat": 0.0733504,
+  "lon": -51.0546449
+},
+{
+  "type": "node",
+  "id": 10292076091,
+  "lat": 0.0733397,
+  "lon": -51.0547444
+},
+{
+  "type": "node",
+  "id": 10292076092,
+  "lat": 0.0729271,
+  "lon": -51.0546929
+},
+{
+  "type": "node",
+  "id": 10292076093,
+  "lat": 0.0729383,
+  "lon": -51.0545851
+},
+{
+  "type": "node",
+  "id": 10292076094,
+  "lat": 0.0728654,
+  "lon": -51.0545781
+},
+{
+  "type": "node",
+  "id": 10292076095,
+  "lat": 0.0729156,
+  "lon": -51.0542104
+},
+{
+  "type": "node",
+  "id": 13231499530,
+  "lat": 0.0729060,
+  "lon": -51.0542809
+},
+{
+  "type": "node",
+  "id": 10222100776,
+  "lat": 0.1011210,
+  "lon": -51.0485549
+},
+{
+  "type": "node",
+  "id": 10222100777,
+  "lat": 0.1010995,
+  "lon": -51.0491499
+},
+{
+  "type": "node",
+  "id": 10222100778,
+  "lat": 0.1000696,
+  "lon": -51.0491313
+},
+{
+  "type": "node",
+  "id": 10222100779,
+  "lat": 0.1001174,
+  "lon": -51.0484466
+},
+{
+  "type": "node",
+  "id": 10222100780,
+  "lat": 0.1001466,
+  "lon": -51.0475678
+},
+{
+  "type": "node",
+  "id": 10222100774,
+  "lat": 0.1021100,
+  "lon": -51.0476351
+},
+{
+  "type": "node",
+  "id": 10222100775,
+  "lat": 0.1020759,
+  "lon": -51.0485734
+},
+{
+  "type": "node",
+  "id": 6240513803,
+  "lat": 0.8870103,
+  "lon": -51.9963993
+},
+{
+  "type": "node",
+  "id": 6240513806,
+  "lat": 0.8869724,
+  "lon": -51.9963343
+},
+{
+  "type": "node",
+  "id": 6240513804,
+  "lat": 0.8873538,
+  "lon": -51.9961989
+},
+{
+  "type": "node",
+  "id": 6240513805,
+  "lat": 0.8873159,
+  "lon": -51.9961339
+},
+{
+  "type": "node",
+  "id": 9380172041,
+  "lat": 2.4919142,
+  "lon": -50.9700261
+},
+{
+  "type": "node",
+  "id": 9380172042,
+  "lat": 2.4918040,
+  "lon": -50.9697695
+},
+{
+  "type": "node",
+  "id": 9380172043,
+  "lat": 2.4915806,
+  "lon": -50.9698657
+},
+{
+  "type": "node",
+  "id": 9380172044,
+  "lat": 2.4916908,
+  "lon": -50.9701222
+},
+{
+  "type": "node",
+  "id": 13285037572,
+  "lat": 3.8406184,
+  "lon": -51.8245226
+},
+{
+  "type": "node",
+  "id": 13285037573,
+  "lat": 3.8403138,
+  "lon": -51.8236917
+},
+{
+  "type": "node",
+  "id": 13285037574,
+  "lat": 3.8409457,
+  "lon": -51.8234924
+},
+{
+  "type": "node",
+  "id": 13285037575,
+  "lat": 3.8412484,
+  "lon": -51.8243325
+},
+{
+  "type": "node",
+  "id": 410305265,
+  "lat": 4.9352776,
+  "lon": -52.3333701
+},
+{
+  "type": "node",
+  "id": 5966397416,
+  "lat": 4.9356530,
+  "lon": -52.3323151
+},
+{
+  "type": "node",
+  "id": 5966397417,
+  "lat": 4.9355619,
+  "lon": -52.3322909
+},
+{
+  "type": "node",
+  "id": 6092977148,
+  "lat": 4.9353652,
+  "lon": -52.3333914
+}
+
+  ]
+}

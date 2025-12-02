@@ -1,0 +1,3654 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-12-02T13:14:22Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 828423239,
+  "lat": -20.2655658,
+  "lon": 57.4784511,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "fixme": "location approximate",
+    "name": "Main Bus Station Quatre Bornes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1668439395,
+  "lat": -20.2421941,
+  "lon": 57.4756654,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Main Bus Station Rose Hill",
+    "operator": "RHT",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2642347895,
+  "lat": -20.3178309,
+  "lon": 57.5272002,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Jan Palach South",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4221431698,
+  "lat": -20.0140645,
+  "lon": 57.5838947,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "internet_access": "no",
+    "name": "Bus Stop",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4291488750,
+  "lat": -21.2656344,
+  "lon": 55.3665607,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Mairie de l'Étang-Salé",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4294610337,
+  "lat": -20.8959166,
+  "lon": 55.5509714,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Hôtel de Ville Ste-Marie",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4294838629,
+  "lat": -20.9631795,
+  "lon": 55.6527143,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Gare de St-André",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4294838637,
+  "lat": -20.8780029,
+  "lon": 55.4575605,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Gare de Saint-Denis",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4296330092,
+  "lat": -21.2942025,
+  "lon": 55.3997209,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Groupe Transport Mooland Dépôt",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4297449690,
+  "lat": -20.4052653,
+  "lon": 57.5946368,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 4312495890,
+  "lat": -21.2621843,
+  "lon": 55.4135065,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Transport C. Joseph Dépôt"
+  }
+},
+{
+  "type": "node",
+  "id": 5002374380,
+  "lat": -20.1551220,
+  "lon": 57.5337637,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Cité la Cure Bus Terminal",
+    "postal_code": "11806"
+  }
+},
+{
+  "type": "node",
+  "id": 5161303099,
+  "lat": -20.1863253,
+  "lon": 57.4383079,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "internet_access": "no",
+    "internet_access:fee": "no",
+    "name": "Bus Terminal Pointe aux Sables",
+    "operator": "Triolet bus service",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5250218362,
+  "lat": -20.2951330,
+  "lon": 57.4931664,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "internet_access": "no",
+    "name": "Vacoas Bus Station",
+    "name:fr": "Gare Routière de Vacoas",
+    "phone": "6864185",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5336398956,
+  "lat": -20.9031829,
+  "lon": 55.4835040,
+  "tags": {
+    "amenity": "bus_station",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 5336398957,
+  "lat": -20.9033705,
+  "lon": 55.4835233,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 5765815954,
+  "lat": -20.4329131,
+  "lon": 57.6761429,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Airport",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6204324514,
+  "lat": -20.3430059,
+  "lon": 57.4714457,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Henrietta Bus Station",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6765837986,
+  "lat": -21.0032936,
+  "lon": 55.3926492,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "4X4 pour traverser la rivière des galets",
+    "name:en": "4X4 to cross the river"
+  }
+},
+{
+  "type": "node",
+  "id": 6765844688,
+  "lat": -20.9674580,
+  "lon": 55.3226600,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "4X4 pour aller au départ rando Mafate",
+    "name:en": "4X4 to go to Mafate trail"
+  }
+},
+{
+  "type": "node",
+  "id": 7158546294,
+  "lat": -20.1626556,
+  "lon": 57.4979592,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Port Louis Victoria",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q110577591"
+  }
+},
+{
+  "type": "node",
+  "id": 7158546295,
+  "lat": -20.1805701,
+  "lon": 57.4774916,
+  "tags": {
+    "light_rail": "yes",
+    "name": "St Louis",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 7158546296,
+  "lat": -20.1836502,
+  "lon": 57.4697231,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Coromandel",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 7158546297,
+  "lat": -20.2208126,
+  "lon": 57.4584201,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Barkly",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 7158546298,
+  "lat": -20.2266987,
+  "lon": 57.4673843,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Beau Bassin",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 7158546299,
+  "lat": -20.2418518,
+  "lon": 57.4759291,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Rose Hill Central",
+    "network": "Metro Express",
+    "operator": "Metro Express Ltd",
+    "public_transport": "station",
+    "railway": "station",
+    "ref": "RHC",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q110577643"
+  }
+},
+{
+  "type": "node",
+  "id": 7158546300,
+  "lat": -20.2353150,
+  "lon": 57.4730426,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Vandermeersch",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q110577639"
+  }
+},
+{
+  "type": "node",
+  "id": 9036510431,
+  "lat": -20.2556815,
+  "lon": 57.4777462,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Belle Rose",
+    "network": "Metro Express",
+    "operator": "Metro Express Ltd",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q110577645"
+  }
+},
+{
+  "type": "node",
+  "id": 9036510432,
+  "lat": -20.2651109,
+  "lon": 57.4783403,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Quatre Bornes Central",
+    "network": "Metro Express",
+    "operator": "Metro Express Ltd",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q110577651"
+  }
+},
+{
+  "type": "node",
+  "id": 9038386204,
+  "lat": -21.2423756,
+  "lon": 55.3323951,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Gare Routière Les Avirons",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 9387601750,
+  "lat": -20.4931060,
+  "lon": 57.3792588,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Bus station"
+  }
+},
+{
+  "type": "node",
+  "id": 9725612779,
+  "lat": -20.2749591,
+  "lon": 57.4965315,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Phoenix",
+    "network": "Metro Express",
+    "operator": "Metro Express Ltd",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q112854490"
+  }
+},
+{
+  "type": "node",
+  "id": 9725612780,
+  "lat": -20.2611982,
+  "lon": 57.4898884,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Trianon",
+    "network": "Metro Express",
+    "operator": "Metro Express Ltd",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q112854398"
+  }
+},
+{
+  "type": "node",
+  "id": 9725612781,
+  "lat": -20.2617972,
+  "lon": 57.4824241,
+  "tags": {
+    "light_rail": "yes",
+    "name": "St. Jean",
+    "network": "Metro Express",
+    "operator": "Metro Express Ltd",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q112854267"
+  }
+},
+{
+  "type": "node",
+  "id": 9983762803,
+  "lat": -20.9630192,
+  "lon": 55.3280371,
+  "tags": {
+    "amenity": "bus_station",
+    "description": "Kar Ouest Ligne 18",
+    "fixme": "Créer la ligne de bus",
+    "name": "Impasse Europa",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10558100343,
+  "lat": -20.3164070,
+  "lon": 57.5256490,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Curepipe Central",
+    "network": "Metro Express",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q114458174"
+  }
+},
+{
+  "type": "node",
+  "id": 10575911181,
+  "lat": -20.2414077,
+  "lon": 57.4875933,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Ebéne Cybercity",
+    "network": "Metro Express",
+    "operator": "Metro Express Ltd",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 10575911182,
+  "lat": -20.2323759,
+  "lon": 57.4984753,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Mahatma Gandhi",
+    "network": "Metro Express",
+    "operator": "Metro Express Ltd",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 10841439210,
+  "lat": -20.1612562,
+  "lon": 57.5007003,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Place D'Armes Station",
+    "network": "Metro Express",
+    "operator": "Metro Express",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 10992102218,
+  "lat": -20.3463381,
+  "lon": 57.5476102,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 11164389965,
+  "lat": -20.9390668,
+  "lon": 55.2984945,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Pôle d'échange Odette et Roger MOFY",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 11710605269,
+  "lat": -20.4034446,
+  "lon": 57.5967880,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 11749830469,
+  "lat": -21.3586465,
+  "lon": 55.7682896,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routière De Saint Philippe",
+    "name:en": "Saint Philippe Bus Station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11752432571,
+  "lat": -21.2741573,
+  "lon": 55.5053837,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routière du Tampon"
+  }
+},
+{
+  "type": "node",
+  "id": 12238106943,
+  "lat": -20.3624575,
+  "lon": 57.3749346,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "internet_access": "no",
+    "name": "Rivière Noire",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 12635553327,
+  "lat": -20.1805294,
+  "lon": 57.4775760,
+  "tags": {
+    "name": "St Louis Station",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13287093728,
+  "lat": -20.8945204,
+  "lon": 55.4130631,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Gare du Ruisseau Blanc",
+    "network": "Citalis",
+    "operator": "Cinor",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 33360724,
+  "nodes": [
+    379579649,
+    379579656,
+    379579661,
+    379579691,
+    379579649
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 33435050,
+  "nodes": [
+    380466002,
+    380466005,
+    7161900489,
+    380466008,
+    380466012,
+    380465992,
+    380465994,
+    9271987036,
+    4873661801,
+    4873661802,
+    4873661803,
+    4873661804,
+    4873661805,
+    4873661806,
+    4873661807,
+    4873661808,
+    9271987035,
+    380466000,
+    380466002
+  ],
+  "tags": {
+    "alt_name:en": "North Bus Station",
+    "alt_name:fr": "Gare du Nord",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "internet_access": "yes",
+    "name": "Immigration Square",
+    "name:en": "Immigration Square",
+    "name:fr": "Place de l'Immigration",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 33437820,
+  "nodes": [
+    380500072,
+    4063921623,
+    4063921624,
+    4063921625,
+    4063921626,
+    4063921627,
+    4063921628,
+    4063921629,
+    4063921630,
+    4063921631,
+    3547774663,
+    4063921632,
+    4063921634,
+    3547774673,
+    380500074,
+    4063921635,
+    380500076,
+    380500077,
+    3547774680,
+    4063921621,
+    4063921622,
+    380500072
+  ],
+  "tags": {
+    "addr:city": "Mahebourg",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Mahebourg Bus Terminal",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 37551414,
+  "nodes": [
+    439701367,
+    8516037318,
+    8516037317,
+    439701366,
+    439701345,
+    8516037321,
+    8516037322,
+    8516030393,
+    439701368,
+    8516037320,
+    8516037319,
+    439701367
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Bus Terminal Port Mathurin",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 67642855,
+  "nodes": [
+    817093236,
+    817148950,
+    817114239,
+    817154247,
+    817160354,
+    817157102,
+    817079059,
+    817153542,
+    817128317,
+    817158759,
+    817087383,
+    817162506,
+    817093236
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Gare de Saint-Pierre",
+    "network": "Car Jaune",
+    "operator": "Car Jaune",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 67648125,
+  "nodes": [
+    817143834,
+    817090060,
+    817134563,
+    817110522,
+    817143834
+  ],
+  "tags": {
+    "alt_name": "Centre d'échanges Saint-pierre",
+    "amenity": "bus_station",
+    "building": "roof",
+    "bus": "yes",
+    "layer": "1",
+    "name": "Marché Couvert",
+    "operator": "Alternéo",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 119073792,
+  "nodes": [
+    1338592032,
+    1338615118,
+    1338624587,
+    11201753667,
+    1338592032
+  ],
+  "tags": {
+    "addr:city": "SAINT LOUIS",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Gare Routière de Saint-Louis",
+    "network": "Alterneo, Cars Jaune",
+    "operator": "Alternèo",
+    "public_transport": "station",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 142355043,
+  "nodes": [
+    1558025580,
+    1558025399,
+    11700063279,
+    1558025650,
+    1558025605,
+    1558025580
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "check_date": "2025-03-17",
+    "name": "Gare Routière de Saint-Joseph",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 146864288,
+  "nodes": [
+    1600907733,
+    1600907690,
+    6902984131,
+    1600907760,
+    1600907726,
+    1600907984,
+    1600908086,
+    6943312099,
+    1600908320,
+    1600908404,
+    7102183845,
+    1600907794,
+    1600907733
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Échangeur de St Gilles les Hauts",
+    "network": "Kar'Ouest",
+    "operator": "TCO",
+    "public_transport": "station",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 147811198,
+  "nodes": [
+    1609731923,
+    1609732332,
+    1609732247,
+    1609731841,
+    1609731923
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Gare du Tampon",
+    "public_transport": "station",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "wall": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 254353383,
+  "nodes": [
+    2601431999,
+    2601432001,
+    2601432000,
+    2601431998,
+    2601431999
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Goodlands",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 303452750,
+  "nodes": [
+    3078109222,
+    3078109223,
+    3078109224,
+    3078109225,
+    3078109222
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Gare Routière du Tampon",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 305742014,
+  "nodes": [
+    3104069118,
+    3104069119,
+    3104069120,
+    3104069121,
+    3104069118
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Plaine Lauzun Bus Terminal",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 305742018,
+  "nodes": [
+    3104069132,
+    3104069133,
+    3104069134,
+    3104069135,
+    3104069132
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Cite Valijee Bus Station",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 306148483,
+  "nodes": [
+    3109791758,
+    3109791759,
+    3109791760,
+    3109791761,
+    3109791762,
+    3109791763,
+    3109791764,
+    3109791765,
+    3109791766,
+    3109791767,
+    3109791768,
+    3109791769,
+    3109791770,
+    3109791771,
+    3109791772,
+    3109791758
+  ],
+  "tags": {
+    "addr:city": "Centre de Flacq",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "internet_access:fee": "yes",
+    "name": "Central Flacq Bus Station",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 371861331,
+  "nodes": [
+    3754120604,
+    3754120605,
+    3754120607,
+    3754120608,
+    3754120604
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Albion Bus station"
+  }
+},
+{
+  "type": "way",
+  "id": 421621951,
+  "nodes": [
+    4213732989,
+    4213732990,
+    4213732991,
+    4213732992,
+    4213732993,
+    4213732994,
+    4213732995,
+    4213732996,
+    4213732997,
+    4213732998,
+    4213732999,
+    4213733000,
+    4213733001,
+    4213732989
+  ],
+  "tags": {
+    "addr:city": "Quartier Militaire",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Quartier Militaire Bus Station",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 430188839,
+  "nodes": [
+    4294610461,
+    4294610460,
+    12366441597,
+    4294610462,
+    4294610464,
+    12366441599,
+    12366441598,
+    12366441600,
+    12366448901,
+    4294610466,
+    4294610467,
+    6909924563,
+    6909924562,
+    6909924564,
+    4294610465,
+    4294610463,
+    4294610461
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Gare de Saint-Benoît",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 495858412,
+  "nodes": [
+    4875890668,
+    4875890669,
+    4875890670,
+    4875890671,
+    4468624762,
+    4875890672,
+    4875890668
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 533172282,
+  "nodes": [
+    5173038804,
+    5173038803,
+    12629900015,
+    5173038802,
+    12629900014,
+    12629900013,
+    12629900012,
+    5173038801,
+    5173038804
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Pôle d'échanges Duparc",
+    "public_transport": "station",
+    "ref": "1252;12521;91252;912521"
+  }
+},
+{
+  "type": "way",
+  "id": 607370518,
+  "nodes": [
+    5756155102,
+    5756155103,
+    5756155104,
+    5756155105,
+    5756155102
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Gare routière",
+    "network": "Alternéo",
+    "network:wikidata": "Q2840428",
+    "operator": "Alternéo",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 662796437,
+  "nodes": [
+    6204776289,
+    3446501668,
+    12744312260,
+    12744312183,
+    12744312118,
+    12744312125,
+    12744312124,
+    1121223156,
+    6204776289
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 701914416,
+  "nodes": [
+    6591700358,
+    6591700359,
+    11659290517,
+    11659290518,
+    11659290519,
+    11659290520,
+    11659290521,
+    11659290522,
+    6591700360,
+    6596978261,
+    6591700361,
+    6591700358
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Gare Routière de l'Entre-Deux",
+    "network": "Car Jaune, CARSUD",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 737570938,
+  "nodes": [
+    6905653003,
+    7372916778,
+    7372916777,
+    6905653004,
+    6905653005,
+    9323110213,
+    7372916779,
+    7372916780,
+    6905653006,
+    6905653003
+  ],
+  "tags": {
+    "addr:city": "Port Louis",
+    "building": "yes",
+    "light_rail": "yes",
+    "name": "Victoria Station",
+    "network": "Metro Express",
+    "operator": "Metro Express Ltd",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "website": "https://www.mauritiusmetroexpress.mu"
+  }
+},
+{
+  "type": "way",
+  "id": 739124127,
+  "nodes": [
+    6920521108,
+    6920521107,
+    6920521106,
+    6920521112,
+    6920521105,
+    6920521104,
+    6920521103,
+    6920521102,
+    6920521108
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Collège Montgaillard",
+    "public_transport": "stop_area"
+  }
+},
+{
+  "type": "way",
+  "id": 742119380,
+  "nodes": [
+    6947774601,
+    7158546505,
+    6429264219,
+    6947774602,
+    6947774603,
+    6947774607,
+    7158546502,
+    6947774604,
+    6947774605,
+    6947774601
+  ],
+  "tags": {
+    "building": "yes",
+    "light_rail": "yes",
+    "name": "St Louis",
+    "network": "Metro Express",
+    "operator": "Metro Express Ltd",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "way",
+  "id": 742119392,
+  "nodes": [
+    6947774693,
+    6947774694,
+    6947774695,
+    6947774696,
+    6947774693
+  ],
+  "tags": {
+    "light_rail": "yes",
+    "name": "Barkly",
+    "network": "Metro Express",
+    "operator": "Metro Express Ltd",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "way",
+  "id": 742119393,
+  "nodes": [
+    6947774761,
+    7158546285,
+    7158546286,
+    6947774762,
+    6947774763,
+    6947774764,
+    6947774761
+  ],
+  "tags": {
+    "internet_access": "yes",
+    "light_rail": "yes",
+    "name": "Beau Bassin",
+    "network": "Metro Express",
+    "operator": "Metro Express Ltd",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "way",
+  "id": 742176644,
+  "nodes": [
+    6948311320,
+    6948311321,
+    10965361606,
+    6948311322,
+    6948311323,
+    6948311320
+  ],
+  "tags": {
+    "light_rail": "yes",
+    "name": "Coromandel",
+    "network": "Metro Express",
+    "operator": "Metro Express Ltd",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "way",
+  "id": 1009915201,
+  "nodes": [
+    9318143028,
+    9318143029,
+    10860244533,
+    9318143030,
+    9318143031,
+    9318143032,
+    9318143033,
+    9318143034,
+    9318143035,
+    9318143036,
+    9318143037,
+    9318143038,
+    9318143039,
+    9318143040,
+    9318143041,
+    9318143042,
+    4215358433,
+    4215358432,
+    4215358431,
+    4215358430,
+    4215358429,
+    4215358428,
+    4215358427,
+    4215358425,
+    9318143043,
+    9318143044,
+    9318143045,
+    9318143046,
+    9318143028
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "public",
+    "building:levels": "1",
+    "bus": "yes",
+    "internet_access": "no",
+    "layer": "1",
+    "light_rail": "yes",
+    "name": "Metro Express Curepipe Central",
+    "network": "Metro Express, Mauritius Buses",
+    "operator": "Mauritius Metro Express",
+    "public_transport": "station",
+    "raised": "yes",
+    "smoking": "no",
+    "source": "https://mauritiusmetroexpress.mu/"
+  }
+},
+{
+  "type": "way",
+  "id": 1024423344,
+  "nodes": [
+    9446359733,
+    9446359734,
+    9446359735,
+    9393071922,
+    9446359733
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1125060233,
+  "nodes": [
+    10288282553,
+    10288282554,
+    4085838075,
+    4085838077,
+    4085838392,
+    4085838087,
+    245557498,
+    2322232913,
+    2324553956,
+    10288282553
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "internet_access": "no",
+    "name": "Jan Palach North",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1183402444,
+  "nodes": [
+    10989494564,
+    10989494565,
+    10989494566,
+    10989494567,
+    10989494564
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1215253196,
+  "nodes": [
+    11259266975,
+    11259266976,
+    11259266977,
+    11259266978,
+    11259266975
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1215313754,
+  "nodes": [
+    11259739309,
+    11259739310,
+    11259739311,
+    11259739312,
+    11259739309
+  ],
+  "tags": {
+    "name": "Vacoas Metro Station",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1242730100,
+  "nodes": [
+    11548966526,
+    11548966527,
+    11548966528,
+    11548966529,
+    11548966526
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "network": "CARSUD",
+    "operator": "CASUD",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1310844176,
+  "nodes": [
+    12133861136,
+    12133861137,
+    12133861138,
+    12133861139,
+    12133861136
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "roof",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1329833696,
+  "nodes": [
+    12303932732,
+    12303932733,
+    12303932734,
+    12303932735,
+    12303932736,
+    12303932737,
+    12303932738,
+    12303932739,
+    12303932740,
+    12303932741,
+    12303932742,
+    12303932732
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1368782655,
+  "nodes": [
+    12677019500,
+    12677024601,
+    12677024609,
+    12677024602,
+    12677024608,
+    12677024603,
+    12677024604,
+    12677024607,
+    4294838801,
+    4294838797,
+    4294838794,
+    4294838790,
+    4294838687,
+    4234497129,
+    12677024606,
+    12677024605,
+    12677024611,
+    12677024610,
+    12677019500
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1415396423,
+  "nodes": [
+    13006395934,
+    13006395935,
+    13006395936,
+    13006395937,
+    13006395934
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Hermitage Bus Terminus",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1431699142,
+  "nodes": [
+    13159782595,
+    13159782596,
+    13159782597,
+    13159782598,
+    13159782599,
+    13159782595
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1442341512,
+  "nodes": [
+    13234595257,
+    13234595258,
+    13234595259,
+    13234595260,
+    13234595261,
+    13234595262,
+    13234595257
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Pôle d'Echange de Le Port",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1442826407,
+  "nodes": [
+    13239032964,
+    13239032965,
+    13239032966,
+    13239032967,
+    13239032964
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Gare Routière de Pierrefonds",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1600907690,
+  "lat": -21.0481303,
+  "lon": 55.2668582
+},
+{
+  "type": "node",
+  "id": 1600907726,
+  "lat": -21.0482015,
+  "lon": 55.2669376
+},
+{
+  "type": "node",
+  "id": 1600907733,
+  "lat": -21.0481515,
+  "lon": 55.2668602
+},
+{
+  "type": "node",
+  "id": 1600907760,
+  "lat": -21.0481305,
+  "lon": 55.2669244
+},
+{
+  "type": "node",
+  "id": 1600907794,
+  "lat": -21.0481934,
+  "lon": 55.2668672
+},
+{
+  "type": "node",
+  "id": 1600907984,
+  "lat": -21.0482616,
+  "lon": 55.2669506
+},
+{
+  "type": "node",
+  "id": 1600908086,
+  "lat": -21.0486154,
+  "lon": 55.2670329
+},
+{
+  "type": "node",
+  "id": 1600908320,
+  "lat": -21.0483349,
+  "lon": 55.2669062
+},
+{
+  "type": "node",
+  "id": 1600908404,
+  "lat": -21.0482809,
+  "lon": 55.2668899
+},
+{
+  "type": "node",
+  "id": 6902984131,
+  "lat": -21.0481158,
+  "lon": 55.2668525
+},
+{
+  "type": "node",
+  "id": 6943312099,
+  "lat": -21.0487071,
+  "lon": 55.2670132
+},
+{
+  "type": "node",
+  "id": 7102183845,
+  "lat": -21.0482312,
+  "lon": 55.2668779
+},
+{
+  "type": "node",
+  "id": 13234595257,
+  "lat": -20.9383462,
+  "lon": 55.2984378
+},
+{
+  "type": "node",
+  "id": 13234595258,
+  "lat": -20.9393846,
+  "lon": 55.2982678
+},
+{
+  "type": "node",
+  "id": 13234595259,
+  "lat": -20.9394064,
+  "lon": 55.2984478
+},
+{
+  "type": "node",
+  "id": 13234595260,
+  "lat": -20.9392012,
+  "lon": 55.2987575
+},
+{
+  "type": "node",
+  "id": 13234595261,
+  "lat": -20.9386654,
+  "lon": 55.2988434
+},
+{
+  "type": "node",
+  "id": 13234595262,
+  "lat": -20.9383806,
+  "lon": 55.2986074
+},
+{
+  "type": "node",
+  "id": 1558025399,
+  "lat": -21.3786045,
+  "lon": 55.6209563
+},
+{
+  "type": "node",
+  "id": 1558025580,
+  "lat": -21.3787307,
+  "lon": 55.6210684
+},
+{
+  "type": "node",
+  "id": 1558025605,
+  "lat": -21.3787800,
+  "lon": 55.6210633
+},
+{
+  "type": "node",
+  "id": 1558025650,
+  "lat": -21.3788665,
+  "lon": 55.6209520
+},
+{
+  "type": "node",
+  "id": 11700063279,
+  "lat": -21.3787145,
+  "lon": 55.6208164
+},
+{
+  "type": "node",
+  "id": 1338592032,
+  "lat": -21.2896662,
+  "lon": 55.4069630
+},
+{
+  "type": "node",
+  "id": 1338615118,
+  "lat": -21.2896293,
+  "lon": 55.4069142
+},
+{
+  "type": "node",
+  "id": 1338624587,
+  "lat": -21.2897848,
+  "lon": 55.4067789
+},
+{
+  "type": "node",
+  "id": 11201753667,
+  "lat": -21.2898216,
+  "lon": 55.4068276
+},
+{
+  "type": "node",
+  "id": 13239032964,
+  "lat": -21.3041090,
+  "lon": 55.4256254
+},
+{
+  "type": "node",
+  "id": 13239032965,
+  "lat": -21.3045764,
+  "lon": 55.4259766
+},
+{
+  "type": "node",
+  "id": 13239032966,
+  "lat": -21.3047908,
+  "lon": 55.4256299
+},
+{
+  "type": "node",
+  "id": 13239032967,
+  "lat": -21.3043099,
+  "lon": 55.4252785
+},
+{
+  "type": "node",
+  "id": 817090060,
+  "lat": -21.3408773,
+  "lon": 55.4732123
+},
+{
+  "type": "node",
+  "id": 817110522,
+  "lat": -21.3406828,
+  "lon": 55.4728362
+},
+{
+  "type": "node",
+  "id": 817134563,
+  "lat": -21.3408056,
+  "lon": 55.4732376
+},
+{
+  "type": "node",
+  "id": 817143834,
+  "lat": -21.3407545,
+  "lon": 55.4728109
+},
+{
+  "type": "node",
+  "id": 817079059,
+  "lat": -21.3342419,
+  "lon": 55.4719295
+},
+{
+  "type": "node",
+  "id": 817087383,
+  "lat": -21.3341696,
+  "lon": 55.4716868
+},
+{
+  "type": "node",
+  "id": 817093236,
+  "lat": -21.3340169,
+  "lon": 55.4715987
+},
+{
+  "type": "node",
+  "id": 817114239,
+  "lat": -21.3340618,
+  "lon": 55.4717227
+},
+{
+  "type": "node",
+  "id": 817128317,
+  "lat": -21.3341849,
+  "lon": 55.4717642
+},
+{
+  "type": "node",
+  "id": 817148950,
+  "lat": -21.3340546,
+  "lon": 55.4717254
+},
+{
+  "type": "node",
+  "id": 817153542,
+  "lat": -21.3341930,
+  "lon": 55.4717654
+},
+{
+  "type": "node",
+  "id": 817154247,
+  "lat": -21.3340852,
+  "lon": 55.4717987
+},
+{
+  "type": "node",
+  "id": 817157102,
+  "lat": -21.3341269,
+  "lon": 55.4719681
+},
+{
+  "type": "node",
+  "id": 817158759,
+  "lat": -21.3341623,
+  "lon": 55.4716882
+},
+{
+  "type": "node",
+  "id": 817160354,
+  "lat": -21.3340772,
+  "lon": 55.4718014
+},
+{
+  "type": "node",
+  "id": 817162506,
+  "lat": -21.3341327,
+  "lon": 55.4715601
+},
+{
+  "type": "node",
+  "id": 5756155102,
+  "lat": -21.2820073,
+  "lon": 55.4724930
+},
+{
+  "type": "node",
+  "id": 5756155103,
+  "lat": -21.2818723,
+  "lon": 55.4727853
+},
+{
+  "type": "node",
+  "id": 5756155104,
+  "lat": -21.2820872,
+  "lon": 55.4729194
+},
+{
+  "type": "node",
+  "id": 5756155105,
+  "lat": -21.2822222,
+  "lon": 55.4726003
+},
+{
+  "type": "node",
+  "id": 11548966526,
+  "lat": -21.2730152,
+  "lon": 55.5049942
+},
+{
+  "type": "node",
+  "id": 11548966527,
+  "lat": -21.2737850,
+  "lon": 55.5044792
+},
+{
+  "type": "node",
+  "id": 11548966528,
+  "lat": -21.2743849,
+  "lon": 55.5057077
+},
+{
+  "type": "node",
+  "id": 11548966529,
+  "lat": -21.2738950,
+  "lon": 55.5061529
+},
+{
+  "type": "node",
+  "id": 1609731841,
+  "lat": -21.2796028,
+  "lon": 55.5134378
+},
+{
+  "type": "node",
+  "id": 1609731923,
+  "lat": -21.2796250,
+  "lon": 55.5134003
+},
+{
+  "type": "node",
+  "id": 1609732247,
+  "lat": -21.2797031,
+  "lon": 55.5135063
+},
+{
+  "type": "node",
+  "id": 1609732332,
+  "lat": -21.2797254,
+  "lon": 55.5134690
+},
+{
+  "type": "node",
+  "id": 3078109222,
+  "lat": -21.2796232,
+  "lon": 55.5136531
+},
+{
+  "type": "node",
+  "id": 3078109223,
+  "lat": -21.2794815,
+  "lon": 55.5135682
+},
+{
+  "type": "node",
+  "id": 3078109224,
+  "lat": -21.2795075,
+  "lon": 55.5135182
+},
+{
+  "type": "node",
+  "id": 3078109225,
+  "lat": -21.2796492,
+  "lon": 55.5136032
+},
+{
+  "type": "node",
+  "id": 6591700358,
+  "lat": -21.2483653,
+  "lon": 55.4652176
+},
+{
+  "type": "node",
+  "id": 6591700359,
+  "lat": -21.2482933,
+  "lon": 55.4652064
+},
+{
+  "type": "node",
+  "id": 6591700360,
+  "lat": -21.2487970,
+  "lon": 55.4656530
+},
+{
+  "type": "node",
+  "id": 6591700361,
+  "lat": -21.2488093,
+  "lon": 55.4655328
+},
+{
+  "type": "node",
+  "id": 6596978261,
+  "lat": -21.2488092,
+  "lon": 55.4656025
+},
+{
+  "type": "node",
+  "id": 11659290517,
+  "lat": -21.2482524,
+  "lon": 55.4652364
+},
+{
+  "type": "node",
+  "id": 11659290518,
+  "lat": -21.2482322,
+  "lon": 55.4652922
+},
+{
+  "type": "node",
+  "id": 11659290519,
+  "lat": -21.2482801,
+  "lon": 55.4654643
+},
+{
+  "type": "node",
+  "id": 11659290520,
+  "lat": -21.2483460,
+  "lon": 55.4655258
+},
+{
+  "type": "node",
+  "id": 11659290521,
+  "lat": -21.2484904,
+  "lon": 55.4655665
+},
+{
+  "type": "node",
+  "id": 11659290522,
+  "lat": -21.2487361,
+  "lon": 55.4656882
+},
+{
+  "type": "node",
+  "id": 4294610460,
+  "lat": -21.0386994,
+  "lon": 55.7101723
+},
+{
+  "type": "node",
+  "id": 4294610461,
+  "lat": -21.0386598,
+  "lon": 55.7099721
+},
+{
+  "type": "node",
+  "id": 4294610462,
+  "lat": -21.0386861,
+  "lon": 55.7102768
+},
+{
+  "type": "node",
+  "id": 4294610463,
+  "lat": -21.0390580,
+  "lon": 55.7096905
+},
+{
+  "type": "node",
+  "id": 4294610464,
+  "lat": -21.0388814,
+  "lon": 55.7106067
+},
+{
+  "type": "node",
+  "id": 4294610465,
+  "lat": -21.0393031,
+  "lon": 55.7097328
+},
+{
+  "type": "node",
+  "id": 4294610466,
+  "lat": -21.0393981,
+  "lon": 55.7101298
+},
+{
+  "type": "node",
+  "id": 4294610467,
+  "lat": -21.0394044,
+  "lon": 55.7100759
+},
+{
+  "type": "node",
+  "id": 6909924562,
+  "lat": -21.0394214,
+  "lon": 55.7099379
+},
+{
+  "type": "node",
+  "id": 6909924563,
+  "lat": -21.0394195,
+  "lon": 55.7099949
+},
+{
+  "type": "node",
+  "id": 6909924564,
+  "lat": -21.0393876,
+  "lon": 55.7098567
+},
+{
+  "type": "node",
+  "id": 12366441597,
+  "lat": -21.0386772,
+  "lon": 55.7102162
+},
+{
+  "type": "node",
+  "id": 12366441598,
+  "lat": -21.0393744,
+  "lon": 55.7102832
+},
+{
+  "type": "node",
+  "id": 12366441599,
+  "lat": -21.0391541,
+  "lon": 55.7104294
+},
+{
+  "type": "node",
+  "id": 12366441600,
+  "lat": -21.0394383,
+  "lon": 55.7101719
+},
+{
+  "type": "node",
+  "id": 12366448901,
+  "lat": -21.0394157,
+  "lon": 55.7101665
+},
+{
+  "type": "node",
+  "id": 6920521102,
+  "lat": -20.9019880,
+  "lon": 55.4691318
+},
+{
+  "type": "node",
+  "id": 6920521103,
+  "lat": -20.9017905,
+  "lon": 55.4691552
+},
+{
+  "type": "node",
+  "id": 6920521104,
+  "lat": -20.9017943,
+  "lon": 55.4691728
+},
+{
+  "type": "node",
+  "id": 6920521105,
+  "lat": -20.9018277,
+  "lon": 55.4693276
+},
+{
+  "type": "node",
+  "id": 6920521106,
+  "lat": -20.9019060,
+  "lon": 55.4696012
+},
+{
+  "type": "node",
+  "id": 6920521107,
+  "lat": -20.9019298,
+  "lon": 55.4695931
+},
+{
+  "type": "node",
+  "id": 6920521108,
+  "lat": -20.9020945,
+  "lon": 55.4695107
+},
+{
+  "type": "node",
+  "id": 6920521112,
+  "lat": -20.9018836,
+  "lon": 55.4695269
+},
+{
+  "type": "node",
+  "id": 4234497129,
+  "lat": -20.8774578,
+  "lon": 55.4570311
+},
+{
+  "type": "node",
+  "id": 4294838687,
+  "lat": -20.8775034,
+  "lon": 55.4571003
+},
+{
+  "type": "node",
+  "id": 4294838790,
+  "lat": -20.8775464,
+  "lon": 55.4571655
+},
+{
+  "type": "node",
+  "id": 4294838794,
+  "lat": -20.8775886,
+  "lon": 55.4572296
+},
+{
+  "type": "node",
+  "id": 4294838797,
+  "lat": -20.8776310,
+  "lon": 55.4572939
+},
+{
+  "type": "node",
+  "id": 4294838801,
+  "lat": -20.8776752,
+  "lon": 55.4573610
+},
+{
+  "type": "node",
+  "id": 12677019500,
+  "lat": -20.8773445,
+  "lon": 55.4566232
+},
+{
+  "type": "node",
+  "id": 12677024601,
+  "lat": -20.8776307,
+  "lon": 55.4568215
+},
+{
+  "type": "node",
+  "id": 12677024602,
+  "lat": -20.8783009,
+  "lon": 55.4578134
+},
+{
+  "type": "node",
+  "id": 12677024603,
+  "lat": -20.8779274,
+  "lon": 55.4575223
+},
+{
+  "type": "node",
+  "id": 12677024604,
+  "lat": -20.8778681,
+  "lon": 55.4575652
+},
+{
+  "type": "node",
+  "id": 12677024605,
+  "lat": -20.8773839,
+  "lon": 55.4569919
+},
+{
+  "type": "node",
+  "id": 12677024606,
+  "lat": -20.8774171,
+  "lon": 55.4569694
+},
+{
+  "type": "node",
+  "id": 12677024607,
+  "lat": -20.8777086,
+  "lon": 55.4573333
+},
+{
+  "type": "node",
+  "id": 12677024608,
+  "lat": -20.8781877,
+  "lon": 55.4579023
+},
+{
+  "type": "node",
+  "id": 12677024609,
+  "lat": -20.8779026,
+  "lon": 55.4571843
+},
+{
+  "type": "node",
+  "id": 12677024610,
+  "lat": -20.8773153,
+  "lon": 55.4567316
+},
+{
+  "type": "node",
+  "id": 12677024611,
+  "lat": -20.8773361,
+  "lon": 55.4569051
+},
+{
+  "type": "node",
+  "id": 5173038801,
+  "lat": -20.8975827,
+  "lon": 55.5205114
+},
+{
+  "type": "node",
+  "id": 5173038802,
+  "lat": -20.8972494,
+  "lon": 55.5205338
+},
+{
+  "type": "node",
+  "id": 5173038803,
+  "lat": -20.8977864,
+  "lon": 55.5216370
+},
+{
+  "type": "node",
+  "id": 5173038804,
+  "lat": -20.8980511,
+  "lon": 55.5215034
+},
+{
+  "type": "node",
+  "id": 12629900012,
+  "lat": -20.8975437,
+  "lon": 55.5204633
+},
+{
+  "type": "node",
+  "id": 12629900013,
+  "lat": -20.8974980,
+  "lon": 55.5204344
+},
+{
+  "type": "node",
+  "id": 12629900014,
+  "lat": -20.8974609,
+  "lon": 55.5204343
+},
+{
+  "type": "node",
+  "id": 12629900015,
+  "lat": -20.8977579,
+  "lon": 55.5216123
+},
+{
+  "type": "node",
+  "id": 3754120604,
+  "lat": -20.2101433,
+  "lon": 57.4039448
+},
+{
+  "type": "node",
+  "id": 3754120605,
+  "lat": -20.2104172,
+  "lon": 57.4038740
+},
+{
+  "type": "node",
+  "id": 3754120607,
+  "lat": -20.2105745,
+  "lon": 57.4045734
+},
+{
+  "type": "node",
+  "id": 3754120608,
+  "lat": -20.2102999,
+  "lon": 57.4046426
+},
+{
+  "type": "node",
+  "id": 6947774693,
+  "lat": -20.2205903,
+  "lon": 57.4581718
+},
+{
+  "type": "node",
+  "id": 6947774694,
+  "lat": -20.2211119,
+  "lon": 57.4585237
+},
+{
+  "type": "node",
+  "id": 6947774695,
+  "lat": -20.2210234,
+  "lon": 57.4586645
+},
+{
+  "type": "node",
+  "id": 6947774696,
+  "lat": -20.2205029,
+  "lon": 57.4583057
+},
+{
+  "type": "node",
+  "id": 380500072,
+  "lat": -20.4063751,
+  "lon": 57.7085474
+},
+{
+  "type": "node",
+  "id": 380500074,
+  "lat": -20.4060756,
+  "lon": 57.7089198
+},
+{
+  "type": "node",
+  "id": 380500076,
+  "lat": -20.4073515,
+  "lon": 57.7095048
+},
+{
+  "type": "node",
+  "id": 380500077,
+  "lat": -20.4075505,
+  "lon": 57.7089823
+},
+{
+  "type": "node",
+  "id": 3547774663,
+  "lat": -20.4061950,
+  "lon": 57.7085829
+},
+{
+  "type": "node",
+  "id": 3547774673,
+  "lat": -20.4060769,
+  "lon": 57.7088004
+},
+{
+  "type": "node",
+  "id": 3547774680,
+  "lat": -20.4064694,
+  "lon": 57.7085037
+},
+{
+  "type": "node",
+  "id": 4063921621,
+  "lat": -20.4059331,
+  "lon": 57.7082211
+},
+{
+  "type": "node",
+  "id": 4063921622,
+  "lat": -20.4058931,
+  "lon": 57.7083258
+},
+{
+  "type": "node",
+  "id": 4063921623,
+  "lat": -20.4063598,
+  "lon": 57.7085779
+},
+{
+  "type": "node",
+  "id": 4063921624,
+  "lat": -20.4063332,
+  "lon": 57.7085860
+},
+{
+  "type": "node",
+  "id": 4063921625,
+  "lat": -20.4063217,
+  "lon": 57.7085707
+},
+{
+  "type": "node",
+  "id": 4063921626,
+  "lat": -20.4063027,
+  "lon": 57.7085667
+},
+{
+  "type": "node",
+  "id": 4063921627,
+  "lat": -20.4062846,
+  "lon": 57.7085667
+},
+{
+  "type": "node",
+  "id": 4063921628,
+  "lat": -20.4062674,
+  "lon": 57.7085697
+},
+{
+  "type": "node",
+  "id": 4063921629,
+  "lat": -20.4062484,
+  "lon": 57.7085779
+},
+{
+  "type": "node",
+  "id": 4063921630,
+  "lat": -20.4062379,
+  "lon": 57.7085860
+},
+{
+  "type": "node",
+  "id": 4063921631,
+  "lat": -20.4062036,
+  "lon": 57.7085880
+},
+{
+  "type": "node",
+  "id": 4063921632,
+  "lat": -20.4061836,
+  "lon": 57.7085850
+},
+{
+  "type": "node",
+  "id": 4063921634,
+  "lat": -20.4061645,
+  "lon": 57.7085819
+},
+{
+  "type": "node",
+  "id": 4063921635,
+  "lat": -20.4067047,
+  "lon": 57.7092283
+},
+{
+  "type": "node",
+  "id": 11259266975,
+  "lat": -20.2948747,
+  "lon": 57.4929672
+},
+{
+  "type": "node",
+  "id": 11259266976,
+  "lat": -20.2948767,
+  "lon": 57.4926614
+},
+{
+  "type": "node",
+  "id": 11259266977,
+  "lat": -20.2951184,
+  "lon": 57.4926413
+},
+{
+  "type": "node",
+  "id": 11259266978,
+  "lat": -20.2951316,
+  "lon": 57.4929095
+},
+{
+  "type": "node",
+  "id": 11259739309,
+  "lat": -20.2946203,
+  "lon": 57.4933825
+},
+{
+  "type": "node",
+  "id": 11259739310,
+  "lat": -20.2946200,
+  "lon": 57.4934225
+},
+{
+  "type": "node",
+  "id": 11259739311,
+  "lat": -20.2950983,
+  "lon": 57.4934071
+},
+{
+  "type": "node",
+  "id": 11259739312,
+  "lat": -20.2950994,
+  "lon": 57.4933729
+},
+{
+  "type": "node",
+  "id": 245557498,
+  "lat": -20.3167786,
+  "lon": 57.5270676
+},
+{
+  "type": "node",
+  "id": 2322232913,
+  "lat": -20.3168330,
+  "lon": 57.5269435
+},
+{
+  "type": "node",
+  "id": 2324553956,
+  "lat": -20.3169375,
+  "lon": 57.5266940
+},
+{
+  "type": "node",
+  "id": 4085838075,
+  "lat": -20.3159917,
+  "lon": 57.5263268
+},
+{
+  "type": "node",
+  "id": 4085838077,
+  "lat": -20.3160772,
+  "lon": 57.5262169
+},
+{
+  "type": "node",
+  "id": 4085838087,
+  "lat": -20.3163433,
+  "lon": 57.5266378
+},
+{
+  "type": "node",
+  "id": 4085838392,
+  "lat": -20.3164289,
+  "lon": 57.5265278
+},
+{
+  "type": "node",
+  "id": 4215358425,
+  "lat": -20.3171307,
+  "lon": 57.5262782
+},
+{
+  "type": "node",
+  "id": 4215358427,
+  "lat": -20.3170422,
+  "lon": 57.5261105
+},
+{
+  "type": "node",
+  "id": 4215358428,
+  "lat": -20.3169994,
+  "lon": 57.5260219
+},
+{
+  "type": "node",
+  "id": 4215358429,
+  "lat": -20.3169403,
+  "lon": 57.5259514
+},
+{
+  "type": "node",
+  "id": 4215358430,
+  "lat": -20.3169127,
+  "lon": 57.5258897
+},
+{
+  "type": "node",
+  "id": 4215358431,
+  "lat": -20.3168976,
+  "lon": 57.5258280
+},
+{
+  "type": "node",
+  "id": 4215358432,
+  "lat": -20.3168775,
+  "lon": 57.5257851
+},
+{
+  "type": "node",
+  "id": 4215358433,
+  "lat": -20.3168448,
+  "lon": 57.5257476
+},
+{
+  "type": "node",
+  "id": 9318143028,
+  "lat": -20.3168471,
+  "lon": 57.5263599
+},
+{
+  "type": "node",
+  "id": 9318143029,
+  "lat": -20.3167814,
+  "lon": 57.5263109
+},
+{
+  "type": "node",
+  "id": 9318143030,
+  "lat": -20.3161589,
+  "lon": 57.5255042
+},
+{
+  "type": "node",
+  "id": 9318143031,
+  "lat": -20.3160538,
+  "lon": 57.5253824
+},
+{
+  "type": "node",
+  "id": 9318143032,
+  "lat": -20.3159041,
+  "lon": 57.5252549
+},
+{
+  "type": "node",
+  "id": 9318143033,
+  "lat": -20.3159369,
+  "lon": 57.5251065
+},
+{
+  "type": "node",
+  "id": 9318143034,
+  "lat": -20.3160210,
+  "lon": 57.5251359
+},
+{
+  "type": "node",
+  "id": 9318143035,
+  "lat": -20.3160591,
+  "lon": 57.5249902
+},
+{
+  "type": "node",
+  "id": 9318143036,
+  "lat": -20.3161852,
+  "lon": 57.5250056
+},
+{
+  "type": "node",
+  "id": 9318143037,
+  "lat": -20.3162994,
+  "lon": 57.5250743
+},
+{
+  "type": "node",
+  "id": 9318143038,
+  "lat": -20.3164846,
+  "lon": 57.5252031
+},
+{
+  "type": "node",
+  "id": 9318143039,
+  "lat": -20.3164544,
+  "lon": 57.5252843
+},
+{
+  "type": "node",
+  "id": 9318143040,
+  "lat": -20.3164583,
+  "lon": 57.5253404
+},
+{
+  "type": "node",
+  "id": 9318143041,
+  "lat": -20.3165017,
+  "lon": 57.5254006
+},
+{
+  "type": "node",
+  "id": 9318143042,
+  "lat": -20.3168235,
+  "lon": 57.5257087
+},
+{
+  "type": "node",
+  "id": 9318143043,
+  "lat": -20.3170848,
+  "lon": 57.5263445
+},
+{
+  "type": "node",
+  "id": 9318143044,
+  "lat": -20.3170546,
+  "lon": 57.5264103
+},
+{
+  "type": "node",
+  "id": 9318143045,
+  "lat": -20.3170349,
+  "lon": 57.5264509
+},
+{
+  "type": "node",
+  "id": 9318143046,
+  "lat": -20.3169167,
+  "lon": 57.5264075
+},
+{
+  "type": "node",
+  "id": 10288282553,
+  "lat": -20.3158584,
+  "lon": 57.5254711
+},
+{
+  "type": "node",
+  "id": 10288282554,
+  "lat": -20.3157095,
+  "lon": 57.5258581
+},
+{
+  "type": "node",
+  "id": 10860244533,
+  "lat": -20.3166664,
+  "lon": 57.5261619
+},
+{
+  "type": "node",
+  "id": 10989494564,
+  "lat": -20.3232917,
+  "lon": 57.5300478
+},
+{
+  "type": "node",
+  "id": 10989494565,
+  "lat": -20.3240122,
+  "lon": 57.5303974
+},
+{
+  "type": "node",
+  "id": 10989494566,
+  "lat": -20.3241800,
+  "lon": 57.5300884
+},
+{
+  "type": "node",
+  "id": 10989494567,
+  "lat": -20.3234251,
+  "lon": 57.5297307
+},
+{
+  "type": "node",
+  "id": 13006395934,
+  "lat": -20.2742815,
+  "lon": 57.5387691
+},
+{
+  "type": "node",
+  "id": 13006395935,
+  "lat": -20.2742640,
+  "lon": 57.5399109
+},
+{
+  "type": "node",
+  "id": 13006395936,
+  "lat": -20.2747108,
+  "lon": 57.5399530
+},
+{
+  "type": "node",
+  "id": 13006395937,
+  "lat": -20.2747349,
+  "lon": 57.5390330
+},
+{
+  "type": "node",
+  "id": 12303932732,
+  "lat": -20.2415320,
+  "lon": 57.4757612
+},
+{
+  "type": "node",
+  "id": 12303932733,
+  "lat": -20.2415538,
+  "lon": 57.4757244
+},
+{
+  "type": "node",
+  "id": 12303932734,
+  "lat": -20.2419900,
+  "lon": 57.4755733
+},
+{
+  "type": "node",
+  "id": 12303932735,
+  "lat": -20.2421900,
+  "lon": 57.4755787
+},
+{
+  "type": "node",
+  "id": 12303932736,
+  "lat": -20.2423563,
+  "lon": 57.4756631
+},
+{
+  "type": "node",
+  "id": 12303932737,
+  "lat": -20.2425684,
+  "lon": 57.4756440
+},
+{
+  "type": "node",
+  "id": 12303932738,
+  "lat": -20.2426524,
+  "lon": 57.4756719
+},
+{
+  "type": "node",
+  "id": 12303932739,
+  "lat": -20.2426510,
+  "lon": 57.4757834
+},
+{
+  "type": "node",
+  "id": 12303932740,
+  "lat": -20.2423356,
+  "lon": 57.4758040
+},
+{
+  "type": "node",
+  "id": 12303932741,
+  "lat": -20.2416430,
+  "lon": 57.4758496
+},
+{
+  "type": "node",
+  "id": 12303932742,
+  "lat": -20.2416279,
+  "lon": 57.4757780
+},
+{
+  "type": "node",
+  "id": 6947774761,
+  "lat": -20.2265177,
+  "lon": 57.4671659
+},
+{
+  "type": "node",
+  "id": 6947774762,
+  "lat": -20.2269116,
+  "lon": 57.4674894
+},
+{
+  "type": "node",
+  "id": 6947774763,
+  "lat": -20.2268526,
+  "lon": 57.4675710
+},
+{
+  "type": "node",
+  "id": 6947774764,
+  "lat": -20.2264587,
+  "lon": 57.4672475
+},
+{
+  "type": "node",
+  "id": 7158546285,
+  "lat": -20.2265419,
+  "lon": 57.4671858
+},
+{
+  "type": "node",
+  "id": 7158546286,
+  "lat": -20.2268409,
+  "lon": 57.4674313
+},
+{
+  "type": "node",
+  "id": 4213732996,
+  "lat": -20.2477318,
+  "lon": 57.5995847
+},
+{
+  "type": "node",
+  "id": 4213732997,
+  "lat": -20.2477130,
+  "lon": 57.5994063
+},
+{
+  "type": "node",
+  "id": 4213732998,
+  "lat": -20.2476299,
+  "lon": 57.5992508
+},
+{
+  "type": "node",
+  "id": 4213732999,
+  "lat": -20.2475809,
+  "lon": 57.5991582
+},
+{
+  "type": "node",
+  "id": 4213733000,
+  "lat": -20.2475505,
+  "lon": 57.5991345
+},
+{
+  "type": "node",
+  "id": 4213732990,
+  "lat": -20.2474060,
+  "lon": 57.6001064
+},
+{
+  "type": "node",
+  "id": 4213732991,
+  "lat": -20.2475230,
+  "lon": 57.6001144
+},
+{
+  "type": "node",
+  "id": 4213732992,
+  "lat": -20.2475997,
+  "lon": 57.6001091
+},
+{
+  "type": "node",
+  "id": 4213732993,
+  "lat": -20.2476589,
+  "lon": 57.6000621
+},
+{
+  "type": "node",
+  "id": 4213732994,
+  "lat": -20.2476840,
+  "lon": 57.5999884
+},
+{
+  "type": "node",
+  "id": 4213732995,
+  "lat": -20.2477218,
+  "lon": 57.5997738
+},
+{
+  "type": "node",
+  "id": 4213733001,
+  "lat": -20.2473758,
+  "lon": 57.5996424
+},
+{
+  "type": "node",
+  "id": 4213732989,
+  "lat": -20.2472789,
+  "lon": 57.6001506
+},
+{
+  "type": "node",
+  "id": 6948311320,
+  "lat": -20.1837850,
+  "lon": 57.4694784
+},
+{
+  "type": "node",
+  "id": 6948311321,
+  "lat": -20.1836576,
+  "lon": 57.4694337
+},
+{
+  "type": "node",
+  "id": 6948311322,
+  "lat": -20.1835085,
+  "lon": 57.4699582
+},
+{
+  "type": "node",
+  "id": 6948311323,
+  "lat": -20.1836315,
+  "lon": 57.4699967
+},
+{
+  "type": "node",
+  "id": 10965361606,
+  "lat": -20.1835674,
+  "lon": 57.4697511
+},
+{
+  "type": "node",
+  "id": 6429264219,
+  "lat": -20.1802684,
+  "lon": 57.4779493
+},
+{
+  "type": "node",
+  "id": 6947774601,
+  "lat": -20.1803265,
+  "lon": 57.4779973
+},
+{
+  "type": "node",
+  "id": 6947774602,
+  "lat": -20.1802493,
+  "lon": 57.4779336
+},
+{
+  "type": "node",
+  "id": 6947774603,
+  "lat": -20.1807124,
+  "lon": 57.4771165
+},
+{
+  "type": "node",
+  "id": 6947774604,
+  "lat": -20.1808021,
+  "lon": 57.4771667
+},
+{
+  "type": "node",
+  "id": 6947774605,
+  "lat": -20.1805829,
+  "lon": 57.4775794
+},
+{
+  "type": "node",
+  "id": 6947774607,
+  "lat": -20.1807399,
+  "lon": 57.4771319
+},
+{
+  "type": "node",
+  "id": 7158546502,
+  "lat": -20.1807721,
+  "lon": 57.4771499
+},
+{
+  "type": "node",
+  "id": 7158546505,
+  "lat": -20.1802994,
+  "lon": 57.4779750
+},
+{
+  "type": "node",
+  "id": 3104069118,
+  "lat": -20.1712077,
+  "lon": 57.4788610
+},
+{
+  "type": "node",
+  "id": 3104069119,
+  "lat": -20.1714139,
+  "lon": 57.4790393
+},
+{
+  "type": "node",
+  "id": 3104069120,
+  "lat": -20.1717150,
+  "lon": 57.4785659
+},
+{
+  "type": "node",
+  "id": 3104069121,
+  "lat": -20.1714947,
+  "lon": 57.4783863
+},
+{
+  "type": "node",
+  "id": 3104069132,
+  "lat": -20.1692655,
+  "lon": 57.4818545
+},
+{
+  "type": "node",
+  "id": 3104069133,
+  "lat": -20.1691822,
+  "lon": 57.4820636
+},
+{
+  "type": "node",
+  "id": 3104069134,
+  "lat": -20.1694088,
+  "lon": 57.4821790
+},
+{
+  "type": "node",
+  "id": 3104069135,
+  "lat": -20.1695460,
+  "lon": 57.4818517
+},
+{
+  "type": "node",
+  "id": 6905653003,
+  "lat": -20.1626244,
+  "lon": 57.4982339
+},
+{
+  "type": "node",
+  "id": 6905653004,
+  "lat": -20.1624811,
+  "lon": 57.4981854
+},
+{
+  "type": "node",
+  "id": 6905653005,
+  "lat": -20.1626308,
+  "lon": 57.4977016
+},
+{
+  "type": "node",
+  "id": 6905653006,
+  "lat": -20.1627725,
+  "lon": 57.4977495
+},
+{
+  "type": "node",
+  "id": 7372916777,
+  "lat": -20.1625570,
+  "lon": 57.4982111
+},
+{
+  "type": "node",
+  "id": 7372916778,
+  "lat": -20.1625783,
+  "lon": 57.4982183
+},
+{
+  "type": "node",
+  "id": 7372916779,
+  "lat": -20.1627073,
+  "lon": 57.4977275
+},
+{
+  "type": "node",
+  "id": 7372916780,
+  "lat": -20.1627275,
+  "lon": 57.4977343
+},
+{
+  "type": "node",
+  "id": 9323110213,
+  "lat": -20.1626488,
+  "lon": 57.4977077
+},
+{
+  "type": "node",
+  "id": 13159782595,
+  "lat": -20.1637845,
+  "lon": 57.4956556
+},
+{
+  "type": "node",
+  "id": 13159782596,
+  "lat": -20.1642959,
+  "lon": 57.4958995
+},
+{
+  "type": "node",
+  "id": 13159782597,
+  "lat": -20.1642119,
+  "lon": 57.4960845
+},
+{
+  "type": "node",
+  "id": 13159782598,
+  "lat": -20.1641356,
+  "lon": 57.4960946
+},
+{
+  "type": "node",
+  "id": 13159782599,
+  "lat": -20.1637120,
+  "lon": 57.4959198
+},
+{
+  "type": "node",
+  "id": 380465992,
+  "lat": -20.1589528,
+  "lon": 57.5034337
+},
+{
+  "type": "node",
+  "id": 380465994,
+  "lat": -20.1580976,
+  "lon": 57.5044177
+},
+{
+  "type": "node",
+  "id": 380466000,
+  "lat": -20.1575033,
+  "lon": 57.5056781
+},
+{
+  "type": "node",
+  "id": 380466002,
+  "lat": -20.1578040,
+  "lon": 57.5054986
+},
+{
+  "type": "node",
+  "id": 380466005,
+  "lat": -20.1584947,
+  "lon": 57.5046876
+},
+{
+  "type": "node",
+  "id": 380466008,
+  "lat": -20.1593387,
+  "lon": 57.5036020
+},
+{
+  "type": "node",
+  "id": 380466012,
+  "lat": -20.1590537,
+  "lon": 57.5033250
+},
+{
+  "type": "node",
+  "id": 4873661801,
+  "lat": -20.1569014,
+  "lon": 57.5052599
+},
+{
+  "type": "node",
+  "id": 4873661802,
+  "lat": -20.1567352,
+  "lon": 57.5053404
+},
+{
+  "type": "node",
+  "id": 4873661803,
+  "lat": -20.1566370,
+  "lon": 57.5053752
+},
+{
+  "type": "node",
+  "id": 4873661804,
+  "lat": -20.1564557,
+  "lon": 57.5054423
+},
+{
+  "type": "node",
+  "id": 4873661805,
+  "lat": -20.1561787,
+  "lon": 57.5055415
+},
+{
+  "type": "node",
+  "id": 4873661806,
+  "lat": -20.1561309,
+  "lon": 57.5055496
+},
+{
+  "type": "node",
+  "id": 4873661807,
+  "lat": -20.1562795,
+  "lon": 57.5057652
+},
+{
+  "type": "node",
+  "id": 4873661808,
+  "lat": -20.1564538,
+  "lon": 57.5059975
+},
+{
+  "type": "node",
+  "id": 7161900489,
+  "lat": -20.1592392,
+  "lon": 57.5037299
+},
+{
+  "type": "node",
+  "id": 9271987035,
+  "lat": -20.1572412,
+  "lon": 57.5057492
+},
+{
+  "type": "node",
+  "id": 9271987036,
+  "lat": -20.1571420,
+  "lon": 57.5051408
+},
+{
+  "type": "node",
+  "id": 12133861136,
+  "lat": -20.1963253,
+  "lon": 57.6983831
+},
+{
+  "type": "node",
+  "id": 12133861137,
+  "lat": -20.1962988,
+  "lon": 57.6984928
+},
+{
+  "type": "node",
+  "id": 12133861138,
+  "lat": -20.1970993,
+  "lon": 57.6987299
+},
+{
+  "type": "node",
+  "id": 12133861139,
+  "lat": -20.1971026,
+  "lon": 57.6986308
+},
+{
+  "type": "node",
+  "id": 3109791758,
+  "lat": -20.1915084,
+  "lon": 57.7242853
+},
+{
+  "type": "node",
+  "id": 3109791759,
+  "lat": -20.1916746,
+  "lon": 57.7246018
+},
+{
+  "type": "node",
+  "id": 3109791760,
+  "lat": -20.1904713,
+  "lon": 57.7254172
+},
+{
+  "type": "node",
+  "id": 3109791761,
+  "lat": -20.1903806,
+  "lon": 57.7254869
+},
+{
+  "type": "node",
+  "id": 3109791762,
+  "lat": -20.1901916,
+  "lon": 57.7255681
+},
+{
+  "type": "node",
+  "id": 3109791763,
+  "lat": -20.1899930,
+  "lon": 57.7256210
+},
+{
+  "type": "node",
+  "id": 3109791764,
+  "lat": -20.1897311,
+  "lon": 57.7255513
+},
+{
+  "type": "node",
+  "id": 3109791765,
+  "lat": -20.1895348,
+  "lon": 57.7252831
+},
+{
+  "type": "node",
+  "id": 3109791766,
+  "lat": -20.1895449,
+  "lon": 57.7249934
+},
+{
+  "type": "node",
+  "id": 3109791767,
+  "lat": -20.1896556,
+  "lon": 57.7248378
+},
+{
+  "type": "node",
+  "id": 3109791768,
+  "lat": -20.1900081,
+  "lon": 57.7247520
+},
+{
+  "type": "node",
+  "id": 3109791769,
+  "lat": -20.1903101,
+  "lon": 57.7248271
+},
+{
+  "type": "node",
+  "id": 3109791770,
+  "lat": -20.1905619,
+  "lon": 57.7247895
+},
+{
+  "type": "node",
+  "id": 3109791771,
+  "lat": -20.1909194,
+  "lon": 57.7246715
+},
+{
+  "type": "node",
+  "id": 3109791772,
+  "lat": -20.1912315,
+  "lon": 57.7244891
+},
+{
+  "type": "node",
+  "id": 4468624762,
+  "lat": -20.0946823,
+  "lon": 57.5588911
+},
+{
+  "type": "node",
+  "id": 4875890668,
+  "lat": -20.0953876,
+  "lon": 57.5589809
+},
+{
+  "type": "node",
+  "id": 4875890669,
+  "lat": -20.0952999,
+  "lon": 57.5598355
+},
+{
+  "type": "node",
+  "id": 4875890670,
+  "lat": -20.0946245,
+  "lon": 57.5599055
+},
+{
+  "type": "node",
+  "id": 4875890671,
+  "lat": -20.0945587,
+  "lon": 57.5596954
+},
+{
+  "type": "node",
+  "id": 4875890672,
+  "lat": -20.0949973,
+  "lon": 57.5588390
+},
+{
+  "type": "node",
+  "id": 379579649,
+  "lat": -20.0427132,
+  "lon": 57.5515468
+},
+{
+  "type": "node",
+  "id": 379579656,
+  "lat": -20.0429077,
+  "lon": 57.5514566
+},
+{
+  "type": "node",
+  "id": 379579661,
+  "lat": -20.0434535,
+  "lon": 57.5526137
+},
+{
+  "type": "node",
+  "id": 379579691,
+  "lat": -20.0432685,
+  "lon": 57.5527392
+},
+{
+  "type": "node",
+  "id": 1121223156,
+  "lat": -20.0975033,
+  "lon": 57.6346083
+},
+{
+  "type": "node",
+  "id": 3446501668,
+  "lat": -20.0982985,
+  "lon": 57.6350134
+},
+{
+  "type": "node",
+  "id": 6204776289,
+  "lat": -20.0979041,
+  "lon": 57.6343481
+},
+{
+  "type": "node",
+  "id": 12744312118,
+  "lat": -20.0977419,
+  "lon": 57.6349896
+},
+{
+  "type": "node",
+  "id": 12744312124,
+  "lat": -20.0976835,
+  "lon": 57.6348963
+},
+{
+  "type": "node",
+  "id": 12744312125,
+  "lat": -20.0977044,
+  "lon": 57.6349298
+},
+{
+  "type": "node",
+  "id": 12744312183,
+  "lat": -20.0977561,
+  "lon": 57.6350122
+},
+{
+  "type": "node",
+  "id": 12744312260,
+  "lat": -20.0978992,
+  "lon": 57.6352407
+},
+{
+  "type": "node",
+  "id": 2601431998,
+  "lat": -20.0419296,
+  "lon": 57.6532875
+},
+{
+  "type": "node",
+  "id": 2601431999,
+  "lat": -20.0425520,
+  "lon": 57.6541914
+},
+{
+  "type": "node",
+  "id": 2601432000,
+  "lat": -20.0421942,
+  "lon": 57.6530702
+},
+{
+  "type": "node",
+  "id": 2601432001,
+  "lat": -20.0428141,
+  "lon": 57.6539393
+},
+{
+  "type": "node",
+  "id": 9393071922,
+  "lat": -19.7149068,
+  "lon": 63.4410667
+},
+{
+  "type": "node",
+  "id": 9446359733,
+  "lat": -19.7149046,
+  "lon": 63.4411148
+},
+{
+  "type": "node",
+  "id": 9446359734,
+  "lat": -19.7149785,
+  "lon": 63.4411108
+},
+{
+  "type": "node",
+  "id": 9446359735,
+  "lat": -19.7149760,
+  "lon": 63.4410618
+},
+{
+  "type": "node",
+  "id": 439701345,
+  "lat": -19.6789294,
+  "lon": 63.4254604
+},
+{
+  "type": "node",
+  "id": 439701366,
+  "lat": -19.6783742,
+  "lon": 63.4252252
+},
+{
+  "type": "node",
+  "id": 439701367,
+  "lat": -19.6789011,
+  "lon": 63.4239752
+},
+{
+  "type": "node",
+  "id": 439701368,
+  "lat": -19.6795718,
+  "lon": 63.4241057
+},
+{
+  "type": "node",
+  "id": 8516030393,
+  "lat": -19.6794917,
+  "lon": 63.4243005
+},
+{
+  "type": "node",
+  "id": 8516037317,
+  "lat": -19.6784078,
+  "lon": 63.4250660
+},
+{
+  "type": "node",
+  "id": 8516037318,
+  "lat": -19.6786824,
+  "lon": 63.4244082
+},
+{
+  "type": "node",
+  "id": 8516037319,
+  "lat": -19.6791250,
+  "lon": 63.4238966
+},
+{
+  "type": "node",
+  "id": 8516037320,
+  "lat": -19.6791913,
+  "lon": 63.4238993
+},
+{
+  "type": "node",
+  "id": 8516037321,
+  "lat": -19.6790232,
+  "lon": 63.4254950
+},
+{
+  "type": "node",
+  "id": 8516037322,
+  "lat": -19.6792921,
+  "lon": 63.4247860
+}
+
+  ]
+}

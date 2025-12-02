@@ -1,0 +1,112 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-12-02T13:07:11Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 245976923,
+  "lat": -54.8331906,
+  "lon": -68.4237957,
+  "tags": {
+    "addr:housenumber": "4800",
+    "addr:street": "Presidente Raúl Ricardo Alfonsín",
+    "description": "dep 9:30 12:00 15:00",
+    "name": "El Tren del Fin del Mundo",
+    "operator": "Tranex Turismo S.A.",
+    "public_transport": "station",
+    "railway": "station",
+    "tourism": "attraction",
+    "website": "https://www.trendelfindelmundo.com.ar",
+    "wikidata": "Q16492883",
+    "wikipedia": "es:Estación del Fin del Mundo"
+  }
+},
+{
+  "type": "node",
+  "id": 1960873131,
+  "lat": -54.5102333,
+  "lon": -67.1985007,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Techni Austral Buses",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 10280233109,
+  "lat": -54.8069411,
+  "lon": -68.3080019,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Marga Taqsa Agencia de Boletos de Autobus",
+    "name:en": "Marga Taqsa Bus Ticket Agency",
+    "name:fr": "Marga Taqsa Agence Ticket de Bus",
+    "opening_hours": "24/7",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 871039651,
+  "nodes": [
+    8113700904,
+    8113700905,
+    8113700906,
+    8113700914,
+    8113700907,
+    8113700904
+  ],
+  "tags": {
+    "addr:city": "Ushuaia",
+    "addr:housenumber": "698",
+    "addr:postcode": "V9410",
+    "addr:street": "Avenida Maipú",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Terminal de Ómnibus de Ushuaia",
+    "operator": "Municipalidad de Ushuaia",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 8113700904,
+  "lat": -54.8078842,
+  "lon": -68.3058925
+},
+{
+  "type": "node",
+  "id": 8113700905,
+  "lat": -54.8079723,
+  "lon": -68.3058225
+},
+{
+  "type": "node",
+  "id": 8113700906,
+  "lat": -54.8080385,
+  "lon": -68.3060797
+},
+{
+  "type": "node",
+  "id": 8113700907,
+  "lat": -54.8079515,
+  "lon": -68.3061476
+},
+{
+  "type": "node",
+  "id": 8113700914,
+  "lat": -54.8080236,
+  "lon": -68.3060912
+}
+
+  ]
+}

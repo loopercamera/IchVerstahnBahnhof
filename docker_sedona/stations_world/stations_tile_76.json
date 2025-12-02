@@ -1,0 +1,7297 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-12-02T13:15:26Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 32522353,
+  "lat": -31.9001853,
+  "lon": 115.9558721,
+  "tags": {
+    "name": "Success Hill",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q14935915",
+    "wikipedia": "en:Success Hill railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 32523458,
+  "lat": -31.9599043,
+  "lon": 115.8999547,
+  "tags": {
+    "name": "Burswood",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5000667"
+  }
+},
+{
+  "type": "node",
+  "id": 32523486,
+  "lat": -31.9798827,
+  "lon": 115.9100391,
+  "tags": {
+    "name": "Carlisle",
+    "name:etymology:wikidata": "Q192896",
+    "name:etymology:wikipedia": "en:Carlisle",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5041415",
+    "wikipedia": "en:Carlisle railway station, Perth"
+  }
+},
+{
+  "type": "node",
+  "id": 32523702,
+  "lat": -32.0065762,
+  "lon": 115.9378802,
+  "tags": {
+    "name": "Queens Park",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7270804"
+  }
+},
+{
+  "type": "node",
+  "id": 32523706,
+  "lat": -32.0134373,
+  "lon": 115.9449495,
+  "tags": {
+    "addr:postcode": "6107",
+    "addr:state": "WA",
+    "addr:suburb": "East Cannington",
+    "internet_access": "no",
+    "name": "Cannington",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5032717"
+  }
+},
+{
+  "type": "node",
+  "id": 32523710,
+  "lat": -32.0224724,
+  "lon": 115.9542272,
+  "tags": {
+    "name": "Beckenham",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q4878652",
+    "wikipedia": "en:Beckenham railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 32523750,
+  "lat": -32.0493729,
+  "lon": 115.9829360,
+  "tags": {
+    "name": "Maddington",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6726633"
+  }
+},
+{
+  "type": "node",
+  "id": 32524151,
+  "lat": -32.0712793,
+  "lon": 115.9996758,
+  "tags": {
+    "name": "Gosnells",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5587356"
+  }
+},
+{
+  "type": "node",
+  "id": 32524411,
+  "lat": -32.0847527,
+  "lon": 116.0111271,
+  "tags": {
+    "name": "Seaforth",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 32524460,
+  "lat": -32.1378735,
+  "lon": 116.0104287,
+  "tags": {
+    "name": "Sherwood",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7495570"
+  }
+},
+{
+  "type": "node",
+  "id": 32525254,
+  "lat": -32.0295158,
+  "lon": 115.7518458,
+  "tags": {
+    "name": "North Fremantle",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7055455"
+  }
+},
+{
+  "type": "node",
+  "id": 59961753,
+  "lat": -32.1131779,
+  "lon": 116.0132345,
+  "tags": {
+    "internet_access": "no",
+    "name": "Kelmscott",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6386404"
+  }
+},
+{
+  "type": "node",
+  "id": 63153004,
+  "lat": -31.8309513,
+  "lon": 115.9287564,
+  "tags": {
+    "name": "Zamia",
+    "public_transport": "station",
+    "railway": "station",
+    "usage": "tourism"
+  }
+},
+{
+  "type": "node",
+  "id": 78417427,
+  "lat": -32.0204878,
+  "lon": 115.9192795,
+  "tags": {
+    "name": "Wilson Park",
+    "network": "Castledare Miniature Railway",
+    "operator": "Castledare Miniature Railway",
+    "public_transport": "station",
+    "railway": "station",
+    "tourism": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 78418930,
+  "lat": -32.0229586,
+  "lon": 115.9152182,
+  "tags": {
+    "name": "Niana Station",
+    "network": "Castledare Miniature Railway",
+    "operator": "Castledare Miniature Railway",
+    "public_transport": "station",
+    "railway": "station",
+    "tourism": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 246960678,
+  "lat": -33.0789946,
+  "lon": 115.8977106,
+  "tags": {
+    "name": "Harvey",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 264129651,
+  "lat": -31.1848897,
+  "lon": 118.1041741,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 271824259,
+  "lat": -31.9739823,
+  "lon": 116.0577048,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 275954995,
+  "lat": -30.8247169,
+  "lon": 117.4810858,
+  "tags": {
+    "name": "Koorda",
+    "operator": "ARC Infrastructure",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 275990854,
+  "lat": -30.8253982,
+  "lon": 117.9914909,
+  "tags": {
+    "name": "Welbungin",
+    "operator": "ARC Infrastructure",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 275991312,
+  "lat": -30.8110164,
+  "lon": 117.8597667,
+  "tags": {
+    "name": "Bencubbin",
+    "operator": "ARC Infrastructure",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 276312963,
+  "lat": -30.3611879,
+  "lon": 117.1168107,
+  "tags": {
+    "name": "Kalannie",
+    "operator": "ARC Infrastructure",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 276312972,
+  "lat": -30.5248326,
+  "lon": 117.1727618,
+  "tags": {
+    "name": "Burakin",
+    "operator": "ARC Infrastructure",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 276313296,
+  "lat": -30.4906216,
+  "lon": 116.3607279,
+  "tags": {
+    "name": "Miling",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 276315360,
+  "lat": -30.5970713,
+  "lon": 116.7691005,
+  "tags": {
+    "name": "Ballidu",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 276584417,
+  "lat": -32.0073377,
+  "lon": 115.5169802,
+  "tags": {
+    "heritage": "yes",
+    "name": "Oliver Hill",
+    "railway": "station",
+    "tourism": "yes",
+    "wikidata": "Q53085534"
+  }
+},
+{
+  "type": "node",
+  "id": 302192812,
+  "lat": -31.9439495,
+  "lon": 115.8770742,
+  "tags": {
+    "name": "East Perth",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5329143",
+    "wikipedia": "en:East Perth railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 318016351,
+  "lat": -27.9149743,
+  "lon": 120.6987717,
+  "tags": {
+    "amenity": "bus_station",
+    "note": "For mine site"
+  }
+},
+{
+  "type": "node",
+  "id": 534679760,
+  "lat": -32.1536894,
+  "lon": 116.0129625,
+  "tags": {
+    "name": "Armadale",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q4792531"
+  }
+},
+{
+  "type": "node",
+  "id": 566551916,
+  "lat": -31.8941049,
+  "lon": 115.8045240,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "layer": "1",
+    "level": "1",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 571514328,
+  "lat": -31.9968157,
+  "lon": 115.7609528,
+  "tags": {
+    "name": "Cottesloe",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5175605",
+    "wikimedia_commons": "File:Cottesloe_station_overview.jpg",
+    "wikipedia": "en:Cottesloe railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 583312258,
+  "lat": -31.9770638,
+  "lon": 115.7868832,
+  "tags": {
+    "name": "Showgrounds",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7503255"
+  }
+},
+{
+  "type": "node",
+  "id": 607762711,
+  "lat": -31.9209256,
+  "lon": 116.9627428,
+  "tags": {
+    "disused": "yes",
+    "name": "Greenhills",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 619195274,
+  "lat": -31.6906707,
+  "lon": 115.7380776,
+  "tags": {
+    "name": "Clarkson",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5127652",
+    "wikipedia": "en:Clarkson railway station, Perth"
+  }
+},
+{
+  "type": "node",
+  "id": 632610021,
+  "lat": -31.7451170,
+  "lon": 115.7674623,
+  "tags": {
+    "name": "Joondalup",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6276052"
+  }
+},
+{
+  "type": "node",
+  "id": 632623415,
+  "lat": -31.7721376,
+  "lon": 115.7787410,
+  "tags": {
+    "level": "0",
+    "name": "Edgewater",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 632638063,
+  "lat": -31.7993807,
+  "lon": 115.7823378,
+  "tags": {
+    "level": "0",
+    "name": "Whitfords",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7996482"
+  }
+},
+{
+  "type": "node",
+  "id": 632658051,
+  "lat": -31.8185980,
+  "lon": 115.7832431,
+  "tags": {
+    "level": "0",
+    "name": "Greenwood",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5605108",
+    "wikimedia_commons": "File:Greenwood Station, Western Australia, May 2024 05.jpg",
+    "wikipedia": "en:Greenwood railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 632658057,
+  "lat": -31.8448271,
+  "lon": 115.7963953,
+  "tags": {
+    "name": "Warwick",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "website": "https://www.transperth.wa.gov.au/Using-Transperth/Station-Facilities/Stations-Maps?sid=46",
+    "wikidata": "Q7971216"
+  }
+},
+{
+  "type": "node",
+  "id": 632710504,
+  "lat": -31.9390124,
+  "lon": 115.8403245,
+  "tags": {
+    "level": "0",
+    "name": "Leederville",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6515790"
+  }
+},
+{
+  "type": "node",
+  "id": 632710510,
+  "lat": -31.9519389,
+  "lon": 115.8580047,
+  "tags": {
+    "addr:housenumber": "145",
+    "addr:postcode": "6000",
+    "addr:street": "William Street",
+    "addr:suburb": "Perth",
+    "level": "-2;-1",
+    "name": "Perth Underground",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q52835310"
+  }
+},
+{
+  "type": "node",
+  "id": 632710516,
+  "lat": -31.9570924,
+  "lon": 115.8552188,
+  "tags": {
+    "level": "-2;-1;0",
+    "location": "underground",
+    "name": "Elizabeth Quay",
+    "name:etymology:wikidata": "Q5363395",
+    "name:etymology:wikipedia": "en:Elizabeth Quay",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5399042",
+    "wikipedia": "en:Elizabeth Quay railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 662852799,
+  "lat": -32.1253324,
+  "lon": 115.8583575,
+  "tags": {
+    "level": "0",
+    "name": "Cockburn Central",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5139549",
+    "wikipedia": "en:Cockburn Central railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 697317602,
+  "lat": -32.0473367,
+  "lon": 115.9523821,
+  "tags": {
+    "name": "Thornlie",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7796468",
+    "wikipedia": "en:Thornlie railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 703282696,
+  "lat": -32.0119878,
+  "lon": 115.7549676,
+  "tags": {
+    "name": "Victoria Street",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7927067",
+    "wikipedia": "en:Victoria Street railway station, Perth"
+  }
+},
+{
+  "type": "node",
+  "id": 703282697,
+  "lat": -32.0069488,
+  "lon": 115.7574017,
+  "tags": {
+    "name": "Mosman Park",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6916394",
+    "wikipedia": "en:Mosman Park railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 703289059,
+  "lat": -31.9870428,
+  "lon": 115.7647403,
+  "tags": {
+    "name": "Grant Street",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5596468",
+    "wikipedia": "en:Grant Street railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 703289064,
+  "lat": -31.9827521,
+  "lon": 115.7706183,
+  "tags": {
+    "name": "Swanbourne",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7653566",
+    "wikipedia": "en:Swanbourne railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 703301450,
+  "lat": -31.9717094,
+  "lon": 115.7916120,
+  "tags": {
+    "name": "Loch Street",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6665015",
+    "wikipedia": "en:Loch Street railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 703301461,
+  "lat": -31.9683896,
+  "lon": 115.7962415,
+  "tags": {
+    "name": "Karrakatta",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6373345",
+    "wikipedia": "en:Karrakatta railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 703319615,
+  "lat": -31.9596390,
+  "lon": 115.8054615,
+  "tags": {
+    "name": "Shenton Park",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7494329",
+    "wikipedia": "en:Shenton Park railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 703319617,
+  "lat": -31.9517991,
+  "lon": 115.8134022,
+  "tags": {
+    "name": "Daglish",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5208573",
+    "wikipedia": "en:Daglish railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 703319618,
+  "lat": -31.9446986,
+  "lon": 115.8240044,
+  "tags": {
+    "level": "-1;0",
+    "location": "underground",
+    "name": "Subiaco",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7631315",
+    "wikipedia": "en:Subiaco railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 703319620,
+  "lat": -31.9426816,
+  "lon": 115.8332010,
+  "tags": {
+    "name": "West Leederville",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7985731",
+    "wikipedia": "en:West Leederville railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 703329460,
+  "lat": -32.0520228,
+  "lon": 115.7452187,
+  "tags": {
+    "name": "Fremantle",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5501510",
+    "wikipedia": "en:Fremantle railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 703740421,
+  "lat": -31.9446801,
+  "lon": 115.8450538,
+  "tags": {
+    "name": "City West",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5123512",
+    "wikipedia": "en:City West railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 703745581,
+  "lat": -32.0097373,
+  "lon": 115.8561307,
+  "tags": {
+    "level": "0",
+    "name": "Canning Bridge",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5032676",
+    "wikipedia": "en:Canning Bridge railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 706923437,
+  "lat": -32.2349358,
+  "lon": 115.8426639,
+  "tags": {
+    "name": "Kwinana",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6450457",
+    "wikipedia": "en:Kwinana railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 718677884,
+  "lat": -32.2639959,
+  "lon": 115.8170976,
+  "tags": {
+    "name": "Wellard",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7981175",
+    "wikipedia": "en:Wellard railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 718694049,
+  "lat": -32.2901520,
+  "lon": 115.7612755,
+  "tags": {
+    "name": "Rockingham",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7355408",
+    "wikipedia": "en:Rockingham railway station, Perth"
+  }
+},
+{
+  "type": "node",
+  "id": 718694050,
+  "lat": -32.3265299,
+  "lon": 115.7679220,
+  "tags": {
+    "name": "Warnbro",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7969673",
+    "wikipedia": "en:Warnbro railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 798461358,
+  "lat": -31.8917547,
+  "lon": 116.0016582,
+  "tags": {
+    "name": "Midland",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6842475",
+    "wikipedia": "en:Midland railway station, Perth"
+  }
+},
+{
+  "type": "node",
+  "id": 910564245,
+  "lat": -31.9716144,
+  "lon": 115.9022179,
+  "tags": {
+    "name": "Victoria Park",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7926948"
+  }
+},
+{
+  "type": "node",
+  "id": 1101710681,
+  "lat": -32.1268550,
+  "lon": 116.0125474,
+  "tags": {
+    "name": "Challis",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5068990"
+  }
+},
+{
+  "type": "node",
+  "id": 1231973782,
+  "lat": -31.5515797,
+  "lon": 116.4651569,
+  "tags": {
+    "name": "Toodyay",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q20718166"
+  }
+},
+{
+  "type": "node",
+  "id": 1264989487,
+  "lat": -33.3242985,
+  "lon": 115.6387025,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1681306879,
+  "lat": -35.0277094,
+  "lon": 117.8862372,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1764783032,
+  "lat": -31.9494024,
+  "lon": 115.8725124,
+  "tags": {
+    "name": "Claisebrook",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5125409",
+    "wikipedia": "en:Claisebrook railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 1766793735,
+  "lat": -31.4825147,
+  "lon": 118.2765712,
+  "tags": {
+    "addr:housenumber": "45",
+    "addr:street": "Barrack Street",
+    "name": "Merredin",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "wikimedia_commons": "File:Merredin station building 2022 1.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 1766793737,
+  "lat": -31.2183448,
+  "lon": 119.3080885,
+  "tags": {
+    "name": "Southern Cross (Grain only)",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1768322553,
+  "lat": -31.9517794,
+  "lon": 115.8663954,
+  "tags": {
+    "check_date:wheelchair": "2023-02-06",
+    "name": "McIver",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6801665",
+    "wikipedia": "en:McIver railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 1770107860,
+  "lat": -30.4559780,
+  "lon": 117.5296257,
+  "tags": {
+    "name": "Mollerin",
+    "operator": "ARC Infrastructure",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1779965975,
+  "lat": -32.5270662,
+  "lon": 115.7466333,
+  "tags": {
+    "internet_access": "no",
+    "name": "Mandurah",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q14935859",
+    "wikipedia": "en:Mandurah railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989725,
+  "lat": -31.3740137,
+  "lon": 118.8734953,
+  "tags": {
+    "name": "Bodallin",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989726,
+  "lat": -30.8424229,
+  "lon": 121.1504184,
+  "tags": {
+    "name": "Bonnie Vale",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989727,
+  "lat": -33.2579225,
+  "lon": 115.8383058,
+  "tags": {
+    "name": "Brunswick Junction",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989728,
+  "lat": -31.3864043,
+  "lon": 118.4834498,
+  "tags": {
+    "name": "Burracoppin",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989731,
+  "lat": -31.3908712,
+  "lon": 118.6687359,
+  "tags": {
+    "name": "Carrabin",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989732,
+  "lat": -32.9947937,
+  "lon": 115.8933430,
+  "tags": {
+    "name": "Cookernup",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989733,
+  "lat": -31.6464492,
+  "lon": 117.2436165,
+  "tags": {
+    "name": "Cunderdin",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989734,
+  "lat": -31.6037234,
+  "lon": 117.8940576,
+  "tags": {
+    "name": "Doodlakine",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989736,
+  "lat": -31.6491331,
+  "lon": 116.6764040,
+  "tags": {
+    "name": "Northam",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "wikidata": "Q20718083"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989737,
+  "lat": -31.5296355,
+  "lon": 118.0808876,
+  "tags": {
+    "name": "Hines Hill",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989739,
+  "lat": -31.6320948,
+  "lon": 117.7298064,
+  "tags": {
+    "name": "Kellerberrin",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989740,
+  "lat": -30.8282434,
+  "lon": 119.5142347,
+  "tags": {
+    "name": "Koolyanobbing",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989741,
+  "lat": -31.6237750,
+  "lon": 117.0134891,
+  "tags": {
+    "name": "Meckering",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "wikipedia"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989743,
+  "lat": -31.3187699,
+  "lon": 119.0735459,
+  "tags": {
+    "name": "Moorine Rock",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989744,
+  "lat": -32.2946747,
+  "lon": 115.9866373,
+  "tags": {
+    "internet_access": "no",
+    "name": "Mundijong",
+    "network": "Transwa Bunbury Route",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989746,
+  "lat": -32.5178891,
+  "lon": 115.9686766,
+  "tags": {
+    "name": "North Dandalup",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989749,
+  "lat": -32.3637400,
+  "lon": 115.9761821,
+  "tags": {
+    "name": "Serpentine",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989752,
+  "lat": -31.6420351,
+  "lon": 117.4871961,
+  "tags": {
+    "name": "Tammin",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1793989753,
+  "lat": -32.8453924,
+  "lon": 115.9203477,
+  "tags": {
+    "name": "Waroona",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "wikidata": "Q30329231"
+  }
+},
+{
+  "type": "node",
+  "id": 1849441730,
+  "lat": -33.6186383,
+  "lon": 115.1147246,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 1875097931,
+  "lat": -31.9127941,
+  "lon": 115.9360896,
+  "tags": {
+    "name": "Ashfield",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q4804977"
+  }
+},
+{
+  "type": "node",
+  "id": 1875097932,
+  "lat": -31.9037199,
+  "lon": 115.9469973,
+  "tags": {
+    "name": "Bassendean",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q4868064",
+    "wikipedia": "en:Bassendean railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 1875097933,
+  "lat": -31.9184008,
+  "lon": 115.9118699,
+  "tags": {
+    "name": "Bayswater",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q4874863",
+    "wikipedia": "en:Bayswater railway station, Perth"
+  }
+},
+{
+  "type": "node",
+  "id": 1875097934,
+  "lat": -32.0470920,
+  "lon": 115.8541087,
+  "tags": {
+    "level": "0;1",
+    "name": "Bull Creek",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q4996557",
+    "wikipedia": "en:Bull Creek railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 1875097935,
+  "lat": -31.9807252,
+  "lon": 115.7814486,
+  "tags": {
+    "level": "0",
+    "name": "Claremont",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5126341",
+    "wikipedia": "en:Claremont railway station, Perth"
+  }
+},
+{
+  "type": "node",
+  "id": 1875097937,
+  "lat": -31.8964484,
+  "lon": 115.9799914,
+  "tags": {
+    "name": "East Guildford",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5328511"
+  }
+},
+{
+  "type": "node",
+  "id": 1875097938,
+  "lat": -31.8989490,
+  "lon": 115.9657928,
+  "tags": {
+    "name": "Guildford",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5615858",
+    "wikipedia": "en:Guildford railway station, Perth"
+  }
+},
+{
+  "type": "node",
+  "id": 1875097939,
+  "lat": -32.0363799,
+  "lon": 115.9697212,
+  "tags": {
+    "name": "Kenwick",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6392492"
+  }
+},
+{
+  "type": "node",
+  "id": 1875097940,
+  "lat": -31.9283061,
+  "lon": 115.8917195,
+  "tags": {
+    "name": "Maylands",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6797333",
+    "wikipedia": "en:Maylands railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 1875097941,
+  "lat": -31.9224658,
+  "lon": 115.9003208,
+  "tags": {
+    "name": "Meltham",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6813755",
+    "wikipedia": "en:Meltham railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 1875097942,
+  "lat": -31.9347687,
+  "lon": 115.8808712,
+  "tags": {
+    "name": "Mount Lawley",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "short_name": "Mt Lawley",
+    "start_date": "1907",
+    "train": "yes",
+    "website": "https://www.transperth.wa.gov.au/Using-Transperth/Station-Facilities/Stations-Maps?sid=21",
+    "wikidata": "Q14935870",
+    "wikipedia": "en:Mount Lawley railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 1875097943,
+  "lat": -31.9878994,
+  "lon": 115.9163301,
+  "tags": {
+    "name": "Oats Street",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7074508"
+  }
+},
+{
+  "type": "node",
+  "id": 1875097945,
+  "lat": -31.8945580,
+  "lon": 115.8050873,
+  "tags": {
+    "name": "Stirling",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7617598"
+  }
+},
+{
+  "type": "node",
+  "id": 1875097947,
+  "lat": -31.8915181,
+  "lon": 115.9928680,
+  "tags": {
+    "name": "Woodbridge",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q8032429"
+  }
+},
+{
+  "type": "node",
+  "id": 2438802406,
+  "lat": -31.0086999,
+  "lon": 125.3323463,
+  "tags": {
+    "name": "Rawlinna",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2498071050,
+  "lat": -22.1378792,
+  "lon": 117.9714385,
+  "tags": {
+    "access": "private",
+    "name": "Solomon",
+    "operator": "FMG",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2611814145,
+  "lat": -33.6963085,
+  "lon": 117.5488559,
+  "tags": {
+    "name": "Miniature Train Station",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3202319639,
+  "lat": -33.0012558,
+  "lon": 118.8279686,
+  "tags": {
+    "name": "Buniche",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3202468277,
+  "lat": -33.1092534,
+  "lon": 118.2359468,
+  "tags": {
+    "name": "Tarin Rock",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3303384539,
+  "lat": -31.9953270,
+  "lon": 117.1637849,
+  "tags": {
+    "name": "Mawson",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3317617364,
+  "lat": -31.6336857,
+  "lon": 116.9904298,
+  "tags": {
+    "name": "Meckering Siding",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3318573785,
+  "lat": -31.6386869,
+  "lon": 116.7811188,
+  "tags": {
+    "name": "Grass Valley",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3329118584,
+  "lat": -31.0134620,
+  "lon": 117.1114861,
+  "tags": {
+    "name": "Ejanding",
+    "operator": "ARC Infrastructure",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3329170827,
+  "lat": -30.8473752,
+  "lon": 117.0991956,
+  "tags": {
+    "name": "Manmanning",
+    "operator": "ARC Infrastructure",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3329198155,
+  "lat": -30.7673154,
+  "lon": 117.1362420,
+  "tags": {
+    "name": "Cadoux",
+    "operator": "ARC Infrastructure",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3331310802,
+  "lat": -30.5939162,
+  "lon": 117.1717285,
+  "tags": {
+    "name": "Kirwan",
+    "operator": "ARC Infrastructure",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3339489064,
+  "lat": -30.4833182,
+  "lon": 117.2805051,
+  "tags": {
+    "name": "Kulja",
+    "operator": "ARC Infrastructure",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3339597275,
+  "lat": -30.4350613,
+  "lon": 117.6455529,
+  "tags": {
+    "name": "Cleary",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3345627714,
+  "lat": -32.7521120,
+  "lon": 118.6250067,
+  "tags": {
+    "name": "Pingaring",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3345661078,
+  "lat": -32.9520494,
+  "lon": 118.5360195,
+  "tags": {
+    "name": "Kuender",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3347064594,
+  "lat": -32.7809317,
+  "lon": 117.5000565,
+  "tags": {
+    "name": "Wickepin",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3351176450,
+  "lat": -32.5317416,
+  "lon": 117.0842527,
+  "tags": {
+    "name": "Pingelly",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3369578046,
+  "lat": -28.9392295,
+  "lon": 114.8017255,
+  "tags": {
+    "name": "Walkaway",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3394715516,
+  "lat": -28.8986958,
+  "lon": 115.8627587,
+  "tags": {
+    "name": "Canna",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3394744285,
+  "lat": -29.4412195,
+  "lon": 115.6290309,
+  "tags": {
+    "name": "Arrino",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3395003155,
+  "lat": -29.4415571,
+  "lon": 116.2859714,
+  "tags": {
+    "name": "Perenjori",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3395012162,
+  "lat": -29.3213320,
+  "lon": 116.1458785,
+  "tags": {
+    "name": "Bowgada North",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3876118763,
+  "lat": -31.0006789,
+  "lon": 124.8316680,
+  "tags": {
+    "name": "Naretha",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3972953645,
+  "lat": -32.9245020,
+  "lon": 117.5242208,
+  "tags": {
+    "name": "Nomans Lake",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3972953648,
+  "lat": -32.9764062,
+  "lon": 117.7745235,
+  "tags": {
+    "name": "Tincurrin",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4085876875,
+  "lat": -32.1974184,
+  "lon": 118.3345288,
+  "tags": {
+    "name": "South Kumminin",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4094353342,
+  "lat": -32.8695932,
+  "lon": 117.9028842,
+  "tags": {
+    "name": "Dudinin",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4094353343,
+  "lat": -32.7869049,
+  "lon": 118.0016400,
+  "tags": {
+    "name": "Jitarning",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4094353383,
+  "lat": -32.6733432,
+  "lon": 118.1537199,
+  "tags": {
+    "name": "Kulin",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4334929359,
+  "lat": -32.9017754,
+  "lon": 117.3746361,
+  "tags": {
+    "name": "Yilliminning",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4448957075,
+  "lat": -31.9499927,
+  "lon": 115.8569947,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "level": "-1",
+    "name": "Perth Busport",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5539533721,
+  "lat": -31.9957037,
+  "lon": 115.9351260,
+  "tags": {
+    "addr:street": "Radium Street",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Welshpool Bus Depot (Lost property Transperth)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5554476809,
+  "lat": -33.6451901,
+  "lon": 115.3456908,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Visitor Centre",
+    "operator": "Busselton Jetty Environment and Conservation Association",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "tourism": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5554476818,
+  "lat": -33.6441052,
+  "lon": 115.3447015,
+  "tags": {
+    "departures_board": "no",
+    "light_rail": "yes",
+    "name": "Roy Morris Platform",
+    "operator": "Busselton Jetty Environment and Conservation Association",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "tourism": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5554478244,
+  "lat": -33.6302400,
+  "lon": 115.3386511,
+  "tags": {
+    "departures_board": "no",
+    "light_rail": "yes",
+    "name": "Bovell Platform",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 5600581102,
+  "lat": -31.9502818,
+  "lon": 115.8929019,
+  "tags": {
+    "level": "0",
+    "name": "Perth Stadium",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "official_name": "Perth Stadium Train Station",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q18165698",
+    "wikipedia": "en:Perth Stadium railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 5601025492,
+  "lat": -31.9335900,
+  "lon": 115.9497086,
+  "tags": {
+    "name": "Redcliffe",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q52776430"
+  }
+},
+{
+  "type": "node",
+  "id": 5601025495,
+  "lat": -31.9439611,
+  "lon": 115.9748456,
+  "tags": {
+    "name": "Airport Central",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "train": "yes",
+    "wikidata": "Q19818501",
+    "wikipedia": "en:Airport Central railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 5601025496,
+  "lat": -31.9546280,
+  "lon": 115.9921995,
+  "tags": {
+    "name": "High Wycombe",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "old_name": "Forrestfield",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q19818500",
+    "wikipedia": "en:High Wycombe railway station, Perth"
+  }
+},
+{
+  "type": "node",
+  "id": 5732043852,
+  "lat": -31.8345342,
+  "lon": 115.9442014,
+  "tags": {
+    "name": "Village Junction",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5950025972,
+  "lat": -28.5000708,
+  "lon": 114.7880666,
+  "tags": {
+    "historic:railway": "station_site",
+    "name": "Nabawa",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5960642517,
+  "lat": -27.2598028,
+  "lon": 117.9886175,
+  "tags": {
+    "historic:railway": "station_site",
+    "name": "Nallan",
+    "note": "location approx. abandoned",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5963693281,
+  "lat": -28.2685560,
+  "lon": 117.3868396,
+  "tags": {
+    "alt_name": "Murrum",
+    "historic:railway": "station",
+    "name": "Munbinia",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "Bing sat images",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5964138006,
+  "lat": -28.7454562,
+  "lon": 114.8414478,
+  "tags": {
+    "name": "Bringo",
+    "operator": "WAGR",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5964139106,
+  "lat": -28.6953091,
+  "lon": 115.0422797,
+  "tags": {
+    "name": "Eradu",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "http://www.railmaps.com.au/Map_WA_1941.jpg",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5964139111,
+  "lat": -28.6900071,
+  "lon": 115.1038184,
+  "tags": {
+    "name": "Ambania",
+    "note": "position approx",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "http://www.railmaps.com.au/Map_WA_1941.jpg",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5966412591,
+  "lat": -28.6176783,
+  "lon": 115.3757131,
+  "tags": {
+    "description": "Freight Only",
+    "name": "Tenindewa",
+    "operator": "WAGR",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5966412634,
+  "lat": -28.6221484,
+  "lon": 115.3672254,
+  "tags": {
+    "description": "Former Tenindewa station",
+    "name": "Tenindewa",
+    "operator": "WAGR",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5966412670,
+  "lat": -28.6776499,
+  "lon": 115.2164057,
+  "tags": {
+    "description": "Freight Only",
+    "name": "Nola",
+    "operator": "WAGR",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5966412701,
+  "lat": -28.7750865,
+  "lon": 114.7745303,
+  "tags": {
+    "description": "Freight Only",
+    "name": "Grants",
+    "operator": "WAGR",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5980565404,
+  "lat": -33.5350444,
+  "lon": 118.5109544,
+  "tags": {
+    "historic:railway": "station",
+    "name": "Pingrup",
+    "network": "WAGR",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6006779927,
+  "lat": -32.5808618,
+  "lon": 121.5848647,
+  "tags": {
+    "name": "Daniell",
+    "network": "WAGR",
+    "railway": "station",
+    "source:url": "https://nla.gov.au/nla.obj-234114826/view",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6007478301,
+  "lat": -32.1926049,
+  "lon": 121.7817768,
+  "tags": {
+    "name": "Norseman",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6008548714,
+  "lat": -31.7642111,
+  "lon": 121.7104061,
+  "tags": {
+    "name": "Higginsville Siding",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6029876793,
+  "lat": -33.4803794,
+  "lon": 115.7298618,
+  "tags": {
+    "name": "Boyanup",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6036354976,
+  "lat": -34.2413319,
+  "lon": 116.1470745,
+  "tags": {
+    "name": "Manjimup",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6039047300,
+  "lat": -30.7744462,
+  "lon": 121.4285243,
+  "tags": {
+    "name": "West Kalgoorlie",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6039050118,
+  "lat": -30.9107157,
+  "lon": 120.7990015,
+  "tags": {
+    "name": "Stewart",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6039050310,
+  "lat": -30.8747608,
+  "lon": 120.5684506,
+  "tags": {
+    "name": "Wallaroo",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6039050321,
+  "lat": -30.8260364,
+  "lon": 120.2977024,
+  "tags": {
+    "name": "Mount Walton",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6039245665,
+  "lat": -30.8422743,
+  "lon": 120.2073622,
+  "tags": {
+    "name": "Jaurdi",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6039246288,
+  "lat": -30.8526153,
+  "lon": 119.8830717,
+  "tags": {
+    "name": "Darrine",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6039246290,
+  "lat": -30.8397136,
+  "lon": 119.6815189,
+  "tags": {
+    "name": "Beckwith",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6039246311,
+  "lat": -30.8214848,
+  "lon": 119.5453880,
+  "tags": {
+    "name": "Koolyanobbing East",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6039246329,
+  "lat": -31.0033988,
+  "lon": 119.3389350,
+  "tags": {
+    "name": "Lake Julia",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6040297707,
+  "lat": -31.4849513,
+  "lon": 118.2498371,
+  "tags": {
+    "name": "West Merredin",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6040297752,
+  "lat": -31.6083037,
+  "lon": 117.8815932,
+  "tags": {
+    "name": "Doodlakine",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 6040297753,
+  "lat": -31.6333359,
+  "lon": 117.7198689,
+  "tags": {
+    "name": "Kellerberrin Town",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 6040552206,
+  "lat": -31.6415505,
+  "lon": 116.6278750,
+  "tags": {
+    "name": "Avon Yard",
+    "operator": "Transwa",
+    "railway": "station",
+    "wikidata": "Q17001082"
+  }
+},
+{
+  "type": "node",
+  "id": 6040600900,
+  "lat": -31.5992626,
+  "lon": 116.2229119,
+  "tags": {
+    "name": "Moondyne",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6040715014,
+  "lat": -31.7155164,
+  "lon": 116.0812245,
+  "tags": {
+    "name": "Jumperkine",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6044023688,
+  "lat": -30.7294756,
+  "lon": 121.5031267,
+  "tags": {
+    "name": "Parkeston",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6044023690,
+  "lat": -30.8482194,
+  "lon": 121.6583988,
+  "tags": {
+    "name": "Golden Ridge",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6044023765,
+  "lat": -30.9129265,
+  "lon": 122.0123837,
+  "tags": {
+    "name": "Curtin",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6044991177,
+  "lat": -30.9973648,
+  "lon": 122.8347643,
+  "tags": {
+    "name": "Chifley",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6044991769,
+  "lat": -31.0225140,
+  "lon": 123.1587048,
+  "tags": {
+    "name": "Coonana",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6045778618,
+  "lat": -31.0315964,
+  "lon": 123.5696616,
+  "tags": {
+    "name": "Zanthus",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6045778662,
+  "lat": -31.0294390,
+  "lon": 124.1903744,
+  "tags": {
+    "name": "Kitchener",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6045778690,
+  "lat": -31.0150898,
+  "lon": 124.4748159,
+  "tags": {
+    "name": "Boonderoo",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6045778989,
+  "lat": -31.0119790,
+  "lon": 125.7026897,
+  "tags": {
+    "name": "Wilban",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6052305716,
+  "lat": -30.9141334,
+  "lon": 118.2076094,
+  "tags": {
+    "name": "Mukinbudin",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6052694318,
+  "lat": -30.7993363,
+  "lon": 117.6791665,
+  "tags": {
+    "name": "Gabbin",
+    "operator": "ARC Infrastructure",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6052694391,
+  "lat": -30.9964634,
+  "lon": 117.4515181,
+  "tags": {
+    "name": "Cowcowing",
+    "network": "WAGR",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6054005935,
+  "lat": -31.6049788,
+  "lon": 118.5097708,
+  "tags": {
+    "name": "Koonadgin",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6056376826,
+  "lat": -31.7507337,
+  "lon": 118.5607639,
+  "tags": {
+    "name": "Muntadgin CBH",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6056376881,
+  "lat": -31.9013861,
+  "lon": 118.5267689,
+  "tags": {
+    "name": "Wogarl",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6065829190,
+  "lat": -32.4506162,
+  "lon": 118.8634584,
+  "tags": {
+    "name": "Hyden",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6065829203,
+  "lat": -32.4554548,
+  "lon": 118.8524878,
+  "tags": {
+    "name": "Hyden CBH",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6065829204,
+  "lat": -32.4988462,
+  "lon": 118.7091218,
+  "tags": {
+    "name": "Karlgarin",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6066153886,
+  "lat": -33.9650499,
+  "lon": 118.4884276,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 6066189283,
+  "lat": -33.0919640,
+  "lon": 119.0233160,
+  "tags": {
+    "name": "Newdegate",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6068375320,
+  "lat": -33.1894050,
+  "lon": 118.0843817,
+  "tags": {
+    "name": "Kukerin",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6068483600,
+  "lat": -33.2274601,
+  "lon": 117.9292773,
+  "tags": {
+    "name": "Moulyinning",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6069138934,
+  "lat": -33.3114714,
+  "lon": 117.7285031,
+  "tags": {
+    "name": "Dumbleyung CBH",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6070646065,
+  "lat": -33.3879755,
+  "lon": 116.2736392,
+  "tags": {
+    "name": "Premier Mine",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6088980039,
+  "lat": -33.2922049,
+  "lon": 116.0133359,
+  "tags": {
+    "name": "Worsley Siding",
+    "operator": "ARC Infrastructure",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6092845744,
+  "lat": -31.8773859,
+  "lon": 118.1496233,
+  "tags": {
+    "name": "Bruce Rock",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6096661012,
+  "lat": -32.3308001,
+  "lon": 117.8726589,
+  "tags": {
+    "name": "Corrigin",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6098808882,
+  "lat": -28.9485058,
+  "lon": 114.7944664,
+  "tags": {
+    "name": "Walkaway",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6099117517,
+  "lat": -29.9324036,
+  "lon": 115.2846219,
+  "tags": {
+    "name": "Renison Goldfields Corporation",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6102741812,
+  "lat": -29.6846342,
+  "lon": 115.8794677,
+  "tags": {
+    "name": "Carnamah",
+    "operator": "ARC Infrastructure",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6102741847,
+  "lat": -29.8831783,
+  "lon": 116.0208653,
+  "tags": {
+    "name": "Coorow",
+    "operator": "ARC Infrastructure",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6104207710,
+  "lat": -30.0518936,
+  "lon": 116.0745350,
+  "tags": {
+    "description": "Grain only",
+    "name": "Marchagee",
+    "operator": "ARC Infrastructure",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6104207727,
+  "lat": -30.2984130,
+  "lon": 116.0578950,
+  "tags": {
+    "name": "Watheroo",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6110166941,
+  "lat": -29.1888063,
+  "lon": 116.7540783,
+  "tags": {
+    "name": "Karara Mine",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6110211028,
+  "lat": -29.2172458,
+  "lon": 116.0083724,
+  "tags": {
+    "name": "Morawa CBH",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6110211072,
+  "lat": -29.4564203,
+  "lon": 116.3088475,
+  "tags": {
+    "name": "Mt Gibson Extension Hill Mine transfer",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6110446233,
+  "lat": -30.2515553,
+  "lon": 116.6696402,
+  "tags": {
+    "name": "McLevie",
+    "operator": "ARC Infrastructure",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6112322983,
+  "lat": -30.3896115,
+  "lon": 116.6691732,
+  "tags": {
+    "name": "Pithara",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6115114006,
+  "lat": -30.8931252,
+  "lon": 116.7163020,
+  "tags": {
+    "name": "Wongan Hills",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6116890491,
+  "lat": -31.0524464,
+  "lon": 116.7753440,
+  "tags": {
+    "name": "Konnongorring",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6118418549,
+  "lat": -31.4385219,
+  "lon": 116.7236850,
+  "tags": {
+    "name": "Jennacubbine",
+    "operator": "ARC Infrastructure",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6129623731,
+  "lat": -32.0021497,
+  "lon": 115.8911655,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Curtin Central Bus Station",
+    "public_transport": "station",
+    "wikidata": "Q60925735",
+    "wikipedia": "en:Curtin Central bus station"
+  }
+},
+{
+  "type": "node",
+  "id": 6130834353,
+  "lat": -31.1133770,
+  "lon": 117.9188374,
+  "tags": {
+    "historic:train": "yes",
+    "name": "Kununoppin",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6130834475,
+  "lat": -31.1137622,
+  "lon": 117.7958596,
+  "tags": {
+    "name": "Trayning",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6131453646,
+  "lat": -31.1506440,
+  "lon": 117.0876978,
+  "tags": {
+    "name": "Amery",
+    "operator": "ARC Infrastructure",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6135017286,
+  "lat": -30.6310014,
+  "lon": 116.3642709,
+  "tags": {
+    "name": "Bindi Bindi",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6135017312,
+  "lat": -30.8391675,
+  "lon": 116.3874019,
+  "tags": {
+    "name": "Piawaning",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6135017514,
+  "lat": -30.9223176,
+  "lon": 116.3894333,
+  "tags": {
+    "name": "Yerecoin",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6135023020,
+  "lat": -31.0907574,
+  "lon": 116.4463412,
+  "tags": {
+    "name": "Calingiri",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6138573963,
+  "lat": -31.2738375,
+  "lon": 116.5065553,
+  "tags": {
+    "name": "Bolgart",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6138939248,
+  "lat": -31.6977739,
+  "lon": 118.1632486,
+  "tags": {
+    "name": "Korbelka",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6138995923,
+  "lat": -32.0307696,
+  "lon": 118.0961391,
+  "tags": {
+    "name": "Ardath",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6139032573,
+  "lat": -32.1710922,
+  "lon": 117.9840421,
+  "tags": {
+    "name": "Ainsworth",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6139766491,
+  "lat": -32.4977408,
+  "lon": 117.7430769,
+  "tags": {
+    "name": "Bullaring",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6139766500,
+  "lat": -32.5918704,
+  "lon": 117.6246124,
+  "tags": {
+    "name": "Yealering",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6139778410,
+  "lat": -32.7826342,
+  "lon": 117.4947310,
+  "tags": {
+    "name": "Wickepin CBH",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6142193913,
+  "lat": -31.9026238,
+  "lon": 116.7737389,
+  "tags": {
+    "name": "York CBH",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6142540477,
+  "lat": -32.1080149,
+  "lon": 116.9256676,
+  "tags": {
+    "name": "Beverley",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6143566465,
+  "lat": -32.3686161,
+  "lon": 117.0101324,
+  "tags": {
+    "name": "Brookton",
+    "operator": "ARC Infrastructure",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6146947085,
+  "lat": -32.7401763,
+  "lon": 117.1632180,
+  "tags": {
+    "name": "Yornaning",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6146947120,
+  "lat": -32.8201777,
+  "lon": 117.1798939,
+  "tags": {
+    "name": "Cuballing",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6150454092,
+  "lat": -33.8476099,
+  "lon": 117.6466374,
+  "tags": {
+    "name": "Broomehill CBH",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6152783937,
+  "lat": -32.7382682,
+  "lon": 116.1391078,
+  "tags": {
+    "name": "Etmilyn",
+    "operator": "Hotham Valley Railway",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6180731930,
+  "lat": -33.3465363,
+  "lon": 115.7105858,
+  "tags": {
+    "name": "Picton Junction",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6205410527,
+  "lat": -32.2436738,
+  "lon": 116.0011614,
+  "tags": {
+    "description": "Cardup Station",
+    "historic:railway": "station_site",
+    "internet_access": "no",
+    "name": "Cardup",
+    "network": "Australind Railway",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6472122970,
+  "lat": -32.7116928,
+  "lon": 116.0628961,
+  "tags": {
+    "name": "Dwellingup",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6565437650,
+  "lat": -22.9195583,
+  "lon": 118.9780866,
+  "tags": {
+    "access": "private",
+    "name": "Ore Loading Facility",
+    "operator": "BHPB",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6872668860,
+  "lat": -32.6697236,
+  "lon": 118.1569033,
+  "tags": {
+    "name": "Kulin",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6872672986,
+  "lat": -32.0656404,
+  "lon": 118.3969680,
+  "tags": {
+    "name": "Narembeen",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6872687225,
+  "lat": -32.4950258,
+  "lon": 118.2688502,
+  "tags": {
+    "name": "Kondinin",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6872710092,
+  "lat": -35.0281470,
+  "lon": 117.8859943,
+  "tags": {
+    "name": "Albany",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6872758358,
+  "lat": -31.1809401,
+  "lon": 117.3807162,
+  "tags": {
+    "name": "Wyalkatchem",
+    "operator": "ARC Infrastructure",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6872769012,
+  "lat": -34.6275705,
+  "lon": 117.6634132,
+  "tags": {
+    "name": "Mount Barker",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6872774196,
+  "lat": -33.3150919,
+  "lon": 117.7392609,
+  "tags": {
+    "name": "Dumbleyung",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6872828850,
+  "lat": -31.3511396,
+  "lon": 115.9047918,
+  "tags": {
+    "name": "Gingin",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6872858681,
+  "lat": -29.1898423,
+  "lon": 115.4442333,
+  "tags": {
+    "name": "Mingenew",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6872859949,
+  "lat": -31.2978836,
+  "lon": 116.8270014,
+  "tags": {
+    "name": "Goomalling",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6872867705,
+  "lat": -29.5341183,
+  "lon": 115.7634002,
+  "tags": {
+    "name": "Three Springs",
+    "operator": "ARC Infrastructure",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7967971112,
+  "lat": -31.7816019,
+  "lon": 115.9633900,
+  "tags": {
+    "name": "Ellenbrook",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "opening_date": "2024-12-08",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q99884280",
+    "wikipedia": "en:Ellenbrook railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 7967971113,
+  "lat": -31.8358973,
+  "lon": 115.9645383,
+  "tags": {
+    "bus": "yes",
+    "name": "Whiteman Park",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "opening_date": "2024-12-08",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q85815421",
+    "wikipedia": "en:Whiteman Park railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 7967971114,
+  "lat": -31.8494104,
+  "lon": 115.9221151,
+  "tags": {
+    "name": "Ballajura",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "old_name": "Malaga",
+    "opening_date": "2024-12-08",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q99884336"
+  }
+},
+{
+  "type": "node",
+  "id": 7967971115,
+  "lat": -31.8745262,
+  "lon": 115.9177788,
+  "tags": {
+    "name": "Noranda",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "opening_date": "2024-12-08",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q99884380"
+  }
+},
+{
+  "type": "node",
+  "id": 7967971116,
+  "lat": -31.8960322,
+  "lon": 115.9200177,
+  "tags": {
+    "name": "Morley",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "opening_date": "2024-12-08",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q99884400"
+  }
+},
+{
+  "type": "node",
+  "id": 7976328392,
+  "lat": -32.0615899,
+  "lon": 115.9346776,
+  "tags": {
+    "name": "Nicholson Road",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q48772458",
+    "wikipedia": "en:Nicholson Road railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 8403762253,
+  "lat": -18.1885482,
+  "lon": 125.5639331,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "School Bus Stop",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 8987155126,
+  "lat": -33.2579192,
+  "lon": 115.8383557,
+  "tags": {
+    "name": "Brunswick Junction",
+    "network": "Transwa",
+    "operator": "ARC Infrastructure",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 9081696528,
+  "lat": -32.2164603,
+  "lon": 116.0073809,
+  "tags": {
+    "name": "Byford Station",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q20717300"
+  }
+},
+{
+  "type": "node",
+  "id": 9878595567,
+  "lat": -32.4736812,
+  "lon": 115.7705224,
+  "tags": {
+    "addr:state": "WA",
+    "addr:street": "Lake Valley Drive",
+    "addr:suburb": "Lakelands",
+    "air_conditioning": "yes",
+    "name": "Lakelands",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q107028936",
+    "wikimedia_commons": "File:Lakelands railway station seen from the north, August 2023 03.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 9937075869,
+  "lat": -31.8311575,
+  "lon": 115.9289644,
+  "tags": {
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9979178777,
+  "lat": -22.9205564,
+  "lon": 118.9783601,
+  "tags": {
+    "name": "Ore Loading Facility",
+    "operator": "BHPB",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10026118817,
+  "lat": -31.9972529,
+  "lon": 115.7598058,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 10040961416,
+  "lat": -31.7989492,
+  "lon": 115.7824791,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Whitfords Bus Terminal",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 10086635093,
+  "lat": -31.9514280,
+  "lon": 115.8604156,
+  "tags": {
+    "name": "Perth",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7170917",
+    "wikipedia": "en:Perth railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 10089698411,
+  "lat": -32.1549359,
+  "lon": 115.8579500,
+  "tags": {
+    "name": "Aubin Grove",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q20313207",
+    "wikipedia": "en:Aubin Grove railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 10090422300,
+  "lat": -32.0664255,
+  "lon": 115.8504737,
+  "tags": {
+    "name": "Murdoch",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6938239",
+    "wikipedia": "en:Murdoch railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 10096420008,
+  "lat": -31.9151316,
+  "lon": 115.8231889,
+  "tags": {
+    "name": "Glendalough",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5568399"
+  }
+},
+{
+  "type": "node",
+  "id": 10096420009,
+  "lat": -31.6356944,
+  "lon": 115.7003262,
+  "tags": {
+    "name": "Butler",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5002684"
+  }
+},
+{
+  "type": "node",
+  "id": 10096420013,
+  "lat": -31.7249406,
+  "lon": 115.7505595,
+  "tags": {
+    "name": "Currambine",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q5194947"
+  }
+},
+{
+  "type": "node",
+  "id": 10590144058,
+  "lat": -33.5350232,
+  "lon": 118.5098224,
+  "tags": {
+    "name": "Pingrup (Historical)",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10661063546,
+  "lat": -32.0245733,
+  "lon": 115.9475802,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Transperth Beckenham Bus Depot",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 11149369949,
+  "lat": -32.6283651,
+  "lon": 115.8798957,
+  "tags": {
+    "name": "Pinjarra",
+    "network": "Transwa",
+    "operator": "ARC Infrastructure",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 11149369952,
+  "lat": -32.6968901,
+  "lon": 115.9500593,
+  "tags": {
+    "name": "Isandra Siding",
+    "operator": "Hotham Valley Railway",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 11150279637,
+  "lat": -32.7116476,
+  "lon": 116.0628339,
+  "tags": {
+    "name": "Dwellingup",
+    "operator": "Hotham Valley Railway",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 11150279638,
+  "lat": -32.7382754,
+  "lon": 116.1390985,
+  "tags": {
+    "name": "Etmilyn",
+    "operator": "Hotham Valley Railway",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 11151755453,
+  "lat": -33.3099846,
+  "lon": 117.3458593,
+  "tags": {
+    "name": "Wagin",
+    "operator": "ARC Infrastructure",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 11151755456,
+  "lat": -33.3072218,
+  "lon": 117.5557163,
+  "tags": {
+    "name": "Ballaying",
+    "operator": "ARC Infrastructure",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 11155975607,
+  "lat": -30.4484163,
+  "lon": 117.8662532,
+  "tags": {
+    "name": "Beacon",
+    "operator": "ARC Infrastructure",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 11156002549,
+  "lat": -31.1370552,
+  "lon": 117.1836678,
+  "tags": {
+    "name": "Minnivale",
+    "operator": "ARC Infrastructure",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 11159078141,
+  "lat": -33.2313776,
+  "lon": 115.9095817,
+  "tags": {
+    "name": "Beela",
+    "operator": "ARC Infrastructure",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 11215854258,
+  "lat": -31.8289279,
+  "lon": 115.9390299,
+  "tags": {
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11230940146,
+  "lat": -29.2104462,
+  "lon": 116.0099654,
+  "tags": {
+    "name": "Morawa",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 12055630225,
+  "lat": -31.5318742,
+  "lon": 115.6438253,
+  "tags": {
+    "name": "Yanchep",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q55863576",
+    "wikipedia": "en:Yanchep railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 12055630226,
+  "lat": -31.5836681,
+  "lon": 115.6725389,
+  "tags": {
+    "name": "Eglinton",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q56063050",
+    "wikipedia": "en:Eglinton railway station, Perth"
+  }
+},
+{
+  "type": "node",
+  "id": 12055630227,
+  "lat": -31.6154224,
+  "lon": 115.6926511,
+  "tags": {
+    "name": "Alkimos",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q56063049",
+    "wikipedia": "en:Alkimos railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 12131238718,
+  "lat": -31.9996158,
+  "lon": 115.5415151,
+  "tags": {
+    "name": "Settlement",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q53085473"
+  }
+},
+{
+  "type": "node",
+  "id": 12533590101,
+  "lat": -28.7699121,
+  "lon": 114.6132419,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Transwa Geraldton",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 12870144929,
+  "lat": -32.0753778,
+  "lon": 115.8965786,
+  "tags": {
+    "name": "Ranford Road",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 5929278,
+  "nodes": [
+    10931066133,
+    48728039,
+    10931063088,
+    10931066123,
+    10931066138,
+    10931066106,
+    10931066153,
+    10931066117,
+    10931066145,
+    10931066139,
+    10931066160,
+    10931066136,
+    10931066131,
+    10931066118,
+    10931066126,
+    10931066127,
+    10931066134,
+    10931066119,
+    10931066159,
+    10931066109,
+    10931063098,
+    10931066156,
+    10931066133
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Curtin University Bus Station",
+    "public_transport": "station",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Curtin Bus Station on wet day.jpg"
+  }
+},
+{
+  "type": "way",
+  "id": 5929289,
+  "nodes": [
+    48727449,
+    6267289838,
+    48727454,
+    48727396,
+    6267289840,
+    48727390,
+    48727449
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Causeway Bus Station",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 8048260,
+  "nodes": [
+    60177978,
+    60177973,
+    60177975,
+    2955417108,
+    60177978
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Booragoon Bus Station",
+    "public_transport": "station",
+    "wikidata": "Q4943756",
+    "wikipedia": "en:Booragoon bus station"
+  }
+},
+{
+  "type": "way",
+  "id": 45346444,
+  "nodes": [
+    576455569,
+    576455582,
+    576455596,
+    576455605,
+    576455569
+  ],
+  "tags": {
+    "building": "train_station",
+    "name": "Kingstown",
+    "operator": "Rottnest Island Authority",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q53087305"
+  }
+},
+{
+  "type": "way",
+  "id": 121674113,
+  "nodes": [
+    1361315817,
+    1361315799,
+    1361315835,
+    11891270551,
+    1361315797,
+    1361315817
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Galleria Bus Station",
+    "old_name": "Morley Bus Station",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 185918282,
+  "nodes": [
+    1966052422,
+    1966052421,
+    1966052432,
+    1966052424,
+    1966052420,
+    5589319110,
+    5589319109,
+    5589319108,
+    5589319107,
+    1966052417,
+    1966052426,
+    1966052433,
+    1966052430,
+    1966052435,
+    1966052445,
+    1966052446,
+    1966052422
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "train_station",
+    "bus": "yes",
+    "layer": "1",
+    "name": "Bunbury Terminal",
+    "official_name": "Bunbury Passenger Terminal",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "train": "yes",
+    "website": "https://www.transwa.wa.gov.au/plan-your-journey/destination-areas/south-west/station-stop-bunbury"
+  }
+},
+{
+  "type": "way",
+  "id": 207431500,
+  "nodes": [
+    2176861797,
+    2176861806,
+    2176861807,
+    2176861798,
+    2176861797
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Pinjarra",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 236077504,
+  "nodes": [
+    2441470115,
+    2441470116,
+    2441470123,
+    2441470125,
+    2441470118,
+    2441470120,
+    2441470127,
+    2441470126,
+    2441470129,
+    2441470130,
+    2441470132,
+    2441470133,
+    2441470136,
+    2441470135,
+    2441470144,
+    2441470138,
+    2441470147,
+    2441470150,
+    12149216674,
+    2441470153,
+    2441470152,
+    2441470160,
+    2441470157,
+    2441470176,
+    2441470175,
+    2441470115
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Kalgoorlie",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 323235359,
+  "nodes": [
+    5732016189,
+    3300271422,
+    5732016248,
+    3300271428,
+    3300271420,
+    5732016167,
+    5732016189
+  ],
+  "tags": {
+    "building": "transportation",
+    "name": "Mussel Pool",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 370878563,
+  "nodes": [
+    3745510731,
+    3745510717,
+    3745510718,
+    3745510732,
+    3745510731
+  ],
+  "tags": {
+    "name": "Lake Grace",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 395235671,
+  "nodes": [
+    3981479284,
+    3981479285,
+    3981479286,
+    3981479287,
+    3981479284
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Woodanilling",
+    "railway": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 395525806,
+  "nodes": [
+    3983749157,
+    3983749158,
+    3983749159,
+    3983749160,
+    3983749157
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Wagin",
+    "railway": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 424516751,
+  "nodes": [
+    4239255301,
+    4239255495,
+    4239255122,
+    4239254545,
+    4239254908,
+    4239255301
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "roof",
+    "bus": "yes",
+    "layer": "1",
+    "name": "Galleria Bus Station",
+    "old_name": "Morley Bus Station",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 435811409,
+  "nodes": [
+    4337042615,
+    11149141525,
+    4337042616,
+    4337042617,
+    4337042618,
+    4337042615
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Katanning",
+    "operator": "ARC Infrastructure",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 469571978,
+  "nodes": [
+    4638707766,
+    4638707767,
+    4638707768,
+    4638707769,
+    4638707766
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Central Bus Station",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 552513578,
+  "nodes": [
+    6508361949,
+    6227436840,
+    5334427738,
+    6138839129,
+    5348838089,
+    13312453475,
+    6508361949
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "description": "Perth Busport is an underground bus station that is located underneath Wellington Street, Perth, Western Australia.",
+    "internet_access": "no",
+    "level": "-1",
+    "name": "Perth Busport",
+    "operator": "Public Transport Authority",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 554585576,
+  "nodes": [
+    1606148931,
+    4358848715,
+    5351971564,
+    5351971565,
+    32708005,
+    411232714,
+    12443081076,
+    12443081077,
+    411232712,
+    5351971563,
+    5403265910,
+    6694218267,
+    6694218268,
+    1606148931
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "transportation",
+    "building:levels": "2",
+    "bus": "yes",
+    "layer": "1",
+    "level": "0;1",
+    "name": "Elizabeth Quay Bus Station",
+    "name:etymology:wikidata": "Q5363395",
+    "name:etymology:wikipedia": "en:Elizabeth Quay",
+    "network": "Transperth",
+    "old_name": "City Busport;Esplanade Busport",
+    "operator": "Public Transport Authority",
+    "public_transport": "station",
+    "wheelchair": "yes",
+    "wikidata": "Q14935793",
+    "wikipedia": "en:Elizabeth Quay Bus Station"
+  }
+},
+{
+  "type": "way",
+  "id": 651633882,
+  "nodes": [
+    6110211050,
+    6110211051,
+    6110211052,
+    6110211053,
+    6110211050
+  ],
+  "tags": {
+    "building": "shed",
+    "disused:building": "yes",
+    "name": "Perenjori",
+    "note": "Windows boarded",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 654094786,
+  "nodes": [
+    6129623685,
+    11793793902,
+    11793793904,
+    11793793906,
+    11793793908,
+    11795708376,
+    11793793907,
+    11793793905,
+    11793793903,
+    11793793901,
+    6129623686,
+    6129623687,
+    11795142515,
+    6129623688,
+    11795142514,
+    11793793605,
+    11795142512,
+    6129623689,
+    11795142513,
+    11793793606,
+    11795142510,
+    11793793607,
+    11793793608,
+    11795142511,
+    11793793609,
+    6129623690,
+    11793793624,
+    11793793611,
+    11793793617,
+    11793793618,
+    11793793619,
+    6129623712,
+    11793793620,
+    11793793621,
+    11793793622,
+    11793793610,
+    11793793623,
+    6129623691,
+    11793793616,
+    6129623692,
+    11793793615,
+    6129623693,
+    6129623708,
+    6129623694,
+    11793793614,
+    11793793613,
+    6129623695,
+    11793793612,
+    6129623685
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Curtin Central Bus Station",
+    "public_transport": "station",
+    "start_date": "February 2019"
+  }
+},
+{
+  "type": "way",
+  "id": 654368594,
+  "nodes": [
+    6131746750,
+    6131746737,
+    6131746740,
+    6131746743,
+    6131746747,
+    6131746753,
+    6131746751,
+    2984651768,
+    2984651767,
+    6131746744,
+    6131746748,
+    6131746752,
+    6131746754,
+    6131746738,
+    6131746741,
+    6168482941,
+    6131746745,
+    6168482974,
+    6168482978,
+    6131746749,
+    2984651761,
+    2984651762,
+    6131746739,
+    6131746742,
+    6131746746,
+    6168482977,
+    6131746750
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "area": "yes",
+    "bus": "yes",
+    "layer": "1",
+    "level": "1",
+    "name": "Murdoch",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 710935522,
+  "nodes": [
+    6683739816,
+    6691873504,
+    6683739817,
+    6683739818,
+    6683739819,
+    6683739816
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 753175961,
+  "nodes": [
+    7037515371,
+    7037515372,
+    7037515373,
+    7037515374,
+    7037515371
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Long Term Parking B Bus Transfer",
+    "operator": "Perth Airport",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 992372208,
+  "nodes": [
+    9168762614,
+    9168778518,
+    9168762616,
+    9168762613,
+    9168762612,
+    9168762610,
+    9168778517,
+    9168762615,
+    9168762611,
+    9168762614
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "roof",
+    "layer": "1",
+    "name": "Mirrabooka Bus Station",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1020567035,
+  "nodes": [
+    9412862218,
+    10660740067,
+    10660740068,
+    10660740069,
+    9412862219,
+    9412862220,
+    9412862221,
+    9412862222,
+    9412862218
+  ],
+  "tags": {
+    "layer": "1",
+    "name": "Lakelands Station",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1102454623,
+  "nodes": [
+    10088035224,
+    10088035225,
+    10088035226,
+    10088035227,
+    10088035228,
+    10088035229,
+    10088035230,
+    10088035231,
+    10088035232,
+    10088035258,
+    11542498598,
+    10088035233,
+    10088035257,
+    10088035234,
+    10088035261,
+    10088035235,
+    10088035236,
+    10088035237,
+    10088035238,
+    10088035239,
+    10088035240,
+    10088035241,
+    10088035242,
+    10088035243,
+    10088035244,
+    10088035245,
+    10088035246,
+    10088035247,
+    10088035248,
+    10088035249,
+    10088035250,
+    10088035251,
+    10088035252,
+    10088035253,
+    10088035254,
+    10088035255,
+    10088035224
+  ],
+  "tags": {
+    "addr:postcode": "6105",
+    "addr:state": "WA",
+    "addr:street": "Horrie Miller Drive",
+    "addr:suburb": "Perth Airport",
+    "building": "train_station",
+    "internet_access": "wired",
+    "name": "Airport Central",
+    "network": "Transperth",
+    "network:wikidata": "Q1503488",
+    "operator": "Transperth",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1147030218,
+  "nodes": [
+    10673583979,
+    10673583980,
+    10673583981,
+    10673583982,
+    10673583983,
+    10673583984,
+    10673583985,
+    10673583986,
+    10673583979
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "brand:wikidata": "Q1503488",
+    "brand:wikipedia": "en:Transperth",
+    "bus": "yes",
+    "name": "Transperth Swan Transit Depot",
+    "operator:wikidata": "Q7653523",
+    "operator:wikipedia": "en:Swan Transit",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1193479614,
+  "nodes": [
+    11078127015,
+    11078127014,
+    11078127013,
+    11078127012,
+    11078127015
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Karratha Mine Site Bus Transfer"
+  }
+},
+{
+  "type": "way",
+  "id": 1245054593,
+  "nodes": [
+    11541015207,
+    11541015206,
+    11541015229,
+    11541015228,
+    11541015227,
+    11541015226,
+    11541015238,
+    11541015237,
+    11541015236,
+    11541015235,
+    11541015234,
+    11541015233,
+    11541015232,
+    11541015230,
+    11541015245,
+    11541015244,
+    11541015243,
+    11541015242,
+    11541015241,
+    11541015240,
+    11541015239,
+    11541015231,
+    11541015252,
+    11541015251,
+    11541015250,
+    11541015249,
+    11541015248,
+    11541015247,
+    11574467435,
+    11541015225,
+    11541015224,
+    11541015223,
+    11541015222,
+    11541015221,
+    11541015220,
+    11541015219,
+    11574086249,
+    11574093539,
+    11574093538,
+    11574467436,
+    11574093536,
+    11574093535,
+    11574093534,
+    11574093533,
+    11574093532,
+    11574093531,
+    11574093530,
+    11574081258,
+    11574081259,
+    11574081260,
+    11574081261,
+    11541003790,
+    11541015211,
+    11541015210,
+    11541015209,
+    11541015208,
+    11541015207
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1274848950,
+  "nodes": [
+    11837086590,
+    11837086591,
+    11837086592,
+    11837086593,
+    11837086594,
+    11837086595,
+    11837086596,
+    11837086597,
+    11837086590
+  ],
+  "tags": {
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1301559960,
+  "nodes": [
+    12055553284,
+    13062844696,
+    13062844660,
+    12055553285,
+    12055553286,
+    12055553287,
+    12055553284
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Yanchep Bus Station",
+    "operator": "Transperth",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1302519411,
+  "nodes": [
+    12063242655,
+    12063242656,
+    12063242657,
+    12063242658,
+    12180113731,
+    12063242655
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Eglinton Bus Station",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1337074767,
+  "nodes": [
+    12367123284,
+    12367123285,
+    13149283693,
+    13149283696,
+    13149283694,
+    13149283695,
+    12367123286,
+    12367123287,
+    12367123288,
+    12367123284
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "area": "yes",
+    "bus": "yes",
+    "name": "Fremantle Station",
+    "network": "Transperth",
+    "public_transport": "station",
+    "public_transport:version": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 1390309451,
+  "nodes": [
+    12870144930,
+    13040398378,
+    13040398379,
+    13105118614,
+    12870144931,
+    12896274911,
+    12870144932,
+    12870144933,
+    12870144934,
+    12896240788,
+    13105118644,
+    12870144935,
+    12870144936,
+    12870144937,
+    12870144930
+  ],
+  "tags": {
+    "building": "yes",
+    "layer": "1",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1395688444,
+  "nodes": [
+    12919015331,
+    12919015332,
+    12919015333,
+    12919015334,
+    12919015335,
+    12919015336,
+    12919015337,
+    12919015338,
+    12919015331
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Kwinana Bus Station",
+    "network": "Transperth",
+    "operator": "Transperth",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1409940192,
+  "nodes": [
+    12955520947,
+    12955520948,
+    12955520949,
+    12955520950,
+    12955520947
+  ],
+  "tags": {
+    "building": "yes",
+    "description": "Station is no longer used. See New Byford Station",
+    "internet_access": "no",
+    "name": "Old Byford Station",
+    "network": "Australind",
+    "operator": "Transwa",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1966052417,
+  "lat": -33.3442244,
+  "lon": 115.6570777
+},
+{
+  "type": "node",
+  "id": 1966052420,
+  "lat": -33.3443059,
+  "lon": 115.6570075
+},
+{
+  "type": "node",
+  "id": 1966052421,
+  "lat": -33.3443116,
+  "lon": 115.6568532
+},
+{
+  "type": "node",
+  "id": 1966052422,
+  "lat": -33.3443673,
+  "lon": 115.6568049
+},
+{
+  "type": "node",
+  "id": 1966052424,
+  "lat": -33.3444020,
+  "lon": 115.6571661
+},
+{
+  "type": "node",
+  "id": 1966052426,
+  "lat": -33.3444288,
+  "lon": 115.6574151
+},
+{
+  "type": "node",
+  "id": 1966052430,
+  "lat": -33.3444583,
+  "lon": 115.6572572
+},
+{
+  "type": "node",
+  "id": 1966052432,
+  "lat": -33.3444670,
+  "lon": 115.6571096
+},
+{
+  "type": "node",
+  "id": 1966052433,
+  "lat": -33.3445108,
+  "lon": 115.6573438
+},
+{
+  "type": "node",
+  "id": 1966052435,
+  "lat": -33.3445219,
+  "lon": 115.6572019
+},
+{
+  "type": "node",
+  "id": 1966052445,
+  "lat": -33.3446815,
+  "lon": 115.6574652
+},
+{
+  "type": "node",
+  "id": 1966052446,
+  "lat": -33.3447378,
+  "lon": 115.6574162
+},
+{
+  "type": "node",
+  "id": 5589319107,
+  "lat": -33.3442343,
+  "lon": 115.6570691
+},
+{
+  "type": "node",
+  "id": 5589319108,
+  "lat": -33.3442156,
+  "lon": 115.6570383
+},
+{
+  "type": "node",
+  "id": 5589319109,
+  "lat": -33.3442672,
+  "lon": 115.6569935
+},
+{
+  "type": "node",
+  "id": 5589319110,
+  "lat": -33.3442861,
+  "lon": 115.6570247
+},
+{
+  "type": "node",
+  "id": 3981479284,
+  "lat": -33.5630440,
+  "lon": 117.4312986
+},
+{
+  "type": "node",
+  "id": 3981479285,
+  "lat": -33.5630410,
+  "lon": 117.4313568
+},
+{
+  "type": "node",
+  "id": 3981479286,
+  "lat": -33.5631450,
+  "lon": 117.4313647
+},
+{
+  "type": "node",
+  "id": 3981479287,
+  "lat": -33.5631481,
+  "lon": 117.4313065
+},
+{
+  "type": "node",
+  "id": 3983749157,
+  "lat": -33.3097561,
+  "lon": 117.3458788
+},
+{
+  "type": "node",
+  "id": 3983749158,
+  "lat": -33.3101293,
+  "lon": 117.3460797
+},
+{
+  "type": "node",
+  "id": 3983749159,
+  "lat": -33.3101651,
+  "lon": 117.3459845
+},
+{
+  "type": "node",
+  "id": 3983749160,
+  "lat": -33.3097919,
+  "lon": 117.3457836
+},
+{
+  "type": "node",
+  "id": 2176861797,
+  "lat": -32.6282347,
+  "lon": 115.8798270
+},
+{
+  "type": "node",
+  "id": 2176861798,
+  "lat": -32.6282524,
+  "lon": 115.8796335
+},
+{
+  "type": "node",
+  "id": 2176861806,
+  "lat": -32.6285240,
+  "lon": 115.8798642
+},
+{
+  "type": "node",
+  "id": 2176861807,
+  "lat": -32.6285416,
+  "lon": 115.8796706
+},
+{
+  "type": "node",
+  "id": 9412862222,
+  "lat": -32.4742625,
+  "lon": 115.7691484
+},
+{
+  "type": "node",
+  "id": 9412862218,
+  "lat": -32.4730521,
+  "lon": 115.7693493
+},
+{
+  "type": "node",
+  "id": 9412862219,
+  "lat": -32.4727783,
+  "lon": 115.7708991
+},
+{
+  "type": "node",
+  "id": 9412862220,
+  "lat": -32.4747210,
+  "lon": 115.7706288
+},
+{
+  "type": "node",
+  "id": 9412862221,
+  "lat": -32.4745873,
+  "lon": 115.7693700
+},
+{
+  "type": "node",
+  "id": 10660740067,
+  "lat": -32.4729659,
+  "lon": 115.7702713
+},
+{
+  "type": "node",
+  "id": 10660740068,
+  "lat": -32.4728169,
+  "lon": 115.7702559
+},
+{
+  "type": "node",
+  "id": 10660740069,
+  "lat": -32.4728056,
+  "lon": 115.7703964
+},
+{
+  "type": "node",
+  "id": 576455596,
+  "lat": -32.0044984,
+  "lon": 115.5527425
+},
+{
+  "type": "node",
+  "id": 576455605,
+  "lat": -32.0045106,
+  "lon": 115.5527121
+},
+{
+  "type": "node",
+  "id": 576455569,
+  "lat": -32.0044657,
+  "lon": 115.5526871
+},
+{
+  "type": "node",
+  "id": 576455582,
+  "lat": -32.0044535,
+  "lon": 115.5527176
+},
+{
+  "type": "node",
+  "id": 12367123284,
+  "lat": -32.0523284,
+  "lon": 115.7451666
+},
+{
+  "type": "node",
+  "id": 12367123285,
+  "lat": -32.0514250,
+  "lon": 115.7460632
+},
+{
+  "type": "node",
+  "id": 12367123286,
+  "lat": -32.0515911,
+  "lon": 115.7463919
+},
+{
+  "type": "node",
+  "id": 12367123287,
+  "lat": -32.0523355,
+  "lon": 115.7455866
+},
+{
+  "type": "node",
+  "id": 12367123288,
+  "lat": -32.0524202,
+  "lon": 115.7452921
+},
+{
+  "type": "node",
+  "id": 13149283693,
+  "lat": -32.0514458,
+  "lon": 115.7460948
+},
+{
+  "type": "node",
+  "id": 13149283694,
+  "lat": -32.0514632,
+  "lon": 115.7462856
+},
+{
+  "type": "node",
+  "id": 13149283695,
+  "lat": -32.0515013,
+  "lon": 115.7463222
+},
+{
+  "type": "node",
+  "id": 13149283696,
+  "lat": -32.0514396,
+  "lon": 115.7462306
+},
+{
+  "type": "node",
+  "id": 12063242655,
+  "lat": -31.5832858,
+  "lon": 115.6718467
+},
+{
+  "type": "node",
+  "id": 12063242656,
+  "lat": -31.5846160,
+  "lon": 115.6722320
+},
+{
+  "type": "node",
+  "id": 12063242657,
+  "lat": -31.5845396,
+  "lon": 115.6726010
+},
+{
+  "type": "node",
+  "id": 12063242658,
+  "lat": -31.5832042,
+  "lon": 115.6721929
+},
+{
+  "type": "node",
+  "id": 12180113731,
+  "lat": -31.5832214,
+  "lon": 115.6721197
+},
+{
+  "type": "node",
+  "id": 12055553285,
+  "lat": -31.5328244,
+  "lon": 115.6442721
+},
+{
+  "type": "node",
+  "id": 13062844660,
+  "lat": -31.5328061,
+  "lon": 115.6442718
+},
+{
+  "type": "node",
+  "id": 12055553286,
+  "lat": -31.5328030,
+  "lon": 115.6464841
+},
+{
+  "type": "node",
+  "id": 12055553284,
+  "lat": -31.5323500,
+  "lon": 115.6442650
+},
+{
+  "type": "node",
+  "id": 13062844696,
+  "lat": -31.5323779,
+  "lon": 115.6442655
+},
+{
+  "type": "node",
+  "id": 12055553287,
+  "lat": -31.5323031,
+  "lon": 115.6464716
+},
+{
+  "type": "node",
+  "id": 12919015331,
+  "lat": -32.2458295,
+  "lon": 115.8123842
+},
+{
+  "type": "node",
+  "id": 12919015332,
+  "lat": -32.2466938,
+  "lon": 115.8123853
+},
+{
+  "type": "node",
+  "id": 12919015333,
+  "lat": -32.2466955,
+  "lon": 115.8125670
+},
+{
+  "type": "node",
+  "id": 12919015334,
+  "lat": -32.2465817,
+  "lon": 115.8125208
+},
+{
+  "type": "node",
+  "id": 12919015335,
+  "lat": -32.2463993,
+  "lon": 115.8124921
+},
+{
+  "type": "node",
+  "id": 12919015336,
+  "lat": -32.2461500,
+  "lon": 115.8124972
+},
+{
+  "type": "node",
+  "id": 12919015337,
+  "lat": -32.2459998,
+  "lon": 115.8125177
+},
+{
+  "type": "node",
+  "id": 12919015338,
+  "lat": -32.2458365,
+  "lon": 115.8125629
+},
+{
+  "type": "node",
+  "id": 12870144930,
+  "lat": -32.0753097,
+  "lon": 115.8968215
+},
+{
+  "type": "node",
+  "id": 12870144931,
+  "lat": -32.0759473,
+  "lon": 115.8969213
+},
+{
+  "type": "node",
+  "id": 12870144932,
+  "lat": -32.0759888,
+  "lon": 115.8966970
+},
+{
+  "type": "node",
+  "id": 12870144933,
+  "lat": -32.0756972,
+  "lon": 115.8966218
+},
+{
+  "type": "node",
+  "id": 12870144934,
+  "lat": -32.0756658,
+  "lon": 115.8967912
+},
+{
+  "type": "node",
+  "id": 12870144935,
+  "lat": -32.0753981,
+  "lon": 115.8967222
+},
+{
+  "type": "node",
+  "id": 12870144936,
+  "lat": -32.0755904,
+  "lon": 115.8956823
+},
+{
+  "type": "node",
+  "id": 12870144937,
+  "lat": -32.0755237,
+  "lon": 115.8956651
+},
+{
+  "type": "node",
+  "id": 12896240788,
+  "lat": -32.0756534,
+  "lon": 115.8967880
+},
+{
+  "type": "node",
+  "id": 12896274911,
+  "lat": -32.0759497,
+  "lon": 115.8969085
+},
+{
+  "type": "node",
+  "id": 13040398378,
+  "lat": -32.0753769,
+  "lon": 115.8968388
+},
+{
+  "type": "node",
+  "id": 13040398379,
+  "lat": -32.0753883,
+  "lon": 115.8967771
+},
+{
+  "type": "node",
+  "id": 13105118614,
+  "lat": -32.0754403,
+  "lon": 115.8967905
+},
+{
+  "type": "node",
+  "id": 13105118644,
+  "lat": -32.0754515,
+  "lon": 115.8967360
+},
+{
+  "type": "node",
+  "id": 12955520947,
+  "lat": -32.2250673,
+  "lon": 116.0069841
+},
+{
+  "type": "node",
+  "id": 12955520948,
+  "lat": -32.2250370,
+  "lon": 116.0069947
+},
+{
+  "type": "node",
+  "id": 12955520949,
+  "lat": -32.2250296,
+  "lon": 116.0069682
+},
+{
+  "type": "node",
+  "id": 12955520950,
+  "lat": -32.2250608,
+  "lon": 116.0069590
+},
+{
+  "type": "node",
+  "id": 10673583985,
+  "lat": -32.0965744,
+  "lon": 116.0113433
+},
+{
+  "type": "node",
+  "id": 10673583983,
+  "lat": -32.0966112,
+  "lon": 116.0121574
+},
+{
+  "type": "node",
+  "id": 10673583984,
+  "lat": -32.0972019,
+  "lon": 116.0120940
+},
+{
+  "type": "node",
+  "id": 10673583979,
+  "lat": -32.0951604,
+  "lon": 116.0107441
+},
+{
+  "type": "node",
+  "id": 10673583980,
+  "lat": -32.0953427,
+  "lon": 116.0109427
+},
+{
+  "type": "node",
+  "id": 10673583981,
+  "lat": -32.0951695,
+  "lon": 116.0111597
+},
+{
+  "type": "node",
+  "id": 10673583986,
+  "lat": -32.0955809,
+  "lon": 116.0102137
+},
+{
+  "type": "node",
+  "id": 10673583982,
+  "lat": -32.0960995,
+  "lon": 116.0121307
+},
+{
+  "type": "node",
+  "id": 2984651761,
+  "lat": -32.0660212,
+  "lon": 115.8500949
+},
+{
+  "type": "node",
+  "id": 2984651762,
+  "lat": -32.0660193,
+  "lon": 115.8508177
+},
+{
+  "type": "node",
+  "id": 2984651767,
+  "lat": -32.0662422,
+  "lon": 115.8500771
+},
+{
+  "type": "node",
+  "id": 2984651768,
+  "lat": -32.0662382,
+  "lon": 115.8507934
+},
+{
+  "type": "node",
+  "id": 6131746737,
+  "lat": -32.0661537,
+  "lon": 115.8525121
+},
+{
+  "type": "node",
+  "id": 6131746738,
+  "lat": -32.0663058,
+  "lon": 115.8490778
+},
+{
+  "type": "node",
+  "id": 6131746739,
+  "lat": -32.0660109,
+  "lon": 115.8515296
+},
+{
+  "type": "node",
+  "id": 6131746740,
+  "lat": -32.0662133,
+  "lon": 115.8522873
+},
+{
+  "type": "node",
+  "id": 6131746741,
+  "lat": -32.0663369,
+  "lon": 115.8490054
+},
+{
+  "type": "node",
+  "id": 6131746742,
+  "lat": -32.0659832,
+  "lon": 115.8517019
+},
+{
+  "type": "node",
+  "id": 6131746743,
+  "lat": -32.0662129,
+  "lon": 115.8520997
+},
+{
+  "type": "node",
+  "id": 6131746744,
+  "lat": -32.0662645,
+  "lon": 115.8495072
+},
+{
+  "type": "node",
+  "id": 6131746745,
+  "lat": -32.0661280,
+  "lon": 115.8486829
+},
+{
+  "type": "node",
+  "id": 6131746746,
+  "lat": -32.0659817,
+  "lon": 115.8525439
+},
+{
+  "type": "node",
+  "id": 6131746747,
+  "lat": -32.0663035,
+  "lon": 115.8519355
+},
+{
+  "type": "node",
+  "id": 6131746748,
+  "lat": -32.0663275,
+  "lon": 115.8493250
+},
+{
+  "type": "node",
+  "id": 6131746749,
+  "lat": -32.0659958,
+  "lon": 115.8488831
+},
+{
+  "type": "node",
+  "id": 6131746750,
+  "lat": -32.0661371,
+  "lon": 115.8526159
+},
+{
+  "type": "node",
+  "id": 6131746751,
+  "lat": -32.0662639,
+  "lon": 115.8516714
+},
+{
+  "type": "node",
+  "id": 6131746752,
+  "lat": -32.0663278,
+  "lon": 115.8491964
+},
+{
+  "type": "node",
+  "id": 6131746753,
+  "lat": -32.0663107,
+  "lon": 115.8518051
+},
+{
+  "type": "node",
+  "id": 6131746754,
+  "lat": -32.0663037,
+  "lon": 115.8491256
+},
+{
+  "type": "node",
+  "id": 6168482941,
+  "lat": -32.0662872,
+  "lon": 115.8489017
+},
+{
+  "type": "node",
+  "id": 6168482974,
+  "lat": -32.0660681,
+  "lon": 115.8487736
+},
+{
+  "type": "node",
+  "id": 6168482977,
+  "lat": -32.0660282,
+  "lon": 115.8525664
+},
+{
+  "type": "node",
+  "id": 6168482978,
+  "lat": -32.0660213,
+  "lon": 115.8488444
+},
+{
+  "type": "node",
+  "id": 60177973,
+  "lat": -32.0361052,
+  "lon": 115.8375321
+},
+{
+  "type": "node",
+  "id": 60177975,
+  "lat": -32.0360311,
+  "lon": 115.8365501
+},
+{
+  "type": "node",
+  "id": 60177978,
+  "lat": -32.0357440,
+  "lon": 115.8375699
+},
+{
+  "type": "node",
+  "id": 2955417108,
+  "lat": -32.0356701,
+  "lon": 115.8365879
+},
+{
+  "type": "node",
+  "id": 6129623685,
+  "lat": -32.0020810,
+  "lon": 115.8911547
+},
+{
+  "type": "node",
+  "id": 6129623686,
+  "lat": -32.0020784,
+  "lon": 115.8896452
+},
+{
+  "type": "node",
+  "id": 6129623687,
+  "lat": -32.0020860,
+  "lon": 115.8896220
+},
+{
+  "type": "node",
+  "id": 6129623688,
+  "lat": -32.0021024,
+  "lon": 115.8895993
+},
+{
+  "type": "node",
+  "id": 6129623689,
+  "lat": -32.0021469,
+  "lon": 115.8895770
+},
+{
+  "type": "node",
+  "id": 6129623690,
+  "lat": -32.0022228,
+  "lon": 115.8896614
+},
+{
+  "type": "node",
+  "id": 6129623691,
+  "lat": -32.0022185,
+  "lon": 115.8911539
+},
+{
+  "type": "node",
+  "id": 6129623692,
+  "lat": -32.0022059,
+  "lon": 115.8912064
+},
+{
+  "type": "node",
+  "id": 6129623693,
+  "lat": -32.0021755,
+  "lon": 115.8912346
+},
+{
+  "type": "node",
+  "id": 6129623694,
+  "lat": -32.0021370,
+  "lon": 115.8912391
+},
+{
+  "type": "node",
+  "id": 6129623695,
+  "lat": -32.0020932,
+  "lon": 115.8912056
+},
+{
+  "type": "node",
+  "id": 6129623708,
+  "lat": -32.0021554,
+  "lon": 115.8912402
+},
+{
+  "type": "node",
+  "id": 6129623712,
+  "lat": -32.0022635,
+  "lon": 115.8903165
+},
+{
+  "type": "node",
+  "id": 11793793605,
+  "lat": -32.0021186,
+  "lon": 115.8895867
+},
+{
+  "type": "node",
+  "id": 11793793606,
+  "lat": -32.0021705,
+  "lon": 115.8895802
+},
+{
+  "type": "node",
+  "id": 11793793607,
+  "lat": -32.0021944,
+  "lon": 115.8895953
+},
+{
+  "type": "node",
+  "id": 11793793608,
+  "lat": -32.0022037,
+  "lon": 115.8896068
+},
+{
+  "type": "node",
+  "id": 11793793609,
+  "lat": -32.0022183,
+  "lon": 115.8896335
+},
+{
+  "type": "node",
+  "id": 11793793610,
+  "lat": -32.0022223,
+  "lon": 115.8904005
+},
+{
+  "type": "node",
+  "id": 11793793611,
+  "lat": -32.0022246,
+  "lon": 115.8902363
+},
+{
+  "type": "node",
+  "id": 11793793612,
+  "lat": -32.0020835,
+  "lon": 115.8911814
+},
+{
+  "type": "node",
+  "id": 11793793613,
+  "lat": -32.0021041,
+  "lon": 115.8912200
+},
+{
+  "type": "node",
+  "id": 11793793614,
+  "lat": -32.0021175,
+  "lon": 115.8912310
+},
+{
+  "type": "node",
+  "id": 11793793615,
+  "lat": -32.0021923,
+  "lon": 115.8912231
+},
+{
+  "type": "node",
+  "id": 11793793616,
+  "lat": -32.0022160,
+  "lon": 115.8911816
+},
+{
+  "type": "node",
+  "id": 11793793617,
+  "lat": -32.0022359,
+  "lon": 115.8902527
+},
+{
+  "type": "node",
+  "id": 11793793618,
+  "lat": -32.0022497,
+  "lon": 115.8902713
+},
+{
+  "type": "node",
+  "id": 11793793619,
+  "lat": -32.0022591,
+  "lon": 115.8902909
+},
+{
+  "type": "node",
+  "id": 11793793620,
+  "lat": -32.0022594,
+  "lon": 115.8903387
+},
+{
+  "type": "node",
+  "id": 11793793621,
+  "lat": -32.0022445,
+  "lon": 115.8903679
+},
+{
+  "type": "node",
+  "id": 11793793622,
+  "lat": -32.0022314,
+  "lon": 115.8903855
+},
+{
+  "type": "node",
+  "id": 11793793623,
+  "lat": -32.0022194,
+  "lon": 115.8904159
+},
+{
+  "type": "node",
+  "id": 11793793624,
+  "lat": -32.0022202,
+  "lon": 115.8902185
+},
+{
+  "type": "node",
+  "id": 11793793901,
+  "lat": -32.0020777,
+  "lon": 115.8902070
+},
+{
+  "type": "node",
+  "id": 11793793902,
+  "lat": -32.0020773,
+  "lon": 115.8904183
+},
+{
+  "type": "node",
+  "id": 11793793903,
+  "lat": -32.0020687,
+  "lon": 115.8902409
+},
+{
+  "type": "node",
+  "id": 11793793904,
+  "lat": -32.0020697,
+  "lon": 115.8903850
+},
+{
+  "type": "node",
+  "id": 11793793905,
+  "lat": -32.0020487,
+  "lon": 115.8902686
+},
+{
+  "type": "node",
+  "id": 11793793906,
+  "lat": -32.0020509,
+  "lon": 115.8903608
+},
+{
+  "type": "node",
+  "id": 11793793907,
+  "lat": -32.0020365,
+  "lon": 115.8902938
+},
+{
+  "type": "node",
+  "id": 11793793908,
+  "lat": -32.0020360,
+  "lon": 115.8903338
+},
+{
+  "type": "node",
+  "id": 11795142510,
+  "lat": -32.0021819,
+  "lon": 115.8895858
+},
+{
+  "type": "node",
+  "id": 11795142511,
+  "lat": -32.0022118,
+  "lon": 115.8896185
+},
+{
+  "type": "node",
+  "id": 11795142512,
+  "lat": -32.0021325,
+  "lon": 115.8895811
+},
+{
+  "type": "node",
+  "id": 11795142513,
+  "lat": -32.0021603,
+  "lon": 115.8895783
+},
+{
+  "type": "node",
+  "id": 11795142514,
+  "lat": -32.0021104,
+  "lon": 115.8895914
+},
+{
+  "type": "node",
+  "id": 11795142515,
+  "lat": -32.0020932,
+  "lon": 115.8896093
+},
+{
+  "type": "node",
+  "id": 11795708376,
+  "lat": -32.0020362,
+  "lon": 115.8903140
+},
+{
+  "type": "node",
+  "id": 48728039,
+  "lat": -32.0057758,
+  "lon": 115.8975092
+},
+{
+  "type": "node",
+  "id": 10931063088,
+  "lat": -32.0061158,
+  "lon": 115.8979013
+},
+{
+  "type": "node",
+  "id": 10931063098,
+  "lat": -32.0054227,
+  "lon": 115.8971046
+},
+{
+  "type": "node",
+  "id": 10931066106,
+  "lat": -32.0062264,
+  "lon": 115.8978715
+},
+{
+  "type": "node",
+  "id": 10931066109,
+  "lat": -32.0054340,
+  "lon": 115.8970591
+},
+{
+  "type": "node",
+  "id": 10931066117,
+  "lat": -32.0062407,
+  "lon": 115.8977755
+},
+{
+  "type": "node",
+  "id": 10931066118,
+  "lat": -32.0056323,
+  "lon": 115.8971021
+},
+{
+  "type": "node",
+  "id": 10931066119,
+  "lat": -32.0055042,
+  "lon": 115.8970143
+},
+{
+  "type": "node",
+  "id": 10931066123,
+  "lat": -32.0061636,
+  "lon": 115.8979151
+},
+{
+  "type": "node",
+  "id": 10931066126,
+  "lat": -32.0055857,
+  "lon": 115.8970477
+},
+{
+  "type": "node",
+  "id": 10931066127,
+  "lat": -32.0055641,
+  "lon": 115.8970284
+},
+{
+  "type": "node",
+  "id": 10931066131,
+  "lat": -32.0057599,
+  "lon": 115.8972661
+},
+{
+  "type": "node",
+  "id": 10931066133,
+  "lat": -32.0054425,
+  "lon": 115.8971717
+},
+{
+  "type": "node",
+  "id": 10931066134,
+  "lat": -32.0055377,
+  "lon": 115.8970159
+},
+{
+  "type": "node",
+  "id": 10931066136,
+  "lat": -32.0058977,
+  "lon": 115.8974293
+},
+{
+  "type": "node",
+  "id": 10931066138,
+  "lat": -32.0062006,
+  "lon": 115.8979003
+},
+{
+  "type": "node",
+  "id": 10931066139,
+  "lat": -32.0061902,
+  "lon": 115.8976968
+},
+{
+  "type": "node",
+  "id": 10931066145,
+  "lat": -32.0062219,
+  "lon": 115.8977315
+},
+{
+  "type": "node",
+  "id": 10931066153,
+  "lat": -32.0062416,
+  "lon": 115.8978235
+},
+{
+  "type": "node",
+  "id": 10931066156,
+  "lat": -32.0054268,
+  "lon": 115.8971397
+},
+{
+  "type": "node",
+  "id": 10931066159,
+  "lat": -32.0054674,
+  "lon": 115.8970214
+},
+{
+  "type": "node",
+  "id": 10931066160,
+  "lat": -32.0060226,
+  "lon": 115.8975624
+},
+{
+  "type": "node",
+  "id": 48727390,
+  "lat": -31.9685137,
+  "lon": 115.8898264
+},
+{
+  "type": "node",
+  "id": 48727396,
+  "lat": -31.9680590,
+  "lon": 115.8889100
+},
+{
+  "type": "node",
+  "id": 48727449,
+  "lat": -31.9686440,
+  "lon": 115.8896888
+},
+{
+  "type": "node",
+  "id": 48727454,
+  "lat": -31.9682035,
+  "lon": 115.8887679
+},
+{
+  "type": "node",
+  "id": 6267289838,
+  "lat": -31.9684011,
+  "lon": 115.8891685
+},
+{
+  "type": "node",
+  "id": 6267289840,
+  "lat": -31.9682442,
+  "lon": 115.8892771
+},
+{
+  "type": "node",
+  "id": 32708005,
+  "lat": -31.9568228,
+  "lon": 115.8541689
+},
+{
+  "type": "node",
+  "id": 411232714,
+  "lat": -31.9568109,
+  "lon": 115.8542769
+},
+{
+  "type": "node",
+  "id": 1606148931,
+  "lat": -31.9562912,
+  "lon": 115.8529018
+},
+{
+  "type": "node",
+  "id": 4358848715,
+  "lat": -31.9565209,
+  "lon": 115.8534933
+},
+{
+  "type": "node",
+  "id": 5351971564,
+  "lat": -31.9566249,
+  "lon": 115.8537610
+},
+{
+  "type": "node",
+  "id": 5351971565,
+  "lat": -31.9567939,
+  "lon": 115.8541521
+},
+{
+  "type": "node",
+  "id": 5403265910,
+  "lat": -31.9558878,
+  "lon": 115.8541047
+},
+{
+  "type": "node",
+  "id": 6694218267,
+  "lat": -31.9555801,
+  "lon": 115.8531580
+},
+{
+  "type": "node",
+  "id": 6694218268,
+  "lat": -31.9557233,
+  "lon": 115.8531030
+},
+{
+  "type": "node",
+  "id": 12443081076,
+  "lat": -31.9568166,
+  "lon": 115.8543526
+},
+{
+  "type": "node",
+  "id": 12443081077,
+  "lat": -31.9568706,
+  "lon": 115.8545088
+},
+{
+  "type": "node",
+  "id": 411232712,
+  "lat": -31.9568982,
+  "lon": 115.8545738
+},
+{
+  "type": "node",
+  "id": 5351971563,
+  "lat": -31.9561315,
+  "lon": 115.8549028
+},
+{
+  "type": "node",
+  "id": 5334427738,
+  "lat": -31.9507346,
+  "lon": 115.8581141
+},
+{
+  "type": "node",
+  "id": 5348838089,
+  "lat": -31.9496311,
+  "lon": 115.8565288
+},
+{
+  "type": "node",
+  "id": 6138839129,
+  "lat": -31.9504235,
+  "lon": 115.8583067
+},
+{
+  "type": "node",
+  "id": 6227436840,
+  "lat": -31.9496316,
+  "lon": 115.8557380
+},
+{
+  "type": "node",
+  "id": 6508361949,
+  "lat": -31.9493554,
+  "lon": 115.8559146
+},
+{
+  "type": "node",
+  "id": 13312453475,
+  "lat": -31.9495271,
+  "lon": 115.8563040
+},
+{
+  "type": "node",
+  "id": 9168762610,
+  "lat": -31.8702970,
+  "lon": 115.8586743
+},
+{
+  "type": "node",
+  "id": 9168762611,
+  "lat": -31.8701369,
+  "lon": 115.8583439
+},
+{
+  "type": "node",
+  "id": 9168762612,
+  "lat": -31.8703591,
+  "lon": 115.8587838
+},
+{
+  "type": "node",
+  "id": 9168762613,
+  "lat": -31.8703786,
+  "lon": 115.8587708
+},
+{
+  "type": "node",
+  "id": 9168762614,
+  "lat": -31.8696863,
+  "lon": 115.8585696
+},
+{
+  "type": "node",
+  "id": 9168762615,
+  "lat": -31.8701518,
+  "lon": 115.8584267
+},
+{
+  "type": "node",
+  "id": 9168762616,
+  "lat": -31.8704159,
+  "lon": 115.8588749
+},
+{
+  "type": "node",
+  "id": 9168778517,
+  "lat": -31.8702445,
+  "lon": 115.8585325
+},
+{
+  "type": "node",
+  "id": 9168778518,
+  "lat": -31.8698537,
+  "lon": 115.8591220
+},
+{
+  "type": "node",
+  "id": 7037515371,
+  "lat": -31.9308633,
+  "lon": 115.9558133
+},
+{
+  "type": "node",
+  "id": 7037515372,
+  "lat": -31.9307954,
+  "lon": 115.9558921
+},
+{
+  "type": "node",
+  "id": 7037515373,
+  "lat": -31.9308701,
+  "lon": 115.9559816
+},
+{
+  "type": "node",
+  "id": 7037515374,
+  "lat": -31.9309381,
+  "lon": 115.9559028
+},
+{
+  "type": "node",
+  "id": 1361315797,
+  "lat": -31.8993509,
+  "lon": 115.8983053
+},
+{
+  "type": "node",
+  "id": 1361315799,
+  "lat": -31.8982430,
+  "lon": 115.8978033
+},
+{
+  "type": "node",
+  "id": 1361315817,
+  "lat": -31.8990047,
+  "lon": 115.8986982
+},
+{
+  "type": "node",
+  "id": 1361315835,
+  "lat": -31.8985827,
+  "lon": 115.8973819
+},
+{
+  "type": "node",
+  "id": 4239254545,
+  "lat": -31.8984239,
+  "lon": 115.8979619
+},
+{
+  "type": "node",
+  "id": 4239254908,
+  "lat": -31.8986192,
+  "lon": 115.8981905
+},
+{
+  "type": "node",
+  "id": 4239255122,
+  "lat": -31.8987547,
+  "lon": 115.8975736
+},
+{
+  "type": "node",
+  "id": 4239255301,
+  "lat": -31.8988469,
+  "lon": 115.8984547
+},
+{
+  "type": "node",
+  "id": 4239255495,
+  "lat": -31.8991765,
+  "lon": 115.8980665
+},
+{
+  "type": "node",
+  "id": 11891270551,
+  "lat": -31.8986911,
+  "lon": 115.8975122
+},
+{
+  "type": "node",
+  "id": 6683739816,
+  "lat": -31.9735143,
+  "lon": 116.0576528
+},
+{
+  "type": "node",
+  "id": 6683739817,
+  "lat": -31.9739169,
+  "lon": 116.0576583
+},
+{
+  "type": "node",
+  "id": 6691873504,
+  "lat": -31.9738532,
+  "lon": 116.0576574
+},
+{
+  "type": "node",
+  "id": 6683739818,
+  "lat": -31.9739163,
+  "lon": 116.0577169
+},
+{
+  "type": "node",
+  "id": 6683739819,
+  "lat": -31.9735137,
+  "lon": 116.0577113
+},
+{
+  "type": "node",
+  "id": 10088035224,
+  "lat": -31.9441309,
+  "lon": 115.9745116
+},
+{
+  "type": "node",
+  "id": 10088035225,
+  "lat": -31.9441029,
+  "lon": 115.9745099
+},
+{
+  "type": "node",
+  "id": 10088035226,
+  "lat": -31.9440635,
+  "lon": 115.9745165
+},
+{
+  "type": "node",
+  "id": 10088035227,
+  "lat": -31.9439489,
+  "lon": 115.9745520
+},
+{
+  "type": "node",
+  "id": 10088035228,
+  "lat": -31.9438794,
+  "lon": 115.9745819
+},
+{
+  "type": "node",
+  "id": 10088035229,
+  "lat": -31.9438303,
+  "lon": 115.9746076
+},
+{
+  "type": "node",
+  "id": 10088035230,
+  "lat": -31.9438157,
+  "lon": 115.9746318
+},
+{
+  "type": "node",
+  "id": 10088035231,
+  "lat": -31.9438127,
+  "lon": 115.9746650
+},
+{
+  "type": "node",
+  "id": 10088035232,
+  "lat": -31.9438255,
+  "lon": 115.9747745
+},
+{
+  "type": "node",
+  "id": 10088035233,
+  "lat": -31.9438415,
+  "lon": 115.9748705
+},
+{
+  "type": "node",
+  "id": 10088035234,
+  "lat": -31.9438636,
+  "lon": 115.9749674
+},
+{
+  "type": "node",
+  "id": 10088035235,
+  "lat": -31.9438842,
+  "lon": 115.9750445
+},
+{
+  "type": "node",
+  "id": 10088035236,
+  "lat": -31.9439109,
+  "lon": 115.9751300
+},
+{
+  "type": "node",
+  "id": 10088035237,
+  "lat": -31.9439254,
+  "lon": 115.9751608
+},
+{
+  "type": "node",
+  "id": 10088035238,
+  "lat": -31.9439394,
+  "lon": 115.9751740
+},
+{
+  "type": "node",
+  "id": 10088035239,
+  "lat": -31.9439577,
+  "lon": 115.9751781
+},
+{
+  "type": "node",
+  "id": 10088035240,
+  "lat": -31.9440201,
+  "lon": 115.9751708
+},
+{
+  "type": "node",
+  "id": 10088035241,
+  "lat": -31.9440734,
+  "lon": 115.9751633
+},
+{
+  "type": "node",
+  "id": 10088035242,
+  "lat": -31.9441354,
+  "lon": 115.9751472
+},
+{
+  "type": "node",
+  "id": 10088035243,
+  "lat": -31.9442175,
+  "lon": 115.9751208
+},
+{
+  "type": "node",
+  "id": 10088035244,
+  "lat": -31.9442463,
+  "lon": 115.9751051
+},
+{
+  "type": "node",
+  "id": 10088035245,
+  "lat": -31.9442584,
+  "lon": 115.9750934
+},
+{
+  "type": "node",
+  "id": 10088035246,
+  "lat": -31.9442672,
+  "lon": 115.9750661
+},
+{
+  "type": "node",
+  "id": 10088035247,
+  "lat": -31.9442721,
+  "lon": 115.9750263
+},
+{
+  "type": "node",
+  "id": 10088035248,
+  "lat": -31.9442718,
+  "lon": 115.9749755
+},
+{
+  "type": "node",
+  "id": 10088035249,
+  "lat": -31.9442669,
+  "lon": 115.9749088
+},
+{
+  "type": "node",
+  "id": 10088035250,
+  "lat": -31.9442607,
+  "lon": 115.9748455
+},
+{
+  "type": "node",
+  "id": 10088035251,
+  "lat": -31.9442455,
+  "lon": 115.9747700
+},
+{
+  "type": "node",
+  "id": 10088035252,
+  "lat": -31.9442239,
+  "lon": 115.9746953
+},
+{
+  "type": "node",
+  "id": 10088035253,
+  "lat": -31.9441837,
+  "lon": 115.9745911
+},
+{
+  "type": "node",
+  "id": 10088035254,
+  "lat": -31.9441649,
+  "lon": 115.9745515
+},
+{
+  "type": "node",
+  "id": 10088035255,
+  "lat": -31.9441496,
+  "lon": 115.9745288
+},
+{
+  "type": "node",
+  "id": 10088035257,
+  "lat": -31.9438498,
+  "lon": 115.9749067
+},
+{
+  "type": "node",
+  "id": 10088035258,
+  "lat": -31.9438312,
+  "lon": 115.9748088
+},
+{
+  "type": "node",
+  "id": 10088035261,
+  "lat": -31.9438732,
+  "lon": 115.9750032
+},
+{
+  "type": "node",
+  "id": 11541003790,
+  "lat": -31.9426601,
+  "lon": 115.9768921
+},
+{
+  "type": "node",
+  "id": 11541015206,
+  "lat": -31.9425317,
+  "lon": 115.9767080
+},
+{
+  "type": "node",
+  "id": 11541015207,
+  "lat": -31.9425653,
+  "lon": 115.9766945
+},
+{
+  "type": "node",
+  "id": 11541015208,
+  "lat": -31.9425820,
+  "lon": 115.9767438
+},
+{
+  "type": "node",
+  "id": 11541015209,
+  "lat": -31.9425972,
+  "lon": 115.9767859
+},
+{
+  "type": "node",
+  "id": 11541015210,
+  "lat": -31.9426153,
+  "lon": 115.9768239
+},
+{
+  "type": "node",
+  "id": 11541015211,
+  "lat": -31.9426319,
+  "lon": 115.9768524
+},
+{
+  "type": "node",
+  "id": 11541015219,
+  "lat": -31.9424668,
+  "lon": 115.9772379
+},
+{
+  "type": "node",
+  "id": 11541015220,
+  "lat": -31.9424316,
+  "lon": 115.9771031
+},
+{
+  "type": "node",
+  "id": 11541015221,
+  "lat": -31.9424674,
+  "lon": 115.9770885
+},
+{
+  "type": "node",
+  "id": 11541015222,
+  "lat": -31.9424966,
+  "lon": 115.9771722
+},
+{
+  "type": "node",
+  "id": 11541015223,
+  "lat": -31.9424993,
+  "lon": 115.9771750
+},
+{
+  "type": "node",
+  "id": 11541015224,
+  "lat": -31.9425025,
+  "lon": 115.9771743
+},
+{
+  "type": "node",
+  "id": 11541015225,
+  "lat": -31.9425040,
+  "lon": 115.9771715
+},
+{
+  "type": "node",
+  "id": 11541015226,
+  "lat": -31.9425771,
+  "lon": 115.9768773
+},
+{
+  "type": "node",
+  "id": 11541015227,
+  "lat": -31.9425783,
+  "lon": 115.9768691
+},
+{
+  "type": "node",
+  "id": 11541015228,
+  "lat": -31.9425778,
+  "lon": 115.9768500
+},
+{
+  "type": "node",
+  "id": 11541015229,
+  "lat": -31.9425754,
+  "lon": 115.9768383
+},
+{
+  "type": "node",
+  "id": 11541015230,
+  "lat": -31.9425526,
+  "lon": 115.9769746
+},
+{
+  "type": "node",
+  "id": 11541015231,
+  "lat": -31.9425280,
+  "lon": 115.9770711
+},
+{
+  "type": "node",
+  "id": 11541015232,
+  "lat": -31.9425530,
+  "lon": 115.9769500
+},
+{
+  "type": "node",
+  "id": 11541015233,
+  "lat": -31.9425517,
+  "lon": 115.9769385
+},
+{
+  "type": "node",
+  "id": 11541015234,
+  "lat": -31.9425073,
+  "lon": 115.9768078
+},
+{
+  "type": "node",
+  "id": 11541015235,
+  "lat": -31.9425409,
+  "lon": 115.9767934
+},
+{
+  "type": "node",
+  "id": 11541015236,
+  "lat": -31.9425702,
+  "lon": 115.9768782
+},
+{
+  "type": "node",
+  "id": 11541015237,
+  "lat": -31.9425724,
+  "lon": 115.9768802
+},
+{
+  "type": "node",
+  "id": 11541015238,
+  "lat": -31.9425754,
+  "lon": 115.9768798
+},
+{
+  "type": "node",
+  "id": 11541015239,
+  "lat": -31.9425281,
+  "lon": 115.9770501
+},
+{
+  "type": "node",
+  "id": 11541015240,
+  "lat": -31.9425257,
+  "lon": 115.9770343
+},
+{
+  "type": "node",
+  "id": 11541015241,
+  "lat": -31.9424841,
+  "lon": 115.9769043
+},
+{
+  "type": "node",
+  "id": 11541015242,
+  "lat": -31.9425163,
+  "lon": 115.9768918
+},
+{
+  "type": "node",
+  "id": 11541015243,
+  "lat": -31.9425447,
+  "lon": 115.9769767
+},
+{
+  "type": "node",
+  "id": 11541015244,
+  "lat": -31.9425477,
+  "lon": 115.9769785
+},
+{
+  "type": "node",
+  "id": 11541015245,
+  "lat": -31.9425504,
+  "lon": 115.9769775
+},
+{
+  "type": "node",
+  "id": 11541015247,
+  "lat": -31.9425011,
+  "lon": 115.9771301
+},
+{
+  "type": "node",
+  "id": 11541015248,
+  "lat": -31.9424582,
+  "lon": 115.9770020
+},
+{
+  "type": "node",
+  "id": 11541015249,
+  "lat": -31.9424918,
+  "lon": 115.9769885
+},
+{
+  "type": "node",
+  "id": 11541015250,
+  "lat": -31.9425194,
+  "lon": 115.9770726
+},
+{
+  "type": "node",
+  "id": 11541015251,
+  "lat": -31.9425223,
+  "lon": 115.9770752
+},
+{
+  "type": "node",
+  "id": 11541015252,
+  "lat": -31.9425265,
+  "lon": 115.9770745
+},
+{
+  "type": "node",
+  "id": 11542498598,
+  "lat": -31.9438389,
+  "lon": 115.9748547
+},
+{
+  "type": "node",
+  "id": 11574081258,
+  "lat": -31.9426944,
+  "lon": 115.9769158
+},
+{
+  "type": "node",
+  "id": 11574081259,
+  "lat": -31.9426860,
+  "lon": 115.9769161
+},
+{
+  "type": "node",
+  "id": 11574081260,
+  "lat": -31.9426779,
+  "lon": 115.9769121
+},
+{
+  "type": "node",
+  "id": 11574081261,
+  "lat": -31.9426701,
+  "lon": 115.9769043
+},
+{
+  "type": "node",
+  "id": 11574086249,
+  "lat": -31.9424813,
+  "lon": 115.9772972
+},
+{
+  "type": "node",
+  "id": 11574093530,
+  "lat": -31.9426985,
+  "lon": 115.9770164
+},
+{
+  "type": "node",
+  "id": 11574093531,
+  "lat": -31.9426769,
+  "lon": 115.9770244
+},
+{
+  "type": "node",
+  "id": 11574093532,
+  "lat": -31.9426513,
+  "lon": 115.9770409
+},
+{
+  "type": "node",
+  "id": 11574093533,
+  "lat": -31.9426301,
+  "lon": 115.9770625
+},
+{
+  "type": "node",
+  "id": 11574093534,
+  "lat": -31.9426148,
+  "lon": 115.9770875
+},
+{
+  "type": "node",
+  "id": 11574093535,
+  "lat": -31.9425989,
+  "lon": 115.9771234
+},
+{
+  "type": "node",
+  "id": 11574093536,
+  "lat": -31.9425670,
+  "lon": 115.9772089
+},
+{
+  "type": "node",
+  "id": 11574093538,
+  "lat": -31.9425632,
+  "lon": 115.9772514
+},
+{
+  "type": "node",
+  "id": 11574093539,
+  "lat": -31.9425684,
+  "lon": 115.9772726
+},
+{
+  "type": "node",
+  "id": 11574467435,
+  "lat": -31.9425036,
+  "lon": 115.9771472
+},
+{
+  "type": "node",
+  "id": 11574467436,
+  "lat": -31.9425646,
+  "lon": 115.9772267
+},
+{
+  "type": "node",
+  "id": 11837086590,
+  "lat": -31.8184287,
+  "lon": 115.7831422
+},
+{
+  "type": "node",
+  "id": 11837086591,
+  "lat": -31.8184234,
+  "lon": 115.7833176
+},
+{
+  "type": "node",
+  "id": 11837086592,
+  "lat": -31.8187724,
+  "lon": 115.7833321
+},
+{
+  "type": "node",
+  "id": 11837086593,
+  "lat": -31.8187736,
+  "lon": 115.7832933
+},
+{
+  "type": "node",
+  "id": 11837086594,
+  "lat": -31.8187478,
+  "lon": 115.7832923
+},
+{
+  "type": "node",
+  "id": 11837086595,
+  "lat": -31.8187505,
+  "lon": 115.7832021
+},
+{
+  "type": "node",
+  "id": 11837086596,
+  "lat": -31.8187796,
+  "lon": 115.7832033
+},
+{
+  "type": "node",
+  "id": 11837086597,
+  "lat": -31.8187810,
+  "lon": 115.7831569
+},
+{
+  "type": "node",
+  "id": 3300271420,
+  "lat": -31.8446032,
+  "lon": 115.9457223
+},
+{
+  "type": "node",
+  "id": 3300271422,
+  "lat": -31.8446332,
+  "lon": 115.9458919
+},
+{
+  "type": "node",
+  "id": 3300271428,
+  "lat": -31.8446918,
+  "lon": 115.9458048
+},
+{
+  "type": "node",
+  "id": 5732016167,
+  "lat": -31.8445864,
+  "lon": 115.9457472
+},
+{
+  "type": "node",
+  "id": 5732016189,
+  "lat": -31.8445446,
+  "lon": 115.9458094
+},
+{
+  "type": "node",
+  "id": 5732016248,
+  "lat": -31.8446755,
+  "lon": 115.9458290
+},
+{
+  "type": "node",
+  "id": 4337042615,
+  "lat": -33.6919259,
+  "lon": 117.5569035
+},
+{
+  "type": "node",
+  "id": 4337042616,
+  "lat": -33.6919924,
+  "lon": 117.5568218
+},
+{
+  "type": "node",
+  "id": 4337042617,
+  "lat": -33.6923803,
+  "lon": 117.5572784
+},
+{
+  "type": "node",
+  "id": 4337042618,
+  "lat": -33.6923137,
+  "lon": 117.5573600
+},
+{
+  "type": "node",
+  "id": 11149141525,
+  "lat": -33.6919488,
+  "lon": 117.5568755
+},
+{
+  "type": "node",
+  "id": 3745510717,
+  "lat": -33.1004480,
+  "lon": 118.4621058
+},
+{
+  "type": "node",
+  "id": 3745510718,
+  "lat": -33.1004490,
+  "lon": 118.4623458
+},
+{
+  "type": "node",
+  "id": 3745510731,
+  "lat": -33.1005448,
+  "lon": 118.4621052
+},
+{
+  "type": "node",
+  "id": 3745510732,
+  "lat": -33.1005459,
+  "lon": 118.4623452
+},
+{
+  "type": "node",
+  "id": 6110211050,
+  "lat": -29.4415088,
+  "lon": 116.2858759
+},
+{
+  "type": "node",
+  "id": 6110211051,
+  "lat": -29.4415623,
+  "lon": 116.2858148
+},
+{
+  "type": "node",
+  "id": 6110211052,
+  "lat": -29.4416651,
+  "lon": 116.2859334
+},
+{
+  "type": "node",
+  "id": 6110211053,
+  "lat": -29.4416117,
+  "lon": 116.2859946
+},
+{
+  "type": "node",
+  "id": 2441470152,
+  "lat": -30.7462365,
+  "lon": 121.4666305
+},
+{
+  "type": "node",
+  "id": 2441470153,
+  "lat": -30.7462584,
+  "lon": 121.4666576
+},
+{
+  "type": "node",
+  "id": 2441470157,
+  "lat": -30.7463256,
+  "lon": 121.4664466
+},
+{
+  "type": "node",
+  "id": 2441470160,
+  "lat": -30.7463627,
+  "lon": 121.4664925
+},
+{
+  "type": "node",
+  "id": 2441470175,
+  "lat": -30.7473329,
+  "lon": 121.4652665
+},
+{
+  "type": "node",
+  "id": 2441470176,
+  "lat": -30.7473662,
+  "lon": 121.4653078
+},
+{
+  "type": "node",
+  "id": 2441470115,
+  "lat": -30.7451024,
+  "lon": 121.4677076
+},
+{
+  "type": "node",
+  "id": 2441470116,
+  "lat": -30.7451387,
+  "lon": 121.4677526
+},
+{
+  "type": "node",
+  "id": 2441470118,
+  "lat": -30.7455170,
+  "lon": 121.4674422
+},
+{
+  "type": "node",
+  "id": 2441470120,
+  "lat": -30.7455491,
+  "lon": 121.4674820
+},
+{
+  "type": "node",
+  "id": 2441470123,
+  "lat": -30.7457091,
+  "lon": 121.4671284
+},
+{
+  "type": "node",
+  "id": 2441470125,
+  "lat": -30.7457535,
+  "lon": 121.4671833
+},
+{
+  "type": "node",
+  "id": 2441470126,
+  "lat": -30.7457702,
+  "lon": 121.4671819
+},
+{
+  "type": "node",
+  "id": 2441470127,
+  "lat": -30.7457951,
+  "lon": 121.4672127
+},
+{
+  "type": "node",
+  "id": 2441470129,
+  "lat": -30.7458038,
+  "lon": 121.4671452
+},
+{
+  "type": "node",
+  "id": 2441470130,
+  "lat": -30.7458186,
+  "lon": 121.4671636
+},
+{
+  "type": "node",
+  "id": 2441470132,
+  "lat": -30.7458643,
+  "lon": 121.4671136
+},
+{
+  "type": "node",
+  "id": 2441470133,
+  "lat": -30.7458971,
+  "lon": 121.4671543
+},
+{
+  "type": "node",
+  "id": 2441470135,
+  "lat": -30.7459154,
+  "lon": 121.4670971
+},
+{
+  "type": "node",
+  "id": 2441470136,
+  "lat": -30.7459313,
+  "lon": 121.4671169
+},
+{
+  "type": "node",
+  "id": 2441470138,
+  "lat": -30.7459752,
+  "lon": 121.4669161
+},
+{
+  "type": "node",
+  "id": 2441470144,
+  "lat": -30.7460248,
+  "lon": 121.4669774
+},
+{
+  "type": "node",
+  "id": 2441470147,
+  "lat": -30.7460616,
+  "lon": 121.4668216
+},
+{
+  "type": "node",
+  "id": 2441470150,
+  "lat": -30.7460836,
+  "lon": 121.4668488
+},
+{
+  "type": "node",
+  "id": 12149216674,
+  "lat": -30.7461990,
+  "lon": 121.4667220
+},
+{
+  "type": "node",
+  "id": 4638707766,
+  "lat": -28.7096527,
+  "lon": 121.8731411
+},
+{
+  "type": "node",
+  "id": 4638707767,
+  "lat": -28.7097621,
+  "lon": 121.8733137
+},
+{
+  "type": "node",
+  "id": 4638707768,
+  "lat": -28.7099449,
+  "lon": 121.8731631
+},
+{
+  "type": "node",
+  "id": 4638707769,
+  "lat": -28.7098355,
+  "lon": 121.8729905
+},
+{
+  "type": "node",
+  "id": 11078127012,
+  "lat": -20.7078752,
+  "lon": 116.7726483
+},
+{
+  "type": "node",
+  "id": 11078127013,
+  "lat": -20.7078163,
+  "lon": 116.7732454
+},
+{
+  "type": "node",
+  "id": 11078127014,
+  "lat": -20.7073529,
+  "lon": 116.7731931
+},
+{
+  "type": "node",
+  "id": 11078127015,
+  "lat": -20.7074118,
+  "lon": 116.7725961
+}
+
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-12-02T13:18:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 770076850,
+  "lat": -4.6526849,
+  "lon": 55.4011984,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Port Launay Busterminal",
+    "name:en": "Port Launay Turning Point",
+    "operator": "Seychelles Public Transport Corporation",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3092902689,
+  "lat": -4.6921677,
+  "lon": 55.5246405,
+  "tags": {
+    "amenity": "bus_station",
+    "bench": "yes",
+    "bus": "yes",
+    "name": "Anse Aux Pins Terminal",
+    "name:en": "Anse Aux Pins Terminal",
+    "operator": "Seychelles Public Transport Corporation",
+    "public_transport": "station",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4547515889,
+  "lat": -4.6193458,
+  "lon": 55.4540791,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "SPTC Bus Terminal",
+    "public_transport": "station"
+  }
+}
+
+  ]
+}

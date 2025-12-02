@@ -1,0 +1,244 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-12-02T13:16:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4934736239,
+  "lat": -17.5346695,
+  "lon": -149.5685820,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Gare Maritime",
+    "name:fr": "Gare Maritime",
+    "public_transport": "station",
+    "wheelchair": "yes",
+    "wheelchair:description": "cheminimement identifié depuis le parking jusqu'aux guichets,ascenseurs etc."
+  }
+},
+{
+  "type": "node",
+  "id": 7039375866,
+  "lat": -17.5390293,
+  "lon": -149.5662890,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "description": "Ligne 2 vers Outumarao Ligne 3 vers Paea Ligne vers Université",
+    "name": "Gare routière du Marché",
+    "public_transport": "station",
+    "source:geometry:date": "2013",
+    "source:position": "Aerial photogrammetry"
+  }
+},
+{
+  "type": "node",
+  "id": 7039375896,
+  "lat": -17.5370919,
+  "lon": -149.5665210,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Gare routière de l'hôtel de ville",
+    "public_transport": "station",
+    "source:geometry:date": "2013",
+    "source:position": "Aerial photogrammetry",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7039375912,
+  "lat": -17.5458204,
+  "lon": -149.5815790,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Gare routière de Tipaerui",
+    "public_transport": "station",
+    "source:geometry:date": "2013",
+    "source:position": "Aerial photogrammetry"
+  }
+},
+{
+  "type": "node",
+  "id": 7065439452,
+  "lat": -17.7287480,
+  "lon": -149.3145266,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal bus",
+    "public_transport": "station",
+    "source:geometry:date": "2013"
+  }
+},
+{
+  "type": "node",
+  "id": 10127428264,
+  "lat": -17.5762137,
+  "lon": -149.6069940,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "internet_access": "no",
+    "name": "Université de Polynésie-Française",
+    "network": "Tere Tahiti",
+    "operator": "Tere Tahiti",
+    "public_transport": "station",
+    "shelter": "yes",
+    "website": "https://teretahiti.pf/"
+  }
+},
+{
+  "type": "node",
+  "id": 10127464156,
+  "lat": -17.5750748,
+  "lon": -149.6136642,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "internet_access": "no",
+    "name": "Giratoire du Lycée Hôtelier",
+    "network": "Tere Tahiti",
+    "operator": "Tere Tahiti",
+    "public_transport": "station",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10127514384,
+  "lat": -17.5753713,
+  "lon": -149.6143609,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "internet_access": "no",
+    "name": "Giratoire Parc Vairai",
+    "network": "Tere Tahiti",
+    "operator": "Tere Tahiti",
+    "public_transport": "station",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11162236593,
+  "lat": -17.6347128,
+  "lon": -149.6082328,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "way",
+  "id": 754501013,
+  "nodes": [
+    7048644483,
+    7048644482,
+    7048644481,
+    7048644480,
+    7048644479,
+    7048644478,
+    7048644477,
+    7048644476,
+    7048644475,
+    7048644474,
+    7048644473,
+    7048644472,
+    7048644483
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "building:material": "hard",
+    "name": "Gare routière de Papenoo",
+    "operational_status": "operational",
+    "operator": "Pays",
+    "operator:type": "government",
+    "public_transport": "station",
+    "source:geometry": "Satellite photogrammetry",
+    "source:geometry:date": "2013"
+  }
+},
+{
+  "type": "node",
+  "id": 7048644472,
+  "lat": -17.5161169,
+  "lon": -149.4094357
+},
+{
+  "type": "node",
+  "id": 7048644473,
+  "lat": -17.5161285,
+  "lon": -149.4093380
+},
+{
+  "type": "node",
+  "id": 7048644474,
+  "lat": -17.5161872,
+  "lon": -149.4091965
+},
+{
+  "type": "node",
+  "id": 7048644475,
+  "lat": -17.5161610,
+  "lon": -149.4091864
+},
+{
+  "type": "node",
+  "id": 7048644476,
+  "lat": -17.5161294,
+  "lon": -149.4091830
+},
+{
+  "type": "node",
+  "id": 7048644477,
+  "lat": -17.5161057,
+  "lon": -149.4092043
+},
+{
+  "type": "node",
+  "id": 7048644478,
+  "lat": -17.5160704,
+  "lon": -149.4093032
+},
+{
+  "type": "node",
+  "id": 7048644479,
+  "lat": -17.5160533,
+  "lon": -149.4092971
+},
+{
+  "type": "node",
+  "id": 7048644480,
+  "lat": -17.5160393,
+  "lon": -149.4093406
+},
+{
+  "type": "node",
+  "id": 7048644481,
+  "lat": -17.5160554,
+  "lon": -149.4093450
+},
+{
+  "type": "node",
+  "id": 7048644482,
+  "lat": -17.5160389,
+  "lon": -149.4094111
+},
+{
+  "type": "node",
+  "id": 7048644483,
+  "lat": -17.5160576,
+  "lon": -149.4094355
+}
+
+  ]
+}

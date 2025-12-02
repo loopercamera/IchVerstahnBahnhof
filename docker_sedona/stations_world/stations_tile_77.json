@@ -1,0 +1,4803 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-12-02T13:15:26Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 59721409,
+  "lat": -30.8503820,
+  "lon": 128.1055480,
+  "tags": {
+    "name": "Forrest",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 200100451,
+  "lat": -35.0638807,
+  "lon": 138.8631049,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 295012533,
+  "lat": -21.3555406,
+  "lon": 139.8660445,
+  "tags": {
+    "name": "Duchess",
+    "operator": "Queensland Rail",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 314536136,
+  "lat": -20.7356109,
+  "lon": 143.1416255,
+  "tags": {
+    "name": "Richmond",
+    "network": "QR Travel",
+    "operator": "Queensland Rail",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 467155299,
+  "lat": -35.1293057,
+  "lon": 138.4962767,
+  "tags": {
+    "addr:state": "SA",
+    "addr:suburb": "Christie Downs",
+    "internet_access": "no",
+    "name": "Christie Downs",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5110667"
+  }
+},
+{
+  "type": "node",
+  "id": 529381579,
+  "lat": -35.5046315,
+  "lon": 138.7852884,
+  "tags": {
+    "name": "Goolwa",
+    "public_transport": "station",
+    "railway": "station",
+    "website": "https://www.steamrangerheritagerailway.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 581903174,
+  "lat": -20.7142093,
+  "lon": 140.5173868,
+  "tags": {
+    "name": "Cloncurry",
+    "operator": "QueenslandRail",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 675417016,
+  "lat": -34.9440713,
+  "lon": 138.5832950,
+  "tags": {
+    "name": "Adelaide Showground",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q16207882",
+    "wikipedia": "en:Adelaide Showground railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 676640060,
+  "lat": -35.0020461,
+  "lon": 138.5667810,
+  "tags": {
+    "name": "Mitchell Park",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6881332"
+  }
+},
+{
+  "type": "node",
+  "id": 679836169,
+  "lat": -35.1892435,
+  "lon": 138.4834967,
+  "tags": {
+    "name": "Seaford",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7440397",
+    "wikimedia_commons": "File:Seaford railway station, Adelaide, January 2023 03.jpg",
+    "wikipedia": "en:Seaford railway station, Adelaide"
+  }
+},
+{
+  "type": "node",
+  "id": 679840319,
+  "lat": -35.1787026,
+  "lon": 138.4876580,
+  "tags": {
+    "name": "Seaford Meadows",
+    "public_transport": "station",
+    "railway": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 684815566,
+  "lat": -34.8815596,
+  "lon": 138.5232402,
+  "tags": {
+    "name": "Albert Park",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "stop_id": "6666",
+    "train": "yes",
+    "wikidata": "Q4710976"
+  }
+},
+{
+  "type": "node",
+  "id": 684819832,
+  "lat": -34.8903714,
+  "lon": 138.5150404,
+  "tags": {
+    "internet_access": "no",
+    "name": "Seaton Park",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7442022"
+  }
+},
+{
+  "type": "node",
+  "id": 684825296,
+  "lat": -34.8992535,
+  "lon": 138.5016621,
+  "tags": {
+    "addr:floor": "G",
+    "air_conditioning": "no",
+    "internet_access": "no",
+    "name": "East Grange",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5328483"
+  }
+},
+{
+  "type": "node",
+  "id": 684827976,
+  "lat": -34.9002917,
+  "lon": 138.4908170,
+  "tags": {
+    "name": "Grange",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5595698"
+  }
+},
+{
+  "type": "node",
+  "id": 696115948,
+  "lat": -34.9588452,
+  "lon": 138.5905556,
+  "tags": {
+    "name": "Millswood",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "platforms": "1",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6860058",
+    "wikipedia": "en:Millswood railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 698638251,
+  "lat": -35.0251942,
+  "lon": 138.6143361,
+  "tags": {
+    "name": "Coromandel",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5172104"
+  }
+},
+{
+  "type": "node",
+  "id": 699631084,
+  "lat": -35.0113123,
+  "lon": 138.6232002,
+  "tags": {
+    "name": "Glenalta",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "toilets:wheelchair": "no",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5568135"
+  }
+},
+{
+  "type": "node",
+  "id": 699651081,
+  "lat": -35.0007250,
+  "lon": 138.6243137,
+  "tags": {
+    "name": "Pinera",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "train": "yes",
+    "wheelchair": "limited",
+    "wheelchair:description": "Long, reasonably steep wooden slat ramp to station platform.",
+    "wikidata": "Q7195546"
+  }
+},
+{
+  "type": "node",
+  "id": 873824909,
+  "lat": -30.6130764,
+  "lon": 130.4133740,
+  "tags": {
+    "name": "Cook",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 914401529,
+  "lat": -35.1379650,
+  "lon": 138.8750907,
+  "tags": {
+    "name": "Bugle Ranges",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1021829633,
+  "lat": -34.6129690,
+  "lon": 138.7387246,
+  "tags": {
+    "name": "Gawler Racecourse",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5528461"
+  }
+},
+{
+  "type": "node",
+  "id": 1285911385,
+  "lat": -35.0767018,
+  "lon": 138.5913893,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Bus interchange",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1491005688,
+  "lat": -35.1892422,
+  "lon": 138.4834332,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Seaford",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1763901269,
+  "lat": -35.5327245,
+  "lon": 138.6805146,
+  "tags": {
+    "name": "Port Elliot Station",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1763919355,
+  "lat": -34.9771959,
+  "lon": 138.6086658,
+  "tags": {
+    "check_date": "2023-10-30",
+    "name": "Mitcham",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6881047"
+  }
+},
+{
+  "type": "node",
+  "id": 1764783034,
+  "lat": -34.7173881,
+  "lon": 138.6646079,
+  "tags": {
+    "name": "Elizabeth Interchange",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5363827",
+    "wikipedia": "en:Elizabeth railway station, Adelaide"
+  }
+},
+{
+  "type": "node",
+  "id": 1764783035,
+  "lat": -34.7311441,
+  "lon": 138.6559308,
+  "tags": {
+    "name": "Elizabeth South",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q5363531"
+  }
+},
+{
+  "type": "node",
+  "id": 1764783036,
+  "lat": -34.6205715,
+  "lon": 138.7326159,
+  "tags": {
+    "name": "Evanston",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q14935708"
+  }
+},
+{
+  "type": "node",
+  "id": 1764783039,
+  "lat": -34.6518403,
+  "lon": 138.7066440,
+  "tags": {
+    "name": "Kudla",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q6441724"
+  }
+},
+{
+  "type": "node",
+  "id": 1764783040,
+  "lat": -34.6685052,
+  "lon": 138.6964763,
+  "tags": {
+    "name": "Munno Para",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q14935749"
+  }
+},
+{
+  "type": "node",
+  "id": 1764783041,
+  "lat": -34.6820803,
+  "lon": 138.6867099,
+  "tags": {
+    "name": "Smithfield",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7545529"
+  }
+},
+{
+  "type": "node",
+  "id": 1764783042,
+  "lat": -34.6285261,
+  "lon": 138.7259108,
+  "tags": {
+    "name": "Tambelin",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7681023"
+  }
+},
+{
+  "type": "node",
+  "id": 1764783044,
+  "lat": -34.7043235,
+  "lon": 138.6700074,
+  "tags": {
+    "name": "Womma",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q8031645"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069216,
+  "lat": -34.8581266,
+  "lon": 138.5184342,
+  "tags": {
+    "name": "Alberton",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q4712269"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069218,
+  "lat": -35.0209553,
+  "lon": 138.6190120,
+  "tags": {
+    "alt_name": "Blackwood Railway Station",
+    "name": "Blackwood",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q4923643"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069219,
+  "lat": -35.0215306,
+  "lon": 138.5191890,
+  "tags": {
+    "name": "Brighton",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "wheelchair": "yes",
+    "wikidata": "Q4967764"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069221,
+  "lat": -34.8659954,
+  "lon": 138.5247636,
+  "tags": {
+    "name": "Cheltenham",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5090252"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069222,
+  "lat": -34.9614472,
+  "lon": 138.5803984,
+  "tags": {
+    "check_date": "2023-08-04",
+    "name": "Clarence Park",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5126696",
+    "wikipedia": "en:Clarence Park railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069224,
+  "lat": -34.9516250,
+  "lon": 138.5848925,
+  "tags": {
+    "check_date": "2023-08-03",
+    "name": "Goodwood",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5583727",
+    "wikipedia": "en:Goodwood railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069225,
+  "lat": -35.0794295,
+  "lon": 138.5019052,
+  "tags": {
+    "name": "Hallett Cove Beach",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5642915"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069226,
+  "lat": -35.0662854,
+  "lon": 138.5056522,
+  "tags": {
+    "check_date": "2023-08-11",
+    "name": "Hallett Cove",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "platforms": "2",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5642919"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069228,
+  "lat": -35.0122882,
+  "lon": 138.5237052,
+  "tags": {
+    "name": "Hove",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5917036"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069230,
+  "lat": -35.1091741,
+  "lon": 138.4915699,
+  "tags": {
+    "name": "Lonsdale",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6674851"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069232,
+  "lat": -35.0461456,
+  "lon": 138.5126857,
+  "tags": {
+    "name": "Marino Rocks",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6764447"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069234,
+  "lat": -35.0423167,
+  "lon": 138.5172393,
+  "tags": {
+    "name": "Marino",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6764454"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069239,
+  "lat": -34.9251159,
+  "lon": 138.5802822,
+  "tags": {
+    "name": "Mile End",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6851077"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069240,
+  "lat": -35.0094418,
+  "lon": 138.5411164,
+  "tags": {
+    "alt_name": "Oaklands Railway Station",
+    "name": "Oaklands",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7074089"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069241,
+  "lat": -34.8347260,
+  "lon": 138.4919544,
+  "tags": {
+    "name": "Peterhead",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7178057"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069243,
+  "lat": -35.0325280,
+  "lon": 138.5214268,
+  "tags": {
+    "name": "Seacliff",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7440265"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069244,
+  "lat": -35.0113593,
+  "lon": 138.5336240,
+  "tags": {
+    "name": "Warradale",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7969915"
+  }
+},
+{
+  "type": "node",
+  "id": 1765069247,
+  "lat": -34.9829041,
+  "lon": 138.5671974,
+  "tags": {
+    "name": "Woodlands Park",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q14935774"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087133,
+  "lat": -34.9071821,
+  "lon": 138.5771429,
+  "tags": {
+    "name": "Bowden",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "stop_id": "6671",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q4950741"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087134,
+  "lat": -34.7746944,
+  "lon": 138.6381348,
+  "tags": {
+    "name": "Chidda",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5096593"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087135,
+  "lat": -34.8970509,
+  "lon": 138.5638708,
+  "tags": {
+    "name": "Croydon",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "stop_id": "6680",
+    "train": "yes",
+    "wikidata": "Q5189720"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087137,
+  "lat": -34.8347912,
+  "lon": 138.5857694,
+  "tags": {
+    "name": "Dry Creek",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5309505"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087138,
+  "lat": -34.8849630,
+  "lon": 138.5832342,
+  "tags": {
+    "name": "Dudley Park",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5311940"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087150,
+  "lat": -34.7990146,
+  "lon": 138.6165370,
+  "tags": {
+    "name": "Greenfields",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q5604030"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087153,
+  "lat": -34.8694760,
+  "lon": 138.5804811,
+  "tags": {
+    "historic": "yes",
+    "name": "Islington",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087156,
+  "lat": -34.8755760,
+  "lon": 138.5818839,
+  "tags": {
+    "name": "Islington",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q14935728"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087160,
+  "lat": -34.8595996,
+  "lon": 138.5783620,
+  "tags": {
+    "name": "Kilburn",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q6406620"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087163,
+  "lat": -34.8861975,
+  "lon": 138.5496684,
+  "tags": {
+    "name": "Kilkenny",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "stop_id": "6706",
+    "train": "yes",
+    "wikidata": "Q6407052"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087164,
+  "lat": -34.8038140,
+  "lon": 138.6122321,
+  "tags": {
+    "alt_name": "Mawson Lakes",
+    "alt_name:1": "Mawson Lakes Interchange",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Mawson Interchange",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "note": "Station is sign posted \"Mawson Interchange\", also appears as this on the network map. Listed in the GTFS as \"Mawson Lakes\".",
+    "operator": "Adelaide Metro",
+    "platforms": "2",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6794460"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087165,
+  "lat": -34.9062200,
+  "lon": 138.5816358,
+  "tags": {
+    "name": "North Adelaide",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "nearmap",
+    "train": "yes",
+    "wikidata": "Q7053666"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087166,
+  "lat": -34.7507628,
+  "lon": 138.6440954,
+  "tags": {
+    "name": "Nurlutta",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7070154"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087168,
+  "lat": -34.8961320,
+  "lon": 138.5843381,
+  "tags": {
+    "name": "Ovingham",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7114172"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087179,
+  "lat": -34.7912781,
+  "lon": 138.6233548,
+  "tags": {
+    "name": "Parafield Gardens",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q7134530"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087181,
+  "lat": -34.7829812,
+  "lon": 138.6307522,
+  "tags": {
+    "name": "Parafield",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7134529"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087182,
+  "lat": -34.7631592,
+  "lon": 138.6424335,
+  "tags": {
+    "name": "Salisbury Interchange",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7404841"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087183,
+  "lat": -34.8917660,
+  "lon": 138.5569819,
+  "tags": {
+    "name": "West Croydon",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "stop_id": "6743",
+    "train": "yes",
+    "wikidata": "Q7984916"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087185,
+  "lat": -34.8814267,
+  "lon": 138.5434962,
+  "tags": {
+    "name": "Woodville Park",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "nearmap",
+    "stop_id": "6747",
+    "train": "yes",
+    "wikidata": "Q8033536",
+    "wikipedia": "en:Woodville Park railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 1765087186,
+  "lat": -34.8771000,
+  "lon": 138.5377298,
+  "tags": {
+    "name": "Woodville",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "limited",
+    "wikidata": "Q8033544"
+  }
+},
+{
+  "type": "node",
+  "id": 1766793727,
+  "lat": -30.9451330,
+  "lon": 127.0378287,
+  "tags": {
+    "name": "Loongana",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1768318708,
+  "lat": -34.9909208,
+  "lon": 138.5612243,
+  "tags": {
+    "name": "Ascot Park",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q4804035"
+  }
+},
+{
+  "type": "node",
+  "id": 1782356050,
+  "lat": -34.6086466,
+  "lon": 138.7397302,
+  "tags": {
+    "name": "Gawler",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5528468"
+  }
+},
+{
+  "type": "node",
+  "id": 1783136032,
+  "lat": -32.3893754,
+  "lon": 142.4246929,
+  "tags": {
+    "name": "Menindee",
+    "network": "NSW TrainLink",
+    "network:wikidata": "Q6955406",
+    "operator": "NSW TrainLink",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1789411238,
+  "lat": -20.6588998,
+  "lon": 141.7466511,
+  "tags": {
+    "name": "Julia Creek",
+    "network": "QR Travel",
+    "operator": "Queensland Rail",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1820958040,
+  "lat": -34.8424595,
+  "lon": 138.4935064,
+  "tags": {
+    "name": "Glanville",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5566657"
+  }
+},
+{
+  "type": "node",
+  "id": 1875312356,
+  "lat": -34.9980109,
+  "lon": 138.6329154,
+  "tags": {
+    "name": "Belair",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "source": "bing",
+    "train": "yes",
+    "wikidata": "Q4881877"
+  }
+},
+{
+  "type": "node",
+  "id": 1875312360,
+  "lat": -34.6959022,
+  "lon": 138.6741062,
+  "tags": {
+    "name": "Broadmeadows",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "train": "yes",
+    "wikidata": "Q4972243",
+    "wikipedia": "en:Broadmeadows railway station, Adelaide"
+  }
+},
+{
+  "type": "node",
+  "id": 1875312387,
+  "lat": -34.8143081,
+  "lon": 138.4989381,
+  "tags": {
+    "name": "Draper",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "train": "yes",
+    "wikidata": "Q5305866"
+  }
+},
+{
+  "type": "node",
+  "id": 1875312395,
+  "lat": -35.0215958,
+  "lon": 138.5944007,
+  "tags": {
+    "name": "Eden Hills",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "wheelchair": "yes",
+    "wikidata": "Q5336869"
+  }
+},
+{
+  "type": "node",
+  "id": 1875312399,
+  "lat": -34.9721908,
+  "lon": 138.5712085,
+  "tags": {
+    "name": "Edwardstown",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "train": "yes",
+    "wikidata": "Q5346154"
+  }
+},
+{
+  "type": "node",
+  "id": 1875312400,
+  "lat": -34.9665632,
+  "lon": 138.5738531,
+  "tags": {
+    "check_date": "2023-08-11",
+    "name": "Emerson",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "train": "yes",
+    "wikidata": "Q5370953",
+    "wikipedia": "en:Emerson railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 1875312403,
+  "lat": -34.8487935,
+  "lon": 138.4949217,
+  "tags": {
+    "name": "Ethelton",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5403274"
+  }
+},
+{
+  "type": "node",
+  "id": 1875312407,
+  "lat": -34.5944565,
+  "lon": 138.7481957,
+  "tags": {
+    "name": "Gawler Central",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "train": "yes",
+    "wikidata": "Q5528456"
+  }
+},
+{
+  "type": "node",
+  "id": 1875312434,
+  "lat": -34.5952143,
+  "lon": 138.7409489,
+  "tags": {
+    "name": "Gawler Oval",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "train": "yes",
+    "wikidata": "Q5528460"
+  }
+},
+{
+  "type": "node",
+  "id": 1875312444,
+  "lat": -34.9951802,
+  "lon": 138.6058719,
+  "tags": {
+    "name": "Lynton",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "source": "bing",
+    "train": "yes",
+    "wikidata": "Q6709526"
+  }
+},
+{
+  "type": "node",
+  "id": 1875312448,
+  "lat": -34.7995318,
+  "lon": 138.4991055,
+  "tags": {
+    "name": "Midlunga",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "train": "yes",
+    "wikidata": "Q14935738"
+  }
+},
+{
+  "type": "node",
+  "id": 1875312468,
+  "lat": -34.7862504,
+  "lon": 138.4947848,
+  "tags": {
+    "name": "North Haven",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1875312477,
+  "lat": -34.7930564,
+  "lon": 138.4991809,
+  "tags": {
+    "name": "Osborne",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "train": "yes",
+    "wikidata": "Q13656491"
+  }
+},
+{
+  "type": "node",
+  "id": 1875312486,
+  "lat": -34.8491658,
+  "lon": 138.5078106,
+  "tags": {
+    "addr:street": "Baynes Place",
+    "addr:suburb": "Port Adelaide",
+    "internet_access": "no",
+    "name": "Port Adelaide",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "toilets:wheelchair": "no",
+    "train": "yes",
+    "wheelchair": "limited",
+    "wikidata": "Q7230458"
+  }
+},
+{
+  "type": "node",
+  "id": 1875312501,
+  "lat": -34.8056096,
+  "lon": 138.4990522,
+  "tags": {
+    "name": "Taperoo",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "train": "yes",
+    "wikidata": "Q7684546"
+  }
+},
+{
+  "type": "node",
+  "id": 1875312509,
+  "lat": -34.9839227,
+  "lon": 138.6110785,
+  "tags": {
+    "name": "Torrens Park",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "wikidata": "Q7827031"
+  }
+},
+{
+  "type": "node",
+  "id": 1875312529,
+  "lat": -34.9665601,
+  "lon": 138.5978512,
+  "tags": {
+    "name": "Unley Park",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing",
+    "train": "yes",
+    "wikidata": "Q7897036",
+    "wikipedia": "en:Unley Park railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 2037736989,
+  "lat": -19.6422799,
+  "lon": 134.1912203,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Greyhound"
+  }
+},
+{
+  "type": "node",
+  "id": 2280652430,
+  "lat": -34.8275032,
+  "lon": 138.4910972,
+  "tags": {
+    "name": "Largs",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "network:wikipedia": "en:Adelaide Metro",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "Adelaide Metro;bing",
+    "train": "yes",
+    "wikidata": "Q6489316"
+  }
+},
+{
+  "type": "node",
+  "id": 2287357228,
+  "lat": -34.9277898,
+  "lon": 138.5956435,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2348775406,
+  "lat": -34.7628965,
+  "lon": 138.6426435,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Salisbury Interchange",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2349001410,
+  "lat": -35.0210503,
+  "lon": 138.6190805,
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Blackwood Interchange",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2349012814,
+  "lat": -35.1398511,
+  "lon": 138.4954785,
+  "tags": {
+    "amenity": "bus_station",
+    "building": "roof",
+    "bus": "yes",
+    "name": "Colonnades Centre Interchange",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2429325354,
+  "lat": -34.5006396,
+  "lon": 139.0430013,
+  "tags": {
+    "name": "Angaston",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2431947060,
+  "lat": -34.2708878,
+  "lon": 140.5962737,
+  "tags": {
+    "name": "Berri",
+    "railway": "station",
+    "ruins": "yes",
+    "source": "ga.gov.au"
+  }
+},
+{
+  "type": "node",
+  "id": 2438796483,
+  "lat": -35.5119841,
+  "lon": 138.7040181,
+  "tags": {
+    "name": "Middleton",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2438840921,
+  "lat": -35.4471794,
+  "lon": 138.7638511,
+  "tags": {
+    "name": "Currency Creek",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2438840925,
+  "lat": -35.4074036,
+  "lon": 138.7932039,
+  "tags": {
+    "name": "Black Swamp",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2439007327,
+  "lat": -35.2612408,
+  "lon": 138.8920365,
+  "tags": {
+    "name": "Strathalbyn",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2442358863,
+  "lat": -33.4685285,
+  "lon": 136.1983143,
+  "tags": {
+    "fixme": "not precise",
+    "name": "Darke Peak",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "ga.gov.au"
+  }
+},
+{
+  "type": "node",
+  "id": 2448095730,
+  "lat": -32.9479720,
+  "lon": 135.2732875,
+  "tags": {
+    "name": "Yaninee",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2448123350,
+  "lat": -32.8558636,
+  "lon": 135.1545014,
+  "tags": {
+    "name": "Minnipa",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2450633344,
+  "lat": -32.1471718,
+  "lon": 133.6532506,
+  "tags": {
+    "fixme": "Location approx",
+    "name": "Thevenard",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2452856221,
+  "lat": -32.0524844,
+  "lon": 133.3298253,
+  "tags": {
+    "name": "Charra",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2452856250,
+  "lat": -32.0618038,
+  "lon": 133.5481306,
+  "tags": {
+    "name": "Moule",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2583356623,
+  "lat": -34.8707609,
+  "lon": 138.5297768,
+  "tags": {
+    "name": "St Clair",
+    "public_transport": "station",
+    "railway": "station",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2681454379,
+  "lat": -35.2550551,
+  "lon": 143.3650068,
+  "tags": {
+    "disused": "yes",
+    "name": "Pira",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3067694632,
+  "lat": -32.9742000,
+  "lon": 138.8363729,
+  "tags": {
+    "name": "Peterborough",
+    "railway": "station",
+    "wikidata": "Q19876996"
+  }
+},
+{
+  "type": "node",
+  "id": 3076041973,
+  "lat": -33.1838092,
+  "lon": 138.4834192,
+  "tags": {
+    "name": "Caltowie",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3076099033,
+  "lat": -33.2696734,
+  "lon": 138.3578751,
+  "tags": {
+    "name": "Gladstone",
+    "railway": "station",
+    "wikidata": "Q19873729"
+  }
+},
+{
+  "type": "node",
+  "id": 3298247253,
+  "lat": -29.0140764,
+  "lon": 134.7551467,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Greyhound Australia",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4459780179,
+  "lat": -25.8707909,
+  "lon": 133.4159714,
+  "tags": {
+    "name": "Kulgera",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4599116805,
+  "lat": -20.6659689,
+  "lon": 139.4912365,
+  "tags": {
+    "addr:housenumber": "550",
+    "addr:street": "Barkly Highway",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "contact:email": "admin@mountisacoaches.com.au",
+    "name": "Mount Isa Coaches",
+    "opening_hours": "08:30-17:00",
+    "operator": "Mount Isa Coaches",
+    "phone": "+61 7 4744 8585",
+    "public_transport": "station",
+    "website": "https://www.mountisacoaches.com.au/"
+  }
+},
+{
+  "type": "node",
+  "id": 4639874258,
+  "lat": -34.8199884,
+  "lon": 138.4947938,
+  "tags": {
+    "name": "Largs North",
+    "public_transport": "station",
+    "railway": "station",
+    "wheelchair": "yes",
+    "wikidata": "Q6489314"
+  }
+},
+{
+  "type": "node",
+  "id": 4704579319,
+  "lat": -23.7778086,
+  "lon": 133.8680289,
+  "tags": {
+    "name": "Macdonnell",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4706182030,
+  "lat": -32.4718844,
+  "lon": 137.9363461,
+  "tags": {
+    "name": "Saltia Siding",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4706252456,
+  "lat": -32.4540797,
+  "lon": 137.9753006,
+  "tags": {
+    "name": "Woolshed Flat",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4706266293,
+  "lat": -32.4055821,
+  "lon": 137.9709500,
+  "tags": {
+    "name": "Old Willows",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4711559830,
+  "lat": -31.8302444,
+  "lon": 138.1152818,
+  "tags": {
+    "name": "Neuroodla",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4770537643,
+  "lat": -35.0189494,
+  "lon": 138.5693022,
+  "tags": {
+    "name": "Flinders",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q66614419"
+  }
+},
+{
+  "type": "node",
+  "id": 4843488324,
+  "lat": -26.9690021,
+  "lon": 133.3701702,
+  "tags": {
+    "name": "Chandler",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4971583381,
+  "lat": -32.8508233,
+  "lon": 143.6253725,
+  "tags": {
+    "name": "Darnick",
+    "network": "NSW TrainLink",
+    "network:wikidata": "Q6955406",
+    "operator": "NSW TrainLink",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5157373490,
+  "lat": -35.7329203,
+  "lon": 143.9243722,
+  "tags": {
+    "name": "Kerang",
+    "network": "V/Line",
+    "network:wikidata": "Q7906335",
+    "operator": "V/Line",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6393557",
+    "wikipedia": "en:Kerang railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 5158897867,
+  "lat": -35.3415855,
+  "lon": 143.5624857,
+  "tags": {
+    "name": "Swan Hill",
+    "network": "V/Line",
+    "network:wikidata": "Q7906335",
+    "operator": "V/Line",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7653447",
+    "wikipedia": "en:Swan Hill railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 5182375871,
+  "lat": -34.7781969,
+  "lon": 138.4842255,
+  "tags": {
+    "name": "Outer Harbor",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7111977",
+    "wikipedia": "en:Outer Harbor railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 5234365897,
+  "lat": -34.9210001,
+  "lon": 138.5967672,
+  "tags": {
+    "addr:postcode": "5000",
+    "addr:street": "North Terrace",
+    "addr:suburb": "Adelaide",
+    "name": "Adelaide",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Torrens Transit",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q4681770",
+    "wikipedia": "en:Adelaide railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 6045779032,
+  "lat": -31.0048554,
+  "lon": 126.0916358,
+  "tags": {
+    "name": "Haig",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6045941372,
+  "lat": -30.9850406,
+  "lon": 126.5447734,
+  "tags": {
+    "name": "Nurina",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6045943583,
+  "lat": -30.8198519,
+  "lon": 128.4282225,
+  "tags": {
+    "name": "Reid",
+    "note": "Possible all loops and sidings removed. Cant tell from sat images",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6045943695,
+  "lat": -30.7672092,
+  "lon": 128.9689292,
+  "tags": {
+    "name": "Deakin",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6045971132,
+  "lat": -30.9027556,
+  "lon": 127.5294352,
+  "tags": {
+    "name": "Mundrabilla",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6408751732,
+  "lat": -28.9730850,
+  "lon": 134.3751025,
+  "tags": {
+    "name": "Manguri",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6592747626,
+  "lat": -34.1820696,
+  "lon": 142.1632065,
+  "tags": {
+    "addr:postcode": "3500",
+    "addr:state": "VIC",
+    "addr:suburb": "Mildura",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "contact:phone": "+61 3 5023 9065",
+    "name": "Mildura Railway Station",
+    "network": "PTV - Regional Buses",
+    "opening_hours": "Mo-Fr 06:25-22:00, Sa 06:00-12:00; Su 08:45-13:30,18:00-22:00",
+    "operator": "V/Line",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6905488747,
+  "lat": -18.2025321,
+  "lon": 142.2393224,
+  "tags": {
+    "name": "Croydon",
+    "network": "Queensland Rail Travel",
+    "operator": "Queensland Rail",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6905516794,
+  "lat": -18.5868972,
+  "lon": 143.6026968,
+  "tags": {
+    "name": "Forsayth",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6987024368,
+  "lat": -23.6974204,
+  "lon": 133.8734118,
+  "tags": {
+    "name": "Alice Springs",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q4726107"
+  }
+},
+{
+  "type": "node",
+  "id": 8172041218,
+  "lat": -33.1596872,
+  "lon": 138.0677592,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Greyhound"
+  }
+},
+{
+  "type": "node",
+  "id": 8172041219,
+  "lat": -32.4915869,
+  "lon": 137.7622331,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Greyhound",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 8172041318,
+  "lat": -32.5122502,
+  "lon": 137.8039656,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Greyhound",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 8172077117,
+  "lat": -34.1815377,
+  "lon": 138.1544727,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Greyhound",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 8280175964,
+  "lat": -35.0092044,
+  "lon": 138.5672917,
+  "tags": {
+    "name": "Tonsley",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7821677"
+  }
+},
+{
+  "type": "node",
+  "id": 9351321617,
+  "lat": -25.1978050,
+  "lon": 133.2010247,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Greyhound Australia"
+  }
+},
+{
+  "type": "node",
+  "id": 9554894021,
+  "lat": -35.1403105,
+  "lon": 138.4922784,
+  "tags": {
+    "name": "Noarlunga Centre",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7045546"
+  }
+},
+{
+  "type": "node",
+  "id": 11165118408,
+  "lat": -20.7265336,
+  "lon": 139.4848021,
+  "tags": {
+    "name": "Mount Isa",
+    "network": "QR Travel",
+    "operator": "Queensland Rail",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 12133562215,
+  "lat": -34.8448634,
+  "lon": 138.5087934,
+  "tags": {
+    "name": "Port Dock",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12587227209,
+  "lat": -35.1163745,
+  "lon": 139.2751735,
+  "tags": {
+    "name": "Murray Bridge (SA)",
+    "network": "Journey Beyond",
+    "operator": "Journey Beyond",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 53543374,
+  "nodes": [
+    676427490,
+    12063534083,
+    1733390898,
+    1733390894,
+    1733390895,
+    1733390888,
+    1733390893,
+    1733390885,
+    1733390887,
+    12063514464,
+    12063514465,
+    12063514466,
+    12063514467,
+    1733390883,
+    1733390877,
+    12063514468,
+    1733390870,
+    12063534069,
+    12063534077,
+    12063534075,
+    676427490
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Adelaide Parklands Terminal",
+    "operator": "Great Southern Rail",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 69721646,
+  "nodes": [
+    833886842,
+    833886838,
+    833886821,
+    11676123394,
+    833886827,
+    833886816,
+    833886846,
+    833886831,
+    11676123395,
+    833886839,
+    833886823,
+    833886849,
+    833886842
+  ],
+  "tags": {
+    "building": "transportation",
+    "name": "Murray Bridge",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q19630740"
+  }
+},
+{
+  "type": "way",
+  "id": 77749621,
+  "nodes": [
+    914401440,
+    914401556,
+    914401402,
+    914401477,
+    914401503,
+    914401289,
+    914401440
+  ],
+  "tags": {
+    "building": "train_station",
+    "name": "Mount Barker",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q6919619",
+    "wikipedia": "en:Mount Barker railway station"
+  }
+},
+{
+  "type": "way",
+  "id": 103232737,
+  "nodes": [
+    1191903622,
+    1191903407,
+    1191902959,
+    1191903281,
+    1191903622
+  ],
+  "tags": {
+    "area": "yes",
+    "building": "roof",
+    "check_date": "2024-03-30",
+    "layer": "1",
+    "name": "Semaphore",
+    "public_transport": "station",
+    "railway": "station",
+    "shelter_type": "public_transport",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 161324471,
+  "nodes": [
+    1733156711,
+    9854559242,
+    1733156710,
+    1733156702,
+    9854559246,
+    9854559243,
+    1733156691,
+    1733156687,
+    1733156677,
+    9854559247,
+    1733156679,
+    1733156688,
+    1733156693,
+    9854559244,
+    9854559245,
+    1733156709,
+    1733156711
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "roof",
+    "bus": "yes",
+    "highway": "platform",
+    "layer": "1",
+    "name": "Salisbury Interchange",
+    "public_transport": "station",
+    "shelter": "yes",
+    "train": "no",
+    "tram": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 161324481,
+  "nodes": [
+    1733156714,
+    1733156708,
+    1733156704,
+    1733156700,
+    9854559253,
+    1733156698,
+    9854559252,
+    1733156694,
+    1733156689,
+    1733156686,
+    1733156680,
+    9854559249,
+    1733156681,
+    9854559248,
+    1733156685,
+    1733156690,
+    9854559250,
+    1733156695,
+    9854559251,
+    9854559254,
+    1733156699,
+    1733156705,
+    1733156716,
+    1733156720,
+    1733156719,
+    1733156715,
+    1733156714
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "roof",
+    "bus": "yes",
+    "highway": "platform",
+    "layer": "1",
+    "name": "Salisbury Interchange",
+    "public_transport": "station",
+    "shelter": "yes",
+    "train": "no",
+    "tram": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 176868392,
+  "nodes": [
+    1873494456,
+    1873494465,
+    1873494466,
+    1873494463,
+    1873494464,
+    1873494461,
+    1873494460,
+    1873494458,
+    1873494456
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Winton",
+    "railway": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 177030784,
+  "nodes": [
+    1874978785,
+    1874978790,
+    1874978797,
+    1874978793,
+    3996695495,
+    3996694751,
+    3996695499,
+    3996695516,
+    3996695482,
+    1874978785
+  ],
+  "tags": {
+    "addr:postcode": "2880",
+    "addr:street": "Crystal Street",
+    "addr:suburb": "Broken Hill",
+    "building": "train_station",
+    "name": "Broken Hill",
+    "network": "NSW TrainLink",
+    "network:wikidata": "Q6955406",
+    "platforms": "2",
+    "public_transport": "station",
+    "railway": "station",
+    "ref": "28801",
+    "source": "Bing",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 192818110,
+  "nodes": [
+    2517000980,
+    2268929843,
+    2033573712,
+    2517000983,
+    2033573710,
+    2033573714,
+    2517000980
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "roof",
+    "bus": "yes",
+    "layer": "1",
+    "name": "Mawson Interchange",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 193052239,
+  "nodes": [
+    2035854935,
+    2035854944,
+    2035854943,
+    2035854940,
+    2035854941,
+    2035854937,
+    1091625348,
+    2035854942,
+    2035854938,
+    2035854936,
+    2035854939,
+    2035854935
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Elizabeth City Centre Interchange",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 193052779,
+  "nodes": [
+    2035860944,
+    2035860941,
+    2035860942,
+    2035860943,
+    2035860944
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Munno Para Centre Interchange",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 193052919,
+  "nodes": [
+    2035861688,
+    2035861687,
+    2035861690,
+    2039391137,
+    2035861689,
+    2035861688
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Paradise Interchange",
+    "public_transport": "station",
+    "wikidata": "Q7134290",
+    "wikipedia": "en:Paradise Interchange"
+  }
+},
+{
+  "type": "way",
+  "id": 193053441,
+  "nodes": [
+    5408783926,
+    2035866789,
+    2035866791,
+    5408783927,
+    5408783926
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Old Reynella Interchange",
+    "operator": "Adelaide Metro",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 193053584,
+  "nodes": [
+    2035868199,
+    13157354160,
+    2035868201,
+    2035868198,
+    2035868193,
+    2035868202,
+    13157354178,
+    2035868197,
+    2035868200,
+    2035868196,
+    2035868194,
+    2035868195,
+    13157354210,
+    2035868199
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Noarlunga Centre Interchange",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 193053748,
+  "nodes": [
+    2035869585,
+    2035869580,
+    2035869579,
+    2035869584,
+    2035869583,
+    2035869582,
+    2035869581,
+    2035869585
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Marion Centre Interchange",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 193054021,
+  "nodes": [
+    2035871838,
+    2035871844,
+    2035871840,
+    2035871843,
+    2035871846,
+    2035871845,
+    5352097476,
+    5352143788,
+    2035871839,
+    5352143787,
+    5352097474,
+    2035871841,
+    2035871842,
+    5352097475,
+    2035871838
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Aberfoyle Hub Centre Interchange",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 193054169,
+  "nodes": [
+    2035873115,
+    4457312561,
+    2035873116,
+    2035873114,
+    2035873113,
+    2035873115
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Golden Grove Village Interchange",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 193054554,
+  "nodes": [
+    467146391,
+    2035876250,
+    2035876251,
+    2035876249,
+    2035876255,
+    467146405,
+    467146399,
+    5300153789,
+    5344050224,
+    5344050225,
+    467146391
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Colonnades Centre Interchange",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 193218925,
+  "nodes": [
+    2037373779,
+    2037373789,
+    2037373794,
+    2037373783,
+    2037373774,
+    2037373779
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Flinders University Interchange",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 193220970,
+  "nodes": [
+    2037386527,
+    2037386523,
+    2037386528,
+    2280671485,
+    2037386525,
+    2037386522,
+    2399590133,
+    2037386526,
+    2037386527
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Flinders Medical Centre Interchange",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 194224039,
+  "nodes": [
+    2047439410,
+    2047439431,
+    2047439407,
+    2047439433,
+    2091768201,
+    2047439428,
+    2047439401,
+    2047439402,
+    2047439403,
+    2047439412,
+    2047439404,
+    4689760645,
+    4689760642,
+    2047439414,
+    2047439421,
+    2047439427,
+    2047439410
+  ],
+  "tags": {
+    "alt_name": "Modbury Interchange",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Tea Tree Plaza Interchange",
+    "public_transport": "station",
+    "wikidata": "Q7691107",
+    "wikipedia": "en:Tea Tree Plaza Interchange"
+  }
+},
+{
+  "type": "way",
+  "id": 226015495,
+  "nodes": [
+    2348693160,
+    2348693158,
+    2348693153,
+    11422487039,
+    2348693157,
+    2348693150,
+    2348693154,
+    2348693160
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "roof",
+    "bus": "yes",
+    "layer": "1",
+    "name": "Smithfield Interchange",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 234880691,
+  "nodes": [
+    2430048671,
+    2430048675,
+    2430048676,
+    2430048683,
+    2430048682,
+    2430048685,
+    2430048684,
+    2430048681,
+    2430048680,
+    2430048673,
+    2430048674,
+    2430048670,
+    2430048671
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Port Augusta",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q19877164",
+    "wikipedia": "en:Port Augusta railway station"
+  }
+},
+{
+  "type": "way",
+  "id": 491899403,
+  "nodes": [
+    4839863660,
+    4839863661,
+    4839863662,
+    4839863663,
+    4839863660
+  ],
+  "tags": {
+    "area": "yes",
+    "building": "train_station",
+    "name": "Tennant Creek",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q9356715"
+  }
+},
+{
+  "type": "way",
+  "id": 552944757,
+  "nodes": [
+    5338222869,
+    5338222870,
+    5338222871,
+    5338222872,
+    5338222869
+  ],
+  "tags": {
+    "area": "yes",
+    "building": "yes",
+    "name": "Marion",
+    "network": "Adelaide Metro",
+    "network:wikidata": "Q4681753",
+    "operator": "Adelaide Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6765465"
+  }
+},
+{
+  "type": "way",
+  "id": 808643429,
+  "nodes": [
+    7561503859,
+    7561503860,
+    7561503861,
+    7561503862,
+    7561503864,
+    7561503863,
+    7561503859
+  ],
+  "tags": {
+    "addr:housenumber": "24",
+    "addr:postcode": "5606",
+    "addr:state": "SA",
+    "addr:street": "Lewis Street",
+    "addr:suburb": "Port Lincoln",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Premier Stateliner",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 889594194,
+  "nodes": [
+    8270369566,
+    8270369567,
+    8270369568,
+    8270369569,
+    8270369566
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Victor Harbour",
+    "public_transport": "station",
+    "railway": "station",
+    "website": "https://www.steamrangerheritagerailway.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 1168491838,
+  "nodes": [
+    10867098306,
+    10867098399,
+    10867098307,
+    10867098308,
+    10867098309,
+    10867098310,
+    10867098311,
+    10867098312,
+    10867098313,
+    10867098314,
+    10867098315,
+    10867098316,
+    10867098317,
+    10867098306
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Tailem Bend",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1320023342,
+  "nodes": [
+    12215500103,
+    12215500104,
+    12215500105,
+    12215500106,
+    12215500103
+  ],
+  "tags": {
+    "area": "yes",
+    "building": "roof",
+    "layer": "1",
+    "name": "Fort Glanville",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1334500782,
+  "nodes": [
+    12345931044,
+    12345931048,
+    12345931045,
+    12345931046,
+    12345931060,
+    12345931047,
+    13245593914,
+    13245594106,
+    12345931044
+  ],
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:postcode": "3496",
+    "addr:state": "VIC",
+    "addr:street": "Millewa Road",
+    "addr:suburb": "Red Cliffs",
+    "building": "train_station",
+    "name": "Red Cliffs",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1417679793,
+  "nodes": [
+    13027987280,
+    13174720851,
+    13174720983,
+    13027987281,
+    13174720862,
+    13027987282,
+    13027987283,
+    13027987280
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Klemzig Interchange",
+    "public_transport": "station",
+    "wikidata": "Q6420522",
+    "wikipedia": "en:Klemzig Interchange"
+  }
+},
+{
+  "type": "way",
+  "id": 1417721799,
+  "nodes": [
+    13026658091,
+    250733792,
+    250733790,
+    1909814786,
+    13026658098,
+    13026658097,
+    13026658096,
+    13026658095,
+    13026658068,
+    13026658078,
+    13026658069,
+    13026658070,
+    13026658071,
+    13026658089,
+    13026658090,
+    13026658091
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Port Dock Interchange",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4839863660,
+  "lat": -19.6932250,
+  "lon": 134.1755529
+},
+{
+  "type": "node",
+  "id": 4839863661,
+  "lat": -19.6932859,
+  "lon": 134.1755563
+},
+{
+  "type": "node",
+  "id": 4839863662,
+  "lat": -19.6932829,
+  "lon": 134.1756166
+},
+{
+  "type": "node",
+  "id": 4839863663,
+  "lat": -19.6932220,
+  "lon": 134.1756127
+},
+{
+  "type": "node",
+  "id": 7561503859,
+  "lat": -34.7189309,
+  "lon": 135.8551110
+},
+{
+  "type": "node",
+  "id": 7561503860,
+  "lat": -34.7190036,
+  "lon": 135.8551715
+},
+{
+  "type": "node",
+  "id": 7561503861,
+  "lat": -34.7190361,
+  "lon": 135.8552180
+},
+{
+  "type": "node",
+  "id": 7561503862,
+  "lat": -34.7189871,
+  "lon": 135.8552705
+},
+{
+  "type": "node",
+  "id": 7561503863,
+  "lat": -34.7188999,
+  "lon": 135.8551434
+},
+{
+  "type": "node",
+  "id": 7561503864,
+  "lat": -34.7189081,
+  "lon": 135.8551554
+},
+{
+  "type": "node",
+  "id": 8270369566,
+  "lat": -35.5543397,
+  "lon": 138.6240262
+},
+{
+  "type": "node",
+  "id": 8270369567,
+  "lat": -35.5543312,
+  "lon": 138.6241301
+},
+{
+  "type": "node",
+  "id": 8270369568,
+  "lat": -35.5547149,
+  "lon": 138.6241710
+},
+{
+  "type": "node",
+  "id": 8270369569,
+  "lat": -35.5547168,
+  "lon": 138.6240612
+},
+{
+  "type": "node",
+  "id": 467146391,
+  "lat": -35.1396881,
+  "lon": 138.4950589
+},
+{
+  "type": "node",
+  "id": 467146399,
+  "lat": -35.1396252,
+  "lon": 138.4955131
+},
+{
+  "type": "node",
+  "id": 467146405,
+  "lat": -35.1395970,
+  "lon": 138.4960919
+},
+{
+  "type": "node",
+  "id": 2035868193,
+  "lat": -35.1410841,
+  "lon": 138.4912666
+},
+{
+  "type": "node",
+  "id": 2035868194,
+  "lat": -35.1396567,
+  "lon": 138.4921834
+},
+{
+  "type": "node",
+  "id": 2035868195,
+  "lat": -35.1398046,
+  "lon": 138.4921938
+},
+{
+  "type": "node",
+  "id": 2035868196,
+  "lat": -35.1395694,
+  "lon": 138.4920208
+},
+{
+  "type": "node",
+  "id": 2035868197,
+  "lat": -35.1396913,
+  "lon": 138.4917494
+},
+{
+  "type": "node",
+  "id": 2035868198,
+  "lat": -35.1411639,
+  "lon": 138.4915376
+},
+{
+  "type": "node",
+  "id": 2035868199,
+  "lat": -35.1403050,
+  "lon": 138.4920081
+},
+{
+  "type": "node",
+  "id": 2035868200,
+  "lat": -35.1395789,
+  "lon": 138.4918338
+},
+{
+  "type": "node",
+  "id": 2035868201,
+  "lat": -35.1410719,
+  "lon": 138.4916932
+},
+{
+  "type": "node",
+  "id": 2035868202,
+  "lat": -35.1409433,
+  "lon": 138.4912356
+},
+{
+  "type": "node",
+  "id": 2035876249,
+  "lat": -35.1396353,
+  "lon": 138.4963392
+},
+{
+  "type": "node",
+  "id": 2035876250,
+  "lat": -35.1398725,
+  "lon": 138.4950723
+},
+{
+  "type": "node",
+  "id": 2035876251,
+  "lat": -35.1398230,
+  "lon": 138.4958270
+},
+{
+  "type": "node",
+  "id": 2035876255,
+  "lat": -35.1395313,
+  "lon": 138.4962821
+},
+{
+  "type": "node",
+  "id": 5300153789,
+  "lat": -35.1396366,
+  "lon": 138.4952870
+},
+{
+  "type": "node",
+  "id": 5344050224,
+  "lat": -35.1393801,
+  "lon": 138.4952676
+},
+{
+  "type": "node",
+  "id": 5344050225,
+  "lat": -35.1393918,
+  "lon": 138.4950365
+},
+{
+  "type": "node",
+  "id": 13157354160,
+  "lat": -35.1405484,
+  "lon": 138.4919082
+},
+{
+  "type": "node",
+  "id": 13157354178,
+  "lat": -35.1404062,
+  "lon": 138.4914560
+},
+{
+  "type": "node",
+  "id": 13157354210,
+  "lat": -35.1398921,
+  "lon": 138.4921613
+},
+{
+  "type": "node",
+  "id": 2035866789,
+  "lat": -35.0958627,
+  "lon": 138.5377154
+},
+{
+  "type": "node",
+  "id": 2035866791,
+  "lat": -35.0951583,
+  "lon": 138.5385343
+},
+{
+  "type": "node",
+  "id": 5408783926,
+  "lat": -35.0957071,
+  "lon": 138.5375293
+},
+{
+  "type": "node",
+  "id": 5408783927,
+  "lat": -35.0949972,
+  "lon": 138.5383359
+},
+{
+  "type": "node",
+  "id": 2035871838,
+  "lat": -35.0761852,
+  "lon": 138.5907644
+},
+{
+  "type": "node",
+  "id": 2035871839,
+  "lat": -35.0759182,
+  "lon": 138.5906380
+},
+{
+  "type": "node",
+  "id": 2035871840,
+  "lat": -35.0765742,
+  "lon": 138.5912650
+},
+{
+  "type": "node",
+  "id": 2035871841,
+  "lat": -35.0759215,
+  "lon": 138.5902685
+},
+{
+  "type": "node",
+  "id": 2035871842,
+  "lat": -35.0760266,
+  "lon": 138.5905829
+},
+{
+  "type": "node",
+  "id": 2035871843,
+  "lat": -35.0768482,
+  "lon": 138.5915851
+},
+{
+  "type": "node",
+  "id": 2035871844,
+  "lat": -35.0765409,
+  "lon": 138.5911869
+},
+{
+  "type": "node",
+  "id": 2035871845,
+  "lat": -35.0760934,
+  "lon": 138.5908619
+},
+{
+  "type": "node",
+  "id": 2035871846,
+  "lat": -35.0767889,
+  "lon": 138.5916642
+},
+{
+  "type": "node",
+  "id": 5352097474,
+  "lat": -35.0758115,
+  "lon": 138.5903089
+},
+{
+  "type": "node",
+  "id": 5352097475,
+  "lat": -35.0760966,
+  "lon": 138.5906930
+},
+{
+  "type": "node",
+  "id": 5352097476,
+  "lat": -35.0760194,
+  "lon": 138.5907699
+},
+{
+  "type": "node",
+  "id": 5352143787,
+  "lat": -35.0758201,
+  "lon": 138.5903483
+},
+{
+  "type": "node",
+  "id": 5352143788,
+  "lat": -35.0759480,
+  "lon": 138.5906606
+},
+{
+  "type": "node",
+  "id": 2037386522,
+  "lat": -35.0220695,
+  "lon": 138.5678288
+},
+{
+  "type": "node",
+  "id": 2037386523,
+  "lat": -35.0214514,
+  "lon": 138.5680404
+},
+{
+  "type": "node",
+  "id": 2037386525,
+  "lat": -35.0222025,
+  "lon": 138.5678460
+},
+{
+  "type": "node",
+  "id": 2037386526,
+  "lat": -35.0213519,
+  "lon": 138.5677790
+},
+{
+  "type": "node",
+  "id": 2037386527,
+  "lat": -35.0212197,
+  "lon": 138.5677939
+},
+{
+  "type": "node",
+  "id": 2037386528,
+  "lat": -35.0217530,
+  "lon": 138.5679927
+},
+{
+  "type": "node",
+  "id": 2280671485,
+  "lat": -35.0220790,
+  "lon": 138.5680180
+},
+{
+  "type": "node",
+  "id": 2399590133,
+  "lat": -35.0216748,
+  "lon": 138.5678014
+},
+{
+  "type": "node",
+  "id": 2035869579,
+  "lat": -35.0175283,
+  "lon": 138.5468557
+},
+{
+  "type": "node",
+  "id": 2035869580,
+  "lat": -35.0176432,
+  "lon": 138.5468887
+},
+{
+  "type": "node",
+  "id": 2035869581,
+  "lat": -35.0177385,
+  "lon": 138.5449232
+},
+{
+  "type": "node",
+  "id": 2035869582,
+  "lat": -35.0175810,
+  "lon": 138.5450318
+},
+{
+  "type": "node",
+  "id": 2035869583,
+  "lat": -35.0175478,
+  "lon": 138.5451232
+},
+{
+  "type": "node",
+  "id": 2035869584,
+  "lat": -35.0174554,
+  "lon": 138.5467274
+},
+{
+  "type": "node",
+  "id": 2035869585,
+  "lat": -35.0177311,
+  "lon": 138.5450916
+},
+{
+  "type": "node",
+  "id": 2037373774,
+  "lat": -35.0248436,
+  "lon": 138.5717180
+},
+{
+  "type": "node",
+  "id": 2037373779,
+  "lat": -35.0249221,
+  "lon": 138.5714836
+},
+{
+  "type": "node",
+  "id": 2037373783,
+  "lat": -35.0248673,
+  "lon": 138.5729711
+},
+{
+  "type": "node",
+  "id": 2037373789,
+  "lat": -35.0249551,
+  "lon": 138.5730238
+},
+{
+  "type": "node",
+  "id": 2037373794,
+  "lat": -35.0248429,
+  "lon": 138.5730253
+},
+{
+  "type": "node",
+  "id": 5338222869,
+  "lat": -34.9990606,
+  "lon": 138.5527170
+},
+{
+  "type": "node",
+  "id": 5338222870,
+  "lat": -34.9990861,
+  "lon": 138.5527460
+},
+{
+  "type": "node",
+  "id": 5338222871,
+  "lat": -34.9989360,
+  "lon": 138.5529423
+},
+{
+  "type": "node",
+  "id": 5338222872,
+  "lat": -34.9989105,
+  "lon": 138.5529133
+},
+{
+  "type": "node",
+  "id": 676427490,
+  "lat": -34.9385780,
+  "lon": 138.5813206
+},
+{
+  "type": "node",
+  "id": 1733390870,
+  "lat": -34.9375467,
+  "lon": 138.5810884
+},
+{
+  "type": "node",
+  "id": 1733390877,
+  "lat": -34.9375862,
+  "lon": 138.5810408
+},
+{
+  "type": "node",
+  "id": 1733390883,
+  "lat": -34.9376938,
+  "lon": 138.5809410
+},
+{
+  "type": "node",
+  "id": 1733390885,
+  "lat": -34.9381654,
+  "lon": 138.5810472
+},
+{
+  "type": "node",
+  "id": 1733390887,
+  "lat": -34.9381686,
+  "lon": 138.5810188
+},
+{
+  "type": "node",
+  "id": 1733390888,
+  "lat": -34.9384208,
+  "lon": 138.5811756
+},
+{
+  "type": "node",
+  "id": 1733390893,
+  "lat": -34.9384302,
+  "lon": 138.5810913
+},
+{
+  "type": "node",
+  "id": 1733390894,
+  "lat": -34.9384735,
+  "lon": 138.5812066
+},
+{
+  "type": "node",
+  "id": 1733390895,
+  "lat": -34.9384759,
+  "lon": 138.5811848
+},
+{
+  "type": "node",
+  "id": 1733390898,
+  "lat": -34.9385887,
+  "lon": 138.5812258
+},
+{
+  "type": "node",
+  "id": 12063514464,
+  "lat": -34.9379871,
+  "lon": 138.5809886
+},
+{
+  "type": "node",
+  "id": 12063514465,
+  "lat": -34.9379861,
+  "lon": 138.5809981
+},
+{
+  "type": "node",
+  "id": 12063514466,
+  "lat": -34.9378489,
+  "lon": 138.5809753
+},
+{
+  "type": "node",
+  "id": 12063514467,
+  "lat": -34.9378499,
+  "lon": 138.5809669
+},
+{
+  "type": "node",
+  "id": 12063514468,
+  "lat": -34.9375906,
+  "lon": 138.5810478
+},
+{
+  "type": "node",
+  "id": 12063534069,
+  "lat": -34.9375402,
+  "lon": 138.5811466
+},
+{
+  "type": "node",
+  "id": 12063534075,
+  "lat": -34.9384577,
+  "lon": 138.5812997
+},
+{
+  "type": "node",
+  "id": 12063534077,
+  "lat": -34.9375475,
+  "lon": 138.5811478
+},
+{
+  "type": "node",
+  "id": 12063534083,
+  "lat": -34.9385785,
+  "lon": 138.5813160
+},
+{
+  "type": "node",
+  "id": 12215500103,
+  "lat": -34.8526231,
+  "lon": 138.4768436
+},
+{
+  "type": "node",
+  "id": 12215500104,
+  "lat": -34.8526270,
+  "lon": 138.4769355
+},
+{
+  "type": "node",
+  "id": 12215500105,
+  "lat": -34.8527865,
+  "lon": 138.4769194
+},
+{
+  "type": "node",
+  "id": 12215500106,
+  "lat": -34.8527816,
+  "lon": 138.4768309
+},
+{
+  "type": "node",
+  "id": 1191902959,
+  "lat": -34.8383998,
+  "lon": 138.4794068
+},
+{
+  "type": "node",
+  "id": 1191903281,
+  "lat": -34.8383767,
+  "lon": 138.4793225
+},
+{
+  "type": "node",
+  "id": 1191903407,
+  "lat": -34.8382461,
+  "lon": 138.4794692
+},
+{
+  "type": "node",
+  "id": 1191903622,
+  "lat": -34.8382230,
+  "lon": 138.4793850
+},
+{
+  "type": "node",
+  "id": 250733790,
+  "lat": -34.8452738,
+  "lon": 138.5076918
+},
+{
+  "type": "node",
+  "id": 250733792,
+  "lat": -34.8449289,
+  "lon": 138.5074471
+},
+{
+  "type": "node",
+  "id": 1909814786,
+  "lat": -34.8453410,
+  "lon": 138.5077603
+},
+{
+  "type": "node",
+  "id": 13026658068,
+  "lat": -34.8448387,
+  "lon": 138.5085476
+},
+{
+  "type": "node",
+  "id": 13026658069,
+  "lat": -34.8447576,
+  "lon": 138.5085240
+},
+{
+  "type": "node",
+  "id": 13026658070,
+  "lat": -34.8447437,
+  "lon": 138.5085352
+},
+{
+  "type": "node",
+  "id": 13026658071,
+  "lat": -34.8446434,
+  "lon": 138.5084485
+},
+{
+  "type": "node",
+  "id": 13026658078,
+  "lat": -34.8447950,
+  "lon": 138.5085349
+},
+{
+  "type": "node",
+  "id": 13026658089,
+  "lat": -34.8446282,
+  "lon": 138.5084223
+},
+{
+  "type": "node",
+  "id": 13026658090,
+  "lat": -34.8447845,
+  "lon": 138.5075475
+},
+{
+  "type": "node",
+  "id": 13026658091,
+  "lat": -34.8448272,
+  "lon": 138.5073680
+},
+{
+  "type": "node",
+  "id": 13026658095,
+  "lat": -34.8448804,
+  "lon": 138.5085578
+},
+{
+  "type": "node",
+  "id": 13026658096,
+  "lat": -34.8449378,
+  "lon": 138.5085377
+},
+{
+  "type": "node",
+  "id": 13026658097,
+  "lat": -34.8449749,
+  "lon": 138.5085072
+},
+{
+  "type": "node",
+  "id": 13026658098,
+  "lat": -34.8450751,
+  "lon": 138.5083682
+},
+{
+  "type": "node",
+  "id": 2033573710,
+  "lat": -34.8044414,
+  "lon": 138.6118280
+},
+{
+  "type": "node",
+  "id": 2033573712,
+  "lat": -34.8036592,
+  "lon": 138.6125549
+},
+{
+  "type": "node",
+  "id": 2033573714,
+  "lat": -34.8044209,
+  "lon": 138.6117908
+},
+{
+  "type": "node",
+  "id": 2268929843,
+  "lat": -34.8036370,
+  "lon": 138.6125253
+},
+{
+  "type": "node",
+  "id": 2517000980,
+  "lat": -34.8043840,
+  "lon": 138.6118189
+},
+{
+  "type": "node",
+  "id": 2517000983,
+  "lat": -34.8044174,
+  "lon": 138.6118503
+},
+{
+  "type": "node",
+  "id": 13027987280,
+  "lat": -34.8860217,
+  "lon": 138.6396645
+},
+{
+  "type": "node",
+  "id": 13027987281,
+  "lat": -34.8863757,
+  "lon": 138.6399145
+},
+{
+  "type": "node",
+  "id": 13027987282,
+  "lat": -34.8866974,
+  "lon": 138.6392376
+},
+{
+  "type": "node",
+  "id": 13027987283,
+  "lat": -34.8863433,
+  "lon": 138.6389876
+},
+{
+  "type": "node",
+  "id": 13174720851,
+  "lat": -34.8860791,
+  "lon": 138.6397050
+},
+{
+  "type": "node",
+  "id": 13174720862,
+  "lat": -34.8865809,
+  "lon": 138.6394827
+},
+{
+  "type": "node",
+  "id": 13174720983,
+  "lat": -34.8862665,
+  "lon": 138.6398374
+},
+{
+  "type": "node",
+  "id": 2035861690,
+  "lat": -34.8689071,
+  "lon": 138.6608674
+},
+{
+  "type": "node",
+  "id": 2035861687,
+  "lat": -34.8693315,
+  "lon": 138.6613295
+},
+{
+  "type": "node",
+  "id": 2035861688,
+  "lat": -34.8684650,
+  "lon": 138.6625402
+},
+{
+  "type": "node",
+  "id": 2035861689,
+  "lat": -34.8680795,
+  "lon": 138.6620163
+},
+{
+  "type": "node",
+  "id": 2039391137,
+  "lat": -34.8682332,
+  "lon": 138.6618029
+},
+{
+  "type": "node",
+  "id": 2047439401,
+  "lat": -34.8311566,
+  "lon": 138.6940549
+},
+{
+  "type": "node",
+  "id": 2047439402,
+  "lat": -34.8309341,
+  "lon": 138.6940980
+},
+{
+  "type": "node",
+  "id": 2047439403,
+  "lat": -34.8309164,
+  "lon": 138.6944210
+},
+{
+  "type": "node",
+  "id": 2047439404,
+  "lat": -34.8310871,
+  "lon": 138.6946790
+},
+{
+  "type": "node",
+  "id": 2047439407,
+  "lat": -34.8322361,
+  "lon": 138.6942891
+},
+{
+  "type": "node",
+  "id": 2047439410,
+  "lat": -34.8329918,
+  "lon": 138.6943136
+},
+{
+  "type": "node",
+  "id": 2047439412,
+  "lat": -34.8310575,
+  "lon": 138.6945189
+},
+{
+  "type": "node",
+  "id": 2047439414,
+  "lat": -34.8317762,
+  "lon": 138.6947928
+},
+{
+  "type": "node",
+  "id": 2047439421,
+  "lat": -34.8327566,
+  "lon": 138.6948176
+},
+{
+  "type": "node",
+  "id": 2047439427,
+  "lat": -34.8329577,
+  "lon": 138.6947631
+},
+{
+  "type": "node",
+  "id": 2047439428,
+  "lat": -34.8314007,
+  "lon": 138.6941930
+},
+{
+  "type": "node",
+  "id": 2047439431,
+  "lat": -34.8328262,
+  "lon": 138.6940341
+},
+{
+  "type": "node",
+  "id": 2047439433,
+  "lat": -34.8317288,
+  "lon": 138.6942655
+},
+{
+  "type": "node",
+  "id": 2091768201,
+  "lat": -34.8315157,
+  "lon": 138.6942184
+},
+{
+  "type": "node",
+  "id": 4689760642,
+  "lat": -34.8315260,
+  "lon": 138.6948269
+},
+{
+  "type": "node",
+  "id": 4689760645,
+  "lat": -34.8311643,
+  "lon": 138.6947882
+},
+{
+  "type": "node",
+  "id": 914401289,
+  "lat": -35.0641350,
+  "lon": 138.8637710
+},
+{
+  "type": "node",
+  "id": 914401402,
+  "lat": -35.0642414,
+  "lon": 138.8640224
+},
+{
+  "type": "node",
+  "id": 914401440,
+  "lat": -35.0640598,
+  "lon": 138.8636926
+},
+{
+  "type": "node",
+  "id": 914401477,
+  "lat": -35.0643159,
+  "lon": 138.8639271
+},
+{
+  "type": "node",
+  "id": 914401503,
+  "lat": -35.0641509,
+  "lon": 138.8637516
+},
+{
+  "type": "node",
+  "id": 914401556,
+  "lat": -35.0640080,
+  "lon": 138.8637685
+},
+{
+  "type": "node",
+  "id": 1733156677,
+  "lat": -34.7619753,
+  "lon": 138.6425400
+},
+{
+  "type": "node",
+  "id": 1733156679,
+  "lat": -34.7619757,
+  "lon": 138.6425063
+},
+{
+  "type": "node",
+  "id": 1733156680,
+  "lat": -34.7619781,
+  "lon": 138.6426231
+},
+{
+  "type": "node",
+  "id": 1733156681,
+  "lat": -34.7619782,
+  "lon": 138.6426587
+},
+{
+  "type": "node",
+  "id": 1733156685,
+  "lat": -34.7622565,
+  "lon": 138.6426646
+},
+{
+  "type": "node",
+  "id": 1733156686,
+  "lat": -34.7622819,
+  "lon": 138.6426264
+},
+{
+  "type": "node",
+  "id": 1733156687,
+  "lat": -34.7623741,
+  "lon": 138.6425419
+},
+{
+  "type": "node",
+  "id": 1733156688,
+  "lat": -34.7623815,
+  "lon": 138.6425044
+},
+{
+  "type": "node",
+  "id": 1733156689,
+  "lat": -34.7623902,
+  "lon": 138.6426318
+},
+{
+  "type": "node",
+  "id": 1733156690,
+  "lat": -34.7623962,
+  "lon": 138.6426700
+},
+{
+  "type": "node",
+  "id": 1733156691,
+  "lat": -34.7624202,
+  "lon": 138.6425443
+},
+{
+  "type": "node",
+  "id": 1733156693,
+  "lat": -34.7624647,
+  "lon": 138.6425129
+},
+{
+  "type": "node",
+  "id": 1733156694,
+  "lat": -34.7625040,
+  "lon": 138.6426473
+},
+{
+  "type": "node",
+  "id": 1733156695,
+  "lat": -34.7625255,
+  "lon": 138.6426861
+},
+{
+  "type": "node",
+  "id": 1733156698,
+  "lat": -34.7631894,
+  "lon": 138.6427481
+},
+{
+  "type": "node",
+  "id": 1733156699,
+  "lat": -34.7632330,
+  "lon": 138.6428011
+},
+{
+  "type": "node",
+  "id": 1733156700,
+  "lat": -34.7632545,
+  "lon": 138.6427572
+},
+{
+  "type": "node",
+  "id": 1733156702,
+  "lat": -34.7633021,
+  "lon": 138.6426755
+},
+{
+  "type": "node",
+  "id": 1733156704,
+  "lat": -34.7633080,
+  "lon": 138.6427620
+},
+{
+  "type": "node",
+  "id": 1733156705,
+  "lat": -34.7633098,
+  "lon": 138.6428038
+},
+{
+  "type": "node",
+  "id": 1733156708,
+  "lat": -34.7633537,
+  "lon": 138.6427620
+},
+{
+  "type": "node",
+  "id": 1733156709,
+  "lat": -34.7633681,
+  "lon": 138.6426408
+},
+{
+  "type": "node",
+  "id": 1733156710,
+  "lat": -34.7633744,
+  "lon": 138.6426698
+},
+{
+  "type": "node",
+  "id": 1733156711,
+  "lat": -34.7633787,
+  "lon": 138.6426513
+},
+{
+  "type": "node",
+  "id": 1733156714,
+  "lat": -34.7634108,
+  "lon": 138.6427558
+},
+{
+  "type": "node",
+  "id": 1733156715,
+  "lat": -34.7634289,
+  "lon": 138.6427557
+},
+{
+  "type": "node",
+  "id": 1733156716,
+  "lat": -34.7634363,
+  "lon": 138.6427883
+},
+{
+  "type": "node",
+  "id": 1733156719,
+  "lat": -34.7634557,
+  "lon": 138.6427667
+},
+{
+  "type": "node",
+  "id": 1733156720,
+  "lat": -34.7634841,
+  "lon": 138.6427792
+},
+{
+  "type": "node",
+  "id": 9854559242,
+  "lat": -34.7633758,
+  "lon": 138.6426639
+},
+{
+  "type": "node",
+  "id": 9854559243,
+  "lat": -34.7628262,
+  "lon": 138.6426047
+},
+{
+  "type": "node",
+  "id": 9854559244,
+  "lat": -34.7628282,
+  "lon": 138.6425644
+},
+{
+  "type": "node",
+  "id": 9854559245,
+  "lat": -34.7632206,
+  "lon": 138.6426199
+},
+{
+  "type": "node",
+  "id": 9854559246,
+  "lat": -34.7632156,
+  "lon": 138.6426626
+},
+{
+  "type": "node",
+  "id": 9854559247,
+  "lat": -34.7619755,
+  "lon": 138.6425223
+},
+{
+  "type": "node",
+  "id": 9854559248,
+  "lat": -34.7621079,
+  "lon": 138.6426615
+},
+{
+  "type": "node",
+  "id": 9854559249,
+  "lat": -34.7619781,
+  "lon": 138.6426390
+},
+{
+  "type": "node",
+  "id": 9854559250,
+  "lat": -34.7624715,
+  "lon": 138.6426794
+},
+{
+  "type": "node",
+  "id": 9854559251,
+  "lat": -34.7628073,
+  "lon": 138.6427319
+},
+{
+  "type": "node",
+  "id": 9854559252,
+  "lat": -34.7628137,
+  "lon": 138.6426928
+},
+{
+  "type": "node",
+  "id": 9854559253,
+  "lat": -34.7632073,
+  "lon": 138.6427506
+},
+{
+  "type": "node",
+  "id": 9854559254,
+  "lat": -34.7632014,
+  "lon": 138.6427960
+},
+{
+  "type": "node",
+  "id": 2035873113,
+  "lat": -34.7909597,
+  "lon": 138.6931872
+},
+{
+  "type": "node",
+  "id": 2035873114,
+  "lat": -34.7907813,
+  "lon": 138.6936754
+},
+{
+  "type": "node",
+  "id": 2035873115,
+  "lat": -34.7911315,
+  "lon": 138.6932690
+},
+{
+  "type": "node",
+  "id": 2035873116,
+  "lat": -34.7909469,
+  "lon": 138.6937643
+},
+{
+  "type": "node",
+  "id": 4457312561,
+  "lat": -34.7909648,
+  "lon": 138.6937162
+},
+{
+  "type": "node",
+  "id": 2035854935,
+  "lat": -34.7166499,
+  "lon": 138.6670038
+},
+{
+  "type": "node",
+  "id": 2035854939,
+  "lat": -34.7167815,
+  "lon": 138.6674275
+},
+{
+  "type": "node",
+  "id": 2035854943,
+  "lat": -34.7169453,
+  "lon": 138.6673954
+},
+{
+  "type": "node",
+  "id": 2035854944,
+  "lat": -34.7168175,
+  "lon": 138.6669286
+},
+{
+  "type": "node",
+  "id": 1091625348,
+  "lat": -34.7165886,
+  "lon": 138.6697359
+},
+{
+  "type": "node",
+  "id": 2035854936,
+  "lat": -34.7167639,
+  "lon": 138.6677226
+},
+{
+  "type": "node",
+  "id": 2035854937,
+  "lat": -34.7167330,
+  "lon": 138.6697718
+},
+{
+  "type": "node",
+  "id": 2035854938,
+  "lat": -34.7167418,
+  "lon": 138.6679640
+},
+{
+  "type": "node",
+  "id": 2035854940,
+  "lat": -34.7168660,
+  "lon": 138.6680498
+},
+{
+  "type": "node",
+  "id": 2035854941,
+  "lat": -34.7168615,
+  "lon": 138.6688598
+},
+{
+  "type": "node",
+  "id": 2035854942,
+  "lat": -34.7167469,
+  "lon": 138.6687043
+},
+{
+  "type": "node",
+  "id": 2348693150,
+  "lat": -34.6820312,
+  "lon": 138.6869324
+},
+{
+  "type": "node",
+  "id": 2348693154,
+  "lat": -34.6821191,
+  "lon": 138.6868143
+},
+{
+  "type": "node",
+  "id": 2348693157,
+  "lat": -34.6820201,
+  "lon": 138.6869217
+},
+{
+  "type": "node",
+  "id": 2348693158,
+  "lat": -34.6821763,
+  "lon": 138.6866690
+},
+{
+  "type": "node",
+  "id": 2348693160,
+  "lat": -34.6822051,
+  "lon": 138.6867043
+},
+{
+  "type": "node",
+  "id": 2035860941,
+  "lat": -34.6858553,
+  "lon": 138.6902088
+},
+{
+  "type": "node",
+  "id": 2035860942,
+  "lat": -34.6859082,
+  "lon": 138.6898601
+},
+{
+  "type": "node",
+  "id": 2035860943,
+  "lat": -34.6856105,
+  "lon": 138.6891834
+},
+{
+  "type": "node",
+  "id": 2035860944,
+  "lat": -34.6853765,
+  "lon": 138.6891249
+},
+{
+  "type": "node",
+  "id": 2348693153,
+  "lat": -34.6816862,
+  "lon": 138.6873042
+},
+{
+  "type": "node",
+  "id": 11422487039,
+  "lat": -34.6817189,
+  "lon": 138.6873389
+},
+{
+  "type": "node",
+  "id": 10867098306,
+  "lat": -35.2548480,
+  "lon": 139.4558633
+},
+{
+  "type": "node",
+  "id": 10867098307,
+  "lat": -35.2550485,
+  "lon": 139.4560504
+},
+{
+  "type": "node",
+  "id": 10867098308,
+  "lat": -35.2550271,
+  "lon": 139.4560849
+},
+{
+  "type": "node",
+  "id": 10867098309,
+  "lat": -35.2550569,
+  "lon": 139.4561127
+},
+{
+  "type": "node",
+  "id": 10867098310,
+  "lat": -35.2550488,
+  "lon": 139.4561258
+},
+{
+  "type": "node",
+  "id": 10867098311,
+  "lat": -35.2550694,
+  "lon": 139.4561451
+},
+{
+  "type": "node",
+  "id": 10867098312,
+  "lat": -35.2550425,
+  "lon": 139.4561884
+},
+{
+  "type": "node",
+  "id": 10867098313,
+  "lat": -35.2549792,
+  "lon": 139.4561294
+},
+{
+  "type": "node",
+  "id": 10867098314,
+  "lat": -35.2549602,
+  "lon": 139.4561600
+},
+{
+  "type": "node",
+  "id": 10867098315,
+  "lat": -35.2548884,
+  "lon": 139.4560931
+},
+{
+  "type": "node",
+  "id": 10867098316,
+  "lat": -35.2549002,
+  "lon": 139.4560743
+},
+{
+  "type": "node",
+  "id": 10867098317,
+  "lat": -35.2547841,
+  "lon": 139.4559660
+},
+{
+  "type": "node",
+  "id": 10867098399,
+  "lat": -35.2550328,
+  "lon": 139.4560358
+},
+{
+  "type": "node",
+  "id": 833886816,
+  "lat": -35.1165894,
+  "lon": 139.2752319
+},
+{
+  "type": "node",
+  "id": 833886821,
+  "lat": -35.1163591,
+  "lon": 139.2748318
+},
+{
+  "type": "node",
+  "id": 833886823,
+  "lat": -35.1165100,
+  "lon": 139.2748185
+},
+{
+  "type": "node",
+  "id": 833886827,
+  "lat": -35.1163054,
+  "lon": 139.2749006
+},
+{
+  "type": "node",
+  "id": 833886831,
+  "lat": -35.1166327,
+  "lon": 139.2751189
+},
+{
+  "type": "node",
+  "id": 833886838,
+  "lat": -35.1163267,
+  "lon": 139.2747940
+},
+{
+  "type": "node",
+  "id": 833886839,
+  "lat": -35.1166970,
+  "lon": 139.2750366
+},
+{
+  "type": "node",
+  "id": 833886842,
+  "lat": -35.1163802,
+  "lon": 139.2747255
+},
+{
+  "type": "node",
+  "id": 833886846,
+  "lat": -35.1166562,
+  "lon": 139.2751463
+},
+{
+  "type": "node",
+  "id": 833886849,
+  "lat": -35.1164861,
+  "lon": 139.2748490
+},
+{
+  "type": "node",
+  "id": 11676123394,
+  "lat": -35.1163208,
+  "lon": 139.2748808
+},
+{
+  "type": "node",
+  "id": 11676123395,
+  "lat": -35.1166871,
+  "lon": 139.2750493
+},
+{
+  "type": "node",
+  "id": 2430048670,
+  "lat": -32.4930846,
+  "lon": 137.7671469
+},
+{
+  "type": "node",
+  "id": 2430048671,
+  "lat": -32.4930960,
+  "lon": 137.7670919
+},
+{
+  "type": "node",
+  "id": 2430048673,
+  "lat": -32.4931692,
+  "lon": 137.7672850
+},
+{
+  "type": "node",
+  "id": 2430048674,
+  "lat": -32.4931915,
+  "lon": 137.7671782
+},
+{
+  "type": "node",
+  "id": 2430048675,
+  "lat": -32.4934069,
+  "lon": 137.7671829
+},
+{
+  "type": "node",
+  "id": 2430048676,
+  "lat": -32.4934237,
+  "lon": 137.7671023
+},
+{
+  "type": "node",
+  "id": 2430048680,
+  "lat": -32.4938895,
+  "lon": 137.7674959
+},
+{
+  "type": "node",
+  "id": 2430048681,
+  "lat": -32.4939252,
+  "lon": 137.7673245
+},
+{
+  "type": "node",
+  "id": 2430048682,
+  "lat": -32.4939279,
+  "lon": 137.7672751
+},
+{
+  "type": "node",
+  "id": 2430048683,
+  "lat": -32.4939329,
+  "lon": 137.7672514
+},
+{
+  "type": "node",
+  "id": 2430048684,
+  "lat": -32.4940240,
+  "lon": 137.7673534
+},
+{
+  "type": "node",
+  "id": 2430048685,
+  "lat": -32.4940338,
+  "lon": 137.7673061
+},
+{
+  "type": "node",
+  "id": 12345931044,
+  "lat": -34.3215949,
+  "lon": 142.1858159
+},
+{
+  "type": "node",
+  "id": 12345931045,
+  "lat": -34.3216104,
+  "lon": 142.1858835
+},
+{
+  "type": "node",
+  "id": 12345931046,
+  "lat": -34.3218051,
+  "lon": 142.1858219
+},
+{
+  "type": "node",
+  "id": 12345931047,
+  "lat": -34.3217908,
+  "lon": 142.1857547
+},
+{
+  "type": "node",
+  "id": 12345931048,
+  "lat": -34.3216043,
+  "lon": 142.1858568
+},
+{
+  "type": "node",
+  "id": 12345931060,
+  "lat": -34.3218014,
+  "lon": 142.1858046
+},
+{
+  "type": "node",
+  "id": 13245593914,
+  "lat": -34.3216655,
+  "lon": 142.1857939
+},
+{
+  "type": "node",
+  "id": 13245594106,
+  "lat": -34.3216104,
+  "lon": 142.1858110
+},
+{
+  "type": "node",
+  "id": 1874978785,
+  "lat": -31.9591021,
+  "lon": 141.4670410
+},
+{
+  "type": "node",
+  "id": 1874978790,
+  "lat": -31.9591761,
+  "lon": 141.4671078
+},
+{
+  "type": "node",
+  "id": 1874978793,
+  "lat": -31.9595599,
+  "lon": 141.4663736
+},
+{
+  "type": "node",
+  "id": 1874978797,
+  "lat": -31.9596066,
+  "lon": 141.4664105
+},
+{
+  "type": "node",
+  "id": 3996694751,
+  "lat": -31.9593452,
+  "lon": 141.4666812
+},
+{
+  "type": "node",
+  "id": 3996695482,
+  "lat": -31.9592114,
+  "lon": 141.4668634
+},
+{
+  "type": "node",
+  "id": 3996695495,
+  "lat": -31.9593788,
+  "lon": 141.4666684
+},
+{
+  "type": "node",
+  "id": 3996695499,
+  "lat": -31.9592862,
+  "lon": 141.4666364
+},
+{
+  "type": "node",
+  "id": 3996695516,
+  "lat": -31.9591699,
+  "lon": 141.4668259
+},
+{
+  "type": "node",
+  "id": 1873494463,
+  "lat": -22.3839804,
+  "lon": 143.0372209
+},
+{
+  "type": "node",
+  "id": 1873494464,
+  "lat": -22.3839896,
+  "lon": 143.0372945
+},
+{
+  "type": "node",
+  "id": 1873494465,
+  "lat": -22.3840042,
+  "lon": 143.0370865
+},
+{
+  "type": "node",
+  "id": 1873494466,
+  "lat": -22.3840203,
+  "lon": 143.0372151
+},
+{
+  "type": "node",
+  "id": 1873494456,
+  "lat": -22.3836743,
+  "lon": 143.0371347
+},
+{
+  "type": "node",
+  "id": 1873494458,
+  "lat": -22.3836916,
+  "lon": 143.0372729
+},
+{
+  "type": "node",
+  "id": 1873494460,
+  "lat": -22.3837466,
+  "lon": 143.0372648
+},
+{
+  "type": "node",
+  "id": 1873494461,
+  "lat": -22.3837546,
+  "lon": 143.0373288
+}
+
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-12-02T13:12:16Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2171160885,
+  "lat": -21.2063187,
+  "lon": -159.7774144,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "internet_access": "wlan",
+    "internet_access:ssid": "Bluezone Hotspot",
+    "name": "Cook's Corner Bus Terminal",
+    "operator": "Cook's Island Bus Passenger Transport LTD",
+    "public_transport": "station",
+    "shelter": "yes"
+  }
+}
+
+  ]
+}

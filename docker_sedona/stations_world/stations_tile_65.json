@@ -1,0 +1,501 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-12-02T13:12:16Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 687163235,
+  "lat": -35.3361149,
+  "lon": -72.4041972,
+  "tags": {
+    "addr:city": "Constitución",
+    "addr:street": "Recinto Estación",
+    "name": "Constitución",
+    "network": "Tren Regional Talca-Constitución",
+    "nohousenumber": "yes",
+    "operator": "EFE Central",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "CT",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5784566",
+    "wikipedia": "es:Estación Constitución (Chile)"
+  }
+},
+{
+  "type": "node",
+  "id": 1037758416,
+  "lat": -35.4452117,
+  "lon": -72.0241436,
+  "tags": {
+    "addr:city": "Pencahue",
+    "check_date": "2023-05-08",
+    "name": "González Bastías",
+    "network": "Tren Talca-Constitución",
+    "old_name": "Infiernillo",
+    "old_name:de": "Infiernillo",
+    "operator": "EFE Central",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "GB",
+    "source": "https://www.efe.cl/nuestros-servicios/talca-constitucion/servicio-y-trazado/",
+    "start_date": "1894-11-01",
+    "train": "yes",
+    "website": "https://www.efe.cl/nuestros-servicios/talca-constitucion/servicio-y-trazado/",
+    "wikidata": "Q5883409",
+    "wikipedia": "es:Estación González Bastías"
+  }
+},
+{
+  "type": "node",
+  "id": 1318398549,
+  "lat": -35.3885983,
+  "lon": -72.2885208,
+  "tags": {
+    "addr:city": "Constitución",
+    "check_date": "2023-05-08",
+    "ele": "14",
+    "name": "Maquehua",
+    "network": "Tren Talca-Constitución",
+    "operator": "EFE Central",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "https://www.efe.cl/nuestros-servicios/talca-constitucion/servicio-y-trazado/",
+    "start_date": "1898",
+    "train": "yes",
+    "wikidata": "Q96217613",
+    "wikipedia": "es:Estación Maquehua"
+  }
+},
+{
+  "type": "node",
+  "id": 1318398658,
+  "lat": -35.4152534,
+  "lon": -72.2320099,
+  "tags": {
+    "addr:city": "Constitución",
+    "check_date": "2023-05-08",
+    "name": "Huinganes",
+    "network": "Tren Talca-Constitución",
+    "operator": "EFE Central",
+    "public_transport": "station",
+    "railway": "station",
+    "start_date": "1897-01-01",
+    "train": "yes",
+    "wikidata": "Q97472789",
+    "wikipedia": "es:Estación Huinganes"
+  }
+},
+{
+  "type": "node",
+  "id": 1642673865,
+  "lat": -35.4126445,
+  "lon": -72.1983902,
+  "tags": {
+    "addr:city": "Constitución",
+    "check_date": "2023-05-08",
+    "name": "Forel",
+    "network": "Tren Talca – Constitución",
+    "operator": "EFE Central",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "FO",
+    "source": "https://www.efe.cl/nuestros-servicios/talca-constitucion/servicio-y-trazado/",
+    "start_date": "1896",
+    "train": "yes",
+    "wikidata": "Q97474033",
+    "wikipedia": "es:Estación Forel"
+  }
+},
+{
+  "type": "node",
+  "id": 1642673868,
+  "lat": -35.4352166,
+  "lon": -72.1021170,
+  "tags": {
+    "addr:city": "Constitución",
+    "name": "Pichamán",
+    "network": "Tren Talca-Constitución",
+    "operator": "EFE Central",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "https://www.efe.cl/nuestros-servicios/talca-constitucion/servicio-y-trazado/",
+    "start_date": "1894-11-01",
+    "train": "yes",
+    "wikidata": "Q104643342",
+    "wikipedia": "es:Estación Pichamán"
+  }
+},
+{
+  "type": "node",
+  "id": 1642675424,
+  "lat": -35.4233339,
+  "lon": -72.0568043,
+  "tags": {
+    "addr:city": "Pencahue",
+    "name": "Toconey",
+    "network": "Tren Talca-Constitución",
+    "operator": "EFE Central",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "https://www.efe.cl/nuestros-servicios/talca-constitucion/servicio-y-trazado/",
+    "start_date": "1894-11-01",
+    "train": "yes",
+    "wikidata": "Q104643300",
+    "wikipedia": "es:Estación Toconey"
+  }
+},
+{
+  "type": "way",
+  "id": 73054695,
+  "nodes": [
+    867091000,
+    867091001,
+    867091004,
+    867091008,
+    3933481106,
+    3933481109,
+    3933481108,
+    3933481107,
+    867091000
+  ],
+  "tags": {
+    "addr:city": "Pichilemu",
+    "addr:housenumber": "534",
+    "addr:street": "Millaco",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "internet_access": "no",
+    "name": "Terminal de Buses Pichilemu",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 339210330,
+  "nodes": [
+    3463938621,
+    3463938612,
+    3463938633,
+    3463938625,
+    3463938618,
+    3463938632,
+    3463938627,
+    3463938619,
+    3463938620,
+    3463938621
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal de buses de Curanipe"
+  }
+},
+{
+  "type": "way",
+  "id": 465102752,
+  "nodes": [
+    4601057160,
+    4601057161,
+    4601057162,
+    4601057163,
+    4601057164,
+    4601057165,
+    4601057160
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Terminal de Buses Cauquenes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 470669927,
+  "nodes": [
+    4648457371,
+    4648457372,
+    4648457382,
+    4648457388,
+    4648457384,
+    4648457371
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 480956015,
+  "nodes": [
+    4739062375,
+    11833422348,
+    4739062412,
+    4739062413,
+    11833422349,
+    4739062404,
+    4739062375
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Terminal de Buses",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 482133569,
+  "nodes": [
+    4750023792,
+    4750023793,
+    4750023794,
+    4750023795,
+    4750023792
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "roof",
+    "name": "Terminal Curepto"
+  }
+},
+{
+  "type": "node",
+  "id": 3463938612,
+  "lat": -35.8461301,
+  "lon": -72.6383375
+},
+{
+  "type": "node",
+  "id": 3463938618,
+  "lat": -35.8459629,
+  "lon": -72.6379567
+},
+{
+  "type": "node",
+  "id": 3463938619,
+  "lat": -35.8454414,
+  "lon": -72.6380137
+},
+{
+  "type": "node",
+  "id": 3463938620,
+  "lat": -35.8453790,
+  "lon": -72.6380956
+},
+{
+  "type": "node",
+  "id": 3463938621,
+  "lat": -35.8458342,
+  "lon": -72.6386559
+},
+{
+  "type": "node",
+  "id": 3463938625,
+  "lat": -35.8461873,
+  "lon": -72.6381035
+},
+{
+  "type": "node",
+  "id": 3463938627,
+  "lat": -35.8457566,
+  "lon": -72.6377234
+},
+{
+  "type": "node",
+  "id": 3463938632,
+  "lat": -35.8459079,
+  "lon": -72.6379734
+},
+{
+  "type": "node",
+  "id": 3463938633,
+  "lat": -35.8460606,
+  "lon": -72.6382569
+},
+{
+  "type": "node",
+  "id": 4601057160,
+  "lat": -35.9635763,
+  "lon": -72.3220696
+},
+{
+  "type": "node",
+  "id": 4601057161,
+  "lat": -35.9635563,
+  "lon": -72.3227618
+},
+{
+  "type": "node",
+  "id": 4601057162,
+  "lat": -35.9630987,
+  "lon": -72.3227338
+},
+{
+  "type": "node",
+  "id": 4601057163,
+  "lat": -35.9631425,
+  "lon": -72.3226020
+},
+{
+  "type": "node",
+  "id": 4601057164,
+  "lat": -35.9632437,
+  "lon": -72.3224330
+},
+{
+  "type": "node",
+  "id": 4601057165,
+  "lat": -35.9632492,
+  "lon": -72.3220613
+},
+{
+  "type": "node",
+  "id": 4648457371,
+  "lat": -35.4508994,
+  "lon": -72.2796858
+},
+{
+  "type": "node",
+  "id": 4648457384,
+  "lat": -35.4508557,
+  "lon": -72.2796590
+},
+{
+  "type": "node",
+  "id": 4648457372,
+  "lat": -35.4509639,
+  "lon": -72.2796509
+},
+{
+  "type": "node",
+  "id": 4648457382,
+  "lat": -35.4510797,
+  "lon": -72.2792888
+},
+{
+  "type": "node",
+  "id": 4648457388,
+  "lat": -35.4509999,
+  "lon": -72.2792459
+},
+{
+  "type": "node",
+  "id": 4739062375,
+  "lat": -35.3366307,
+  "lon": -72.4045354
+},
+{
+  "type": "node",
+  "id": 4739062404,
+  "lat": -35.3361494,
+  "lon": -72.4048458
+},
+{
+  "type": "node",
+  "id": 4739062412,
+  "lat": -35.3365918,
+  "lon": -72.4044287
+},
+{
+  "type": "node",
+  "id": 4739062413,
+  "lat": -35.3361038,
+  "lon": -72.4047400
+},
+{
+  "type": "node",
+  "id": 11833422348,
+  "lat": -35.3366036,
+  "lon": -72.4044610
+},
+{
+  "type": "node",
+  "id": 11833422349,
+  "lat": -35.3361174,
+  "lon": -72.4047715
+},
+{
+  "type": "node",
+  "id": 4750023794,
+  "lat": -35.0913498,
+  "lon": -72.0177924
+},
+{
+  "type": "node",
+  "id": 4750023795,
+  "lat": -35.0914227,
+  "lon": -72.0177689
+},
+{
+  "type": "node",
+  "id": 4750023792,
+  "lat": -35.0912817,
+  "lon": -72.0174383
+},
+{
+  "type": "node",
+  "id": 4750023793,
+  "lat": -35.0912345,
+  "lon": -72.0175121
+},
+{
+  "type": "node",
+  "id": 867091000,
+  "lat": -34.3905852,
+  "lon": -72.0159135
+},
+{
+  "type": "node",
+  "id": 867091001,
+  "lat": -34.3904002,
+  "lon": -72.0152672
+},
+{
+  "type": "node",
+  "id": 867091004,
+  "lat": -34.3905718,
+  "lon": -72.0149541
+},
+{
+  "type": "node",
+  "id": 867091008,
+  "lat": -34.3912485,
+  "lon": -72.0154760
+},
+{
+  "type": "node",
+  "id": 3933481106,
+  "lat": -34.3910615,
+  "lon": -72.0158450
+},
+{
+  "type": "node",
+  "id": 3933481107,
+  "lat": -34.3908739,
+  "lon": -72.0157766
+},
+{
+  "type": "node",
+  "id": 3933481108,
+  "lat": -34.3908895,
+  "lon": -72.0158450
+},
+{
+  "type": "node",
+  "id": 3933481109,
+  "lat": -34.3909996,
+  "lon": -72.0157994
+}
+
+  ]
+}

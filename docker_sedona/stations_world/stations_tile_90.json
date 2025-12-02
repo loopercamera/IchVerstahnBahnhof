@@ -1,0 +1,7287 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-12-02T13:17:28Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 26917327,
+  "lat": -4.3011330,
+  "lon": 15.3179376,
+  "tags": {
+    "name": "Kinshasa Est",
+    "name:de": "Kinshasa Ostbahnhof",
+    "name:ln": "Kinsásá Ɛ́sita",
+    "public_transport": "station",
+    "railway": "station",
+    "website": "http://www.onatra.info/suite.php?newsid=4"
+  }
+},
+{
+  "type": "node",
+  "id": 26917534,
+  "lat": -4.3120374,
+  "lon": 15.3312594,
+  "tags": {
+    "name": "Ndolo",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 441601821,
+  "lat": -8.8053477,
+  "lon": 13.2444404,
+  "tags": {
+    "addr:city": "Luanda",
+    "name": "Bungo",
+    "operator": "Caminho de Ferro de Luanda E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 617410445,
+  "lat": -5.7672092,
+  "lon": 13.6594528,
+  "tags": {
+    "name": "Kenge",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 643462597,
+  "lat": -8.8008882,
+  "lon": 13.2613494,
+  "tags": {
+    "addr:city": "Luanda",
+    "name": "Textang",
+    "operator": "Caminho de Ferro de Luanda E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 715876841,
+  "lat": -4.4218296,
+  "lon": 15.3545949,
+  "tags": {
+    "name": "Kisenso / Riflart",
+    "old_name": "Riflart",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 715922817,
+  "lat": -4.5910302,
+  "lon": 15.1732389,
+  "tags": {
+    "alt_name": "Kazangulu",
+    "alt_name:fr": "Kazangulu",
+    "name": "Kasangulu",
+    "name:ar": "كاسانجولو",
+    "name:arz": "كاسانجولو",
+    "name:de": "Kasangulu",
+    "name:es": "Kasangulu",
+    "name:fr": "Kasangulu",
+    "name:ka": "კასანგულუ",
+    "name:ru": "Касангулу",
+    "name:uk": "Касангулу",
+    "name:xmf": "კასანგულუ",
+    "name:zh": "卡桑古卢",
+    "name:zh-Hans": "卡桑古卢",
+    "operator": "ONATRA",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 715964332,
+  "lat": -4.3859001,
+  "lon": 15.3937351,
+  "tags": {
+    "name": "Masina Mapela",
+    "note": "or Masina Quartier 3 ??",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 721880244,
+  "lat": -4.4727336,
+  "lon": 15.2816780,
+  "tags": {
+    "name": "Kimwenza",
+    "name:de": "Kimuensa",
+    "railway": "station",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 748782908,
+  "lat": -5.8465033,
+  "lon": 13.4335834,
+  "tags": {
+    "name": "Petrocongo",
+    "note": "fix me,",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 789671977,
+  "lat": -5.8595387,
+  "lon": 13.4325333,
+  "tags": {
+    "name": "Ango-Ango",
+    "name:ar": "أنغو أنغو",
+    "note": "fix me,",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 797799785,
+  "lat": -4.3916072,
+  "lon": 15.4449741,
+  "tags": {
+    "name": "Ndjili Aéroport",
+    "operator": "ONATRA",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 858882979,
+  "lat": -5.8440000,
+  "lon": 13.0680000,
+  "tags": {
+    "disused": "yes",
+    "is_in": "Bas Congo",
+    "name": "Boma",
+    "railway": "station",
+    "railway:workshop": "no",
+    "source": "Référentiel Géographique Commun",
+    "source:date": "2006-02-01",
+    "source:url": "http://www.rgc.cd"
+  }
+},
+{
+  "type": "node",
+  "id": 1146947786,
+  "lat": -5.2621478,
+  "lon": 14.8575485,
+  "tags": {
+    "name": "Mbanza-Ngungu",
+    "old_name": "Thysville",
+    "operator": "ONATRA",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1251160324,
+  "lat": -12.5688878,
+  "lon": 16.2279016,
+  "tags": {
+    "alt_name": "Katchiungo",
+    "name": "Cachiungo",
+    "old_name": "Bela Vista",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1299298360,
+  "lat": -17.8997081,
+  "lon": 15.9790750,
+  "tags": {
+    "name": "Ondangwa",
+    "railway": "station",
+    "wikidata": "Q7092153"
+  }
+},
+{
+  "type": "node",
+  "id": 1489656908,
+  "lat": -8.8315188,
+  "lon": 13.2676247,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1539417629,
+  "lat": -4.2693862,
+  "lon": 15.2883763,
+  "tags": {
+    "name": "Gare de Brazzaville",
+    "network": "Chemin de fer Congo-Océan",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1541419178,
+  "lat": -12.6975804,
+  "lon": 16.0251988,
+  "tags": {
+    "name": "Boas Águas",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1651411879,
+  "lat": -8.8505796,
+  "lon": 13.2886053,
+  "tags": {
+    "name": "Filda",
+    "operator": "Caminho de Ferro de Luanda E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1655557465,
+  "lat": -8.9053452,
+  "lon": 13.3750610,
+  "tags": {
+    "addr:street": "Estrada de Catete",
+    "name": "Viana",
+    "network": "Luanda-Malange",
+    "operator": "Caminho de Ferro de Luanda E.P.",
+    "platforms": "2",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1808751011,
+  "lat": -12.8082300,
+  "lon": 15.6450630,
+  "tags": {
+    "name": "Dango",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1808753566,
+  "lat": -12.9049258,
+  "lon": 15.2494153,
+  "tags": {
+    "alt_name": "Congonjo;Longonji",
+    "name": "Longonjo",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1808755035,
+  "lat": -13.0359524,
+  "lon": 14.1305582,
+  "tags": {
+    "name": "Calenguer",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1808830389,
+  "lat": -12.8768984,
+  "lon": 13.8098458,
+  "tags": {
+    "name": "Cábio",
+    "operator": "Caminho de Ferro de Benguela",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1808932895,
+  "lat": -14.9413255,
+  "lon": 12.9613137,
+  "tags": {
+    "addr:city": "Capangombe",
+    "name": "Munhino (Km 111)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1808959231,
+  "lat": -14.8650058,
+  "lon": 13.1094436,
+  "tags": {
+    "addr:city": "Assunção",
+    "name": "Assunção (Km 130)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1809747288,
+  "lat": -9.0841081,
+  "lon": 13.6875754,
+  "tags": {
+    "name": "Catete",
+    "operator": "Caminho de Ferro de Luanda E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1822385845,
+  "lat": -17.3968386,
+  "lon": 15.8791753,
+  "tags": {
+    "name": "Oshikango",
+    "railway": "station",
+    "start_date": "5 July 2012",
+    "wikidata": "Q7106610"
+  }
+},
+{
+  "type": "node",
+  "id": 1916492644,
+  "lat": -14.5000385,
+  "lon": 16.1472895,
+  "tags": {
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1916493594,
+  "lat": -14.8281476,
+  "lon": 13.4901958,
+  "tags": {
+    "addr:city": "Lubango",
+    "name": "Nangombe (Km 227)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1916494464,
+  "lat": -14.9005266,
+  "lon": 13.4772907,
+  "tags": {
+    "addr:city": "Lubango",
+    "addr:street": "Estrada da Mapunda de Baixo",
+    "name": "Mapunda (Km 239)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1916494610,
+  "lat": -14.9169394,
+  "lon": 13.6490418,
+  "tags": {
+    "addr:city": "Poiares",
+    "addr:street": "VIA CIRCULAR EXTERNA AO LUBANGO",
+    "name": "Poiares (Km 264)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1916523448,
+  "lat": -14.7821090,
+  "lon": 14.8262880,
+  "tags": {
+    "name": "Bember (Km 402)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1916523612,
+  "lat": -14.8616579,
+  "lon": 13.9443570,
+  "tags": {
+    "name": "Olivença(Km 303)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1916523696,
+  "lat": -14.8810932,
+  "lon": 14.0922447,
+  "tags": {
+    "name": "Capembe (Km 319)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1948897114,
+  "lat": -14.9299206,
+  "lon": 13.5087810,
+  "tags": {
+    "addr:city": "Lubango",
+    "name": "Lubango (Km 246)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q164233",
+    "wikipedia": "pt:Caminho de Ferro de Moçâmedes"
+  }
+},
+{
+  "type": "node",
+  "id": 1954863566,
+  "lat": -1.6403306,
+  "lon": 13.5723893,
+  "tags": {
+    "name": "Franceville",
+    "name:ar": "فرانسفيل",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "669",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2028188403,
+  "lat": -12.3325501,
+  "lon": 16.9376836,
+  "tags": {
+    "name": "Cuíto",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2041597777,
+  "lat": -8.8797603,
+  "lon": 13.3349349,
+  "tags": {
+    "name": "Estalagem",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2041606698,
+  "lat": -8.8679871,
+  "lon": 13.3162846,
+  "tags": {
+    "addr:city": "Luanda",
+    "name": "Gamek",
+    "operator": "Caminho de Ferro de Luanda E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2041623503,
+  "lat": -8.8938834,
+  "lon": 13.3573492,
+  "tags": {
+    "name": "Comarca",
+    "operator": "Caminho de Ferro de Luanda E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2099518542,
+  "lat": -14.4590699,
+  "lon": 16.4047215,
+  "tags": {
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2099518677,
+  "lat": -14.6502850,
+  "lon": 16.8927900,
+  "tags": {
+    "alt_name": "Kuchi;Cuche;Cacuchi",
+    "name": "Cuchi",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2099518976,
+  "lat": -14.6666172,
+  "lon": 17.6951852,
+  "tags": {
+    "addr:city": "Lubango",
+    "name": "Menongue (Km 756)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2099519340,
+  "lat": -14.6889700,
+  "lon": 17.1741821,
+  "tags": {
+    "name": "Luasenha",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2100103880,
+  "lat": -14.6812097,
+  "lon": 16.0366129,
+  "tags": {
+    "addr:city": "Jamba",
+    "name": "Jamba (Km 43)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "note": "Ramal da Jamba-Chamutete (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q164233",
+    "wikipedia": "pt:Caminho de Ferro de Moçâmedes"
+  }
+},
+{
+  "type": "node",
+  "id": 2123967325,
+  "lat": -9.2509218,
+  "lon": 14.6816177,
+  "tags": {
+    "name": "Canhoca",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2126024968,
+  "lat": -12.2388124,
+  "lon": 16.7853815,
+  "tags": {
+    "name": "Cunhinga",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2139151265,
+  "lat": -15.2398020,
+  "lon": 16.0286521,
+  "tags": {
+    "name": "Chamutete Cidade",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2139151935,
+  "lat": -15.0402350,
+  "lon": 15.9813561,
+  "tags": {
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2139153446,
+  "lat": -15.2440721,
+  "lon": 16.0628889,
+  "tags": {
+    "name": "Chamutete Minas",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2180316480,
+  "lat": -12.3860574,
+  "lon": 16.4389649,
+  "tags": {
+    "alt_name": "Kutato",
+    "name": "Cutato",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2180949118,
+  "lat": -9.4838225,
+  "lon": 15.9862453,
+  "tags": {
+    "name": "Zanga",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2181227456,
+  "lat": -9.4885434,
+  "lon": 16.1480055,
+  "tags": {
+    "name": "Lombe",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2182327121,
+  "lat": -15.0110139,
+  "lon": 12.5099755,
+  "tags": {
+    "name": "Raposeira (Km 59)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q164233",
+    "wikipedia": "pt:Caminho de Ferro de Moçâmedes"
+  }
+},
+{
+  "type": "node",
+  "id": 2323988874,
+  "lat": -8.8151093,
+  "lon": 13.2323648,
+  "tags": {
+    "addr:housename": "TCUL",
+    "addr:street": "Rua Amilcar Cabral",
+    "amenity": "bus_station",
+    "name": "Mutamba"
+  }
+},
+{
+  "type": "node",
+  "id": 2345455332,
+  "lat": -12.6430152,
+  "lon": 13.4630496,
+  "tags": {
+    "name": "Bimbas",
+    "operator": "Caminho de Ferro de Benguela",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2378425769,
+  "lat": -12.4890465,
+  "lon": 13.4973433,
+  "tags": {
+    "name": "Aeroporto",
+    "operator": "Caminho de Ferro de Benguela",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2378425822,
+  "lat": -12.5309483,
+  "lon": 13.4605931,
+  "tags": {
+    "name": "Damba Maria",
+    "operator": "Caminho de Ferro de Benguela",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2456739254,
+  "lat": -4.8049559,
+  "lon": 11.8974519,
+  "tags": {
+    "name": "TiéTié",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2484946401,
+  "lat": -15.0206079,
+  "lon": 12.6678608,
+  "tags": {
+    "addr:city": "caraculo",
+    "name": "Caraculo (Km 76)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2505831006,
+  "lat": -8.9985411,
+  "lon": 13.2698480,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2505831022,
+  "lat": -8.9981147,
+  "lon": 13.2493698,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2505831026,
+  "lat": -8.9981808,
+  "lon": 13.2627911,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2505831050,
+  "lat": -8.9984484,
+  "lon": 13.2503917,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2505831124,
+  "lat": -8.9985068,
+  "lon": 13.2640893,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2505831126,
+  "lat": -8.9982099,
+  "lon": 13.2690407,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2505831129,
+  "lat": -8.9981437,
+  "lon": 13.2550395,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2505831166,
+  "lat": -8.9984696,
+  "lon": 13.2565362,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2505848749,
+  "lat": -8.9985598,
+  "lon": 13.2757998,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2505848755,
+  "lat": -8.9982392,
+  "lon": 13.2746304,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2527300781,
+  "lat": -9.4856157,
+  "lon": 14.3573009,
+  "tags": {
+    "name": "Cassoalala",
+    "name:pt": "Cassoalala",
+    "railway": "station",
+    "wikidata": "Q65169828"
+  }
+},
+{
+  "type": "node",
+  "id": 2631795513,
+  "lat": -14.7614168,
+  "lon": 13.5053545,
+  "tags": {
+    "name": "Chela (Km 211)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2741490799,
+  "lat": -9.1150763,
+  "lon": 13.6912178,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 2751706543,
+  "lat": -0.7053074,
+  "lon": 10.2233266,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Sogatra",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2913853434,
+  "lat": -4.8265452,
+  "lon": 15.1725050,
+  "tags": {
+    "name": "Lwila",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3041927764,
+  "lat": -12.4073576,
+  "lon": 13.5399000,
+  "tags": {
+    "name": "Santa Cruz",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3193493383,
+  "lat": -14.6746228,
+  "lon": 15.9152070,
+  "tags": {
+    "alt_name": "Entrocamento Ramal Jamba",
+    "name": "Carvalhais",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3193493384,
+  "lat": -14.5968122,
+  "lon": 15.7117909,
+  "tags": {
+    "name": "Dongo (Km 508)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3193493388,
+  "lat": -14.4664967,
+  "lon": 16.2995182,
+  "tags": {
+    "name": "Cuvango (Km 579)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "old_name": "Capelongo, Vila da Ponte",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3193493389,
+  "lat": -14.7394925,
+  "lon": 15.0245004,
+  "tags": {
+    "name": "Matala (Km 424)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3193494850,
+  "lat": -14.5249448,
+  "lon": 15.8950831,
+  "tags": {
+    "name": "Riunda (Km 531)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3193495445,
+  "lat": -14.6034208,
+  "lon": 15.4950066,
+  "tags": {
+    "name": "Cabanas (Km 480)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3193495479,
+  "lat": -14.6051986,
+  "lon": 15.6319889,
+  "tags": {
+    "name": "Leça (Km 499)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3193495563,
+  "lat": -14.6268998,
+  "lon": 15.6099978,
+  "tags": {
+    "name": "Trindade (Km 496)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3193495627,
+  "lat": -14.6344949,
+  "lon": 15.3845813,
+  "tags": {
+    "name": "Micosse (Km 466)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3193495877,
+  "lat": -14.6795510,
+  "lon": 15.2633202,
+  "tags": {
+    "name": "Laceiras (Km 452)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3193496202,
+  "lat": -14.7311317,
+  "lon": 15.1236266,
+  "tags": {
+    "name": "Maquelo (Km 436)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3193496445,
+  "lat": -14.9551035,
+  "lon": 15.9351957,
+  "tags": {
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3295459084,
+  "lat": -15.0177861,
+  "lon": 12.2709009,
+  "tags": {
+    "name": "Mira-Praia (Km 32)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q164233",
+    "wikipedia": "pt:Caminho de Ferro de Moçâmedes"
+  }
+},
+{
+  "type": "node",
+  "id": 3301683185,
+  "lat": -14.5867947,
+  "lon": 16.6039155,
+  "tags": {
+    "name": "Capunda",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030419,
+  "lat": -4.2173856,
+  "lon": 13.7557028,
+  "tags": {
+    "name": "Bouansa",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030423,
+  "lat": -4.3113046,
+  "lon": 12.7003240,
+  "tags": {
+    "name": "Nzoungo Kibangou",
+    "railway": "station",
+    "source_date": "2013",
+    "source_type": "GPS",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030424,
+  "lat": -4.6203563,
+  "lon": 12.0426478,
+  "tags": {
+    "name": "Hinda",
+    "railway": "station",
+    "source_date": "2010",
+    "source_type": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030427,
+  "lat": -4.3569397,
+  "lon": 12.3622497,
+  "tags": {
+    "name": "Les Saras",
+    "railway": "station",
+    "source_date": "2012",
+    "source_type": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030428,
+  "lat": -4.1605188,
+  "lon": 13.0457075,
+  "tags": {
+    "name": "Loudima",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030429,
+  "lat": -3.2568052,
+  "lon": 12.6892845,
+  "tags": {
+    "name": "Mabafi",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030430,
+  "lat": -4.1919014,
+  "lon": 13.5301479,
+  "tags": {
+    "name": "Madingou",
+    "railway": "station",
+    "source_date": "2013",
+    "source_type": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030431,
+  "lat": -3.3364909,
+  "lon": 12.6567962,
+  "tags": {
+    "name": "Mahitoula",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030432,
+  "lat": -4.3310958,
+  "lon": 12.4363758,
+  "tags": {
+    "name": "Malemba",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030433,
+  "lat": -4.5310775,
+  "lon": 12.0973388,
+  "tags": {
+    "alt_name": "M'boukou",
+    "name": "Mboukou",
+    "railway": "station",
+    "source_date": "2010",
+    "source_type": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030434,
+  "lat": -4.1411372,
+  "lon": 12.9034216,
+  "tags": {
+    "name": "Mont-Belo",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030437,
+  "lat": -4.1965892,
+  "lon": 12.6246771,
+  "tags": {
+    "name": "Moukondo",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030439,
+  "lat": -4.2675818,
+  "lon": 12.4681571,
+  "tags": {
+    "name": "Mpounga",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030440,
+  "lat": -4.3753169,
+  "lon": 12.6661241,
+  "tags": {
+    "name": "Mvoungouti",
+    "railway": "station",
+    "source_date": "2010",
+    "source_type": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030441,
+  "lat": -4.2492734,
+  "lon": 12.4901433,
+  "tags": {
+    "alt_name": "M'Vouti",
+    "name": "Mvouti",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030442,
+  "lat": -4.1893350,
+  "lon": 13.2830299,
+  "tags": {
+    "name": "Nkayi",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030443,
+  "lat": -4.4907198,
+  "lon": 12.3498447,
+  "tags": {
+    "name": "Nemba",
+    "railway": "station",
+    "source_date": "2010",
+    "source_type": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030444,
+  "lat": -4.7415283,
+  "lon": 11.9553506,
+  "tags": {
+    "name": "Ngondji",
+    "old_name": "Patra",
+    "railway": "station",
+    "source_date": "2010",
+    "source_type": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030445,
+  "lat": -4.5171086,
+  "lon": 12.3000694,
+  "tags": {
+    "name": "Nkoungi",
+    "railway": "station",
+    "source_date": "2010",
+    "source_type": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030446,
+  "lat": -4.6729981,
+  "lon": 11.9927793,
+  "tags": {
+    "name": "Ntombo",
+    "railway": "station",
+    "source_date": "2010",
+    "source_type": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030447,
+  "lat": -4.4335076,
+  "lon": 12.5978350,
+  "tags": {
+    "name": "Nzombo",
+    "railway": "station",
+    "source_date": "2010",
+    "source_type": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030448,
+  "lat": -3.3725681,
+  "lon": 12.6526174,
+  "tags": {
+    "name": "Boundji",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030450,
+  "lat": -4.4601042,
+  "lon": 12.4516722,
+  "tags": {
+    "name": "TSoumbou",
+    "railway": "station",
+    "source_date": "2010",
+    "source_type": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 3302030453,
+  "lat": -4.4925226,
+  "lon": 12.5438147,
+  "tags": {
+    "name": "Tsessi",
+    "railway": "station",
+    "source_date": "2010",
+    "source_type": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 3311959882,
+  "lat": -5.8178241,
+  "lon": 13.4599203,
+  "tags": {
+    "name": "Matadi",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3312362171,
+  "lat": -4.8013888,
+  "lon": 11.8401496,
+  "tags": {
+    "name": "Pointe-Noire",
+    "name:ar": "بوانت نوار",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q63410795",
+    "wikipedia": "en:Pointe-Noire railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 3323391137,
+  "lat": -4.1944259,
+  "lon": 14.7993303,
+  "tags": {
+    "name": "Madzia",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3323399950,
+  "lat": -4.8278038,
+  "lon": 11.8778867,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Arret Colonel",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3323399951,
+  "lat": -4.6990737,
+  "lon": 11.8469516,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Arret Commandant"
+  }
+},
+{
+  "type": "node",
+  "id": 3323399952,
+  "lat": -4.9402207,
+  "lon": 11.9586666,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Arret Granvent"
+  }
+},
+{
+  "type": "node",
+  "id": 3323399953,
+  "lat": -4.6955836,
+  "lon": 11.8443794,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Arret Mavoungou"
+  }
+},
+{
+  "type": "node",
+  "id": 3323399954,
+  "lat": -4.3866772,
+  "lon": 12.2512715,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Arret Mfoubou"
+  }
+},
+{
+  "type": "node",
+  "id": 3323399956,
+  "lat": -4.8305825,
+  "lon": 11.9343040,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Arret Ngulu Mango",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3323399957,
+  "lat": -4.9406779,
+  "lon": 11.9592435,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Arret Tom Papaye"
+  }
+},
+{
+  "type": "node",
+  "id": 3323401558,
+  "lat": -4.1694060,
+  "lon": 12.6557402,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routière Dolisie",
+    "source_type": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 3660702569,
+  "lat": -5.2689510,
+  "lon": 14.9671610,
+  "tags": {
+    "name": "Mwala GTrain Station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3706692681,
+  "lat": -10.8509700,
+  "lon": 14.3706209,
+  "tags": {
+    "name": "Estação de Comboio",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3746051699,
+  "lat": -8.8990464,
+  "lon": 13.2113608,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Macon Executivo"
+  }
+},
+{
+  "type": "node",
+  "id": 3748007966,
+  "lat": -4.2667890,
+  "lon": 15.2680771,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "CHU",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3748007969,
+  "lat": -4.2757038,
+  "lon": 15.2790760,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Congo Pharmacie"
+  }
+},
+{
+  "type": "node",
+  "id": 3748007970,
+  "lat": -4.2752862,
+  "lon": 15.2793281,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Congo Pharmacie"
+  }
+},
+{
+  "type": "node",
+  "id": 3748007971,
+  "lat": -4.2699465,
+  "lon": 15.2882717,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Gare CFCO",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3748007972,
+  "lat": -4.2806656,
+  "lon": 15.2592605,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "CCF"
+  }
+},
+{
+  "type": "node",
+  "id": 3748007973,
+  "lat": -4.2805234,
+  "lon": 15.2590916,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "CCF",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3885207155,
+  "lat": -5.2606057,
+  "lon": 14.8590711,
+  "tags": {
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4092118078,
+  "lat": -17.4681079,
+  "lon": 15.8813303,
+  "tags": {
+    "name": "Ohangwena",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4092153703,
+  "lat": -17.6490480,
+  "lon": 15.9178937,
+  "tags": {
+    "name": "Ongha",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4096999016,
+  "lat": -14.8244372,
+  "lon": 14.5432243,
+  "tags": {
+    "name": "Quipungo (Km 369)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4097318000,
+  "lat": -14.7971252,
+  "lon": 14.7277987,
+  "tags": {
+    "name": "Nompeto (Km 391)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4097318004,
+  "lat": -14.8167533,
+  "lon": 14.6174359,
+  "tags": {
+    "name": "Gungo (Km 378)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4097344072,
+  "lat": -14.8362159,
+  "lon": 14.3512064,
+  "tags": {
+    "name": "Tontum (Km 349)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4097344078,
+  "lat": -14.8816066,
+  "lon": 14.1766364,
+  "tags": {
+    "name": "Chicungo (Km 329)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4097389404,
+  "lat": -14.8642665,
+  "lon": 13.7596420,
+  "tags": {
+    "name": "Chanja (Km 280)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4097442697,
+  "lat": -14.9459230,
+  "lon": 13.5967331,
+  "tags": {
+    "addr:city": "Arimba",
+    "name": "Arimba (Km 256)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4097504303,
+  "lat": -14.9531929,
+  "lon": 13.5451079,
+  "tags": {
+    "addr:city": "Lubango",
+    "name": "Mukanka (Km 251)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4097602233,
+  "lat": -15.1178036,
+  "lon": 12.1436978,
+  "tags": {
+    "name": "Saco-Mar (Km 10)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q164233",
+    "wikipedia": "pt:Caminho de Ferro de Moçâmedes"
+  }
+},
+{
+  "type": "node",
+  "id": 4099134601,
+  "lat": -14.9925549,
+  "lon": 12.8190392,
+  "tags": {
+    "addr:city": "Capangombe",
+    "name": "Capangombe (Km 93)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4099148206,
+  "lat": -14.8295505,
+  "lon": 13.1911495,
+  "tags": {
+    "addr:city": "Garganta",
+    "name": "Garganta (Km 140)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4099164211,
+  "lat": -14.7594426,
+  "lon": 13.3496879,
+  "tags": {
+    "addr:city": "Bibala",
+    "building": "yes",
+    "name": "Bibala (Km162)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "website": "https://www.facebook.com/Caminho-de-Ferro-de-Mo%C3%A7%C3%A2medes-EP-654551907888192/",
+    "wikidata": "Q164233",
+    "wikipedia": "pt:Caminho de Ferro de Moçâmedes"
+  }
+},
+{
+  "type": "node",
+  "id": 4099170981,
+  "lat": -14.7308164,
+  "lon": 13.4554744,
+  "tags": {
+    "addr:city": "Humbia",
+    "building": "yes",
+    "name": "Humbia (Km180)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "website": "https://www.facebook.com/Caminho-de-Ferro-de-Mo%C3%A7%C3%A2medes-EP-654551907888192/",
+    "wikidata": "Q164233",
+    "wikipedia": "pt:Caminho de Ferro de Moçâmedes"
+  }
+},
+{
+  "type": "node",
+  "id": 4099327420,
+  "lat": -14.5287156,
+  "lon": 15.9986351,
+  "tags": {
+    "name": "Colui (Km 543)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4099354337,
+  "lat": -14.5454171,
+  "lon": 16.5280710,
+  "tags": {
+    "name": "Gunda",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4099387109,
+  "lat": -14.6364234,
+  "lon": 16.7224730,
+  "tags": {
+    "name": "Liunda",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4099430327,
+  "lat": -14.7101338,
+  "lon": 17.4086193,
+  "tags": {
+    "name": "Kuelei",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4099430334,
+  "lat": -14.6906526,
+  "lon": 17.6056630,
+  "tags": {
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4101699515,
+  "lat": -15.1913515,
+  "lon": 12.1496445,
+  "tags": {
+    "addr:city": "Moçâmedes",
+    "name": "Moçâmedes (Km 0)",
+    "name:de": "Moçâmedes",
+    "name:en": "Moçâmedes",
+    "name:es": "Moçâmedes",
+    "name:fr": "Moçâmedes",
+    "name:it": "Moçâmedes",
+    "name:ja": "モザメデス",
+    "name:ko": "모자 메데스",
+    "name:nl": "Moçâmedes",
+    "name:pl": "Moçâmedes",
+    "name:pt": "Moçâmedes",
+    "name:ru": "Мосамедиш",
+    "name:uk": "Мозамэдес",
+    "name:zh-Hans": "木萨米迪什",
+    "name:zh-Hant": "木薩米迪什",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "old_name": "Namibe",
+    "old_name:de": "Namibe",
+    "old_name:el": "Ναμίμπε",
+    "old_name:en": "Namibe",
+    "old_name:es": "Namibe",
+    "old_name:fr": "Namibe",
+    "old_name:it": "Namibe",
+    "old_name:ja": "ナミベ",
+    "old_name:ko": "나미브",
+    "old_name:lt": "Namibė",
+    "old_name:nl": "Namibe",
+    "old_name:pl": "Namibe",
+    "old_name:pt": "Namibe",
+    "old_name:ru": "Намиб",
+    "old_name:uk": "Намібе",
+    "old_name:zh-Hans": "纳米贝",
+    "old_name:zh-Hant": "納米貝",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q164233",
+    "wikipedia": "pt:Caminho de Ferro de Moçâmedes"
+  }
+},
+{
+  "type": "node",
+  "id": 4104403931,
+  "lat": -12.5631685,
+  "lon": 13.4193479,
+  "tags": {
+    "name": "Cavaco",
+    "operator": "Caminho de Ferro de Benguela",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4104403932,
+  "lat": -12.5771706,
+  "lon": 13.4120614,
+  "tags": {
+    "name": "Benguela",
+    "operator": "Caminho de Ferro de Benguela",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4104403933,
+  "lat": -12.5514395,
+  "lon": 13.4333351,
+  "tags": {
+    "name": "Nossa Senhora da Graça",
+    "operator": "Caminho de Ferro de Benguela",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4104403948,
+  "lat": -12.4587352,
+  "lon": 13.5196471,
+  "tags": {
+    "name": "Luongo",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4104403949,
+  "lat": -12.4316255,
+  "lon": 13.5396044,
+  "tags": {
+    "name": "Catumbela",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4104525250,
+  "lat": -12.5989087,
+  "lon": 13.5073139,
+  "tags": {
+    "name": "Mina",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4104548754,
+  "lat": -12.8865889,
+  "lon": 13.6785987,
+  "tags": {
+    "name": "Ombe",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4104548764,
+  "lat": -12.7115209,
+  "lon": 13.5879776,
+  "tags": {
+    "name": "Cango",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4104883096,
+  "lat": -12.9812630,
+  "lon": 14.4757052,
+  "tags": {
+    "name": "Chimboa",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4104883104,
+  "lat": -13.0146842,
+  "lon": 14.6377652,
+  "tags": {
+    "name": "Ganda",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4104894603,
+  "lat": -12.9375051,
+  "lon": 14.7590667,
+  "tags": {
+    "name": "Alto Catumbela",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4104906409,
+  "lat": -12.9003250,
+  "lon": 14.8055508,
+  "tags": {
+    "name": "Babaera",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4104977570,
+  "lat": -12.8642034,
+  "lon": 15.0692935,
+  "tags": {
+    "alt_name": "Cuma",
+    "name": "Ukuma",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4104997527,
+  "lat": -12.8719619,
+  "lon": 15.3992606,
+  "tags": {
+    "name": "Lépi",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4105038238,
+  "lat": -12.8463094,
+  "lon": 15.4669106,
+  "tags": {
+    "name": "Calenga",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4105130570,
+  "lat": -12.8496728,
+  "lon": 15.5552227,
+  "tags": {
+    "name": "Caála",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4105145725,
+  "lat": -12.7690436,
+  "lon": 15.7279985,
+  "tags": {
+    "name": "São Pedro",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4105156944,
+  "lat": -12.7638489,
+  "lon": 15.7456509,
+  "tags": {
+    "name": "Huambo",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4105186010,
+  "lat": -12.7519637,
+  "lon": 15.7735240,
+  "tags": {
+    "name": "Santa Iria",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4105295720,
+  "lat": -12.5572990,
+  "lon": 16.3331024,
+  "tags": {
+    "name": "Chinguar",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4105308930,
+  "lat": -12.3338224,
+  "lon": 16.6256307,
+  "tags": {
+    "name": "Capeio",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4105371292,
+  "lat": -12.2635535,
+  "lon": 17.1253911,
+  "tags": {
+    "name": "Chipeta",
+    "operator": "Caminho de Ferro de Benguela",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4105372652,
+  "lat": -12.1496557,
+  "lon": 17.2799861,
+  "tags": {
+    "name": "Catabola",
+    "operator": "Caminho de Ferro de Benguela",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4105379167,
+  "lat": -11.9924760,
+  "lon": 17.6653489,
+  "tags": {
+    "alt_name": "Cuanza",
+    "name": "Cuanza",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4107362990,
+  "lat": -8.9214599,
+  "lon": 13.4006602,
+  "tags": {
+    "name": "Capalanca",
+    "operator": "Caminho de Ferro de Luanda E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4107362999,
+  "lat": -8.9423055,
+  "lon": 13.4339648,
+  "tags": {
+    "name": "Entroncamento",
+    "operator": "Caminho de Ferro de Luanda E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q65169850"
+  }
+},
+{
+  "type": "node",
+  "id": 4107364764,
+  "lat": -8.9706055,
+  "lon": 13.4790856,
+  "tags": {
+    "name": "Baía",
+    "operator": "Caminho de Ferro de Luanda E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4107393700,
+  "lat": -9.1848170,
+  "lon": 13.9658041,
+  "tags": {
+    "name": "Barraca",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4111872433,
+  "lat": -4.7505388,
+  "lon": 15.1414481,
+  "tags": {
+    "name": "Kilunga",
+    "network": "Matadi-Kinshasa",
+    "old_name": "Bailleux",
+    "operator": "ONATRA",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4113589174,
+  "lat": -9.1941087,
+  "lon": 14.3912413,
+  "tags": {
+    "name": "N'dalahui",
+    "old_name": "Beira Alta",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4113705890,
+  "lat": -9.3625712,
+  "lon": 15.4726857,
+  "tags": {
+    "name": "Quizenga",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4113781153,
+  "lat": -9.5423583,
+  "lon": 16.3480103,
+  "tags": {
+    "name": "Malanje",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4257105053,
+  "lat": -8.7963327,
+  "lon": 13.2777290,
+  "tags": {
+    "addr:city": "Luanda",
+    "name": "Rotunda",
+    "operator": "Caminho de Ferro de Luanda E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4433410188,
+  "lat": -1.5029718,
+  "lon": 13.2879841,
+  "tags": {
+    "name": "Moanda",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "619",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4674864991,
+  "lat": -9.0635362,
+  "lon": 13.6363100,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "paragem de Comboios",
+    "name:pt": "paragem de Comboios",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4786386788,
+  "lat": -8.8151580,
+  "lon": 13.2324826,
+  "tags": {
+    "addr:city": "Luanda",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Transporte Colectivo Urbano de Luanda (TCUL)",
+    "name:de": "Luanda Urban Kollektivverkehr (TCUL)",
+    "name:es": "Transporte Colectivo Urbano de Luanda (TCUL)",
+    "name:fr": "Transports Collectifs Urbains de Luanda (TCUL)",
+    "name:it": "Trasporto Collettivo Urbano Luanda (TCUL)",
+    "name:nl": "Luanda Stedelijk Collectief Vervoer (TCUL)",
+    "name:pl": "Miejski Transport Zbiorowy Luanda (TCUL)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4866293707,
+  "lat": -0.1038740,
+  "lon": 11.9486385,
+  "tags": {
+    "name": "Booué",
+    "name:fr": "Booué",
+    "network": "Transgabonaise",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "338",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4866419146,
+  "lat": -0.0804394,
+  "lon": 11.1240126,
+  "tags": {
+    "name": "Otoumbi",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "226",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4866419173,
+  "lat": -0.1338261,
+  "lon": 10.8000166,
+  "tags": {
+    "name": "Ndjolé",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "182",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4866430703,
+  "lat": -0.1182345,
+  "lon": 11.4370300,
+  "tags": {
+    "name": "Ayem",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "267",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4866498062,
+  "lat": -0.1431778,
+  "lon": 10.5191490,
+  "tags": {
+    "name": "Abanga",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "148",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4866649951,
+  "lat": -0.1011810,
+  "lon": 11.7759825,
+  "tags": {
+    "name": "Offoué",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "312",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4866650406,
+  "lat": -0.1029336,
+  "lon": 11.6053887,
+  "tags": {
+    "name": "Lopé",
+    "name:en": "Lope",
+    "network": "Transgabonaise",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "290",
+    "source": "survey",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4866795923,
+  "lat": -0.5478569,
+  "lon": 12.6449884,
+  "tags": {
+    "name": "Milolé",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "447",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4866795981,
+  "lat": -0.7936004,
+  "lon": 12.7741894,
+  "tags": {
+    "name": "Lastourville",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "484",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4866796398,
+  "lat": -0.1964460,
+  "lon": 12.1960746,
+  "tags": {
+    "name": "Ivindo",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "373",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4866796496,
+  "lat": -0.3425560,
+  "lon": 12.4374358,
+  "tags": {
+    "name": "Mouyabi",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "410",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4867037545,
+  "lat": -0.0956715,
+  "lon": 11.2572059,
+  "tags": {
+    "name": "Bissouma",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "244",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4867037884,
+  "lat": -0.1131959,
+  "lon": 10.9445245,
+  "tags": {
+    "name": "Alembé",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "202",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4867038142,
+  "lat": -1.0667581,
+  "lon": 13.1468014,
+  "tags": {
+    "name": "Lifouta",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "549",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4867038343,
+  "lat": -0.8887860,
+  "lon": 12.9916929,
+  "tags": {
+    "addr:city": "Lastoursville",
+    "name": "Doumé",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "514",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4867038479,
+  "lat": -1.3144394,
+  "lon": 13.2643407,
+  "tags": {
+    "name": "Mboungou",
+    "operator": "SETRAG",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:position": "584",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4986529561,
+  "lat": -0.8092546,
+  "lon": 12.7307135,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Gare Routière",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5267541508,
+  "lat": -4.3890634,
+  "lon": 15.3714865,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 5274398028,
+  "lat": -4.2663351,
+  "lon": 15.2234237,
+  "tags": {
+    "name": "Gare de Mfilou",
+    "network": "Chemin de fer Congo-Océan",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5274398029,
+  "lat": -4.2298129,
+  "lon": 15.1062086,
+  "tags": {
+    "name": "Ngoma-Tse-Tse",
+    "network": "Chemin de fer Congo-Océan",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5274398030,
+  "lat": -4.2072008,
+  "lon": 15.0064114,
+  "tags": {
+    "name": "Kibossi",
+    "network": "Chemin de fer Congo-Océan",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5274398031,
+  "lat": -4.1567257,
+  "lon": 14.8955754,
+  "tags": {
+    "name": "Kibouende",
+    "network": "Chemin de fer Congo-Océan",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5274398032,
+  "lat": -4.2712221,
+  "lon": 14.7159397,
+  "tags": {
+    "name": "Matoumbou",
+    "network": "Chemin de fer Congo-Océan",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5274398033,
+  "lat": -4.2727058,
+  "lon": 14.4878356,
+  "tags": {
+    "name": "Missafou",
+    "network": "Chemin de fer Congo-Océan",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5274398034,
+  "lat": -4.2686712,
+  "lon": 14.3580657,
+  "tags": {
+    "name": "Mindouli",
+    "network": "Chemin de fer Congo-Océan",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5274398035,
+  "lat": -4.2945133,
+  "lon": 13.9611130,
+  "tags": {
+    "name": "Kimbedi",
+    "network": "Chemin de fer Congo-Océan",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5274398036,
+  "lat": -4.2978001,
+  "lon": 13.8569860,
+  "tags": {
+    "name": "Loutété",
+    "network": "Chemin de fer Congo-Océan",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5459444921,
+  "lat": -4.7624716,
+  "lon": 11.8940283,
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "tchimpanana",
+    "amenity": "bus_station",
+    "name": "Ocean du nord",
+    "phone": "064115387"
+  }
+},
+{
+  "type": "node",
+  "id": 5476375171,
+  "lat": -12.6171233,
+  "lon": 13.4476767,
+  "tags": {
+    "name": "Tombua",
+    "operator": "Caminho de Ferro de Benguela",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5478446680,
+  "lat": -4.1981977,
+  "lon": 12.6761305,
+  "tags": {
+    "alt_name": "Loubomo",
+    "name": "Dolisie",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5558733323,
+  "lat": -4.7967633,
+  "lon": 11.8743379,
+  "tags": {
+    "addr:street": "Avenue Marien Ngouabi",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Agence océan du nord",
+    "phone": "065871952",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5663995525,
+  "lat": -4.7725190,
+  "lon": 11.8813533,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "SA TRANSPORT",
+    "phone": "069666777",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5669721815,
+  "lat": -2.9077033,
+  "lon": 12.6966736,
+  "tags": {
+    "name": "Mossendjo",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5669722108,
+  "lat": -3.4842180,
+  "lon": 12.6100087,
+  "tags": {
+    "name": "Makabana",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5670027172,
+  "lat": -3.0695392,
+  "lon": 12.6665819,
+  "tags": {
+    "name": "Tsimba",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5670027179,
+  "lat": -2.4261588,
+  "lon": 12.7295440,
+  "tags": {
+    "name": "Tsinguidi",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5670027214,
+  "lat": -2.2562983,
+  "lon": 12.8169143,
+  "tags": {
+    "name": "Mayoko Gare",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5670027427,
+  "lat": -2.1087177,
+  "lon": 12.8628458,
+  "tags": {
+    "name": "Mbinda",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5670206651,
+  "lat": -4.1892444,
+  "lon": 14.9458292,
+  "tags": {
+    "name": "Mayogongo",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5670206696,
+  "lat": -4.2504737,
+  "lon": 14.5953852,
+  "tags": {
+    "name": "Massembo - Loubaki",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5670206714,
+  "lat": -4.2344433,
+  "lon": 14.2060491,
+  "tags": {
+    "name": "Kikembo",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5670206720,
+  "lat": -4.2705160,
+  "lon": 14.0819728,
+  "tags": {
+    "name": "Loulombo",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5670207830,
+  "lat": -4.2310943,
+  "lon": 14.2959434,
+  "tags": {
+    "name": "Kingoyi",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5670391122,
+  "lat": -4.5382806,
+  "lon": 12.1473380,
+  "tags": {
+    "name": "Tchitondi",
+    "old_name": "Hollé",
+    "railway": "station",
+    "source_date": "2010",
+    "source_type": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 5670391124,
+  "lat": -4.5115912,
+  "lon": 12.2254282,
+  "tags": {
+    "name": "Bilala",
+    "old_name": "Guéna",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5670391142,
+  "lat": -4.4828835,
+  "lon": 12.2480293,
+  "tags": {
+    "name": "Bilinga",
+    "old_name": "Fourastié",
+    "public_transport": "station",
+    "railway": "station",
+    "source_date": "2010",
+    "source_type": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 5670391328,
+  "lat": -4.2076779,
+  "lon": 12.5666856,
+  "tags": {
+    "name": "Gare Les Bandas",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5670391373,
+  "lat": -4.1552787,
+  "lon": 12.7570085,
+  "tags": {
+    "name": "Tao-Tao",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5670391380,
+  "lat": -4.1171300,
+  "lon": 12.8330800,
+  "tags": {
+    "name": "Moumbotsi",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6037180386,
+  "lat": -12.3670354,
+  "lon": 13.5546333,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ango-Real"
+  }
+},
+{
+  "type": "node",
+  "id": 6037651685,
+  "lat": -12.3790600,
+  "lon": 13.5749752,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "macon"
+  }
+},
+{
+  "type": "node",
+  "id": 6038640686,
+  "lat": -11.2129506,
+  "lon": 13.8464793,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "macon",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6038640886,
+  "lat": -12.3672445,
+  "lon": 13.5635806,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 6173840163,
+  "lat": -12.0641835,
+  "lon": 17.7881125,
+  "tags": {
+    "name": "Cueli",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6184236685,
+  "lat": -12.3672085,
+  "lon": 13.5519621,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Rotunda Sumbe Luanda"
+  }
+},
+{
+  "type": "node",
+  "id": 6255374445,
+  "lat": -3.3172742,
+  "lon": 17.3812884,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Arrêt Isaka"
+  }
+},
+{
+  "type": "node",
+  "id": 6513758412,
+  "lat": -8.8312028,
+  "lon": 13.2737298,
+  "tags": {
+    "name": "Muceques",
+    "operator": "Caminho de Ferro de Luanda E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6717959355,
+  "lat": -12.6014449,
+  "lon": 13.4334814,
+  "tags": {
+    "name": "Caponte",
+    "operator": "Caminho de Ferro de Benguela",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6718997031,
+  "lat": -12.7164569,
+  "lon": 15.8655918,
+  "tags": {
+    "name": "Santo Amaro",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6718997073,
+  "lat": -12.6365469,
+  "lon": 16.0487743,
+  "tags": {
+    "name": "Chicala-Choloanga",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6893972571,
+  "lat": -12.3808063,
+  "lon": 13.5402726,
+  "tags": {
+    "name": "Bairro da Luz",
+    "operator": "Caminho de Ferro de Benguela",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6893980392,
+  "lat": -12.3486666,
+  "lon": 13.5422200,
+  "tags": {
+    "name": "Lobito",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6894001457,
+  "lat": -13.0421531,
+  "lon": 14.2436660,
+  "tags": {
+    "name": "Cubal",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6894119911,
+  "lat": -12.8273182,
+  "lon": 14.9274145,
+  "tags": {
+    "name": "Chinjenje",
+    "public_transport": "stop_position",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6896805698,
+  "lat": -4.2800240,
+  "lon": 15.2601867,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6984590239,
+  "lat": -15.1871735,
+  "lon": 12.1577680,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Macon",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6988787185,
+  "lat": -15.1891072,
+  "lon": 12.1552468,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Minibus",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6990087611,
+  "lat": -4.3535097,
+  "lon": 15.2380323,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Arrêt DGC"
+  }
+},
+{
+  "type": "node",
+  "id": 7099988438,
+  "lat": -1.6239525,
+  "lon": 13.6391003,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 7121780487,
+  "lat": -4.7659860,
+  "lon": 11.8651925,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name:en": "Trucks to Conkouati",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 7131532195,
+  "lat": -14.9144102,
+  "lon": 12.9972878,
+  "tags": {
+    "name": "Kilómetro 116 (Km 116)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 7150704685,
+  "lat": -2.9172254,
+  "lon": 10.9943834,
+  "tags": {
+    "addr:street": "Tchibanga",
+    "amenity": "bus_station",
+    "name": "Station de Bus",
+    "name:en": "Bus Station"
+  }
+},
+{
+  "type": "node",
+  "id": 7164324186,
+  "lat": -8.8816927,
+  "lon": 13.2070908,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Desembarque",
+    "name:en": "Macon bus stop Luanda",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 7729587543,
+  "lat": -14.6987983,
+  "lon": 13.4764380,
+  "tags": {
+    "name": "Serra (Km 198)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 7729704013,
+  "lat": -14.6737433,
+  "lon": 13.4706965,
+  "tags": {
+    "name": "Tolundo (Km 192)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 7807299385,
+  "lat": -1.2267281,
+  "lon": 16.7977757,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Port secondaire",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 7831128782,
+  "lat": -14.8116401,
+  "lon": 13.2484354,
+  "tags": {
+    "name": "Aguada (Km 147)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 8521153039,
+  "lat": -14.9287236,
+  "lon": 13.5246204,
+  "tags": {
+    "addr:city": "Lubango",
+    "addr:street": "Rua 1 - Zona Industrial I",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Rodoviário",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 8745276314,
+  "lat": -12.1302445,
+  "lon": 17.9477066,
+  "tags": {
+    "name": "Cuiva",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8853569927,
+  "lat": -8.8841403,
+  "lon": 13.2069829,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Rodoviário",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 8922260239,
+  "lat": -14.5732918,
+  "lon": 15.7714854,
+  "tags": {
+    "name": "Entroncamento (Km 516)",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 9515740117,
+  "lat": -8.8497860,
+  "lon": 13.2309075,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Best Fly Terminal"
+  }
+},
+{
+  "type": "node",
+  "id": 9916172155,
+  "lat": -4.3518603,
+  "lon": 15.3314945,
+  "tags": {
+    "amenity": "bus_station",
+    "check_date": "2023-05-13",
+    "description": "Destinations: Mongata, Bandundu, Matadi, Boma, Moanda, Kikwit, Tshikapa, Kananga",
+    "name": "Classic Coach",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 10002312941,
+  "lat": -14.9135138,
+  "lon": 13.5046354,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 10936807772,
+  "lat": -5.1258834,
+  "lon": 15.0695448,
+  "tags": {
+    "addr:city": "Kisantu",
+    "name": "Kisantu–Inkisi",
+    "network": "Matadi-Kinshasa",
+    "operator": "ONATRA",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11402352300,
+  "lat": -4.3073359,
+  "lon": 15.3091049,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Arrêt Zando"
+  }
+},
+{
+  "type": "node",
+  "id": 11412068983,
+  "lat": -9.0525358,
+  "lon": 13.5012424,
+  "tags": {
+    "name": "Aeroporto Internacional Dr. António Agostinho Neto",
+    "name:en": "Dr. Antonio Agostinho Neto International Airport",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 11687747971,
+  "lat": -4.2506213,
+  "lon": 15.2777839,
+  "tags": {
+    "amenity": "bus_station",
+    "name:en": "OCEAN DU NORD Agence de Moungali"
+  }
+},
+{
+  "type": "node",
+  "id": 11744258469,
+  "lat": -12.7729007,
+  "lon": 15.7318219,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 11803599270,
+  "lat": -14.9022968,
+  "lon": 13.5138072,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Parque da Staff Tá Limpo\"",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 13141515103,
+  "lat": -14.6569509,
+  "lon": 17.6783050,
+  "tags": {
+    "amenity": "bus_station",
+    "name:en": "Taxi-bush"
+  }
+},
+{
+  "type": "node",
+  "id": 13141515501,
+  "lat": -14.6656507,
+  "lon": 17.6930922,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Macon"
+  }
+},
+{
+  "type": "node",
+  "id": 13149783003,
+  "lat": -15.8016897,
+  "lon": 11.8530726,
+  "tags": {
+    "amenity": "bus_station",
+    "name:en": "Minibus"
+  }
+},
+{
+  "type": "node",
+  "id": 13154775301,
+  "lat": -14.7608404,
+  "lon": 13.3555989,
+  "tags": {
+    "amenity": "bus_station",
+    "name:en": "Bush taxi to Nangombe"
+  }
+},
+{
+  "type": "node",
+  "id": 13154775401,
+  "lat": -14.8293540,
+  "lon": 13.4944043,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Nangombe"
+  }
+},
+{
+  "type": "node",
+  "id": 13158209501,
+  "lat": -14.9242996,
+  "lon": 13.5293032,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Huambo Expresso - Tchioco"
+  }
+},
+{
+  "type": "node",
+  "id": 13158209502,
+  "lat": -17.3856428,
+  "lon": 15.8885159,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Huambo Expresso"
+  }
+},
+{
+  "type": "node",
+  "id": 13158209601,
+  "lat": -17.0742473,
+  "lon": 15.7335747,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Huambo Expresso"
+  }
+},
+{
+  "type": "node",
+  "id": 13160035601,
+  "lat": -17.5057388,
+  "lon": 14.9928198,
+  "tags": {
+    "amenity": "bus_station",
+    "name:en": "Shared taxi"
+  }
+},
+{
+  "type": "node",
+  "id": 13160035602,
+  "lat": -17.4335760,
+  "lon": 14.4311922,
+  "tags": {
+    "amenity": "bus_station",
+    "name:en": "Shared taxi"
+  }
+},
+{
+  "type": "node",
+  "id": 13160035603,
+  "lat": -17.5006124,
+  "lon": 14.9853807,
+  "tags": {
+    "amenity": "bus_station",
+    "name:en": "Shared taxi"
+  }
+},
+{
+  "type": "node",
+  "id": 13160035701,
+  "lat": -17.7717210,
+  "lon": 15.6908820,
+  "tags": {
+    "amenity": "bus_station",
+    "name:en": "Shared taxi - To Ruacana"
+  }
+},
+{
+  "type": "node",
+  "id": 13161946601,
+  "lat": -17.9202182,
+  "lon": 15.9974051,
+  "tags": {
+    "amenity": "bus_station",
+    "name:en": "Shared taxi to Tsumeb"
+  }
+},
+{
+  "type": "node",
+  "id": 13243002987,
+  "lat": -12.0225989,
+  "lon": 17.4741111,
+  "tags": {
+    "name": "Camacupa",
+    "operator": "Caminho de Ferro de Benguela",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 57359260,
+  "nodes": [
+    712882748,
+    712882749,
+    712882750,
+    712882751,
+    712882748
+  ],
+  "tags": {
+    "name": "Kinshasa Ouest",
+    "name:de": "Kinshasa Westbahnhof",
+    "name:ln": "Kinsásá Wɛ́sita",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 207842044,
+  "nodes": [
+    2180948831,
+    2180948834,
+    2180948832,
+    2180948830,
+    2180948829,
+    2180948827,
+    2180948828,
+    2180948833,
+    2180948831
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Cambunze",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 207842048,
+  "nodes": [
+    2180948913,
+    2180948912,
+    2180948907,
+    2180948909,
+    2180948906,
+    2180948908,
+    2180948910,
+    2180948911,
+    2180948913
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Cacuso",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 207879863,
+  "nodes": [
+    2181227446,
+    2181227443,
+    2181227441,
+    2181227439,
+    2181227448,
+    2181227454,
+    2181227451,
+    2181227453,
+    2181227446
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Lombe",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 207879864,
+  "nodes": [
+    2181226750,
+    2181226762,
+    2181226764,
+    2181226773,
+    2181226778,
+    2181226766,
+    2181226768,
+    2181226757,
+    2181226750
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Lucala",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 207989409,
+  "nodes": [
+    2182711640,
+    2527289732,
+    2182711643,
+    2182711637,
+    2527289734,
+    2182711616,
+    2182711613,
+    2182711610,
+    2182711619,
+    2182711649,
+    2182711640
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Zenza do Itombe",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 226831624,
+  "nodes": [
+    2355652870,
+    2355652906,
+    2355652898,
+    2355652993,
+    2355652910,
+    2355652889,
+    2355652965,
+    2355652913,
+    2355652870
+  ],
+  "tags": {
+    "addr:city": "Luanda",
+    "addr:housename": "Estação Central",
+    "addr:street": "Rua Major Kanhangulo",
+    "building": "train_station",
+    "name": "Bungo - Estação Central de Luanda",
+    "name:de": "Bungo - Luanda Hauptbahnhof",
+    "name:en": "Bungo - Luanda Central Station",
+    "name:es": "Bungo - Estación Central de Luanda",
+    "name:fr": "Bungo - Gare Centrale de Luanda",
+    "name:it": "Bungo - Stazione Centrale di Luanda",
+    "name:nl": "Bungo - Luanda Centraal Station",
+    "name:pl": "Bungo - Dworzec Centralny Luanda",
+    "name:pt": "Bungo - Estação Central de Luanda",
+    "name:ru": "Бунго - Центральный Вокзал Луанды",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 246695058,
+  "nodes": [
+    2537016421,
+    2537016423,
+    2537016425,
+    2537016427,
+    2537016421
+  ],
+  "tags": {
+    "building": "yes",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 315716745,
+  "nodes": [
+    3218480894,
+    3218480895,
+    3218480896,
+    3218480897,
+    3218480894
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "TGL"
+  }
+},
+{
+  "type": "way",
+  "id": 333093458,
+  "nodes": [
+    3402046357,
+    3402046358,
+    12186694715,
+    3402046360,
+    3402046357
+  ],
+  "tags": {
+    "Age": "ancient",
+    "building": "yes",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 385164357,
+  "nodes": [
+    3885204281,
+    3885204282,
+    3885204283,
+    3885204284,
+    3885204281
+  ],
+  "tags": {
+    "area": "yes",
+    "building": "yes",
+    "railway": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 389446823,
+  "nodes": [
+    3926193751,
+    3926193752,
+    3926195257,
+    3926193753,
+    11618921447,
+    3926193754,
+    3926193755,
+    3926193756,
+    3926193751
+  ],
+  "tags": {
+    "alt_name": "Dépôt Masina",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "internet_access": "no",
+    "name": "Site transco",
+    "operator": "Entreprise public de transports en commun",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 426322332,
+  "nodes": [
+    4256288978,
+    4256288979,
+    4256288980,
+    7697704475,
+    4256288978
+  ],
+  "tags": {
+    "addr:city": "Lubango",
+    "addr:housenumber": "Lucrecia",
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "bus": "yes",
+    "name": "Macon Executivo",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 426327498,
+  "nodes": [
+    4256359087,
+    4256359088,
+    8514821434,
+    4256359989,
+    4256359990,
+    5497390037,
+    4256359087
+  ],
+  "tags": {
+    "addr:city": "Lubango",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Orcalves",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 426328724,
+  "nodes": [
+    4256390028,
+    4698587112,
+    4256390030,
+    4256390031,
+    4256390032,
+    4256390033,
+    4256390028
+  ],
+  "tags": {
+    "addr:city": "Lubango",
+    "addr:street": "Avenida Mártires de 8 de Novembro",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Macon - Base Tchioco",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 426335370,
+  "nodes": [
+    4256438079,
+    4256438081,
+    8827558419,
+    7742142063,
+    7742142064,
+    7742142066,
+    4256438083,
+    7742142044,
+    4256438084,
+    7742142042,
+    7742142048,
+    7742142045,
+    4256438079
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "bus": "yes",
+    "name": "Macon",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 426335863,
+  "nodes": [
+    4256447242,
+    4256447243,
+    8828403493,
+    4256447244,
+    4256447245,
+    4256447242
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "bus": "yes",
+    "name": "Angoreal - Terminal Provincial da Huíla",
+    "network": "Angoreal",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 426337102,
+  "nodes": [
+    7968669902,
+    7968669903,
+    7968669906,
+    7968669907,
+    8842173683,
+    8842173684,
+    8842173685,
+    8842173698,
+    8842173693,
+    7968669899,
+    8842173694,
+    5767585336,
+    7968616979,
+    7968616978,
+    4256461370,
+    7696044806,
+    8842173666,
+    7968669905,
+    7968669902
+  ],
+  "tags": {
+    "addr:city": "Lubango",
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "bus": "yes",
+    "name": "Sotrans - Transporte Interprovincial",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 434368216,
+  "nodes": [
+    4325252274,
+    4325252275,
+    4325252276,
+    4325252277,
+    4325252274
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 434368218,
+  "nodes": [
+    4325252286,
+    4325252287,
+    4325252288,
+    4325255089,
+    4325252286
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 489806258,
+  "nodes": [
+    4820166269,
+    4820166270,
+    4820166271,
+    4820166272,
+    4820166273,
+    4820166274,
+    4820166275,
+    4820166276,
+    4820166269
+  ],
+  "tags": {
+    "name": "Dondo",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 501171569,
+  "nodes": [
+    4920481861,
+    4920481860,
+    4920481859,
+    4920481858,
+    4920481861
+  ],
+  "tags": {
+    "building": "train_station",
+    "name": "Gare de Matete",
+    "operator": "SCTP",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 509918493,
+  "nodes": [
+    4990583564,
+    4990420970,
+    4990420969,
+    4990583561,
+    4990583558,
+    4990420962,
+    4990420959,
+    4990420960,
+    4990420961,
+    4990583559,
+    4990583560,
+    4990420968,
+    4990420954,
+    4990420952,
+    4990420965,
+    4990420964,
+    4990420963,
+    4990420966,
+    4990420951,
+    4990420953,
+    4990420967,
+    4990583563,
+    4990583562,
+    4990420956,
+    4990420957,
+    4990420958,
+    4990420955,
+    4990583565,
+    4990583564
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Gare Routière de Mounana",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 531190227,
+  "nodes": [
+    5156603696,
+    5156603697,
+    5156603698,
+    5156603699,
+    5156603696
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 531191203,
+  "nodes": [
+    5156609996,
+    5156609993,
+    11309156971,
+    5156609994,
+    11309156970,
+    11309156969,
+    5156609996
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 563643621,
+  "nodes": [
+    5431378962,
+    5431378961,
+    5431378960,
+    5431378959,
+    5431378962
+  ],
+  "tags": {
+    "building": "yes",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 699026299,
+  "nodes": [
+    6564258992,
+    7542283271,
+    6564258990,
+    6564258989,
+    7542283261,
+    7542283260,
+    6564258991,
+    6564258987,
+    6564258986,
+    6564258985,
+    6564258988,
+    6564258992
+  ],
+  "tags": {
+    "addr:city": "Arimba",
+    "addr:street": "Rua da Administração Comunal",
+    "building": "yes",
+    "name": "Estação da Arimba",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "website": "https://www.facebook.com/Caminho-de-Ferro-de-Mo%C3%A7%C3%A2medes-EP-654551907888192/",
+    "wikidata": "Q164233",
+    "wikipedia": "pt:Caminho de Ferro de Moçâmedes"
+  }
+},
+{
+  "type": "way",
+  "id": 706194197,
+  "nodes": [
+    6635501467,
+    6635501468,
+    6635501469,
+    6635501470,
+    6635501467
+  ],
+  "tags": {
+    "building": "yes",
+    "disused": "yes",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 706199632,
+  "nodes": [
+    6635560866,
+    6635560867,
+    6635560868,
+    6635560869,
+    6635560870,
+    6635560871,
+    6635560872,
+    6635560873,
+    6635560866
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Canhoca",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 706349662,
+  "nodes": [
+    6637122736,
+    6637122737,
+    6637122738,
+    6637122742,
+    6637122743,
+    6637122741,
+    6637122740,
+    6637122739,
+    6637122736
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "N'dalantando",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 709647409,
+  "nodes": [
+    4936567820,
+    6122124538,
+    6670086078,
+    6122124557,
+    6122124539,
+    6122124551,
+    6122124540,
+    6122124553,
+    6122124574,
+    6122124555,
+    6122124541,
+    6670086079,
+    6665989078,
+    6665989079,
+    6122124559,
+    6122124554,
+    6122124552,
+    6122124549,
+    6122124558,
+    6122124550,
+    3923293104,
+    4936567820
+  ],
+  "tags": {
+    "addr:city": "Oshakati",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Omatara Bus Terminal",
+    "operator": "Oshakati Municipality",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 714800540,
+  "nodes": [
+    6718954922,
+    6718954923,
+    6718954924,
+    6718954925,
+    6718954922
+  ],
+  "tags": {
+    "building": "train_station",
+    "name": "Hia",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 735174646,
+  "nodes": [
+    6885556861,
+    6885556862,
+    6885556863,
+    6885556864,
+    6885556861
+  ],
+  "tags": {
+    "addr:city": "Moçâmedes",
+    "building": "yes",
+    "name": "Estação 1º de Maio",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "website": "https://www.facebook.com/Caminho-de-Ferro-de-Mo%C3%A7%C3%A2medes-EP-654551907888192/",
+    "wikidata": "Q164233",
+    "wikipedia": "pt:Caminho de Ferro de Moçâmedes"
+  }
+},
+{
+  "type": "way",
+  "id": 736369734,
+  "nodes": [
+    6894049058,
+    6894049059,
+    6894049060,
+    6894049057,
+    6894049067,
+    6894049070,
+    6894049069,
+    6894049068,
+    6894049058
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Ciambambo",
+    "operator": "Caminho de Ferro de Benguela",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 778150147,
+  "nodes": [
+    2580654260,
+    7261165494,
+    7261165493,
+    5762700173,
+    5762700171,
+    2580654273,
+    5762700172,
+    7263955734,
+    2580654276,
+    2580654260
+  ],
+  "tags": {
+    "addr:city": "Lubango",
+    "addr:street": "Avenida do Mercado do Mutundo",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Rodoviário do Mutundo",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 781432878,
+  "nodes": [
+    7295641549,
+    7295641550,
+    7295641551,
+    7295641552,
+    7295641549
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "La Gare de Nkayi",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 824504053,
+  "nodes": [
+    7698899651,
+    7698899652,
+    8764791604,
+    8764791607,
+    8764791606,
+    8764791605,
+    7698899653,
+    7698899654,
+    8764791608,
+    7698899651
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "bus": "yes",
+    "name": "TGL - Lubango",
+    "operator": "Privado",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 832203439,
+  "nodes": [
+    7769785910,
+    7769785917,
+    7769785916,
+    7769785915,
+    7769785914,
+    7769785913,
+    7769785912,
+    7769785911,
+    7769785910
+  ],
+  "tags": {
+    "name": "Lukala",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 837168442,
+  "nodes": [
+    7813274851,
+    7813274852,
+    7813274853,
+    7813274854,
+    10864652575,
+    10864652574,
+    1942706091,
+    7813274851
+  ],
+  "tags": {
+    "addr:city": "Huambo",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Macon",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 863632145,
+  "nodes": [
+    8045216821,
+    8045216842,
+    8045216843,
+    8045216820,
+    8045216821
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 912221957,
+  "nodes": [
+    8474123717,
+    8474123718,
+    8474123719,
+    8474123720,
+    8474123721,
+    8474123722,
+    8474123723,
+    8474123724,
+    8474123725,
+    8474238222,
+    8474123726,
+    8474123727,
+    8474123728,
+    8474123729,
+    8474123730,
+    8474123731,
+    8474123732,
+    8474123733,
+    8474123734,
+    8474123717
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Estação do Sacomar",
+    "network": "Caminho de Ferro de Moçâmedes (CFM)",
+    "operator": "Empresa do Caminho de Ferro de Moçâmedes-E.P.",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q164233",
+    "wikipedia": "pt:Caminho de Ferro de Moçâmedes"
+  }
+},
+{
+  "type": "way",
+  "id": 912789870,
+  "nodes": [
+    8479239149,
+    8479239150,
+    8479239151,
+    8479239152,
+    8479239153,
+    8479239149
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Parque de Viagem do Nambambi",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 915941368,
+  "nodes": [
+    8507751339,
+    8507751336,
+    8507751337,
+    8507751338,
+    11172157890,
+    11172157891,
+    11169667971,
+    8507751339
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "TGL",
+    "public_transport": "station",
+    "ref": "TGL"
+  }
+},
+{
+  "type": "way",
+  "id": 916232388,
+  "nodes": [
+    8856925882,
+    8856925901,
+    8510040799,
+    8856925884,
+    8856925883,
+    8856925885,
+    8856925886,
+    8856925887,
+    8856925888,
+    8856925905,
+    8856925908,
+    8510040800,
+    8856925881,
+    8856925882
+  ],
+  "tags": {
+    "addr:city": "Lubango",
+    "addr:street": "Avenida Mártires de 8 de Novembro",
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "name": "Jobita Transportes",
+    "operator": "Jobita Transportes, Lda.",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 919604309,
+  "nodes": [
+    8398229040,
+    8539634966,
+    8398229059,
+    8398229058,
+    8398229061,
+    8539634963,
+    8398229060,
+    8398229044,
+    8398229043,
+    8398229042,
+    8398229041,
+    8539634930,
+    8539634964,
+    8539634965,
+    8398229040
+  ],
+  "tags": {
+    "addr:city": "Lubango",
+    "addr:street": "Rua 1 - Zona Industrial I",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 955349068,
+  "nodes": [
+    11237278387,
+    11237278383,
+    11237278381,
+    8842173678,
+    8842173677,
+    8842173680,
+    11237278386,
+    11237278419,
+    11237278387
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "bus": "yes",
+    "name": "Orcalves - Parque Logístico",
+    "network": "Orcalves",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 957145092,
+  "nodes": [
+    8856925913,
+    8856987926,
+    8510046001,
+    8510046002,
+    8856925914,
+    8856987932,
+    8856987925,
+    8856925915,
+    8856987917,
+    8856925916,
+    8856987930,
+    8856925913
+  ],
+  "tags": {
+    "addr:city": "Lubango",
+    "addr:street": "Avenida Mártires de 8 de Novembro",
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "bus": "yes",
+    "name": "SGO - Transportes Urbano",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 958698567,
+  "nodes": [
+    8870491213,
+    8870491214,
+    8870491215,
+    8870491216,
+    8870491213
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Interprovincial",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1186482297,
+  "nodes": [
+    11019790559,
+    11019790560,
+    11019790561,
+    11019790562,
+    11019790563,
+    11019790564,
+    11019790565,
+    11019790566,
+    11019790559
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Macon",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1271039885,
+  "nodes": [
+    11803593963,
+    11803593964,
+    11803593965,
+    1945905828,
+    11803593966,
+    11803593967,
+    11803593968,
+    11803599269,
+    11803593963
+  ],
+  "tags": {
+    "access": "private",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Parque da Staff \"Tá Limpo\"",
+    "parking": "surface",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1352534576,
+  "nodes": [
+    12514283446,
+    12514283447,
+    12514283448,
+    12514283449,
+    12514283450,
+    12514283451,
+    12514283452,
+    12514283453,
+    12514283454,
+    12514283455,
+    12514283456,
+    12514283457,
+    12514283458,
+    12514283446
+  ],
+  "tags": {
+    "name": "Gare centrale",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1381375593,
+  "nodes": [
+    5317799347,
+    12788068664,
+    12788068665,
+    12788068666,
+    5317799347
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Océan du Nord - Angola Libre",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6885556861,
+  "lat": -15.1915987,
+  "lon": 12.1494752
+},
+{
+  "type": "node",
+  "id": 6885556862,
+  "lat": -15.1912029,
+  "lon": 12.1499184
+},
+{
+  "type": "node",
+  "id": 6885556863,
+  "lat": -15.1912814,
+  "lon": 12.1499936
+},
+{
+  "type": "node",
+  "id": 6885556864,
+  "lat": -15.1916772,
+  "lon": 12.1495505
+},
+{
+  "type": "node",
+  "id": 8474123717,
+  "lat": -15.1174337,
+  "lon": 12.1437304
+},
+{
+  "type": "node",
+  "id": 8474123718,
+  "lat": -15.1173736,
+  "lon": 12.1438161
+},
+{
+  "type": "node",
+  "id": 8474123719,
+  "lat": -15.1175501,
+  "lon": 12.1439489
+},
+{
+  "type": "node",
+  "id": 8474123720,
+  "lat": -15.1175738,
+  "lon": 12.1441195
+},
+{
+  "type": "node",
+  "id": 8474123721,
+  "lat": -15.1176669,
+  "lon": 12.1441897
+},
+{
+  "type": "node",
+  "id": 8474123722,
+  "lat": -15.1177563,
+  "lon": 12.1441694
+},
+{
+  "type": "node",
+  "id": 8474123723,
+  "lat": -15.1177877,
+  "lon": 12.1441200
+},
+{
+  "type": "node",
+  "id": 8474123724,
+  "lat": -15.1178236,
+  "lon": 12.1441444
+},
+{
+  "type": "node",
+  "id": 8474123725,
+  "lat": -15.1178587,
+  "lon": 12.1443092
+},
+{
+  "type": "node",
+  "id": 8474123726,
+  "lat": -15.1180452,
+  "lon": 12.1440330
+},
+{
+  "type": "node",
+  "id": 8474123727,
+  "lat": -15.1179955,
+  "lon": 12.1439970
+},
+{
+  "type": "node",
+  "id": 8474123728,
+  "lat": -15.1179639,
+  "lon": 12.1440438
+},
+{
+  "type": "node",
+  "id": 8474123729,
+  "lat": -15.1179191,
+  "lon": 12.1440113
+},
+{
+  "type": "node",
+  "id": 8474123730,
+  "lat": -15.1178894,
+  "lon": 12.1440553
+},
+{
+  "type": "node",
+  "id": 8474123731,
+  "lat": -15.1178385,
+  "lon": 12.1440185
+},
+{
+  "type": "node",
+  "id": 8474123732,
+  "lat": -15.1178269,
+  "lon": 12.1439537
+},
+{
+  "type": "node",
+  "id": 8474123733,
+  "lat": -15.1177391,
+  "lon": 12.1438882
+},
+{
+  "type": "node",
+  "id": 8474123734,
+  "lat": -15.1176616,
+  "lon": 12.1439020
+},
+{
+  "type": "node",
+  "id": 8474238222,
+  "lat": -15.1179977,
+  "lon": 12.1441033
+},
+{
+  "type": "node",
+  "id": 3923293104,
+  "lat": -17.7738297,
+  "lon": 15.6982283
+},
+{
+  "type": "node",
+  "id": 4936567820,
+  "lat": -17.7736798,
+  "lon": 15.6981152
+},
+{
+  "type": "node",
+  "id": 6122124538,
+  "lat": -17.7736822,
+  "lon": 15.6982821
+},
+{
+  "type": "node",
+  "id": 6122124539,
+  "lat": -17.7736490,
+  "lon": 15.6984912
+},
+{
+  "type": "node",
+  "id": 6122124540,
+  "lat": -17.7736158,
+  "lon": 15.6986437
+},
+{
+  "type": "node",
+  "id": 6122124541,
+  "lat": -17.7735494,
+  "lon": 15.6989052
+},
+{
+  "type": "node",
+  "id": 6122124549,
+  "lat": -17.7745369,
+  "lon": 15.6990010
+},
+{
+  "type": "node",
+  "id": 6122124550,
+  "lat": -17.7747295,
+  "lon": 15.6989071
+},
+{
+  "type": "node",
+  "id": 6122124551,
+  "lat": -17.7736410,
+  "lon": 15.6985281
+},
+{
+  "type": "node",
+  "id": 6122124552,
+  "lat": -17.7744204,
+  "lon": 15.6990862
+},
+{
+  "type": "node",
+  "id": 6122124553,
+  "lat": -17.7735998,
+  "lon": 15.6987069
+},
+{
+  "type": "node",
+  "id": 6122124554,
+  "lat": -17.7742742,
+  "lon": 15.6991931
+},
+{
+  "type": "node",
+  "id": 6122124555,
+  "lat": -17.7735584,
+  "lon": 15.6988696
+},
+{
+  "type": "node",
+  "id": 6122124557,
+  "lat": -17.7736771,
+  "lon": 15.6983139
+},
+{
+  "type": "node",
+  "id": 6122124558,
+  "lat": -17.7745706,
+  "lon": 15.6989846
+},
+{
+  "type": "node",
+  "id": 6122124559,
+  "lat": -17.7741708,
+  "lon": 15.6992686
+},
+{
+  "type": "node",
+  "id": 6122124574,
+  "lat": -17.7735734,
+  "lon": 15.6988107
+},
+{
+  "type": "node",
+  "id": 6665989078,
+  "lat": -17.7741637,
+  "lon": 15.6995675
+},
+{
+  "type": "node",
+  "id": 6665989079,
+  "lat": -17.7742990,
+  "lon": 15.6993662
+},
+{
+  "type": "node",
+  "id": 6670086078,
+  "lat": -17.7736796,
+  "lon": 15.6982983
+},
+{
+  "type": "node",
+  "id": 6670086079,
+  "lat": -17.7734429,
+  "lon": 15.6990846
+},
+{
+  "type": "node",
+  "id": 11019790559,
+  "lat": -17.3800251,
+  "lon": 15.8861035
+},
+{
+  "type": "node",
+  "id": 11019790560,
+  "lat": -17.3804827,
+  "lon": 15.8863327
+},
+{
+  "type": "node",
+  "id": 11019790561,
+  "lat": -17.3800808,
+  "lon": 15.8872153
+},
+{
+  "type": "node",
+  "id": 11019790562,
+  "lat": -17.3795460,
+  "lon": 15.8871224
+},
+{
+  "type": "node",
+  "id": 11019790563,
+  "lat": -17.3795217,
+  "lon": 15.8868766
+},
+{
+  "type": "node",
+  "id": 11019790564,
+  "lat": -17.3796132,
+  "lon": 15.8868632
+},
+{
+  "type": "node",
+  "id": 11019790565,
+  "lat": -17.3797205,
+  "lon": 15.8865920
+},
+{
+  "type": "node",
+  "id": 11019790566,
+  "lat": -17.3798921,
+  "lon": 15.8863237
+},
+{
+  "type": "node",
+  "id": 8045216820,
+  "lat": -17.9007734,
+  "lon": 15.9688757
+},
+{
+  "type": "node",
+  "id": 8045216821,
+  "lat": -17.9005053,
+  "lon": 15.9688886
+},
+{
+  "type": "node",
+  "id": 8045216842,
+  "lat": -17.9005930,
+  "lon": 15.9690998
+},
+{
+  "type": "node",
+  "id": 8045216843,
+  "lat": -17.9008340,
+  "lon": 15.9689732
+},
+{
+  "type": "node",
+  "id": 5156603696,
+  "lat": -17.4755496,
+  "lon": 16.3337898
+},
+{
+  "type": "node",
+  "id": 5156603697,
+  "lat": -17.4753103,
+  "lon": 16.3343752
+},
+{
+  "type": "node",
+  "id": 5156603698,
+  "lat": -17.4755744,
+  "lon": 16.3344939
+},
+{
+  "type": "node",
+  "id": 5156603699,
+  "lat": -17.4758138,
+  "lon": 16.3339086
+},
+{
+  "type": "node",
+  "id": 5156609993,
+  "lat": -17.4810080,
+  "lon": 16.3328016
+},
+{
+  "type": "node",
+  "id": 5156609994,
+  "lat": -17.4811717,
+  "lon": 16.3328405
+},
+{
+  "type": "node",
+  "id": 5156609996,
+  "lat": -17.4810816,
+  "lon": 16.3326307
+},
+{
+  "type": "node",
+  "id": 11309156969,
+  "lat": -17.4812649,
+  "lon": 16.3327067
+},
+{
+  "type": "node",
+  "id": 11309156970,
+  "lat": -17.4812301,
+  "lon": 16.3327944
+},
+{
+  "type": "node",
+  "id": 11309156971,
+  "lat": -17.4811049,
+  "lon": 16.3328548
+},
+{
+  "type": "node",
+  "id": 8398229040,
+  "lat": -14.9284921,
+  "lon": 13.5242502
+},
+{
+  "type": "node",
+  "id": 8398229041,
+  "lat": -14.9293859,
+  "lon": 13.5235587
+},
+{
+  "type": "node",
+  "id": 8398229042,
+  "lat": -14.9294019,
+  "lon": 13.5235514
+},
+{
+  "type": "node",
+  "id": 8398229043,
+  "lat": -14.9294179,
+  "lon": 13.5235504
+},
+{
+  "type": "node",
+  "id": 8398229044,
+  "lat": -14.9294287,
+  "lon": 13.5235576
+},
+{
+  "type": "node",
+  "id": 8398229058,
+  "lat": -14.9287451,
+  "lon": 13.5246935
+},
+{
+  "type": "node",
+  "id": 8398229059,
+  "lat": -14.9286974,
+  "lon": 13.5246065
+},
+{
+  "type": "node",
+  "id": 8398229060,
+  "lat": -14.9297693,
+  "lon": 13.5240151
+},
+{
+  "type": "node",
+  "id": 8398229061,
+  "lat": -14.9287996,
+  "lon": 13.5247874
+},
+{
+  "type": "node",
+  "id": 8539634930,
+  "lat": -14.9289146,
+  "lon": 13.5239233
+},
+{
+  "type": "node",
+  "id": 8539634963,
+  "lat": -14.9294929,
+  "lon": 13.5242352
+},
+{
+  "type": "node",
+  "id": 8539634964,
+  "lat": -14.9289049,
+  "lon": 13.5239308
+},
+{
+  "type": "node",
+  "id": 8539634965,
+  "lat": -14.9287233,
+  "lon": 13.5240713
+},
+{
+  "type": "node",
+  "id": 8539634966,
+  "lat": -14.9286806,
+  "lon": 13.5245773
+},
+{
+  "type": "node",
+  "id": 4256288978,
+  "lat": -14.9221490,
+  "lon": 13.4951763
+},
+{
+  "type": "node",
+  "id": 4256288979,
+  "lat": -14.9220517,
+  "lon": 13.4954213
+},
+{
+  "type": "node",
+  "id": 4256288980,
+  "lat": -14.9222952,
+  "lon": 13.4955248
+},
+{
+  "type": "node",
+  "id": 4256359087,
+  "lat": -14.9212754,
+  "lon": 13.4965359
+},
+{
+  "type": "node",
+  "id": 4256359088,
+  "lat": -14.9212587,
+  "lon": 13.4966334
+},
+{
+  "type": "node",
+  "id": 4256359989,
+  "lat": -14.9217481,
+  "lon": 13.4970311
+},
+{
+  "type": "node",
+  "id": 4256359990,
+  "lat": -14.9218473,
+  "lon": 13.4967536
+},
+{
+  "type": "node",
+  "id": 5497390037,
+  "lat": -14.9215575,
+  "lon": 13.4966440
+},
+{
+  "type": "node",
+  "id": 7697704475,
+  "lat": -14.9223924,
+  "lon": 13.4952798
+},
+{
+  "type": "node",
+  "id": 8514821434,
+  "lat": -14.9216631,
+  "lon": 13.4969621
+},
+{
+  "type": "node",
+  "id": 1945905828,
+  "lat": -14.9028866,
+  "lon": 13.5136236
+},
+{
+  "type": "node",
+  "id": 11803593963,
+  "lat": -14.9020791,
+  "lon": 13.5136302
+},
+{
+  "type": "node",
+  "id": 11803593964,
+  "lat": -14.9026519,
+  "lon": 13.5135953
+},
+{
+  "type": "node",
+  "id": 11803593965,
+  "lat": -14.9028541,
+  "lon": 13.5136060
+},
+{
+  "type": "node",
+  "id": 11803593966,
+  "lat": -14.9029137,
+  "lon": 13.5136624
+},
+{
+  "type": "node",
+  "id": 11803593967,
+  "lat": -14.9020557,
+  "lon": 13.5146762
+},
+{
+  "type": "node",
+  "id": 11803593968,
+  "lat": -14.9020388,
+  "lon": 13.5145368
+},
+{
+  "type": "node",
+  "id": 11803599269,
+  "lat": -14.9020506,
+  "lon": 13.5136328
+},
+{
+  "type": "node",
+  "id": 7968669902,
+  "lat": -14.8969872,
+  "lon": 13.5067133
+},
+{
+  "type": "node",
+  "id": 7968669903,
+  "lat": -14.8972198,
+  "lon": 13.5068926
+},
+{
+  "type": "node",
+  "id": 7968669905,
+  "lat": -14.8968972,
+  "lon": 13.5069320
+},
+{
+  "type": "node",
+  "id": 8842173680,
+  "lat": -14.8969368,
+  "lon": 13.5066653
+},
+{
+  "type": "node",
+  "id": 11237278383,
+  "lat": -14.8954625,
+  "lon": 13.5068729
+},
+{
+  "type": "node",
+  "id": 11237278386,
+  "lat": -14.8958194,
+  "lon": 13.5058489
+},
+{
+  "type": "node",
+  "id": 11237278387,
+  "lat": -14.8955506,
+  "lon": 13.5063842
+},
+{
+  "type": "node",
+  "id": 11237278419,
+  "lat": -14.8956682,
+  "lon": 13.5061471
+},
+{
+  "type": "node",
+  "id": 4256461370,
+  "lat": -14.8969039,
+  "lon": 13.5075811
+},
+{
+  "type": "node",
+  "id": 5767585336,
+  "lat": -14.8966280,
+  "lon": 13.5079407
+},
+{
+  "type": "node",
+  "id": 7696044806,
+  "lat": -14.8966766,
+  "lon": 13.5074619
+},
+{
+  "type": "node",
+  "id": 7968616978,
+  "lat": -14.8968495,
+  "lon": 13.5077035
+},
+{
+  "type": "node",
+  "id": 7968616979,
+  "lat": -14.8967642,
+  "lon": 13.5076586
+},
+{
+  "type": "node",
+  "id": 7968669899,
+  "lat": -14.8968551,
+  "lon": 13.5079500
+},
+{
+  "type": "node",
+  "id": 7968669906,
+  "lat": -14.8976768,
+  "lon": 13.5072513
+},
+{
+  "type": "node",
+  "id": 7968669907,
+  "lat": -14.8977780,
+  "lon": 13.5073174
+},
+{
+  "type": "node",
+  "id": 8842173666,
+  "lat": -14.8967026,
+  "lon": 13.5074052
+},
+{
+  "type": "node",
+  "id": 8842173677,
+  "lat": -14.8966528,
+  "lon": 13.5073857
+},
+{
+  "type": "node",
+  "id": 8842173678,
+  "lat": -14.8962539,
+  "lon": 13.5072133
+},
+{
+  "type": "node",
+  "id": 8842173683,
+  "lat": -14.8979249,
+  "lon": 13.5074413
+},
+{
+  "type": "node",
+  "id": 8842173684,
+  "lat": -14.8978459,
+  "lon": 13.5076304
+},
+{
+  "type": "node",
+  "id": 8842173685,
+  "lat": -14.8976672,
+  "lon": 13.5078260
+},
+{
+  "type": "node",
+  "id": 8842173693,
+  "lat": -14.8971771,
+  "lon": 13.5082772
+},
+{
+  "type": "node",
+  "id": 8842173694,
+  "lat": -14.8967633,
+  "lon": 13.5079878
+},
+{
+  "type": "node",
+  "id": 8842173698,
+  "lat": -14.8975650,
+  "lon": 13.5079201
+},
+{
+  "type": "node",
+  "id": 11237278381,
+  "lat": -14.8957311,
+  "lon": 13.5069876
+},
+{
+  "type": "node",
+  "id": 4256447242,
+  "lat": -14.8865144,
+  "lon": 13.5229632
+},
+{
+  "type": "node",
+  "id": 4256447243,
+  "lat": -14.8869583,
+  "lon": 13.5231551
+},
+{
+  "type": "node",
+  "id": 4256447244,
+  "lat": -14.8866781,
+  "lon": 13.5237048
+},
+{
+  "type": "node",
+  "id": 7698899651,
+  "lat": -14.8885517,
+  "lon": 13.5205300
+},
+{
+  "type": "node",
+  "id": 7698899652,
+  "lat": -14.8888893,
+  "lon": 13.5207522
+},
+{
+  "type": "node",
+  "id": 7698899653,
+  "lat": -14.8888486,
+  "lon": 13.5204257
+},
+{
+  "type": "node",
+  "id": 7698899654,
+  "lat": -14.8886485,
+  "lon": 13.5203425
+},
+{
+  "type": "node",
+  "id": 8764791604,
+  "lat": -14.8889034,
+  "lon": 13.5207277
+},
+{
+  "type": "node",
+  "id": 8764791605,
+  "lat": -14.8888265,
+  "lon": 13.5204751
+},
+{
+  "type": "node",
+  "id": 8764791606,
+  "lat": -14.8890261,
+  "lon": 13.5206287
+},
+{
+  "type": "node",
+  "id": 8764791607,
+  "lat": -14.8889551,
+  "lon": 13.5207561
+},
+{
+  "type": "node",
+  "id": 8764791608,
+  "lat": -14.8886150,
+  "lon": 13.5204075
+},
+{
+  "type": "node",
+  "id": 8828403493,
+  "lat": -14.8868779,
+  "lon": 13.5233129
+},
+{
+  "type": "node",
+  "id": 4256447245,
+  "lat": -14.8862509,
+  "lon": 13.5235262
+},
+{
+  "type": "node",
+  "id": 6564258985,
+  "lat": -14.9460274,
+  "lon": 13.5967325
+},
+{
+  "type": "node",
+  "id": 6564258986,
+  "lat": -14.9460122,
+  "lon": 13.5967921
+},
+{
+  "type": "node",
+  "id": 6564258987,
+  "lat": -14.9460313,
+  "lon": 13.5967973
+},
+{
+  "type": "node",
+  "id": 6564258988,
+  "lat": -14.9460466,
+  "lon": 13.5967377
+},
+{
+  "type": "node",
+  "id": 6564258989,
+  "lat": -14.9460646,
+  "lon": 13.5969529
+},
+{
+  "type": "node",
+  "id": 6564258990,
+  "lat": -14.9461676,
+  "lon": 13.5965500
+},
+{
+  "type": "node",
+  "id": 6564258991,
+  "lat": -14.9459963,
+  "lon": 13.5969341
+},
+{
+  "type": "node",
+  "id": 6564258992,
+  "lat": -14.9460994,
+  "lon": 13.5965313
+},
+{
+  "type": "node",
+  "id": 7542283260,
+  "lat": -14.9460478,
+  "lon": 13.5969483
+},
+{
+  "type": "node",
+  "id": 7542283261,
+  "lat": -14.9460556,
+  "lon": 13.5969504
+},
+{
+  "type": "node",
+  "id": 7542283271,
+  "lat": -14.9461365,
+  "lon": 13.5965415
+},
+{
+  "type": "node",
+  "id": 4256390028,
+  "lat": -14.9248751,
+  "lon": 13.5282416
+},
+{
+  "type": "node",
+  "id": 4256390030,
+  "lat": -14.9253156,
+  "lon": 13.5284286
+},
+{
+  "type": "node",
+  "id": 4256390031,
+  "lat": -14.9250340,
+  "lon": 13.5284341
+},
+{
+  "type": "node",
+  "id": 4256390032,
+  "lat": -14.9250329,
+  "lon": 13.5283726
+},
+{
+  "type": "node",
+  "id": 4256390033,
+  "lat": -14.9248776,
+  "lon": 13.5283757
+},
+{
+  "type": "node",
+  "id": 4698587112,
+  "lat": -14.9253120,
+  "lon": 13.5282330
+},
+{
+  "type": "node",
+  "id": 8507751336,
+  "lat": -14.9243339,
+  "lon": 13.5305419
+},
+{
+  "type": "node",
+  "id": 8507751337,
+  "lat": -14.9238785,
+  "lon": 13.5304534
+},
+{
+  "type": "node",
+  "id": 8507751338,
+  "lat": -14.9238225,
+  "lon": 13.5306628
+},
+{
+  "type": "node",
+  "id": 8507751339,
+  "lat": -14.9243083,
+  "lon": 13.5306872
+},
+{
+  "type": "node",
+  "id": 8510040799,
+  "lat": -14.9245474,
+  "lon": 13.5279626
+},
+{
+  "type": "node",
+  "id": 8510040800,
+  "lat": -14.9245265,
+  "lon": 13.5284661
+},
+{
+  "type": "node",
+  "id": 8510046001,
+  "lat": -14.9243047,
+  "lon": 13.5287851
+},
+{
+  "type": "node",
+  "id": 8510046002,
+  "lat": -14.9244008,
+  "lon": 13.5287852
+},
+{
+  "type": "node",
+  "id": 8856925881,
+  "lat": -14.9240923,
+  "lon": 13.5284219
+},
+{
+  "type": "node",
+  "id": 8856925882,
+  "lat": -14.9240951,
+  "lon": 13.5279891
+},
+{
+  "type": "node",
+  "id": 8856925883,
+  "lat": -14.9245756,
+  "lon": 13.5281616
+},
+{
+  "type": "node",
+  "id": 8856925884,
+  "lat": -14.9245440,
+  "lon": 13.5281515
+},
+{
+  "type": "node",
+  "id": 8856925885,
+  "lat": -14.9245460,
+  "lon": 13.5282607
+},
+{
+  "type": "node",
+  "id": 8856925886,
+  "lat": -14.9245053,
+  "lon": 13.5282475
+},
+{
+  "type": "node",
+  "id": 8856925887,
+  "lat": -14.9245031,
+  "lon": 13.5283377
+},
+{
+  "type": "node",
+  "id": 8856925888,
+  "lat": -14.9245307,
+  "lon": 13.5283421
+},
+{
+  "type": "node",
+  "id": 8856925901,
+  "lat": -14.9243932,
+  "lon": 13.5279718
+},
+{
+  "type": "node",
+  "id": 8856925905,
+  "lat": -14.9245289,
+  "lon": 13.5284080
+},
+{
+  "type": "node",
+  "id": 8856925908,
+  "lat": -14.9245279,
+  "lon": 13.5284322
+},
+{
+  "type": "node",
+  "id": 8856925913,
+  "lat": -14.9240969,
+  "lon": 13.5287760
+},
+{
+  "type": "node",
+  "id": 8856925914,
+  "lat": -14.9245374,
+  "lon": 13.5287862
+},
+{
+  "type": "node",
+  "id": 8856925915,
+  "lat": -14.9245159,
+  "lon": 13.5291355
+},
+{
+  "type": "node",
+  "id": 8856925916,
+  "lat": -14.9240742,
+  "lon": 13.5290255
+},
+{
+  "type": "node",
+  "id": 8856987917,
+  "lat": -14.9240958,
+  "lon": 13.5290306
+},
+{
+  "type": "node",
+  "id": 8856987925,
+  "lat": -14.9245182,
+  "lon": 13.5290993
+},
+{
+  "type": "node",
+  "id": 8856987926,
+  "lat": -14.9241787,
+  "lon": 13.5287812
+},
+{
+  "type": "node",
+  "id": 8856987930,
+  "lat": -14.9240801,
+  "lon": 13.5289826
+},
+{
+  "type": "node",
+  "id": 8856987932,
+  "lat": -14.9245334,
+  "lon": 13.5288507
+},
+{
+  "type": "node",
+  "id": 11169667971,
+  "lat": -14.9241010,
+  "lon": 13.5306481
+},
+{
+  "type": "node",
+  "id": 11172157890,
+  "lat": -14.9239571,
+  "lon": 13.5307089
+},
+{
+  "type": "node",
+  "id": 11172157891,
+  "lat": -14.9240962,
+  "lon": 13.5306943
+},
+{
+  "type": "node",
+  "id": 4256438079,
+  "lat": -14.8820567,
+  "lon": 13.5301982
+},
+{
+  "type": "node",
+  "id": 4256438081,
+  "lat": -14.8826267,
+  "lon": 13.5303921
+},
+{
+  "type": "node",
+  "id": 4256438083,
+  "lat": -14.8822444,
+  "lon": 13.5311982
+},
+{
+  "type": "node",
+  "id": 4256438084,
+  "lat": -14.8817426,
+  "lon": 13.5309921
+},
+{
+  "type": "node",
+  "id": 7742142042,
+  "lat": -14.8818701,
+  "lon": 13.5306675
+},
+{
+  "type": "node",
+  "id": 7742142044,
+  "lat": -14.8818840,
+  "lon": 13.5310516
+},
+{
+  "type": "node",
+  "id": 7742142045,
+  "lat": -14.8819338,
+  "lon": 13.5305061
+},
+{
+  "type": "node",
+  "id": 7742142048,
+  "lat": -14.8819162,
+  "lon": 13.5305513
+},
+{
+  "type": "node",
+  "id": 7742142063,
+  "lat": -14.8825145,
+  "lon": 13.5306275
+},
+{
+  "type": "node",
+  "id": 7742142064,
+  "lat": -14.8824703,
+  "lon": 13.5307222
+},
+{
+  "type": "node",
+  "id": 7742142066,
+  "lat": -14.8823805,
+  "lon": 13.5309115
+},
+{
+  "type": "node",
+  "id": 8827558419,
+  "lat": -14.8825371,
+  "lon": 13.5305801
+},
+{
+  "type": "node",
+  "id": 8479239149,
+  "lat": -14.8810077,
+  "lon": 13.5344129
+},
+{
+  "type": "node",
+  "id": 8479239150,
+  "lat": -14.8811633,
+  "lon": 13.5346973
+},
+{
+  "type": "node",
+  "id": 8479239151,
+  "lat": -14.8815054,
+  "lon": 13.5346382
+},
+{
+  "type": "node",
+  "id": 8479239152,
+  "lat": -14.8815284,
+  "lon": 13.5342439
+},
+{
+  "type": "node",
+  "id": 8479239153,
+  "lat": -14.8811218,
+  "lon": 13.5343164
+},
+{
+  "type": "node",
+  "id": 2580654260,
+  "lat": -14.8753914,
+  "lon": 13.5837369
+},
+{
+  "type": "node",
+  "id": 2580654273,
+  "lat": -14.8738247,
+  "lon": 13.5828149
+},
+{
+  "type": "node",
+  "id": 2580654276,
+  "lat": -14.8745504,
+  "lon": 13.5832543
+},
+{
+  "type": "node",
+  "id": 5762700171,
+  "lat": -14.8738022,
+  "lon": 13.5828582
+},
+{
+  "type": "node",
+  "id": 5762700172,
+  "lat": -14.8738746,
+  "lon": 13.5828421
+},
+{
+  "type": "node",
+  "id": 7261165494,
+  "lat": -14.8746583,
+  "lon": 13.5850353
+},
+{
+  "type": "node",
+  "id": 7263955734,
+  "lat": -14.8744577,
+  "lon": 13.5831977
+},
+{
+  "type": "node",
+  "id": 5762700173,
+  "lat": -14.8731166,
+  "lon": 13.5840815
+},
+{
+  "type": "node",
+  "id": 7261165493,
+  "lat": -14.8730953,
+  "lon": 13.5841163
+},
+{
+  "type": "node",
+  "id": 6894049057,
+  "lat": -13.0072399,
+  "lon": 13.9897824
+},
+{
+  "type": "node",
+  "id": 6894049058,
+  "lat": -13.0072875,
+  "lon": 13.9898267
+},
+{
+  "type": "node",
+  "id": 6894049059,
+  "lat": -13.0072693,
+  "lon": 13.9898466
+},
+{
+  "type": "node",
+  "id": 6894049060,
+  "lat": -13.0072224,
+  "lon": 13.9898016
+},
+{
+  "type": "node",
+  "id": 6894049067,
+  "lat": -13.0071909,
+  "lon": 13.9897353
+},
+{
+  "type": "node",
+  "id": 6894049068,
+  "lat": -13.0073422,
+  "lon": 13.9898792
+},
+{
+  "type": "node",
+  "id": 6894049069,
+  "lat": -13.0073904,
+  "lon": 13.9898262
+},
+{
+  "type": "node",
+  "id": 6894049070,
+  "lat": -13.0072397,
+  "lon": 13.9896817
+},
+{
+  "type": "node",
+  "id": 3218480894,
+  "lat": -12.3790588,
+  "lon": 13.5747771
+},
+{
+  "type": "node",
+  "id": 3218480895,
+  "lat": -12.3788150,
+  "lon": 13.5745090
+},
+{
+  "type": "node",
+  "id": 3218480896,
+  "lat": -12.3786059,
+  "lon": 13.5747463
+},
+{
+  "type": "node",
+  "id": 3218480897,
+  "lat": -12.3788496,
+  "lon": 13.5750128
+},
+{
+  "type": "node",
+  "id": 7813274852,
+  "lat": -12.7645778,
+  "lon": 15.7220119
+},
+{
+  "type": "node",
+  "id": 7813274853,
+  "lat": -12.7649649,
+  "lon": 15.7218188
+},
+{
+  "type": "node",
+  "id": 1942706091,
+  "lat": -12.7643769,
+  "lon": 15.7229995
+},
+{
+  "type": "node",
+  "id": 7813274851,
+  "lat": -12.7639909,
+  "lon": 15.7223446
+},
+{
+  "type": "node",
+  "id": 7813274854,
+  "lat": -12.7653599,
+  "lon": 15.7224571
+},
+{
+  "type": "node",
+  "id": 10864652574,
+  "lat": -12.7645154,
+  "lon": 15.7229231
+},
+{
+  "type": "node",
+  "id": 10864652575,
+  "lat": -12.7645555,
+  "lon": 15.7229009
+},
+{
+  "type": "node",
+  "id": 8870491213,
+  "lat": -8.8808601,
+  "lon": 13.2070609
+},
+{
+  "type": "node",
+  "id": 8870491214,
+  "lat": -8.8817841,
+  "lon": 13.2085547
+},
+{
+  "type": "node",
+  "id": 8870491215,
+  "lat": -8.8825229,
+  "lon": 13.2080837
+},
+{
+  "type": "node",
+  "id": 8870491216,
+  "lat": -8.8816457,
+  "lon": 13.2065583
+},
+{
+  "type": "node",
+  "id": 2355652870,
+  "lat": -8.8054601,
+  "lon": 13.2441464
+},
+{
+  "type": "node",
+  "id": 2355652889,
+  "lat": -8.8052317,
+  "lon": 13.2442649
+},
+{
+  "type": "node",
+  "id": 2355652898,
+  "lat": -8.8050847,
+  "lon": 13.2445596
+},
+{
+  "type": "node",
+  "id": 2355652906,
+  "lat": -8.8051524,
+  "lon": 13.2446060
+},
+{
+  "type": "node",
+  "id": 2355652910,
+  "lat": -8.8051720,
+  "lon": 13.2443540
+},
+{
+  "type": "node",
+  "id": 2355652913,
+  "lat": -8.8053832,
+  "lon": 13.2440936
+},
+{
+  "type": "node",
+  "id": 2355652965,
+  "lat": -8.8052569,
+  "lon": 13.2442822
+},
+{
+  "type": "node",
+  "id": 2355652993,
+  "lat": -8.8052065,
+  "lon": 13.2443777
+},
+{
+  "type": "node",
+  "id": 2537016421,
+  "lat": -8.8009490,
+  "lon": 13.2613202
+},
+{
+  "type": "node",
+  "id": 2537016423,
+  "lat": -8.8010102,
+  "lon": 13.2613414
+},
+{
+  "type": "node",
+  "id": 2537016425,
+  "lat": -8.8009680,
+  "lon": 13.2614665
+},
+{
+  "type": "node",
+  "id": 2537016427,
+  "lat": -8.8009068,
+  "lon": 13.2614453
+},
+{
+  "type": "node",
+  "id": 5431378959,
+  "lat": -4.1980983,
+  "lon": 12.6759701
+},
+{
+  "type": "node",
+  "id": 5431378960,
+  "lat": -4.1982620,
+  "lon": 12.6759236
+},
+{
+  "type": "node",
+  "id": 5431378961,
+  "lat": -4.1983575,
+  "lon": 12.6762607
+},
+{
+  "type": "node",
+  "id": 5431378962,
+  "lat": -4.1981936,
+  "lon": 12.6763073
+},
+{
+  "type": "node",
+  "id": 7295641549,
+  "lat": -4.1888692,
+  "lon": 13.2823846
+},
+{
+  "type": "node",
+  "id": 7295641550,
+  "lat": -4.1887638,
+  "lon": 13.2824740
+},
+{
+  "type": "node",
+  "id": 7295641551,
+  "lat": -4.1889807,
+  "lon": 13.2827301
+},
+{
+  "type": "node",
+  "id": 7295641552,
+  "lat": -4.1890719,
+  "lon": 13.2826387
+},
+{
+  "type": "node",
+  "id": 4990420951,
+  "lat": -1.3839748,
+  "lon": 13.1570477
+},
+{
+  "type": "node",
+  "id": 4990420952,
+  "lat": -1.3839476,
+  "lon": 13.1570777
+},
+{
+  "type": "node",
+  "id": 4990420953,
+  "lat": -1.3839145,
+  "lon": 13.1569941
+},
+{
+  "type": "node",
+  "id": 4990420954,
+  "lat": -1.3838879,
+  "lon": 13.1570247
+},
+{
+  "type": "node",
+  "id": 4990420955,
+  "lat": -1.3839196,
+  "lon": 13.1568039
+},
+{
+  "type": "node",
+  "id": 4990420956,
+  "lat": -1.3839651,
+  "lon": 13.1568696
+},
+{
+  "type": "node",
+  "id": 4990420957,
+  "lat": -1.3840193,
+  "lon": 13.1568320
+},
+{
+  "type": "node",
+  "id": 4990420958,
+  "lat": -1.3839738,
+  "lon": 13.1567663
+},
+{
+  "type": "node",
+  "id": 4990420959,
+  "lat": -1.3836677,
+  "lon": 13.1571183
+},
+{
+  "type": "node",
+  "id": 4990420960,
+  "lat": -1.3837361,
+  "lon": 13.1571612
+},
+{
+  "type": "node",
+  "id": 4990420961,
+  "lat": -1.3837727,
+  "lon": 13.1571029
+},
+{
+  "type": "node",
+  "id": 4990420962,
+  "lat": -1.3837043,
+  "lon": 13.1570600
+},
+{
+  "type": "node",
+  "id": 4990420963,
+  "lat": -1.3840380,
+  "lon": 13.1570684
+},
+{
+  "type": "node",
+  "id": 4990420964,
+  "lat": -1.3839794,
+  "lon": 13.1571345
+},
+{
+  "type": "node",
+  "id": 4990420965,
+  "lat": -1.3839335,
+  "lon": 13.1570937
+},
+{
+  "type": "node",
+  "id": 4990420966,
+  "lat": -1.3839924,
+  "lon": 13.1570279
+},
+{
+  "type": "node",
+  "id": 4990420967,
+  "lat": -1.3839577,
+  "lon": 13.1569455
+},
+{
+  "type": "node",
+  "id": 4990420968,
+  "lat": -1.3838476,
+  "lon": 13.1570701
+},
+{
+  "type": "node",
+  "id": 4990420969,
+  "lat": -1.3837498,
+  "lon": 13.1569832
+},
+{
+  "type": "node",
+  "id": 4990420970,
+  "lat": -1.3838602,
+  "lon": 13.1568589
+},
+{
+  "type": "node",
+  "id": 4990583558,
+  "lat": -1.3837194,
+  "lon": 13.1570695
+},
+{
+  "type": "node",
+  "id": 4990583559,
+  "lat": -1.3837535,
+  "lon": 13.1570909
+},
+{
+  "type": "node",
+  "id": 4990583560,
+  "lat": -1.3838069,
+  "lon": 13.1570339
+},
+{
+  "type": "node",
+  "id": 4990583561,
+  "lat": -1.3837783,
+  "lon": 13.1570085
+},
+{
+  "type": "node",
+  "id": 4990583562,
+  "lat": -1.3839562,
+  "lon": 13.1568568
+},
+{
+  "type": "node",
+  "id": 4990583563,
+  "lat": -1.3839161,
+  "lon": 13.1569085
+},
+{
+  "type": "node",
+  "id": 4990583564,
+  "lat": -1.3838857,
+  "lon": 13.1568815
+},
+{
+  "type": "node",
+  "id": 4990583565,
+  "lat": -1.3839345,
+  "lon": 13.1568255
+},
+{
+  "type": "node",
+  "id": 4820166269,
+  "lat": -9.6871036,
+  "lon": 14.4243538
+},
+{
+  "type": "node",
+  "id": 4820166274,
+  "lat": -9.6875720,
+  "lon": 14.4244728
+},
+{
+  "type": "node",
+  "id": 4820166276,
+  "lat": -9.6871272,
+  "lon": 14.4243329
+},
+{
+  "type": "node",
+  "id": 4820166270,
+  "lat": -9.6885415,
+  "lon": 14.4253633
+},
+{
+  "type": "node",
+  "id": 4820166271,
+  "lat": -9.6885651,
+  "lon": 14.4253303
+},
+{
+  "type": "node",
+  "id": 4820166272,
+  "lat": -9.6880725,
+  "lon": 14.4249684
+},
+{
+  "type": "node",
+  "id": 4820166273,
+  "lat": -9.6881408,
+  "lon": 14.4248649
+},
+{
+  "type": "node",
+  "id": 4820166275,
+  "lat": -9.6874904,
+  "lon": 14.4245785
+},
+{
+  "type": "node",
+  "id": 2182711610,
+  "lat": -9.2861517,
+  "lon": 14.2142174
+},
+{
+  "type": "node",
+  "id": 2182711613,
+  "lat": -9.2862123,
+  "lon": 14.2141817
+},
+{
+  "type": "node",
+  "id": 2182711616,
+  "lat": -9.2862434,
+  "lon": 14.2142360
+},
+{
+  "type": "node",
+  "id": 2182711619,
+  "lat": -9.2862559,
+  "lon": 14.2143994
+},
+{
+  "type": "node",
+  "id": 2182711637,
+  "lat": -9.2862743,
+  "lon": 14.2142179
+},
+{
+  "type": "node",
+  "id": 2182711640,
+  "lat": -9.2862792,
+  "lon": 14.2142970
+},
+{
+  "type": "node",
+  "id": 2182711643,
+  "lat": -9.2863094,
+  "lon": 14.2142792
+},
+{
+  "type": "node",
+  "id": 2182711649,
+  "lat": -9.2863172,
+  "lon": 14.2143634
+},
+{
+  "type": "node",
+  "id": 2527289732,
+  "lat": -9.2862912,
+  "lon": 14.2142899
+},
+{
+  "type": "node",
+  "id": 2527289734,
+  "lat": -9.2862568,
+  "lon": 14.2142281
+},
+{
+  "type": "node",
+  "id": 6718954922,
+  "lat": -9.0328162,
+  "lon": 13.5787841
+},
+{
+  "type": "node",
+  "id": 6718954923,
+  "lat": -9.0328798,
+  "lon": 13.5789048
+},
+{
+  "type": "node",
+  "id": 6718954924,
+  "lat": -9.0327712,
+  "lon": 13.5789558
+},
+{
+  "type": "node",
+  "id": 6718954925,
+  "lat": -9.0327103,
+  "lon": 13.5788592
+},
+{
+  "type": "node",
+  "id": 6635560866,
+  "lat": -9.2508610,
+  "lon": 14.6813717
+},
+{
+  "type": "node",
+  "id": 6635560867,
+  "lat": -9.2506876,
+  "lon": 14.6815215
+},
+{
+  "type": "node",
+  "id": 6635560868,
+  "lat": -9.2507456,
+  "lon": 14.6815904
+},
+{
+  "type": "node",
+  "id": 6635560869,
+  "lat": -9.2507990,
+  "lon": 14.6815444
+},
+{
+  "type": "node",
+  "id": 6635560870,
+  "lat": -9.2508185,
+  "lon": 14.6815676
+},
+{
+  "type": "node",
+  "id": 6635560871,
+  "lat": -9.2508881,
+  "lon": 14.6815074
+},
+{
+  "type": "node",
+  "id": 6635560872,
+  "lat": -9.2508665,
+  "lon": 14.6814817
+},
+{
+  "type": "node",
+  "id": 6635560873,
+  "lat": -9.2509169,
+  "lon": 14.6814382
+},
+{
+  "type": "node",
+  "id": 6637122736,
+  "lat": -9.3005762,
+  "lon": 14.9092296
+},
+{
+  "type": "node",
+  "id": 6637122739,
+  "lat": -9.3007325,
+  "lon": 14.9092948
+},
+{
+  "type": "node",
+  "id": 6637122740,
+  "lat": -9.3007042,
+  "lon": 14.9093645
+},
+{
+  "type": "node",
+  "id": 6637122741,
+  "lat": -9.3007479,
+  "lon": 14.9093827
+},
+{
+  "type": "node",
+  "id": 6637122737,
+  "lat": -9.3003857,
+  "lon": 14.9096987
+},
+{
+  "type": "node",
+  "id": 6637122738,
+  "lat": -9.3005461,
+  "lon": 14.9097655
+},
+{
+  "type": "node",
+  "id": 6637122742,
+  "lat": -9.3006080,
+  "lon": 14.9096130
+},
+{
+  "type": "node",
+  "id": 6637122743,
+  "lat": -9.3006477,
+  "lon": 14.9096295
+},
+{
+  "type": "node",
+  "id": 6635501467,
+  "lat": -9.1396939,
+  "lon": 14.7679223
+},
+{
+  "type": "node",
+  "id": 6635501468,
+  "lat": -9.1395780,
+  "lon": 14.7680743
+},
+{
+  "type": "node",
+  "id": 6635501469,
+  "lat": -9.1396362,
+  "lon": 14.7681199
+},
+{
+  "type": "node",
+  "id": 6635501470,
+  "lat": -9.1397522,
+  "lon": 14.7679679
+},
+{
+  "type": "node",
+  "id": 2181226750,
+  "lat": -9.2727521,
+  "lon": 15.2446037
+},
+{
+  "type": "node",
+  "id": 2181226757,
+  "lat": -9.2727733,
+  "lon": 15.2443984
+},
+{
+  "type": "node",
+  "id": 2181226762,
+  "lat": -9.2728284,
+  "lon": 15.2446118
+},
+{
+  "type": "node",
+  "id": 2181226764,
+  "lat": -9.2728352,
+  "lon": 15.2445454
+},
+{
+  "type": "node",
+  "id": 2181226766,
+  "lat": -9.2728435,
+  "lon": 15.2444650
+},
+{
+  "type": "node",
+  "id": 2181226768,
+  "lat": -9.2728496,
+  "lon": 15.2444065
+},
+{
+  "type": "node",
+  "id": 2181226773,
+  "lat": -9.2728673,
+  "lon": 15.2445487
+},
+{
+  "type": "node",
+  "id": 2181226778,
+  "lat": -9.2728752,
+  "lon": 15.2444682
+},
+{
+  "type": "node",
+  "id": 2180948827,
+  "lat": -9.3907806,
+  "lon": 15.6309555
+},
+{
+  "type": "node",
+  "id": 2180948828,
+  "lat": -9.3908245,
+  "lon": 15.6310865
+},
+{
+  "type": "node",
+  "id": 2180948829,
+  "lat": -9.3908419,
+  "lon": 15.6309344
+},
+{
+  "type": "node",
+  "id": 2180948830,
+  "lat": -9.3908490,
+  "lon": 15.6309556
+},
+{
+  "type": "node",
+  "id": 2180948831,
+  "lat": -9.3908754,
+  "lon": 15.6310333
+},
+{
+  "type": "node",
+  "id": 2180948832,
+  "lat": -9.3908805,
+  "lon": 15.6309447
+},
+{
+  "type": "node",
+  "id": 2180948833,
+  "lat": -9.3908861,
+  "lon": 15.6310652
+},
+{
+  "type": "node",
+  "id": 2180948834,
+  "lat": -9.3909066,
+  "lon": 15.6310225
+},
+{
+  "type": "node",
+  "id": 2180948906,
+  "lat": -9.4195522,
+  "lon": 15.7394382
+},
+{
+  "type": "node",
+  "id": 2180948907,
+  "lat": -9.4195577,
+  "lon": 15.7393648
+},
+{
+  "type": "node",
+  "id": 2180948908,
+  "lat": -9.4195759,
+  "lon": 15.7395032
+},
+{
+  "type": "node",
+  "id": 2180948909,
+  "lat": -9.4195800,
+  "lon": 15.7394278
+},
+{
+  "type": "node",
+  "id": 2180948910,
+  "lat": -9.4196030,
+  "lon": 15.7394930
+},
+{
+  "type": "node",
+  "id": 2180948911,
+  "lat": -9.4196253,
+  "lon": 15.7395562
+},
+{
+  "type": "node",
+  "id": 2180948912,
+  "lat": -9.4196260,
+  "lon": 15.7393400
+},
+{
+  "type": "node",
+  "id": 2180948913,
+  "lat": -9.4196936,
+  "lon": 15.7395314
+},
+{
+  "type": "node",
+  "id": 2181227441,
+  "lat": -9.4884114,
+  "lon": 16.1480657
+},
+{
+  "type": "node",
+  "id": 2181227446,
+  "lat": -9.4884506,
+  "lon": 16.1480618
+},
+{
+  "type": "node",
+  "id": 2181227439,
+  "lat": -9.4883696,
+  "lon": 16.1481201
+},
+{
+  "type": "node",
+  "id": 2181227443,
+  "lat": -9.4884339,
+  "lon": 16.1480835
+},
+{
+  "type": "node",
+  "id": 2181227448,
+  "lat": -9.4884757,
+  "lon": 16.1482039
+},
+{
+  "type": "node",
+  "id": 2181227451,
+  "lat": -9.4884914,
+  "lon": 16.1481279
+},
+{
+  "type": "node",
+  "id": 2181227453,
+  "lat": -9.4885075,
+  "lon": 16.1481068
+},
+{
+  "type": "node",
+  "id": 2181227454,
+  "lat": -9.4885180,
+  "lon": 16.1481489
+},
+{
+  "type": "node",
+  "id": 4325252274,
+  "lat": -8.6030826,
+  "lon": 13.6074764
+},
+{
+  "type": "node",
+  "id": 4325252275,
+  "lat": -8.6031805,
+  "lon": 13.6072697
+},
+{
+  "type": "node",
+  "id": 4325252276,
+  "lat": -8.6032045,
+  "lon": 13.6072814
+},
+{
+  "type": "node",
+  "id": 4325252277,
+  "lat": -8.6031066,
+  "lon": 13.6074880
+},
+{
+  "type": "node",
+  "id": 4325252286,
+  "lat": -8.6023866,
+  "lon": 13.6097399
+},
+{
+  "type": "node",
+  "id": 4325252287,
+  "lat": -8.6024845,
+  "lon": 13.6095333
+},
+{
+  "type": "node",
+  "id": 4325252288,
+  "lat": -8.6025085,
+  "lon": 13.6095449
+},
+{
+  "type": "node",
+  "id": 4325255089,
+  "lat": -8.6024106,
+  "lon": 13.6097516
+},
+{
+  "type": "node",
+  "id": 3402046357,
+  "lat": -5.8177283,
+  "lon": 13.4600101
+},
+{
+  "type": "node",
+  "id": 3402046358,
+  "lat": -5.8176380,
+  "lon": 13.4598950
+},
+{
+  "type": "node",
+  "id": 3402046360,
+  "lat": -5.8180087,
+  "lon": 13.4598227
+},
+{
+  "type": "node",
+  "id": 12186694715,
+  "lat": -5.8179167,
+  "lon": 13.4596955
+},
+{
+  "type": "node",
+  "id": 7769785914,
+  "lat": -5.5184833,
+  "lon": 14.5153322
+},
+{
+  "type": "node",
+  "id": 7769785915,
+  "lat": -5.5186378,
+  "lon": 14.5153159
+},
+{
+  "type": "node",
+  "id": 7769785916,
+  "lat": -5.5185390,
+  "lon": 14.5143704
+},
+{
+  "type": "node",
+  "id": 7769785917,
+  "lat": -5.5188705,
+  "lon": 14.5143355
+},
+{
+  "type": "node",
+  "id": 7769785910,
+  "lat": -5.5192201,
+  "lon": 14.5176823
+},
+{
+  "type": "node",
+  "id": 7769785911,
+  "lat": -5.5188319,
+  "lon": 14.5177233
+},
+{
+  "type": "node",
+  "id": 7769785912,
+  "lat": -5.5187600,
+  "lon": 14.5170354
+},
+{
+  "type": "node",
+  "id": 7769785913,
+  "lat": -5.5186623,
+  "lon": 14.5170457
+},
+{
+  "type": "node",
+  "id": 3885204281,
+  "lat": -5.2625580,
+  "lon": 14.8567955
+},
+{
+  "type": "node",
+  "id": 3885204282,
+  "lat": -5.2626354,
+  "lon": 14.8568384
+},
+{
+  "type": "node",
+  "id": 12514283446,
+  "lat": -5.2615741,
+  "lon": 14.8547539
+},
+{
+  "type": "node",
+  "id": 12514283447,
+  "lat": -5.2620636,
+  "lon": 14.8557220
+},
+{
+  "type": "node",
+  "id": 12514283448,
+  "lat": -5.2625042,
+  "lon": 14.8555294
+},
+{
+  "type": "node",
+  "id": 12514283449,
+  "lat": -5.2625920,
+  "lon": 14.8555382
+},
+{
+  "type": "node",
+  "id": 12514283450,
+  "lat": -5.2626973,
+  "lon": 14.8555647
+},
+{
+  "type": "node",
+  "id": 12514283451,
+  "lat": -5.2628991,
+  "lon": 14.8554942
+},
+{
+  "type": "node",
+  "id": 12514283452,
+  "lat": -5.2628903,
+  "lon": 14.8553796
+},
+{
+  "type": "node",
+  "id": 12514283453,
+  "lat": -5.2629079,
+  "lon": 14.8549214
+},
+{
+  "type": "node",
+  "id": 12514283454,
+  "lat": -5.2629167,
+  "lon": 14.8543838
+},
+{
+  "type": "node",
+  "id": 12514283455,
+  "lat": -5.2624428,
+  "lon": 14.8543398
+},
+{
+  "type": "node",
+  "id": 12514283456,
+  "lat": -5.2621269,
+  "lon": 14.8543133
+},
+{
+  "type": "node",
+  "id": 12514283457,
+  "lat": -5.2618461,
+  "lon": 14.8543221
+},
+{
+  "type": "node",
+  "id": 12514283458,
+  "lat": -5.2616180,
+  "lon": 14.8545072
+},
+{
+  "type": "node",
+  "id": 3885204283,
+  "lat": -5.2622695,
+  "lon": 14.8575760
+},
+{
+  "type": "node",
+  "id": 3885204284,
+  "lat": -5.2621947,
+  "lon": 14.8575358
+},
+{
+  "type": "node",
+  "id": 4920481858,
+  "lat": -4.3883724,
+  "lon": 15.3526872
+},
+{
+  "type": "node",
+  "id": 4920481859,
+  "lat": -4.3885328,
+  "lon": 15.3527060
+},
+{
+  "type": "node",
+  "id": 4920481860,
+  "lat": -4.3885210,
+  "lon": 15.3528080
+},
+{
+  "type": "node",
+  "id": 4920481861,
+  "lat": -4.3883605,
+  "lon": 15.3527892
+},
+{
+  "type": "node",
+  "id": 3926193751,
+  "lat": -4.3964681,
+  "lon": 15.4154702
+},
+{
+  "type": "node",
+  "id": 3926193752,
+  "lat": -4.3968064,
+  "lon": 15.4159450
+},
+{
+  "type": "node",
+  "id": 3926193753,
+  "lat": -4.3963879,
+  "lon": 15.4171761
+},
+{
+  "type": "node",
+  "id": 3926193754,
+  "lat": -4.3957139,
+  "lon": 15.4181417
+},
+{
+  "type": "node",
+  "id": 3926193755,
+  "lat": -4.3946281,
+  "lon": 15.4171493
+},
+{
+  "type": "node",
+  "id": 3926193756,
+  "lat": -4.3944784,
+  "lon": 15.4167362
+},
+{
+  "type": "node",
+  "id": 3926195257,
+  "lat": -4.3967202,
+  "lon": 15.4166259
+},
+{
+  "type": "node",
+  "id": 11618921447,
+  "lat": -4.3963652,
+  "lon": 15.4172087
+},
+{
+  "type": "node",
+  "id": 5317799347,
+  "lat": -4.2911566,
+  "lon": 15.2408787
+},
+{
+  "type": "node",
+  "id": 12788068664,
+  "lat": -4.2908016,
+  "lon": 15.2406635
+},
+{
+  "type": "node",
+  "id": 12788068665,
+  "lat": -4.2906986,
+  "lon": 15.2408456
+},
+{
+  "type": "node",
+  "id": 12788068666,
+  "lat": -4.2910590,
+  "lon": 15.2410580
+},
+{
+  "type": "node",
+  "id": 712882748,
+  "lat": -4.3340334,
+  "lon": 15.2589968
+},
+{
+  "type": "node",
+  "id": 712882749,
+  "lat": -4.3341101,
+  "lon": 15.2589695
+},
+{
+  "type": "node",
+  "id": 712882750,
+  "lat": -4.3340280,
+  "lon": 15.2587370
+},
+{
+  "type": "node",
+  "id": 712882751,
+  "lat": -4.3339512,
+  "lon": 15.2587643
+}
+
+  ]
+}

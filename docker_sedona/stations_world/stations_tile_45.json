@@ -1,0 +1,10017 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-12-02T13:10:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 267570007,
+  "lat": -36.6038627,
+  "lon": -72.1124614,
+  "tags": {
+    "addr:city": "Chillán",
+    "addr:country": "CL",
+    "addr:state": "Región de Ñuble",
+    "addr:street": "Avenida Brasil",
+    "name": "Chillán",
+    "network": "Tren Chillán-Estación Central",
+    "operator": "EFE Central",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "CH",
+    "railway:station_category": "1",
+    "train": "yes",
+    "website": "https://www.efe.cl/nuestros-servicios/tren-chillan/estaciones/chillan/",
+    "wikidata": "Q5400023",
+    "wikipedia": "es:Estación Chillán"
+  }
+},
+{
+  "type": "node",
+  "id": 285773326,
+  "lat": -36.6467825,
+  "lon": -72.2290693,
+  "tags": {
+    "name": "Nebuco",
+    "railway": "station",
+    "railway:ref": "NB"
+  }
+},
+{
+  "type": "node",
+  "id": 310000768,
+  "lat": -36.8301581,
+  "lon": -73.0610353,
+  "tags": {
+    "name": "Concepción",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "CC",
+    "railway:station_category": "1",
+    "train": "yes",
+    "wikidata": "Q5841708",
+    "wikipedia": "es:Estación Concepción"
+  }
+},
+{
+  "type": "node",
+  "id": 315019820,
+  "lat": -36.8384342,
+  "lon": -73.0979637,
+  "tags": {
+    "addr:city": "San Pedro de La Paz",
+    "addr:street": "Avenida Pedro Aguirre Cerda",
+    "name": "Juan Pablo II",
+    "network": "Línea 2 Biotren",
+    "operator": "EFE Sur",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "BB",
+    "train": "yes",
+    "wikidata": "Q5842945",
+    "wikipedia": "es:Estación Juan Pablo II"
+  }
+},
+{
+  "type": "node",
+  "id": 332793725,
+  "lat": -36.7255417,
+  "lon": -73.1166534,
+  "tags": {
+    "name": "El Arenal",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "EZ",
+    "railway:station_category": "2",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 332795804,
+  "lat": -36.8082137,
+  "lon": -73.0710622,
+  "tags": {
+    "name": "Lorenzo Arenas",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "lor",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 353772399,
+  "lat": -36.8373995,
+  "lon": -73.1180569,
+  "tags": {
+    "addr:city": "San Pedro de la Paz",
+    "addr:street": "Avenida Pedro Aguirre Cerda",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Diagonal Biobío",
+    "network": "Línea 2 Biotren",
+    "operator": "EFE Sur",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "dia",
+    "train": "yes",
+    "wikidata": "Q5841921",
+    "wikipedia": "es:Estación Diagonal Biobío"
+  }
+},
+{
+  "type": "node",
+  "id": 390039537,
+  "lat": -36.6115039,
+  "lon": -72.0996141,
+  "tags": {
+    "addr:country": "CL",
+    "addr:housenumber": "890",
+    "addr:state": "Región de Ñuble",
+    "addr:street": "Maipón",
+    "amenity": "bus_station",
+    "name": "Terminal La Merced"
+  }
+},
+{
+  "type": "node",
+  "id": 603300190,
+  "lat": -51.0613508,
+  "lon": -72.9903131,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Sector Pudeto",
+    "operator": "CONAF",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 659539867,
+  "lat": -38.7353508,
+  "lon": -72.5888101,
+  "tags": {
+    "addr:city": "Temuco",
+    "addr:country": "CL",
+    "addr:district": "Temuco",
+    "addr:housenumber": "853",
+    "addr:state": "Región de La Araucanía",
+    "addr:street": "Lautaro",
+    "amenity": "bus_station",
+    "name": "Buses BioBio"
+  }
+},
+{
+  "type": "node",
+  "id": 659539869,
+  "lat": -38.7332458,
+  "lon": -72.5860685,
+  "tags": {
+    "addr:city": "Temuco",
+    "addr:country": "CL",
+    "addr:district": "Temuco",
+    "addr:housenumber": "1005",
+    "addr:state": "Región de La Araucanía",
+    "addr:street": "Avenida Balmaceda",
+    "amenity": "bus_station",
+    "name": "Buses JAC"
+  }
+},
+{
+  "type": "node",
+  "id": 671848029,
+  "lat": -38.4200307,
+  "lon": -72.3758515,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Estación de Buses"
+  }
+},
+{
+  "type": "node",
+  "id": 671848125,
+  "lat": -38.1960225,
+  "lon": -72.3127712,
+  "tags": {
+    "name": "Inspector Fernández",
+    "passenger_service": "no",
+    "railway": "station",
+    "railway:ref": "IF",
+    "wikidata": "Q91393638",
+    "wikipedia": "es:Estación Inspector Fernández"
+  }
+},
+{
+  "type": "node",
+  "id": 801682415,
+  "lat": -41.2529969,
+  "lon": -73.0065112,
+  "tags": {
+    "addr:city": "Llanquihue",
+    "addr:street": "Baquedano",
+    "check_date": "2024-12-20",
+    "name": "Llanquihue",
+    "network": "Tren Llanquihue-Puerto Montt",
+    "operator": "EFE Sur",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "NQ",
+    "start_date": "1907",
+    "website": "https://www.efe.cl/proyectos/puerto-montt-llanquihue/",
+    "wheelchair": "yes",
+    "wikidata": "Q14500",
+    "wikipedia": "es:Llanquihue"
+  }
+},
+{
+  "type": "node",
+  "id": 803918746,
+  "lat": -38.9483638,
+  "lon": -72.6285163,
+  "tags": {
+    "addr:city": "Freire",
+    "addr:street": "Avenida Estación",
+    "internet_access": "no",
+    "name": "Freire",
+    "network": "Temuco-Pitrufquén",
+    "operator": "EFE",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "FR",
+    "train": "yes",
+    "wikidata": "Q5869220",
+    "wikipedia": "es:Estación Freire"
+  }
+},
+{
+  "type": "node",
+  "id": 889866940,
+  "lat": -36.4894327,
+  "lon": -72.7018549,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Coelemu",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 920461262,
+  "lat": -37.6710270,
+  "lon": -72.5882437,
+  "tags": {
+    "name": "Renaico",
+    "railway": "station",
+    "railway:ref": "RN",
+    "wikidata": "Q5844489",
+    "wikipedia": "es:Estación Renaico"
+  }
+},
+{
+  "type": "node",
+  "id": 960923831,
+  "lat": -39.9890677,
+  "lon": -72.8356605,
+  "tags": {
+    "name": "Reumén",
+    "railway": "station",
+    "railway:ref": "RM"
+  }
+},
+{
+  "type": "node",
+  "id": 966116899,
+  "lat": -39.4898112,
+  "lon": -72.1543059,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Buses Jac"
+  }
+},
+{
+  "type": "node",
+  "id": 982831782,
+  "lat": -39.3683010,
+  "lon": -72.6325753,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Buses Cruz del Sur",
+    "name:es": "Buses Cruz del Sur",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 982910005,
+  "lat": -40.0710926,
+  "lon": -72.8777406,
+  "tags": {
+    "addr:city": "Paillaco",
+    "name": "Paillaco",
+    "network": "Longitudinal Sur",
+    "operator": "FESUR",
+    "railway": "station",
+    "railway:ref": "YO",
+    "wikidata": "Q6057289",
+    "wikipedia": "es:Estación Paillaco"
+  }
+},
+{
+  "type": "node",
+  "id": 1033193501,
+  "lat": -37.1465449,
+  "lon": -72.5397352,
+  "tags": {
+    "name": "Yumbel",
+    "railway": "station",
+    "railway:ref": "YB",
+    "train": "yes",
+    "wikidata": "Q5845531",
+    "wikipedia": "es:Estación Yumbel"
+  }
+},
+{
+  "type": "node",
+  "id": 1037145314,
+  "lat": -37.0977577,
+  "lon": -72.5633293,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal de Buses San Sebastián",
+    "source": "local_knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 1107682659,
+  "lat": -41.4588461,
+  "lon": -72.9176476,
+  "tags": {
+    "addr:city": "Puerto Montt",
+    "addr:street": "Cuarta Terraza",
+    "alt_name": "Estación Puerto Montt - La Paloma",
+    "check_date": "2024-12-20",
+    "name": "La Paloma",
+    "network": "Tren Llanquihue-Puerto Montt",
+    "operator": "EFE Sur",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "XP",
+    "railway:station_category": "2",
+    "start_date": "2005",
+    "train": "yes",
+    "website": "https://www.efe.cl/proyectos/puerto-montt-llanquihue/",
+    "wheelchair": "yes",
+    "wikidata": "Q6092136",
+    "wikipedia": "es:Estación La Paloma"
+  }
+},
+{
+  "type": "node",
+  "id": 1175027757,
+  "lat": -38.7338923,
+  "lon": -72.5812154,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "description": "Terminal de minibuses a diferentes zonas de la región de La Araucanía.",
+    "name": "Intercomunal Sur",
+    "public_transport": "station",
+    "source": "local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 1179230418,
+  "lat": -42.6231217,
+  "lon": -73.7729523,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "check_date": "2025-01-12",
+    "internet_access": "no",
+    "name": "Paradero de Buses Chonchi",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1234893618,
+  "lat": -39.8628739,
+  "lon": -72.8168816,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 1249412318,
+  "lat": -36.7109140,
+  "lon": -72.9742832,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal de Buses 32 Buses Ruta del Mar"
+  }
+},
+{
+  "type": "node",
+  "id": 1249412543,
+  "lat": -36.7132656,
+  "lon": -72.9773881,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses 30 Ruta las Playas",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1265662445,
+  "lat": -38.6015113,
+  "lon": -72.8434751,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Inter Sur"
+  }
+},
+{
+  "type": "node",
+  "id": 1288545939,
+  "lat": -40.5728728,
+  "lon": -73.1293549,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "int_name": "Rural Bus station",
+    "name": "Terminal Buses Rural",
+    "public_transport": "station",
+    "source": "Stefan Heitmann"
+  }
+},
+{
+  "type": "node",
+  "id": 1320075104,
+  "lat": -37.0347745,
+  "lon": -72.3998823,
+  "tags": {
+    "name": "Cabrero",
+    "railway": "station",
+    "railway:ref": "BE",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1350682833,
+  "lat": -39.7713065,
+  "lon": -73.2197071,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal  Linea nº2",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1351995585,
+  "lat": -40.0729281,
+  "lon": -72.8742670,
+  "tags": {
+    "addr:city": "Paillaco",
+    "addr:country": "CL",
+    "addr:district": "Paillaco",
+    "addr:housenumber": "220",
+    "addr:state": "Región de Los Ríos",
+    "addr:street": "Camilo Henríquez",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Paillaco",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1391122787,
+  "lat": -40.3333558,
+  "lon": -72.9515855,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses de Rio Bueno",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1409373698,
+  "lat": -36.8054720,
+  "lon": -73.0383875,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses 63 Rengo Lientur",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1430983050,
+  "lat": -36.7229162,
+  "lon": -73.1430985,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Los Lobos"
+  }
+},
+{
+  "type": "node",
+  "id": 1446309477,
+  "lat": -39.8539074,
+  "lon": -73.2273999,
+  "tags": {
+    "addr:city": "Valdivia",
+    "addr:country": "CL",
+    "addr:district": "Valdivia",
+    "addr:state": "Región de Los Ríos",
+    "addr:street": "Avenida René Schneider",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Linea 11",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1474320220,
+  "lat": -40.9155735,
+  "lon": -73.1624171,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses de Purranque",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1484757804,
+  "lat": -38.0340998,
+  "lon": -73.0718708,
+  "tags": {
+    "addr:city": "Purén",
+    "addr:street": "Saavedra",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Hernán Thiele",
+    "old_name": "Estación de Autobuses de Purén",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1492329889,
+  "lat": -40.7937437,
+  "lon": -73.2128595,
+  "tags": {
+    "name": "Río Negro",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "OG",
+    "train": "yes",
+    "wikidata": "Q69315784",
+    "wikipedia": "es:Estación Río Negro"
+  }
+},
+{
+  "type": "node",
+  "id": 1500315734,
+  "lat": -40.1511963,
+  "lon": -72.8978680,
+  "tags": {
+    "name": "Pichi Ropulli",
+    "railway": "station",
+    "railway:ref": "IU"
+  }
+},
+{
+  "type": "node",
+  "id": 1524606915,
+  "lat": -40.5718775,
+  "lon": -73.1381479,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Parada Taxis Colectivos"
+  }
+},
+{
+  "type": "node",
+  "id": 1530169130,
+  "lat": -41.8677485,
+  "lon": -73.8250262,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Buses Rurales",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1558263901,
+  "lat": -37.6708462,
+  "lon": -72.5889593,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal de Buses Renaico"
+  }
+},
+{
+  "type": "node",
+  "id": 1611101296,
+  "lat": -36.9148960,
+  "lon": -73.0285630,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Estación de buses Turbus"
+  }
+},
+{
+  "type": "node",
+  "id": 1615285812,
+  "lat": -37.1127515,
+  "lon": -73.1518851,
+  "tags": {
+    "amenity": "bus_station",
+    "building": "public",
+    "name": "Estación de Buses Nueva Takora"
+  }
+},
+{
+  "type": "node",
+  "id": 1615286373,
+  "lat": -37.1114210,
+  "lon": -73.1470034,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Estación de Buses Expreso 2000"
+  }
+},
+{
+  "type": "node",
+  "id": 1615286557,
+  "lat": -37.1101676,
+  "lon": -73.1453190,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Estación de Buses Translota"
+  }
+},
+{
+  "type": "node",
+  "id": 1630510744,
+  "lat": -38.7416578,
+  "lon": -72.9558922,
+  "tags": {
+    "addr:city": "Nueva Imperial",
+    "addr:country": "CL",
+    "addr:district": "Nueva Imperial",
+    "addr:housenumber": "217",
+    "addr:state": "Región de La Araucanía",
+    "addr:street": "Aníbal Pinto",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Buses Nueva Imperial",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1641614467,
+  "lat": -38.3359815,
+  "lon": -72.3746547,
+  "tags": {
+    "name": "Púa",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "PA",
+    "wikidata": "Q5844015",
+    "wikipedia": "es:Estación Púa"
+  }
+},
+{
+  "type": "node",
+  "id": 1647007934,
+  "lat": -37.7967447,
+  "lon": -72.7065591,
+  "tags": {
+    "addr:city": "Angol",
+    "addr:country": "CL",
+    "addr:district": "Angol",
+    "addr:state": "Región de La Araucanía",
+    "addr:street": "Caupolicán",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Bio-Bio Angol",
+    "opening_hours": "Mo-Su 06:00-00:00",
+    "operator": "Bío-Bío",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1669499999,
+  "lat": -38.8094174,
+  "lon": -73.3983381,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 1713527308,
+  "lat": -37.2307238,
+  "lon": -72.6521373,
+  "tags": {
+    "addr:city": "San Rosendo",
+    "addr:street": "Ruta Q-730",
+    "name": "Turquía",
+    "operator": "EFE Sur",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "TQ",
+    "train": "yes",
+    "wikidata": "Q5845246",
+    "wikipedia": "es:Estación Turquía"
+  }
+},
+{
+  "type": "node",
+  "id": 1713527309,
+  "lat": -37.0855649,
+  "lon": -72.4420665,
+  "tags": {
+    "name": "Monte Águila",
+    "railway": "station",
+    "railway:ref": "MI",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1736791297,
+  "lat": -36.9335167,
+  "lon": -72.3494911,
+  "tags": {
+    "name": "General Cruz",
+    "railway": "station",
+    "railway:ref": "GC"
+  }
+},
+{
+  "type": "node",
+  "id": 1737283603,
+  "lat": -37.7980820,
+  "lon": -73.4002583,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Tur Bus",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1798798511,
+  "lat": -37.4606001,
+  "lon": -72.5838778,
+  "tags": {
+    "name": "Santa Fe",
+    "operator": "EFE-Fesub Concepción SA",
+    "railway": "station",
+    "railway:ref": "SE",
+    "wikidata": "Q5844864",
+    "wikipedia": "es:Estación Santa Fe (Chile)"
+  }
+},
+{
+  "type": "node",
+  "id": 1904940510,
+  "lat": -39.1775453,
+  "lon": -73.1701345,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal"
+  }
+},
+{
+  "type": "node",
+  "id": 1909587993,
+  "lat": -39.5657005,
+  "lon": -72.9323860,
+  "tags": {
+    "name": "Mariquina",
+    "railway": "station",
+    "railway:ref": "MR",
+    "railway:station_category": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 1909588488,
+  "lat": -39.6652889,
+  "lon": -72.9498714,
+  "tags": {
+    "addr:city": "Máfil",
+    "name": "Máfil",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "MX",
+    "wikidata": "Q6035342",
+    "wikipedia": "es:Estación Máfil"
+  }
+},
+{
+  "type": "node",
+  "id": 1909759643,
+  "lat": -39.2354663,
+  "lon": -72.6770992,
+  "tags": {
+    "name": "Lastarria",
+    "railway": "station",
+    "railway:ref": "LV"
+  }
+},
+{
+  "type": "node",
+  "id": 1957772139,
+  "lat": -40.0697841,
+  "lon": -72.8771820,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal TurBus",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2022045677,
+  "lat": -37.6674541,
+  "lon": -72.0147808,
+  "tags": {
+    "addr:city": "Santa Barbara",
+    "addr:housenumber": "999",
+    "addr:street": "General Baquedano",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Aranguiz",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2027994595,
+  "lat": -40.3220744,
+  "lon": -72.4784374,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Turbus Jac"
+  }
+},
+{
+  "type": "node",
+  "id": 2063360442,
+  "lat": -36.7119613,
+  "lon": -73.1155382,
+  "tags": {
+    "name": "Mercado",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "TH",
+    "train": "yes",
+    "wikidata": "Q5843722",
+    "wikipedia": "es:Estación Mercado de Talcahuano"
+  }
+},
+{
+  "type": "node",
+  "id": 2118620286,
+  "lat": -36.7453630,
+  "lon": -72.2926012,
+  "tags": {
+    "name": "Bulnes",
+    "railway": "station",
+    "railway:ref": "BS",
+    "wikidata": "Q5841225"
+  }
+},
+{
+  "type": "node",
+  "id": 2175802469,
+  "lat": -39.8238447,
+  "lon": -73.2181509,
+  "tags": {
+    "name": "Valdivia",
+    "railway": "station",
+    "railway:ref": "VV",
+    "railway:station_category": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 2180503365,
+  "lat": -39.4510594,
+  "lon": -72.7796118,
+  "tags": {
+    "name": "Lanco",
+    "railway": "station",
+    "railway:ref": "LN"
+  }
+},
+{
+  "type": "node",
+  "id": 2182023833,
+  "lat": -39.5689442,
+  "lon": -72.0053655,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Estación de Buses Coñaripe"
+  }
+},
+{
+  "type": "node",
+  "id": 2193023387,
+  "lat": -39.2764381,
+  "lon": -72.2321501,
+  "tags": {
+    "addr:city": "Villarrica",
+    "addr:country": "CL",
+    "addr:district": "Villarrica",
+    "addr:housenumber": "80",
+    "addr:state": "Región de La Araucanía",
+    "addr:street": "Isabel Riquelme",
+    "amenity": "bus_station",
+    "building": "roof"
+  }
+},
+{
+  "type": "node",
+  "id": 2368853458,
+  "lat": -36.6048570,
+  "lon": -72.1123678,
+  "tags": {
+    "addr:city": "Chillán",
+    "addr:housenumber": "560",
+    "addr:street": "Avenida Brasil",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Terminal de buses Línea Azul",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2379281210,
+  "lat": -41.1247170,
+  "lon": -73.0602767,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Paradero Buses Locales"
+  }
+},
+{
+  "type": "node",
+  "id": 2484534589,
+  "lat": -37.4764099,
+  "lon": -73.3437771,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Cruzmar",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2710151612,
+  "lat": -44.3239639,
+  "lon": -72.5574067,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Buses EntreVerdes"
+  }
+},
+{
+  "type": "node",
+  "id": 2725095422,
+  "lat": -41.3249920,
+  "lon": -72.9850577,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Cruz del Sur"
+  }
+},
+{
+  "type": "node",
+  "id": 2774437854,
+  "lat": -50.4687952,
+  "lon": -73.0296933,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Glaciar Perito Moreno",
+    "name:es": "Glaciar Perito Moreno",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2852073954,
+  "lat": -37.7982055,
+  "lon": -73.4001330,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Jota Ewert"
+  }
+},
+{
+  "type": "node",
+  "id": 2972391976,
+  "lat": -42.4723900,
+  "lon": -73.4875970,
+  "tags": {
+    "addr:street": "Horacio Barrientos",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Achao",
+    "name:en": "Station Bus \"Achao\"",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2974954240,
+  "lat": -37.9810661,
+  "lon": -72.8308538,
+  "tags": {
+    "addr:city": "Los Sauces",
+    "addr:country": "CL",
+    "addr:district": "Los Sauces",
+    "addr:housenumber": "200",
+    "addr:state": "Región de La Araucanía",
+    "addr:street": "Aníbal Pinto",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Los Sauces",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3186817932,
+  "lat": -42.9157809,
+  "lon": -72.7112935,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal"
+  }
+},
+{
+  "type": "node",
+  "id": 3283257172,
+  "lat": -45.5725003,
+  "lon": -72.0681853,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Don Carlos",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3307017764,
+  "lat": -38.2368195,
+  "lon": -72.3337648,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal de buses rurales"
+  }
+},
+{
+  "type": "node",
+  "id": 3369569831,
+  "lat": -36.8468670,
+  "lon": -73.1309361,
+  "tags": {
+    "addr:city": "San Pedro de la Paz",
+    "addr:street": "Ruta 160",
+    "alt_name": "Boca Sur",
+    "check_date": "2025-01-28",
+    "internet_access": "wlan",
+    "name": "Alborada",
+    "network": "Línea 2 del Biotrén",
+    "operator": "EFE Sur",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "SU",
+    "train": "yes",
+    "website": "https://www.efe.cl/nuestros-servicios/biotren/estaciones/alborada/",
+    "wikidata": "Q16492820",
+    "wikipedia": "es:Estación Alborada"
+  }
+},
+{
+  "type": "node",
+  "id": 3401552562,
+  "lat": -37.9597756,
+  "lon": -72.4312189,
+  "tags": {
+    "addr:street": "O'Carrol",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Turbus",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3455807200,
+  "lat": -38.0139553,
+  "lon": -73.2293724,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Jota Ewert"
+  }
+},
+{
+  "type": "node",
+  "id": 3658439732,
+  "lat": -37.2639013,
+  "lon": -72.7275895,
+  "tags": {
+    "name": "San Rosendo",
+    "operator": "Empresa de los Ferrocarriles del Estado",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "SR",
+    "railway:station_category": "2",
+    "train": "yes",
+    "wikidata": "Q5844825"
+  }
+},
+{
+  "type": "node",
+  "id": 3663884060,
+  "lat": -37.2819687,
+  "lon": -72.7167759,
+  "tags": {
+    "name": "Laja",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "LJ",
+    "railway:station_category": "2",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3705974744,
+  "lat": -42.3789072,
+  "lon": -73.6478987,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Buses Cruz del Sur"
+  }
+},
+{
+  "type": "node",
+  "id": 3723130303,
+  "lat": -37.0111367,
+  "lon": -73.1755412,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 3766185757,
+  "lat": -45.5694846,
+  "lon": -72.0697099,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Buses Becker",
+    "opening_hours": "Mo-Fr 10:00-13:00, 15:00-19:00; Sa 10:00-13:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3812036962,
+  "lat": -39.6650600,
+  "lon": -72.9523750,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Jet Sur"
+  }
+},
+{
+  "type": "node",
+  "id": 3812037674,
+  "lat": -39.6622767,
+  "lon": -72.9500603,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Cruz del Sur"
+  }
+},
+{
+  "type": "node",
+  "id": 3855581257,
+  "lat": -37.7955818,
+  "lon": -72.4746146,
+  "tags": {
+    "name": "Mininco",
+    "railway": "station",
+    "railway:ref": "MN",
+    "railway:station_category": "3",
+    "wikidata": "Q91386485",
+    "wikipedia": "es:Estación Mininco"
+  }
+},
+{
+  "type": "node",
+  "id": 3977287862,
+  "lat": -38.2481366,
+  "lon": -72.6685778,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Igi - llaima",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3985520068,
+  "lat": -38.4112058,
+  "lon": -72.7803986,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Buses Transantín",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4057206789,
+  "lat": -41.5023185,
+  "lon": -72.9920881,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 4083766344,
+  "lat": -42.6241954,
+  "lon": -73.7726225,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "check_date": "2025-01-12",
+    "internet_access": "no",
+    "name": "Cruz del Sur",
+    "operator": "Buses Cruz del Sur S.A.",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4085759106,
+  "lat": -48.4673921,
+  "lon": -72.5571384,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Buses a Tortel (Vultur Patagonia)",
+    "name:en": "Bus to Tortel",
+    "name:fr": "Bus vers Tortel",
+    "operator": "Vultur Patagonia",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4124944293,
+  "lat": -36.9801863,
+  "lon": -73.1628369,
+  "tags": {
+    "name": "Los Canelos",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "can",
+    "start_date": "2016-02-29",
+    "train": "yes",
+    "wikidata": "Q25408872",
+    "wikipedia": "es:Estación Los Canelos"
+  }
+},
+{
+  "type": "node",
+  "id": 4124945257,
+  "lat": -36.8984905,
+  "lon": -73.1433861,
+  "tags": {
+    "name": "Cardenal Raúl Silva Henríquez",
+    "old_name": "Conavicoop",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4124947356,
+  "lat": -36.9537909,
+  "lon": -73.1567244,
+  "tags": {
+    "name": "Hito Galvarino",
+    "official_name": "Escuadrón",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "ES",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4124950639,
+  "lat": -36.9984065,
+  "lon": -73.1627912,
+  "tags": {
+    "name": "Cristo Redentor",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "cri",
+    "start_date": "2016-02-29",
+    "train": "yes",
+    "wikidata": "Q25408894",
+    "wikipedia": "es:Estación Cristo Redentor"
+  }
+},
+{
+  "type": "node",
+  "id": 4124951369,
+  "lat": -37.0127009,
+  "lon": -73.1580923,
+  "tags": {
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Laguna Quiñenco",
+    "network": "Línea 2",
+    "operator": "Fesur",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "lqu",
+    "start_date": "2016-02-29",
+    "train": "yes",
+    "wikidata": "Q24110098",
+    "wikipedia": "es:Estación Laguna Quiñenco"
+  }
+},
+{
+  "type": "node",
+  "id": 4124952607,
+  "lat": -37.0246351,
+  "lon": -73.1508068,
+  "tags": {
+    "name": "Coronel",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "CW",
+    "railway:station_category": "3",
+    "train": "yes",
+    "wikidata": "Q5788800"
+  }
+},
+{
+  "type": "node",
+  "id": 4152240024,
+  "lat": -37.9572417,
+  "lon": -72.4372975,
+  "tags": {
+    "addr:street": "Amunátegui",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Buses Bio Bio",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4166704396,
+  "lat": -38.2344287,
+  "lon": -72.3367343,
+  "tags": {
+    "addr:street": "Avenida Arturo Prat",
+    "amenity": "bus_station",
+    "name": "Terminal de bus Bio-bio",
+    "name:es": "Terminal de Buses Bio-bio"
+  }
+},
+{
+  "type": "node",
+  "id": 4192123089,
+  "lat": -45.4020659,
+  "lon": -72.6852218,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Puerto Aysen - Puerto Chacabuco",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4200696693,
+  "lat": -37.7209874,
+  "lon": -72.2393360,
+  "tags": {
+    "addr:street": "Pantoja",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Islajacoop",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4200700589,
+  "lat": -37.7214255,
+  "lon": -72.2395393,
+  "tags": {
+    "addr:street": "Pantoja",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Turbus",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4206069493,
+  "lat": -40.2930528,
+  "lon": -73.0818867,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Turbus",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4213167990,
+  "lat": -36.2824451,
+  "lon": -72.5461288,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Quirihue",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4257303691,
+  "lat": -37.7968043,
+  "lon": -72.7056143,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Thiele"
+  }
+},
+{
+  "type": "node",
+  "id": 4257333689,
+  "lat": -37.7978175,
+  "lon": -72.7053949,
+  "tags": {
+    "addr:city": "Angol",
+    "addr:country": "CL",
+    "addr:district": "Angol",
+    "addr:state": "Región de La Araucanía",
+    "addr:street": "Ilabaca",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Mercado Municipal",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4314656622,
+  "lat": -36.4868919,
+  "lon": -72.7025379,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Turbus"
+  }
+},
+{
+  "type": "node",
+  "id": 4320488644,
+  "lat": -40.2929091,
+  "lon": -73.0818548,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Pullman Bus"
+  }
+},
+{
+  "type": "node",
+  "id": 4364952294,
+  "lat": -39.8205904,
+  "lon": -73.2417345,
+  "tags": {
+    "addr:city": "Valdivia",
+    "addr:country": "CL",
+    "addr:district": "Valdivia",
+    "addr:housenumber": "1111",
+    "addr:state": "Región de Los Ríos",
+    "addr:street": "Aníbal Pinto",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Aníbal Pinto alt. 1111",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4455930414,
+  "lat": -37.2025633,
+  "lon": -72.7705866,
+  "tags": {
+    "name": "Buenuraqui",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "BU",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4455930416,
+  "lat": -37.1964188,
+  "lon": -72.8352467,
+  "tags": {
+    "name": "Gomero",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "GO",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4455930417,
+  "lat": -36.9805523,
+  "lon": -72.9411329,
+  "tags": {
+    "name": "Hualqui",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "HQ",
+    "railway:station_category": "3",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4455930420,
+  "lat": -37.1649658,
+  "lon": -72.9067981,
+  "tags": {
+    "name": "Talcamávida",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "TL",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4514589079,
+  "lat": -36.9257187,
+  "lon": -73.0214211,
+  "tags": {
+    "name": "Pedro Medina",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "pme",
+    "start_date": "2001-03-01",
+    "train": "yes",
+    "wikidata": "Q5844121",
+    "wikipedia": "es:Estación Pedro Medina"
+  }
+},
+{
+  "type": "node",
+  "id": 4514590030,
+  "lat": -36.9153573,
+  "lon": -73.0288408,
+  "tags": {
+    "name": "Chiguayante",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "CV",
+    "train": "yes",
+    "wikidata": "Q5841565",
+    "wikipedia": "sv:Estación Chiguayante"
+  }
+},
+{
+  "type": "node",
+  "id": 4514615375,
+  "lat": -36.9512437,
+  "lon": -73.0131475,
+  "tags": {
+    "name": "La Leonera",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "ZW",
+    "start_date": "2005-11-24",
+    "train": "yes",
+    "wikidata": "Q5843088",
+    "wikipedia": "es:Estación La Leonera (Biotrén)"
+  }
+},
+{
+  "type": "node",
+  "id": 4514615376,
+  "lat": -36.9385989,
+  "lon": -73.0112978,
+  "tags": {
+    "name": "Manquimávida",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "man",
+    "start_date": "2001-03-01",
+    "train": "yes",
+    "wikidata": "Q5843577",
+    "wikipedia": "es:Estación Manquimávida"
+  }
+},
+{
+  "type": "node",
+  "id": 4514677093,
+  "lat": -36.7396171,
+  "lon": -73.1025529,
+  "tags": {
+    "name": "Hospital Las Higueras",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "hig",
+    "short_name": "Higueras",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4514677144,
+  "lat": -36.7566703,
+  "lon": -73.0916618,
+  "tags": {
+    "name": "Los Cóndores",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "con",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4531899991,
+  "lat": -39.8504724,
+  "lon": -73.1953736,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Taller Pullman",
+    "name:es": "Taller Pullman"
+  }
+},
+{
+  "type": "node",
+  "id": 4537025289,
+  "lat": -37.4661771,
+  "lon": -72.3469483,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Rurales Vega Techada",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4586832791,
+  "lat": -47.2532762,
+  "lon": -72.5753922,
+  "tags": {
+    "addr:country": "CL",
+    "addr:housenumber": "499",
+    "addr:street": "Teniente Merino",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "contact:email": "kamisaraki21@gmail.com",
+    "contact:mobile": "+56 94114811",
+    "contact:website": "https://serviciosturisticos.sernatur.cl/22881-pachamama",
+    "name": "Pachamama",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4593412639,
+  "lat": -36.8825028,
+  "lon": -73.1395361,
+  "tags": {
+    "name": "Lomas Coloradas",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "LM",
+    "train": "yes",
+    "wikidata": "Q5843407",
+    "wikipedia": "es:Estación Lomas Coloradas"
+  }
+},
+{
+  "type": "node",
+  "id": 4593412640,
+  "lat": -36.8548032,
+  "lon": -73.1328488,
+  "tags": {
+    "name": "Costa Mar",
+    "old_name": "Michaihue",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "cma",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4593443220,
+  "lat": -36.8678229,
+  "lon": -73.1359859,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "El Parque",
+    "opening_hours": "Mo-Sa 07:00-22:00",
+    "operator": "Ferrocarriles del Sur",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "par",
+    "train": "yes",
+    "wikidata": "Q26037129",
+    "wikipedia": "es:Estación El Parque"
+  }
+},
+{
+  "type": "node",
+  "id": 4599130954,
+  "lat": -37.1190764,
+  "lon": -72.9426845,
+  "tags": {
+    "name": "Unihue",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "UN",
+    "train": "yes",
+    "wikidata": "Q5845264",
+    "wikipedia": "es:Estación Unihue"
+  }
+},
+{
+  "type": "node",
+  "id": 4599130955,
+  "lat": -37.0545876,
+  "lon": -72.9633124,
+  "tags": {
+    "name": "Quilacoya",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "QU",
+    "train": "yes",
+    "wikidata": "Q5844375",
+    "wikipedia": "es:Estación Quilacoya"
+  }
+},
+{
+  "type": "node",
+  "id": 4670412642,
+  "lat": -36.7954695,
+  "lon": -73.1071713,
+  "tags": {
+    "addr:street": "Avenida Gran Bretaña",
+    "amenity": "bus_station",
+    "name": "Terminal de colectivos 21",
+    "operator": "Las Golondrinas"
+  }
+},
+{
+  "type": "node",
+  "id": 4677463829,
+  "lat": -36.4764757,
+  "lon": -72.0140557,
+  "tags": {
+    "disused": "yes",
+    "disused:railway": "station",
+    "name": "Ninquihue",
+    "railway": "station",
+    "railway:ref": "NH",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4679361489,
+  "lat": -45.5745185,
+  "lon": -72.0749289,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Transfer Velasquez",
+    "phone": "+56989064578",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4688921198,
+  "lat": -37.4671461,
+  "lon": -72.3474910,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Rengo",
+    "alt_name": "Terminal de Buses Islajacoop",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Isla Jacob",
+    "opening_hours": "Mo-Su 06:30-22:15",
+    "phone": "+56 43 231 5128",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4707559591,
+  "lat": -42.7123085,
+  "lon": -74.1303212,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Estacionamiento y Parada de buses hacia Cucao y Castro",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4711839089,
+  "lat": -43.1199337,
+  "lon": -73.6186591,
+  "tags": {
+    "amenity": "bus_station",
+    "description": "Terminal de Buses rural",
+    "name": "Terminal de Buses Municipal de Quellón"
+  }
+},
+{
+  "type": "node",
+  "id": 4715716789,
+  "lat": -39.8239551,
+  "lon": -73.2290673,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Cruz del Sur",
+    "name:en": "Cruz del Sur",
+    "name:es": "Cruz del Sur",
+    "name:fr": "Cruz del Sur",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4725005791,
+  "lat": -43.9764674,
+  "lon": -72.4050199,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terraustral",
+    "opening_hours": "Mo-Sa 10:00-20:00; Su 15:00-20:00",
+    "phone": "982972501"
+  }
+},
+{
+  "type": "node",
+  "id": 4728597530,
+  "lat": -39.8055046,
+  "lon": -72.9575047,
+  "tags": {
+    "name": "Antilhue",
+    "railway": "station",
+    "railway:ref": "AN",
+    "railway:station_category": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 4758035270,
+  "lat": -39.2805850,
+  "lon": -72.3127765,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Microbuses",
+    "name:es": "Terminal Microbuses"
+  }
+},
+{
+  "type": "node",
+  "id": 4763435928,
+  "lat": -39.5387562,
+  "lon": -72.9664752,
+  "tags": {
+    "addr:city": "San José de La Mariquina",
+    "addr:street": "Mariquina",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Bus Norte",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4768860926,
+  "lat": -39.3708996,
+  "lon": -72.6370990,
+  "tags": {
+    "addr:city": "Loncoche",
+    "addr:street": "Avenida José Manuel Balmaceda",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Loncoche",
+    "name:es": "Terminal de buses Loncoche",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4778848222,
+  "lat": -39.2837109,
+  "lon": -72.2313802,
+  "tags": {
+    "addr:city": "Villarrica",
+    "addr:country": "CL",
+    "addr:district": "Villarrica",
+    "addr:housenumber": "837",
+    "addr:state": "Región de La Araucanía",
+    "addr:street": "Anfión Muñoz",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Jet Sur",
+    "name:es": "Jet Sur",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4782098525,
+  "lat": -39.2867173,
+  "lon": -72.2333134,
+  "tags": {
+    "addr:city": "Villarrica",
+    "addr:country": "CL",
+    "addr:district": "Villarrica",
+    "addr:state": "Región de La Araucanía",
+    "addr:street": "Avenida Presidente Juan Antonio Ríos",
+    "amenity": "bus_station",
+    "name": "Recinto Buses JAC",
+    "name:en": "Recinto Buses JAC",
+    "name:es": "Recinto Buses JAC"
+  }
+},
+{
+  "type": "node",
+  "id": 4818659121,
+  "lat": -41.3222654,
+  "lon": -72.9848092,
+  "tags": {
+    "amenity": "bus_station",
+    "name:en": "ETM"
+  }
+},
+{
+  "type": "node",
+  "id": 4818659221,
+  "lat": -41.3231873,
+  "lon": -72.9860801,
+  "tags": {
+    "addr:city": "Puerto Varas",
+    "addr:country": "CL",
+    "addr:district": "Puerto Varas",
+    "addr:housenumber": "485",
+    "addr:state": "Región de Los Lagos",
+    "addr:street": "Andrés Bello",
+    "amenity": "bus_station",
+    "name:en": "Pullman Bus",
+    "opening_hours": "Tu-Sa 08:00-15:00, 16:45-23:00",
+    "website": "http://www.pullmanbus.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4832723726,
+  "lat": -38.0549937,
+  "lon": -72.3769898,
+  "tags": {
+    "name": "Ercilla",
+    "operator": "FESUR",
+    "railway": "station",
+    "railway:ref": "ER",
+    "wikidata": "Q91390977",
+    "wikipedia": "es:Estación Ercilla"
+  }
+},
+{
+  "type": "node",
+  "id": 4888220235,
+  "lat": -38.9329615,
+  "lon": -72.0283924,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Estación de Buses"
+  }
+},
+{
+  "type": "node",
+  "id": 4900194722,
+  "lat": -38.6699444,
+  "lon": -72.2229969,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal de Vilcún",
+    "name:es": "Terminal de Vilcún"
+  }
+},
+{
+  "type": "node",
+  "id": 5008423672,
+  "lat": -45.5716151,
+  "lon": -72.0707882,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Suray",
+    "name:en": "Suray",
+    "name:es": "Suray",
+    "opening_hours": "Mo-Sa 07:00-21:50"
+  }
+},
+{
+  "type": "node",
+  "id": 5164281321,
+  "lat": -38.7332192,
+  "lon": -72.5866287,
+  "tags": {
+    "addr:city": "Temuco",
+    "addr:country": "CL",
+    "addr:district": "Temuco",
+    "addr:housenumber": "997",
+    "addr:state": "Región de La Araucanía",
+    "addr:street": "Avenida Balmaceda",
+    "amenity": "bus_station",
+    "name": "Buses igi llaima",
+    "name:es": "Buses igi llaima"
+  }
+},
+{
+  "type": "node",
+  "id": 5164281322,
+  "lat": -38.7331940,
+  "lon": -72.5867783,
+  "tags": {
+    "addr:city": "Temuco",
+    "addr:country": "CL",
+    "addr:district": "Temuco",
+    "addr:housenumber": "995",
+    "addr:state": "Región de La Araucanía",
+    "addr:street": "Avenida Balmaceda",
+    "amenity": "bus_station",
+    "name": "Nar bus",
+    "name:es": "Nar bus"
+  }
+},
+{
+  "type": "node",
+  "id": 5167959621,
+  "lat": -47.2513830,
+  "lon": -72.5733043,
+  "tags": {
+    "addr:city": "Cochrane",
+    "addr:street": "Alfredo Stange",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5182204122,
+  "lat": -40.9737133,
+  "lon": -72.8834507,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Puerto Octay",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5186665831,
+  "lat": -37.3628456,
+  "lon": -72.6746657,
+  "tags": {
+    "name": "Diuquín",
+    "railway": "station",
+    "railway:ref": "DU",
+    "wikidata": "Q5841933"
+  }
+},
+{
+  "type": "node",
+  "id": 5310546622,
+  "lat": -38.0152408,
+  "lon": -73.2280609,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 5332090221,
+  "lat": -41.6169023,
+  "lon": -73.5933056,
+  "tags": {
+    "addr:city": "Maullín",
+    "addr:street": "Costanera",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Maullin",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5343477021,
+  "lat": -42.6259309,
+  "lon": -74.1082389,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Buses Ojeda",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5355452225,
+  "lat": -36.9494134,
+  "lon": -72.9317719,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Palomares",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5356901615,
+  "lat": -41.3945915,
+  "lon": -73.4640450,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de buses de los muermos",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5406316121,
+  "lat": -48.4688890,
+  "lon": -72.5579773,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Transporte El Pillo"
+  }
+},
+{
+  "type": "node",
+  "id": 5469972621,
+  "lat": -47.7957513,
+  "lon": -73.5311523,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Buses Cordillera",
+    "name:fr": "Bus Cordillera",
+    "public_transport": "station",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5489813021,
+  "lat": -43.9745777,
+  "lon": -72.4056487,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Buses Becker",
+    "name:en": "Buses Becker",
+    "name:fr": "Bus Becker"
+  }
+},
+{
+  "type": "node",
+  "id": 5553643221,
+  "lat": -39.2831252,
+  "lon": -72.2306874,
+  "tags": {
+    "addr:city": "Villarrica",
+    "addr:country": "CL",
+    "addr:district": "Villarrica",
+    "addr:housenumber": "745",
+    "addr:state": "Región de La Araucanía",
+    "addr:street": "Anfión Muñoz",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Rodoviario Villarrica",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5583753385,
+  "lat": -36.7838587,
+  "lon": -73.0855970,
+  "tags": {
+    "alt_name": "UTF Santa María",
+    "name": "Universidad Técnica Federico Santa María",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "utf",
+    "short_name": "U.T.F.S.M.",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5620044032,
+  "lat": -41.3222600,
+  "lon": -72.9846723,
+  "tags": {
+    "addr:city": "Puerto Varas",
+    "addr:country": "CL",
+    "addr:district": "Puerto Varas",
+    "addr:housenumber": "361",
+    "addr:state": "Región de Los Lagos",
+    "addr:street": "Ramón Ricardo Rosas",
+    "amenity": "bus_station",
+    "name": "Buses Fierro",
+    "website": "https://www.busesfierro.cl/"
+  }
+},
+{
+  "type": "node",
+  "id": 5648520529,
+  "lat": -36.8217989,
+  "lon": -73.0511223,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "description": "Pasajes a Santa Juana",
+    "name": "Conquistador",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5648522790,
+  "lat": -36.8218602,
+  "lon": -73.0510712,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "description": "Florida Quillón",
+    "name": "Buses Delsal",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5893687561,
+  "lat": -38.2477787,
+  "lon": -72.6672742,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal rural",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5964260082,
+  "lat": -39.1028970,
+  "lon": -72.6729030,
+  "tags": {
+    "name": "Gorbea",
+    "network": "Tren Araucanía",
+    "operator": "EFE Sur",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "GA",
+    "train": "yes",
+    "wikidata": "Q5883528",
+    "wikipedia": "es:Estación Gorbea"
+  }
+},
+{
+  "type": "node",
+  "id": 5966229600,
+  "lat": -36.8288511,
+  "lon": -73.1476142,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Nueva Llacolén",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5966785634,
+  "lat": -36.8242664,
+  "lon": -73.1301597,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal San Remo",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6073536425,
+  "lat": -50.9651780,
+  "lon": -72.8632834,
+  "tags": {
+    "addr:city": "Torres del Paine",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Estación de Buses Las Torres",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6167103573,
+  "lat": -42.9174377,
+  "lon": -72.7123975,
+  "tags": {
+    "amenity": "bus_station",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "internet_access:ssid": "Chile_gob",
+    "name": "Buses Cárdenas",
+    "operator": "Queilen bus;Cardenas, Kemelbus",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6175069248,
+  "lat": -40.1302241,
+  "lon": -72.3910488,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Jet Sur",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6267108634,
+  "lat": -47.2565366,
+  "lon": -72.5734174,
+  "tags": {
+    "addr:housenumber": "349",
+    "addr:street": "Río Baker",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "mobile": "998748022",
+    "name": "Buses Acuario 13",
+    "phone": "672522143",
+    "public_transport": "station",
+    "shop": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6281887085,
+  "lat": -46.6237206,
+  "lon": -72.6736756,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terraustral - Coyhaique",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6329456006,
+  "lat": -36.9882322,
+  "lon": -73.1631562,
+  "tags": {
+    "addr:city": "Coronel",
+    "name": "Huinca",
+    "network": "Biotren",
+    "operator": "Fesur",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "hui",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6456697285,
+  "lat": -40.5790302,
+  "lon": -73.1560199,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal de bus"
+  }
+},
+{
+  "type": "node",
+  "id": 6568303394,
+  "lat": -41.6158776,
+  "lon": -73.5944616,
+  "tags": {
+    "addr:city": "Maullín",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Rampa Maullín",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6617276985,
+  "lat": -41.7440127,
+  "lon": -73.7055783,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Buses Maullín y ETM"
+  }
+},
+{
+  "type": "node",
+  "id": 6691352811,
+  "lat": -39.8641448,
+  "lon": -73.3925435,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Línea 20",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6718688807,
+  "lat": -37.0246243,
+  "lon": -73.1505317,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Estación Intermodal Coronel",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6856421885,
+  "lat": -37.6084639,
+  "lon": -73.6533491,
+  "tags": {
+    "addr:street": "Carrera",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Hanga Roa",
+    "operator": "Nahuelbus",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 7271886385,
+  "lat": -37.6075252,
+  "lon": -73.6566320,
+  "tags": {
+    "addr:street": "Mackay",
+    "amenity": "bus_station",
+    "name": "Buses bio-bio"
+  }
+},
+{
+  "type": "node",
+  "id": 7271886585,
+  "lat": -37.6075002,
+  "lon": -73.6561139,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Buses igi-llaima"
+  }
+},
+{
+  "type": "node",
+  "id": 7522143426,
+  "lat": -38.4106063,
+  "lon": -72.7796762,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Turbus",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 7522143428,
+  "lat": -38.4106357,
+  "lon": -72.7796815,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Huinca Bus",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 7522143429,
+  "lat": -38.4106336,
+  "lon": -72.7796091,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Pullmann JC",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 7902962212,
+  "lat": -45.5823071,
+  "lon": -72.0780303,
+  "tags": {
+    "addr:city": "Coyhaique",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Coyhaique",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 7926478726,
+  "lat": -37.9531933,
+  "lon": -72.4444430,
+  "tags": {
+    "name": "Collipulli",
+    "operator": "FEPASA",
+    "railway": "station",
+    "railway:ref": "IP",
+    "train": "yes",
+    "wikidata": "Q91388533",
+    "wikipedia": "es:Estación Collipulli"
+  }
+},
+{
+  "type": "node",
+  "id": 8179774653,
+  "lat": -37.4677051,
+  "lon": -72.3474179,
+  "tags": {
+    "addr:housenumber": "540",
+    "addr:street": "José Manso de Velasco",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Santa Rita",
+    "phone": "+56 43 236 3220",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 8420933149,
+  "lat": -37.2814165,
+  "lon": -72.7104350,
+  "tags": {
+    "addr:city": "Laja",
+    "addr:street": "Félix Eicher",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "terminal de buses laja",
+    "operator": "buses laja",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 8713368984,
+  "lat": -41.1253858,
+  "lon": -73.0609830,
+  "tags": {
+    "name": "Frutillar",
+    "operator": "EFE Sur",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "FT",
+    "train": "yes",
+    "wikipedia": "es:Estación Frutillar"
+  }
+},
+{
+  "type": "node",
+  "id": 8715496993,
+  "lat": -41.3130512,
+  "lon": -72.9838875,
+  "tags": {
+    "addr:city": "Puerto Varas",
+    "addr:housenumber": "348",
+    "addr:street": "Klenner",
+    "check_date": "2024-12-20",
+    "name": "Puerto Varas",
+    "network": "Tren Llanquihue-Puerto Montt",
+    "operator": "EFE Sur",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "EV",
+    "railway:station_category": "3",
+    "start_date": "1913",
+    "train": "yes",
+    "website": "https://www.efe.cl/proyectos/puerto-montt-llanquihue/",
+    "wheelchair": "yes",
+    "wikidata": "Q6092206",
+    "wikimedia_commons": "File:Frente del edificio de la estación ferroviaria Puerto Varas.jpg",
+    "wikipedia": "es:Estación Puerto Varas"
+  }
+},
+{
+  "type": "node",
+  "id": 8755169895,
+  "lat": -51.6812589,
+  "lon": -72.0880734,
+  "tags": {
+    "name": "Gobernador Mayer",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 8755169896,
+  "lat": -51.5362029,
+  "lon": -72.2773540,
+  "tags": {
+    "name": "Río Turbio",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 8788040383,
+  "lat": -41.3993265,
+  "lon": -72.9196762,
+  "tags": {
+    "addr:city": "Puerto Montt",
+    "addr:street": "Avenida Los Alerces",
+    "check_date": "2024-12-20",
+    "name": "Alerce",
+    "network": "Tren Llanquihue-Puerto Montt",
+    "operator": "EFE Sur",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "AL",
+    "website": "https://www.efe.cl/proyectos/puerto-montt-llanquihue/",
+    "wikidata": "Q5665853",
+    "wikipedia": "es:Estación Alerce"
+  }
+},
+{
+  "type": "node",
+  "id": 8819298793,
+  "lat": -41.0076171,
+  "lon": -73.1266926,
+  "tags": {
+    "name": "Casma",
+    "railway": "station",
+    "railway:ref": "YC",
+    "train": "yes",
+    "wikipedia": "es:Estación Casma"
+  }
+},
+{
+  "type": "node",
+  "id": 8843878871,
+  "lat": -40.9119660,
+  "lon": -73.1629989,
+  "tags": {
+    "addr:city": "Purranque",
+    "addr:street": "Eleuterio Ramírez",
+    "name": "Purranque",
+    "network": "Línea Troncal Sur",
+    "operator": "EFE Sur",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "NU",
+    "train": "yes",
+    "wikidata": "Q5404777",
+    "wikipedia": "es:Estación Purranque"
+  }
+},
+{
+  "type": "node",
+  "id": 8902910228,
+  "lat": -40.5749416,
+  "lon": -73.1410582,
+  "tags": {
+    "disused:railway": "station",
+    "name": "Osorno",
+    "railway": "station",
+    "railway:ref": "OS",
+    "railway:station_category": "2",
+    "wikidata": "Q6054117",
+    "wikipedia": "es:Antigua estación de Osorno"
+  }
+},
+{
+  "type": "node",
+  "id": 8952643802,
+  "lat": -40.4395821,
+  "lon": -73.1245628,
+  "tags": {
+    "name": "Caracol",
+    "railway": "station",
+    "railway:ref": "OL",
+    "train": "yes",
+    "wikipedia": "es:Estación Caracol"
+  }
+},
+{
+  "type": "node",
+  "id": 9183376415,
+  "lat": -41.5290998,
+  "lon": -73.0589372,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Paradero Avenida Isla Mailen",
+    "network": "T4 Chinquihue",
+    "operator": "Transportes Chinquihie Ltda.",
+    "public_transport": "station",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9411382131,
+  "lat": -45.5711383,
+  "lon": -72.0713532,
+  "tags": {
+    "addr:city": "Coyhaique",
+    "addr:housenumber": "283",
+    "addr:street": "Dussen",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Buses Ali",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 9506647018,
+  "lat": -45.5821904,
+  "lon": -72.0779862,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Buses Ali",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 9506647019,
+  "lat": -45.5820553,
+  "lon": -72.0779411,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Buses Suray",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 10125941935,
+  "lat": -51.6004625,
+  "lon": -72.2241727,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "internet_access": "no",
+    "name": "Terminal 28 de Noviembre",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 10956639396,
+  "lat": -38.7369258,
+  "lon": -72.5791543,
+  "tags": {
+    "addr:city": "Temuco",
+    "addr:housenumber": "29",
+    "addr:street": "Avenida Barros Arana",
+    "name": "Temuco",
+    "network": "Tren Victoria-Temuco",
+    "operator": "EFE",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "TM",
+    "railway:station_category": "1",
+    "train": "yes",
+    "wikidata": "Q5845083",
+    "wikipedia": "es:Estación Temuco"
+  }
+},
+{
+  "type": "node",
+  "id": 10956639399,
+  "lat": -38.5251058,
+  "lon": -72.4321623,
+  "tags": {
+    "addr:city": "Lautaro",
+    "addr:street": "Bernardo O'Higgins",
+    "check_date": "2025-11-17",
+    "name": "Lautaro",
+    "network": "Tren Victoria-Temuco",
+    "operator": "EFE Sur",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "UO",
+    "railway:station_category": "3",
+    "website": "https://www.efe.cl/nuestros-servicios/tren-araucania/estaciones/lautaro/",
+    "wikidata": "Q5843318",
+    "wikipedia": "es:Estación Lautaro"
+  }
+},
+{
+  "type": "node",
+  "id": 10956639403,
+  "lat": -38.2372300,
+  "lon": -72.3329397,
+  "tags": {
+    "name": "Victoria",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "VI",
+    "railway:station_category": "2",
+    "wikidata": "Q5845359",
+    "wikipedia": "es:Estación Victoria (Chile)"
+  }
+},
+{
+  "type": "node",
+  "id": 10960876274,
+  "lat": -38.8683626,
+  "lon": -72.6161588,
+  "tags": {
+    "name": "Quepe",
+    "network": "Metrotren Araucanía",
+    "operator": "EFE",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "QE",
+    "train": "yes",
+    "wikidata": "Q6094452",
+    "wikipedia": "es:Estación Quepe"
+  }
+},
+{
+  "type": "node",
+  "id": 11242843852,
+  "lat": -48.4656629,
+  "lon": -72.5609380,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11395342869,
+  "lat": -50.9797246,
+  "lon": -72.8004615,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Estación de Buses Torres del Paine",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 11504947315,
+  "lat": -41.2580048,
+  "lon": -73.0059518,
+  "tags": {
+    "addr:city": "Llanquihue",
+    "addr:housenumber": "502",
+    "addr:street": "Valdivieso",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Cruz del Sur",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 11505941309,
+  "lat": -39.8633450,
+  "lon": -72.8176084,
+  "tags": {
+    "name": "Los Lagos",
+    "railway": "station",
+    "railway:ref": "LF"
+  }
+},
+{
+  "type": "node",
+  "id": 11506003307,
+  "lat": -40.2986306,
+  "lon": -73.0726552,
+  "tags": {
+    "addr:city": "La Unión",
+    "addr:street": "Manuel Ossa",
+    "name": "La Unión",
+    "network": "Longitudinal Sur",
+    "operator": "FESUR",
+    "railway": "station",
+    "railway:ref": "LU",
+    "railway:station_category": "2",
+    "train": "yes",
+    "wikidata": "Q5965412",
+    "wikipedia": "es:Estación La Unión (Chile)"
+  }
+},
+{
+  "type": "node",
+  "id": 11506086538,
+  "lat": -39.3698424,
+  "lon": -72.6368248,
+  "tags": {
+    "name": "Loncoche",
+    "railway": "station",
+    "railway:ref": "LE",
+    "railway:station_category": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 11506118926,
+  "lat": -37.5574754,
+  "lon": -72.5960773,
+  "tags": {
+    "name": "Coigüe",
+    "railway": "station",
+    "railway:ref": "CU",
+    "railway:station_category": "3",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11508239379,
+  "lat": -36.6728355,
+  "lon": -72.2791903,
+  "tags": {
+    "name": "Rucapequén",
+    "railway": "station",
+    "railway:ref": "RQ",
+    "railway:station_category": "3",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12049640405,
+  "lat": -38.4202164,
+  "lon": -72.3750893,
+  "tags": {
+    "name": "Perquenco",
+    "network": "Victoria Temuco",
+    "operator": "Fesur",
+    "platforms": "1",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "QO",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12049657226,
+  "lat": -38.6758083,
+  "lon": -72.5044291,
+  "tags": {
+    "name": "Cajón",
+    "railway": "station",
+    "railway:ref": "CJ"
+  }
+},
+{
+  "type": "node",
+  "id": 12049657228,
+  "lat": -38.9840404,
+  "lon": -72.6419588,
+  "tags": {
+    "addr:city": "Pitrufquén",
+    "addr:street": "O'Higgins",
+    "name": "Pitrufquén",
+    "network": "Metrotren Araucanía",
+    "operator": "EFE",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "FQ",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12049728558,
+  "lat": -36.7143377,
+  "lon": -72.9781260,
+  "tags": {
+    "name": "Lirquén",
+    "railway": "station",
+    "railway:ref": "LQ",
+    "railway:station_category": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 12295228542,
+  "lat": -36.7428347,
+  "lon": -72.4700565,
+  "tags": {
+    "addr:city": "Quillón",
+    "addr:street": "Bernardo O'Higgins",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses de Quillón",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 12737564601,
+  "lat": -46.1216325,
+  "lon": -72.1582096,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Estaciones de buses",
+    "name:en": "Bus station",
+    "name:fr": "Gare routière"
+  }
+},
+{
+  "type": "node",
+  "id": 12801520306,
+  "lat": -39.7773097,
+  "lon": -72.9484909,
+  "tags": {
+    "name": "Mulpún",
+    "railway": "station",
+    "railway:ref": "MY"
+  }
+},
+{
+  "type": "node",
+  "id": 12801520308,
+  "lat": -40.2494091,
+  "lon": -73.0162527,
+  "tags": {
+    "name": "Rapaco",
+    "railway": "station",
+    "railway:ref": "RW"
+  }
+},
+{
+  "type": "node",
+  "id": 12801571333,
+  "lat": -39.8057125,
+  "lon": -73.0578346,
+  "tags": {
+    "name": "Pishuinco",
+    "railway": "station",
+    "railway:ref": "PV"
+  }
+},
+{
+  "type": "node",
+  "id": 12801571334,
+  "lat": -39.7916589,
+  "lon": -73.1197819,
+  "tags": {
+    "name": "Huellelhue",
+    "railway": "station",
+    "railway:ref": "HL"
+  }
+},
+{
+  "type": "way",
+  "id": 51805403,
+  "nodes": [
+    660938024,
+    1583993944,
+    660938025,
+    10793712905,
+    10793712906,
+    660938038,
+    2444747180,
+    10793713123,
+    660938039,
+    2444747176,
+    660938024
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses de Osorno",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 93588059,
+  "nodes": [
+    1085614832,
+    1085614232,
+    1085615027,
+    1085614404,
+    1085614217,
+    1085615079,
+    1085613835,
+    1085613811,
+    1085614832
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Rodoviario Angol",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 103403001,
+  "nodes": [
+    1194025189,
+    12463271505,
+    1194025157,
+    8697501357,
+    1194025295,
+    8697501355,
+    1194025196,
+    1314278189,
+    2425689788,
+    1382523453,
+    2425689801,
+    1194025163,
+    1194025334,
+    4064502564,
+    4064502557,
+    1194025141,
+    1194025189
+  ],
+  "tags": {
+    "addr:city": "Valdivia",
+    "addr:country": "CL",
+    "addr:district": "Valdivia",
+    "addr:housenumber": "360",
+    "addr:state": "Región de Los Ríos",
+    "addr:street": "Anfión Muñoz",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "internet_access": "yes",
+    "name": "Terrapuerto Valdivia",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 106191211,
+  "nodes": [
+    1222421593,
+    1832459670,
+    1222421373,
+    1222421723,
+    1222421593
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Estación Buses Coronel-Lota"
+  }
+},
+{
+  "type": "way",
+  "id": 108548496,
+  "nodes": [
+    6554169988,
+    8286785981,
+    1245174326,
+    1245174042,
+    6554145083,
+    8286785994,
+    8286785920,
+    8286785977,
+    8286785988,
+    8286785987,
+    6554145048,
+    8286785995,
+    6554169988
+  ],
+  "tags": {
+    "addr:city": "Nacimiento",
+    "addr:country": "CL",
+    "addr:housenumber": "1115",
+    "addr:postcode": "4550000",
+    "addr:street": "Avenida Julio Hemmelmann",
+    "alt_name": "Terminal Rodoviario Nacimiento",
+    "amenity": "bus_station",
+    "area": "yes",
+    "bus": "yes",
+    "contact:facebook": "https://www.facebook.com/Terminal-de-Buses-Los-Notros-Nacimiento-693559674173297/",
+    "contact:phone": "+56 43 251 2229",
+    "name": "Terminal de Buses Los Notros",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 114474600,
+  "nodes": [
+    1296778064,
+    1296778069,
+    1331314737,
+    1331314718,
+    2279926789,
+    1296778088,
+    1296778071,
+    1296778064
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Camilo Henríquez",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 116413519,
+  "nodes": [
+    1312415945,
+    1312415874,
+    1312415917,
+    1312415855,
+    1312415945
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Rodoviario San Francisco"
+  }
+},
+{
+  "type": "way",
+  "id": 135163003,
+  "nodes": [
+    1484631143,
+    1484631142,
+    1484631095,
+    1484631018,
+    4597247544,
+    4597247543,
+    8450183982,
+    1484631143
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de buses Vía Láctea",
+    "network": "TPMC",
+    "operator": "Vía Láctea",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 135163004,
+  "nodes": [
+    1484631102,
+    1484631070,
+    1484617936,
+    1484631054,
+    1484631102
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal de buses Chiguayante Sur",
+    "network": "TPMC",
+    "operator": "Chiguayante Sur"
+  }
+},
+{
+  "type": "way",
+  "id": 135163019,
+  "nodes": [
+    1484631079,
+    4595534560,
+    4595534558,
+    4595534559,
+    12123361514,
+    12123361512,
+    1484631094,
+    12123361510,
+    12123361511,
+    1484631088,
+    1484631040,
+    1484631097,
+    1484631017,
+    1484631079
+  ],
+  "tags": {
+    "addr:city": "Chiguayante",
+    "addr:street": "12 de Octubre",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "network": "TPMC",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 135488014,
+  "nodes": [
+    7103210266,
+    7103210267,
+    7103210268,
+    7103210269,
+    7103210270,
+    7103210271,
+    7103210266
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "layer": "1",
+    "name": "Estación Intermodal Concepción",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 138641779,
+  "nodes": [
+    1520245843,
+    1520245996,
+    1520246056,
+    1783205074,
+    1520245959,
+    1783204997,
+    1520245857,
+    1520245795,
+    11670719929,
+    11670719930,
+    1520245843
+  ],
+  "tags": {
+    "addr:housenumber": "2113",
+    "addr:street": "Avenida Sor Vicenta",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Tur Bus",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 138641798,
+  "nodes": [
+    1520245989,
+    1520245868,
+    11695070414,
+    11695070393,
+    1520246044,
+    1520245932,
+    3260091143,
+    1520245989
+  ],
+  "tags": {
+    "addr:housenumber": "2051",
+    "addr:street": "Avenida Sor Vicenta",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Rodoviario Los Ángeles",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 154191142,
+  "nodes": [
+    1667606846,
+    1667606850,
+    1667606812,
+    1667606811,
+    6600887092,
+    1667606856,
+    1667606846
+  ],
+  "tags": {
+    "addr:housename": "Terminal Municipal",
+    "addr:housenumber": "1200",
+    "addr:street": "Aníbal Pinto",
+    "amenity": "bus_station",
+    "name": "Terminal de Buses Interurbanos",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 177069792,
+  "nodes": [
+    1875410978,
+    1875410953,
+    1875410989,
+    1875410970,
+    1875410986,
+    1875410982,
+    1875410980,
+    1875410964,
+    1875410966,
+    1875410974,
+    1875410968,
+    1875410960,
+    1875410994,
+    1875410988,
+    1875410978
+  ],
+  "tags": {
+    "addr:housenumber": "850",
+    "addr:street": "Los Carrera",
+    "alt_name": "Terminal Interurbano",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Buses Cruz del Sur",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 180639838,
+  "nodes": [
+    8914206047,
+    3000519964,
+    3000518311,
+    8914206048,
+    1910854036,
+    1910854056,
+    8914206047
+  ],
+  "tags": {
+    "addr:city": "Puerto Varas",
+    "addr:country": "CL",
+    "addr:district": "Puerto Varas",
+    "addr:housenumber": "1093",
+    "addr:state": "Región de Los Lagos",
+    "addr:street": "Del Salvador",
+    "amenity": "bus_station",
+    "name": "Terminal TurBus",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 194211121,
+  "nodes": [
+    2047250502,
+    2047250500,
+    2047250508,
+    2047250510,
+    2047250512,
+    2047250502
+  ],
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "way",
+  "id": 194649708,
+  "nodes": [
+    2051520940,
+    2051520939,
+    2051520949,
+    2051520950,
+    2051520947,
+    2051520946,
+    2051520940
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Expreso la fortuna",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 196575222,
+  "nodes": [
+    2068949317,
+    2068949303,
+    2068949299,
+    2068949301,
+    2068949297,
+    2068949309,
+    2068949311,
+    2068949317
+  ],
+  "tags": {
+    "addr:city": "Talcahuano",
+    "addr:street": "Avenida Blanco Encalada",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Félix Adán",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 208502983,
+  "nodes": [
+    9675990495,
+    9675990488,
+    9675990489,
+    9675990494,
+    9675990493,
+    2889473274,
+    2902989174,
+    2889473286,
+    2889473277,
+    2889473269,
+    2187931283,
+    2187931280,
+    2187931279,
+    10297747055,
+    10297252591,
+    2187931287,
+    10297747064,
+    11606205119,
+    11606205121,
+    10297747063,
+    10297747062,
+    2902989172,
+    10297747058,
+    9675990495
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "service",
+    "building:levels": "3",
+    "bus": "yes",
+    "internet_access": "no",
+    "layer": "1",
+    "name": "Terminal de Buses Puerto Montt",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 220495893,
+  "nodes": [
+    2296081653,
+    2296081654,
+    2296081655,
+    2296081656,
+    2296081657,
+    2296081658,
+    2296081659,
+    6258991038,
+    7202141343,
+    2296081660,
+    2296081653
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de buses Las Bahías",
+    "network": "TPMC",
+    "operator": "Las Bahías",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 228032498,
+  "nodes": [
+    2366793186,
+    5771169525,
+    2366793188,
+    5771169527,
+    5771169524,
+    2366793187,
+    5771169522,
+    2366793185,
+    2366793186
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal De Buses De Yungay"
+  }
+},
+{
+  "type": "way",
+  "id": 230628478,
+  "nodes": [
+    2391166446,
+    2391166448,
+    2391166447,
+    2391166445,
+    2391166446
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Paradero De Buses"
+  }
+},
+{
+  "type": "way",
+  "id": 234307353,
+  "nodes": [
+    2425689793,
+    5302676346,
+    12463271508,
+    12463271511,
+    5264275884,
+    2425689785,
+    2425689779,
+    2425689795,
+    2425689789,
+    2425689800,
+    2425689794,
+    2425689776,
+    2425689780,
+    12463271524,
+    5302676347,
+    2425689793
+  ],
+  "tags": {
+    "addr:city": "Valdivia",
+    "addr:street": "Carlos Anwandter",
+    "amenity": "bus_station",
+    "building": "public",
+    "bus": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Terrapuerto Valdivia",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 253665135,
+  "nodes": [
+    2595638422,
+    2595638425,
+    2595638429,
+    2595638432,
+    2595638422
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal de buses Vía del Sol",
+    "network": "TPMC",
+    "operator": "Vía del Sol"
+  }
+},
+{
+  "type": "way",
+  "id": 264233053,
+  "nodes": [
+    2699045230,
+    2699045236,
+    2699045242,
+    2699043008,
+    9365649743,
+    2699045252,
+    9365650214,
+    2699043020,
+    9365650213,
+    1604285911,
+    2699045230
+  ],
+  "tags": {
+    "addr:housenumber": "500",
+    "addr:street": "Avenida Salvador Allende",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Cruz del Sur",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 273042774,
+  "nodes": [
+    2779351982,
+    1682074676,
+    5369249719,
+    2779351983,
+    2779351984,
+    2779351985,
+    2779351986,
+    2779351987,
+    2779351988,
+    2779351989,
+    2779351990,
+    2779351991,
+    2779351992,
+    2779351994,
+    2779351982
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Terminal Municipal de Buses",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 281221803,
+  "nodes": [
+    2851761731,
+    3996428471,
+    3996428469,
+    2851993307,
+    2852190767,
+    2852190768,
+    2851993308,
+    2851993309,
+    2851761730,
+    2851761731
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Pedro de Valdivia",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 281228625,
+  "nodes": [
+    2852066003,
+    2852066004,
+    2852066005,
+    2852066006,
+    2852066003
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 285000905,
+  "nodes": [
+    2886983073,
+    2886983074,
+    2886983075,
+    2886983076,
+    2886983077,
+    2886983078,
+    2886983079,
+    2886983073
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Tur Bus",
+    "shelter": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 285756886,
+  "nodes": [
+    2893983462,
+    2893983454,
+    2893983465,
+    2893983453,
+    2893983462
+  ],
+  "tags": {
+    "addr:city": "Paillaco",
+    "addr:country": "CL",
+    "addr:district": "Paillaco",
+    "addr:housenumber": "220",
+    "addr:state": "Región de Los Ríos",
+    "addr:street": "Camilo Henríquez",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Terminal de Buses Paillaco",
+    "operator": "SOCOEPA",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 316151421,
+  "nodes": [
+    3222615409,
+    3222615410,
+    3222615411,
+    3222615412,
+    3222615413,
+    3222615414,
+    3222615415,
+    3222615416,
+    3222615409
+  ],
+  "tags": {
+    "addr:housenumber": "660",
+    "addr:street": "Arturo Prat",
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Terminal de Buses \"Santa Catalina\"",
+    "operator": "Municipalidad de Cabrero",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 327955991,
+  "nodes": [
+    3347742302,
+    9226931534,
+    9226931535,
+    9226931536,
+    9226931537,
+    7024421002,
+    7024421005,
+    7024421006,
+    7024421009,
+    9226931532,
+    9226931533,
+    3347742303,
+    3347742304,
+    9226931531,
+    7024421013,
+    7024421010,
+    9226931530,
+    3347742301,
+    3347742302
+  ],
+  "tags": {
+    "addr:city": "El Calafate",
+    "addr:postcode": "9405",
+    "addr:street": "510",
+    "amenity": "bus_station",
+    "building": "transportation",
+    "building:levels": "1",
+    "bus": "yes",
+    "description": "La Nueva Terminal ocupa la vieja Aeroestación, cuando el aeropuerto estaba instalado en el sector Este del ejido urbano. Se realizó un trabajo de reformas edilicias para darle la nueva función que ahora tendrá.",
+    "internet_access": "wlan",
+    "name": "Terminal de ómnibus de El Calafate",
+    "operator": "Municipalidad de El Calafate",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 356869774,
+  "nodes": [
+    3622705057,
+    3622705058,
+    3622705063,
+    3622705059,
+    3622705060,
+    3622705057
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 356869775,
+  "nodes": [
+    3622705058,
+    3622705061,
+    3622705062,
+    3622705063,
+    3622705058
+  ],
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "way",
+  "id": 358397156,
+  "nodes": [
+    3633208996,
+    3633208997,
+    3633208998,
+    3633208999,
+    3633208996
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Paradero THAEBUS"
+  }
+},
+{
+  "type": "way",
+  "id": 368703566,
+  "nodes": [
+    3726459383,
+    3285794678,
+    3285794677,
+    2705984726,
+    3725506345,
+    9511151754,
+    12598288115,
+    3725506348,
+    9511151767,
+    3725506350,
+    12598288116,
+    3726459383
+  ],
+  "tags": {
+    "addr:city": "Castro",
+    "addr:housenumber": "486",
+    "addr:street": "San Martín",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Cruz del Sur",
+    "opening_hours": "24/7",
+    "operator": "Buses Cruz del Sur",
+    "public_transport": "station",
+    "wheelchair": "limited",
+    "wikidata": "Q25416167",
+    "wikipedia": "es:Buses Cruz del Sur"
+  }
+},
+{
+  "type": "way",
+  "id": 368799834,
+  "nodes": [
+    2779351987,
+    3726447228,
+    3726447229,
+    3726447230,
+    3726447231,
+    3726447232,
+    3288711857,
+    1554374789,
+    2779351989,
+    2779351988,
+    2779351987
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 372541867,
+  "nodes": [
+    3761063401,
+    6525652296,
+    3761063402,
+    3761063418,
+    3761063421,
+    3761063415,
+    3761063413,
+    3761063403,
+    3761063404,
+    3761063405,
+    6525652295,
+    6525652314,
+    3761063401
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Terminal de buses Jota Ewert"
+  }
+},
+{
+  "type": "way",
+  "id": 374382350,
+  "nodes": [
+    3777655735,
+    3777655686,
+    3777655685,
+    3777655736,
+    3777655742,
+    3777655743,
+    3777655735
+  ],
+  "tags": {
+    "addr:city": "Chillán",
+    "addr:street": "Avenida Francisco Ramírez",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses La Palmera",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 393521135,
+  "nodes": [
+    3967246307,
+    3967246308,
+    3967246309,
+    3967246310,
+    3967246307
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 394380457,
+  "nodes": [
+    3973958660,
+    3973958677,
+    3973954556,
+    3973954552,
+    8432292514,
+    8432292497,
+    3973958659,
+    3973958660
+  ],
+  "tags": {
+    "addr:city": "Temuco",
+    "addr:country": "CL",
+    "addr:district": "Temuco",
+    "addr:housenumber": "02051",
+    "addr:state": "Región de La Araucanía",
+    "addr:street": "Avenida Rudecindo Ortega",
+    "amenity": "bus_station",
+    "name": "Pullman Bus"
+  }
+},
+{
+  "type": "way",
+  "id": 394754003,
+  "nodes": [
+    3977265187,
+    3977265188,
+    3977265189,
+    3977265190,
+    3977265187
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de buses de Traiguén",
+    "operator": "Igi - Llaima, Tur - Bus",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 395712156,
+  "nodes": [
+    6552081461,
+    6552081462,
+    6552081460,
+    6552081459,
+    6552081458,
+    6552081457,
+    6552081461
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Terminal de Buses",
+    "operator": "Ilustre Municipalidad de Galvarino",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 404397253,
+  "nodes": [
+    4066768575,
+    4066768570,
+    10970058434,
+    4066768571,
+    8399432564,
+    10970058441,
+    8399432563,
+    8399432562,
+    4066768575
+  ],
+  "tags": {
+    "addr:city": "Pitrufquén",
+    "addr:country": "CL",
+    "addr:district": "Pitrufquén",
+    "addr:housenumber": "263",
+    "addr:state": "Región de la Araucanía",
+    "addr:street": "Eleuterio Ramírez",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "internet_access": "no",
+    "landuse": "commercial",
+    "name": "Terminal de Buses",
+    "public_transport": "station",
+    "source:addr": "www.sii.cl, Cartografía Digital SII Mapas"
+  }
+},
+{
+  "type": "way",
+  "id": 423901976,
+  "nodes": [
+    4232998044,
+    4234160003,
+    4232986734,
+    4232986767,
+    4232986776,
+    4232986752,
+    4232998034,
+    4232987097,
+    4232998047,
+    4232986754,
+    4232998055,
+    4232998036,
+    4232986721,
+    4232998077,
+    4232998044
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal de Buses Jota Ewert"
+  }
+},
+{
+  "type": "way",
+  "id": 425356582,
+  "nodes": [
+    1977202703,
+    1977202729,
+    1977202701,
+    1977202714,
+    1977202727,
+    1977230997,
+    1977230961,
+    1977230962,
+    1977202698,
+    1984702158,
+    1984702151,
+    1984712991,
+    1984712980,
+    1984712978,
+    1984712998,
+    1984712985,
+    1977202723,
+    1977202703
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "landuse": "commercial",
+    "name": "Terminal de líneas a Tomé"
+  }
+},
+{
+  "type": "way",
+  "id": 426693008,
+  "nodes": [
+    4259624156,
+    4259624162,
+    1055896523,
+    1055897355,
+    1055897686,
+    4259624152,
+    1055897164,
+    1055897509,
+    4259624144,
+    4259624143,
+    4259624146,
+    4259624145,
+    4147370465,
+    4147370463,
+    4147370466,
+    4147370477,
+    4147370458,
+    4147370462,
+    4147370467,
+    4147370470,
+    4259624156
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Buses Rurales"
+  }
+},
+{
+  "type": "way",
+  "id": 435073782,
+  "nodes": [
+    4330167977,
+    4330167978,
+    4330167979,
+    4330167980,
+    1382532349,
+    1382532347,
+    4330167983,
+    4330167984,
+    4330167977
+  ],
+  "tags": {
+    "addr:city": "Valdivia",
+    "addr:street": "Caupolicán",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Buses a la Costa (Niebla-Los Molinos- San Ignacio)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 458960007,
+  "nodes": [
+    5465550599,
+    4548809896,
+    4548809897,
+    4548809898,
+    5465550599
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Rodoviario Negrete"
+  }
+},
+{
+  "type": "way",
+  "id": 459594188,
+  "nodes": [
+    4554040781,
+    4554040782,
+    4554040783,
+    4554040784,
+    4554040781
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal"
+  }
+},
+{
+  "type": "way",
+  "id": 464460909,
+  "nodes": [
+    4595626386,
+    8450163247,
+    4595626385,
+    8450163248,
+    4595626384,
+    1484627631,
+    4595626386
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal de buses Las Galaxias",
+    "network": "TPMC",
+    "operator": "Las Galaxias"
+  }
+},
+{
+  "type": "way",
+  "id": 464460912,
+  "nodes": [
+    4595626591,
+    4595626590,
+    4595626589,
+    4595626388,
+    4595626591
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de buses Vía Futuro",
+    "network": "TPMC",
+    "operator": "Vía Futuro",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 464462253,
+  "nodes": [
+    4595638181,
+    4595638180,
+    4595638179,
+    4595638178,
+    4595638181
+  ],
+  "tags": {
+    "addr:city": "Chiguayante",
+    "addr:street": "Manuel Rodríguez",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de buses Vía Universo",
+    "network": "TPMC",
+    "operator": "Vía Universo",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 464462966,
+  "nodes": [
+    4595642587,
+    4595642586,
+    4595642585,
+    4595642584,
+    7333099480,
+    4595642583,
+    4595642587
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de buses Las Galaxias",
+    "network": "TPMC",
+    "operator": "Las Galaxias",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 464601931,
+  "nodes": [
+    4596966187,
+    4596966186,
+    4596966185,
+    4596966184,
+    4596966187
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de buses Expresos Chiguayante",
+    "network": "TPMC",
+    "operator": "Expresos Chiguayante",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 464609623,
+  "nodes": [
+    4597033433,
+    4597033432,
+    4597033431,
+    4597033430,
+    4597033429,
+    4597033428,
+    4597033427,
+    4597033426,
+    4597033425,
+    4597033424,
+    4597033423,
+    4597033433
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal de buses Pedro de Valdivia",
+    "network": "TPMC",
+    "operator": "Pedro de Valdivia"
+  }
+},
+{
+  "type": "way",
+  "id": 465063020,
+  "nodes": [
+    4600842260,
+    4600842259,
+    4600842258,
+    4600842257,
+    4600842256,
+    4600842255,
+    4600842254,
+    4600842253,
+    4600842252,
+    4600842251,
+    4600842250,
+    4600842249,
+    4600842248,
+    4600842247,
+    4600842260
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal de buses Puchacay",
+    "network": "TPMC",
+    "operator": "Buses Puchacay"
+  }
+},
+{
+  "type": "way",
+  "id": 465064981,
+  "nodes": [
+    4600860430,
+    4600860429,
+    4600860428,
+    4600860427,
+    4600860430
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal de buses Mi Expreso",
+    "network": "TPMC",
+    "operator": "Mi Expreso"
+  }
+},
+{
+  "type": "way",
+  "id": 478969695,
+  "nodes": [
+    4721403367,
+    4721403368,
+    4721403369,
+    4721403370,
+    4721403367
+  ],
+  "tags": {
+    "addr:city": "Los Lagos",
+    "addr:housenumber": "128",
+    "addr:street": "Quinchilca",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal TurBus",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 488037787,
+  "nodes": [
+    4804042659,
+    4804015387,
+    4804015391,
+    4804016455,
+    4804015392,
+    4804016465,
+    4804016434,
+    4804015393,
+    4804015420,
+    4804016504,
+    4804042659
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal de Buses Pedro Aguirre Cerda"
+  }
+},
+{
+  "type": "way",
+  "id": 488480256,
+  "nodes": [
+    4807718555,
+    4807718556,
+    4807718557,
+    9080920522,
+    4807718558,
+    9080920524,
+    4873082842,
+    4807718555
+  ],
+  "tags": {
+    "addr:city": "Villarrica",
+    "addr:country": "CL",
+    "addr:district": "Villarrica",
+    "addr:housenumber": "660",
+    "addr:state": "Región de La Araucanía",
+    "addr:street": "Francisco Bilbao",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Buses JAC",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 488480259,
+  "nodes": [
+    4807718559,
+    4807718560,
+    4807718561,
+    4807718564,
+    4807718567,
+    4807718562,
+    4807718563,
+    4807718559
+  ],
+  "tags": {
+    "addr:city": "Villarrica",
+    "addr:country": "CL",
+    "addr:district": "Villarrica",
+    "addr:housenumber": "657",
+    "addr:state": "Región de La Araucanía",
+    "addr:street": "Anfión Muñoz",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "TurBus",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 488480262,
+  "nodes": [
+    4807718564,
+    4807718565,
+    4873082687,
+    4807718566,
+    4807718567,
+    4807718564
+  ],
+  "tags": {
+    "addr:city": "Villarrica",
+    "addr:country": "CL",
+    "addr:district": "Villarrica",
+    "addr:housenumber": "598",
+    "addr:state": "Región de La Araucanía",
+    "addr:street": "Francisco Bilbao",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Pullman Bus",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 511185048,
+  "nodes": [
+    11136691073,
+    1030300254,
+    11136691072,
+    5312830131,
+    5312830134,
+    5000972551,
+    5312830136,
+    5000972552,
+    5312830137,
+    11141687275,
+    11141687283,
+    11136691073
+  ],
+  "tags": {
+    "addr:city": "Los Lagos",
+    "addr:housenumber": "216",
+    "addr:street": "Quinchilca",
+    "amenity": "bus_station",
+    "internet_access": "no",
+    "name": "Terminal de Buses Cruz del Sur",
+    "operator": "Cruz del Sur"
+  }
+},
+{
+  "type": "way",
+  "id": 512361157,
+  "nodes": [
+    5009878607,
+    5009878608,
+    5009878609,
+    5009878610,
+    5009878607
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Línea 20",
+    "operator": "Sociedad de Transportes Regional S.A y Sociedad de Transportes Austral Sur-Oeste S.A",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 562512527,
+  "nodes": [
+    5422721294,
+    5422721295,
+    5422721296,
+    5422721297,
+    5422721294
+  ],
+  "tags": {
+    "addr:city": "Cerro Castillo",
+    "addr:street": "Avenida Bernardo O'Higgins",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Estación de Buses",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 563433256,
+  "nodes": [
+    5429653020,
+    5429653021,
+    5429653022,
+    5429653023,
+    5429653024,
+    5429653020
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Paradero",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 564754115,
+  "nodes": [
+    5440509550,
+    5440509551,
+    5440509552,
+    5440509553,
+    5440509554,
+    5440509555,
+    5440509550
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "description": "Terminal de Buses rural",
+    "name": "Terminal de Buses Municipal de Quellón",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 597586612,
+  "nodes": [
+    5689511276,
+    5689511275,
+    5689511273,
+    5689511274,
+    5689511289,
+    5689511291,
+    5689511288,
+    5689511253,
+    5689511252,
+    5691977280,
+    5691977284,
+    6554210073,
+    5689511251,
+    6554210071,
+    6554210072,
+    5691977285,
+    5689511255,
+    5689511254,
+    5689511256,
+    2506680254,
+    4158789513,
+    5689511260,
+    6247329495,
+    5689511271,
+    5689511268,
+    5689511269,
+    5689511270,
+    5689511272,
+    5689511264,
+    5691957776,
+    5691957777,
+    5691957943,
+    6554210033,
+    5691957944,
+    5691957930,
+    5691957931,
+    5689511276
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal de Buses Collao"
+  }
+},
+{
+  "type": "way",
+  "id": 603122269,
+  "nodes": [
+    5726537953,
+    5726537954,
+    6231083938,
+    6231083937,
+    5726537957,
+    5726537958,
+    5726537953
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "internet_access": "no",
+    "name": "Buses Suray",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 607730132,
+  "nodes": [
+    5758874377,
+    5758874378,
+    5758874379,
+    5796402419,
+    5758874377
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 613174102,
+  "nodes": [
+    5802619980,
+    5802619981,
+    5802619982,
+    5802619983,
+    5802619984,
+    5802619985,
+    5802619986,
+    5802619987,
+    5802619988,
+    5802619989,
+    5802619980
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Terminal de Buses Cruz del Sur",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 627303215,
+  "nodes": [
+    5921842309,
+    5921842310,
+    5921842311,
+    5921842314,
+    5921842309
+  ],
+  "tags": {
+    "addr:city": "Río Negro",
+    "addr:street": "Enrique Mac-Iver",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Terminal de Buses Río Negro",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 717626772,
+  "nodes": [
+    6739184074,
+    6739184075,
+    6739184076,
+    6739184077,
+    6739184078,
+    6739184074
+  ],
+  "tags": {
+    "addr:city": "Puerto Montt",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Laguna Express",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 726995915,
+  "nodes": [
+    6813312964,
+    6813312965,
+    6813312966,
+    6813312962,
+    6813312964
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Buses Geminis Sur",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 769687801,
+  "nodes": [
+    7184644540,
+    9454031366,
+    9454031367,
+    7184644541,
+    7184644542,
+    9454031368,
+    9454031369,
+    7184644543,
+    9454031370,
+    7184644544,
+    7184644545,
+    7184644552,
+    7184644546,
+    7184644547,
+    7184644548,
+    7184644549,
+    7184644550,
+    7184644551,
+    7184644540
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 779123769,
+  "nodes": [
+    7274605254,
+    7274605255,
+    1738160337,
+    7274605256,
+    7274605254
+  ],
+  "tags": {
+    "addr:city": "Lautaro",
+    "addr:country": "CL",
+    "addr:district": "Lautaro",
+    "addr:housenumber": "1335",
+    "addr:state": "Región de La Araucanía",
+    "addr:street": "Manuel Antonio Matta",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Rodoviario Lautaro",
+    "operator": "Municipalidad de Lautaro",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 779124041,
+  "nodes": [
+    7274610057,
+    7274610058,
+    7274610059,
+    7274610060,
+    7274610057
+  ],
+  "tags": {
+    "addr:city": "Crucero",
+    "addr:street": "Ruta T-87",
+    "building": "yes",
+    "name": "Crucero",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 779467893,
+  "nodes": [
+    7278743815,
+    7278743816,
+    7278743817,
+    7278743818,
+    7278743815
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Línea Uno",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 780425637,
+  "nodes": [
+    7287422133,
+    3069591906,
+    7287422134,
+    3668864558,
+    7287422133
+  ],
+  "tags": {
+    "addr:housenumber": "1455",
+    "addr:street": "Avenida España",
+    "amenity": "bus_station",
+    "name": "Rodoviario Puerto Natales"
+  }
+},
+{
+  "type": "way",
+  "id": 813707104,
+  "nodes": [
+    7600767881,
+    7600767882,
+    7600767883,
+    7600767884,
+    7600767881
+  ],
+  "tags": {
+    "addr:city": "Puerto Aysén",
+    "addr:housenumber": "1433",
+    "addr:street": "Sargento Aldea",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "internet_access": "no",
+    "name": "Buses Ali",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 874856981,
+  "nodes": [
+    8143707638,
+    8143707639,
+    8143707640,
+    8143707641,
+    8143707638
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "house",
+    "bus": "yes",
+    "name": "Buses Aldea",
+    "name:fr": "Bus Aldea",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 908416001,
+  "nodes": [
+    12316067898,
+    12316067899,
+    2737224380,
+    2368044186,
+    8434938379,
+    8434938378,
+    8434938377,
+    8434938376,
+    8434938375,
+    12316067898
+  ],
+  "tags": {
+    "addr:city": "Temuco",
+    "addr:country": "CL",
+    "addr:district": "Temuco",
+    "addr:housenumber": "01609",
+    "addr:street": "Vicente Pérez Rosales",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Rodoviario Temuco",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 913998376,
+  "nodes": [
+    8490234266,
+    8490234267,
+    8490234268,
+    8490234269,
+    8490234270,
+    8490234271,
+    8490234272,
+    8490234273,
+    8490234274,
+    8490234275,
+    8490234276,
+    8490234277,
+    8490234278,
+    8490234279,
+    8490234280,
+    8490234281,
+    8490234282,
+    8490234283,
+    8490234284,
+    8490234285,
+    8490234289,
+    8490234286,
+    8490234290,
+    8490234266
+  ],
+  "tags": {
+    "addr:city": "El Chaltén",
+    "addr:postcode": "Z9301",
+    "addr:street": "Perito Moreno",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Terminal de Ómnibus de El Chaltén",
+    "operator": "Municipalidad de El Chaltén",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 926007614,
+  "nodes": [
+    8593498491,
+    8593498492,
+    8593498493,
+    8593498494,
+    8593498495,
+    8593498496,
+    8593498491
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses de Fresia",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 993123207,
+  "nodes": [
+    9175217492,
+    9175217493,
+    9175217494,
+    9175217495,
+    10231640277,
+    9175217496,
+    9175217492
+  ],
+  "tags": {
+    "addr:city": "Capitan Pastene",
+    "addr:street": "Dante",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "name": "Terminal de Busas Cap. Pastene",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1052917189,
+  "nodes": [
+    9676314089,
+    9676314090,
+    9676314091,
+    9676314092,
+    9676314093,
+    9676314089
+  ],
+  "tags": {
+    "addr:city": "Valdivia",
+    "addr:housenumber": "2221",
+    "addr:street": "Avenida Ecuador",
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Buses San Sebastián",
+    "public_transport": "station",
+    "trolleybus": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1112330009,
+  "nodes": [
+    8895421199,
+    8895421200,
+    8895421201,
+    8895421198,
+    8895421199
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Cruz del Sur"
+  }
+},
+{
+  "type": "way",
+  "id": 1175111744,
+  "nodes": [
+    10919439820,
+    10919439805,
+    10919439819,
+    10919439818,
+    10919439817,
+    10919439816,
+    10919439815,
+    10919439820
+  ],
+  "tags": {
+    "addr:city": "Lago Ranco",
+    "addr:street": "La Serena",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Lago Ranco",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1201722735,
+  "nodes": [
+    11141705713,
+    11141705712,
+    11141705711,
+    11141705710,
+    11141705707,
+    11141705706,
+    11141705709,
+    11141705705,
+    11141687301,
+    11141705713
+  ],
+  "tags": {
+    "addr:city": "Los Lagos",
+    "addr:housenumber": "128",
+    "addr:street": "Castro",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Los Lagos",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1204918414,
+  "nodes": [
+    11167056149,
+    11167056117,
+    6573375962,
+    6573375963,
+    11167056118,
+    11167056153,
+    11167056152,
+    11167056151,
+    6095650714,
+    11167056148,
+    6095650719,
+    7297550759,
+    11167056150,
+    11167056149
+  ],
+  "tags": {
+    "addr:city": "Panguipulli",
+    "addr:country": "CL",
+    "addr:housenumber": "350",
+    "addr:street": "Diego Portales",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Panguipulli",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1241650551,
+  "nodes": [
+    11536958709,
+    11536958708,
+    11536958707,
+    11536958706,
+    11536958709
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Buses Las Cascadas"
+  }
+},
+{
+  "type": "way",
+  "id": 1272438304,
+  "nodes": [
+    11815834376,
+    11815834377,
+    11815834378,
+    11815834379,
+    11815834376
+  ],
+  "tags": {
+    "addr:city": "Carahue",
+    "addr:street": "Avenida Ercilla",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Carahue",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1285411222,
+  "nodes": [
+    11924124146,
+    11924124147,
+    11924124148,
+    11924124149,
+    11924124146
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1287806856,
+  "nodes": [
+    11943130214,
+    11943130223,
+    11943130218,
+    11943130215,
+    11943130216,
+    11943130217,
+    11943130221,
+    11943130214
+  ],
+  "tags": {
+    "addr:city": "Cañete",
+    "addr:housenumber": "644",
+    "addr:street": "Séptimo de Línea",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses Jeldres",
+    "public_transport": "station",
+    "website": "https://busesjeldres.cl/"
+  }
+},
+{
+  "type": "way",
+  "id": 1289149061,
+  "nodes": [
+    11954025093,
+    2445153868,
+    2445153869,
+    11954025092,
+    11954025093
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "check_date": "2022-05-11",
+    "name": "Estación de Buses de San Pablo"
+  }
+},
+{
+  "type": "way",
+  "id": 1354879937,
+  "nodes": [
+    12538705454,
+    365490065,
+    12538705457,
+    12538705458,
+    12538705459,
+    12538705460,
+    12538705461,
+    1718626099,
+    12538705454
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal de Buses María Teresa",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3069591906,
+  "lat": -51.7290296,
+  "lon": -72.4877482
+},
+{
+  "type": "node",
+  "id": 3668864558,
+  "lat": -51.7282178,
+  "lon": -72.4888768
+},
+{
+  "type": "node",
+  "id": 7287422133,
+  "lat": -51.7284967,
+  "lon": -72.4872712
+},
+{
+  "type": "node",
+  "id": 7287422134,
+  "lat": -51.7285329,
+  "lon": -72.4892528
+},
+{
+  "type": "node",
+  "id": 5422721294,
+  "lat": -51.2549908,
+  "lon": -72.3446227
+},
+{
+  "type": "node",
+  "id": 5422721295,
+  "lat": -51.2551207,
+  "lon": -72.3446032
+},
+{
+  "type": "node",
+  "id": 5422721296,
+  "lat": -51.2550996,
+  "lon": -72.3442451
+},
+{
+  "type": "node",
+  "id": 5422721297,
+  "lat": -51.2549697,
+  "lon": -72.3442647
+},
+{
+  "type": "node",
+  "id": 3347742301,
+  "lat": -50.3370546,
+  "lon": -72.2452110
+},
+{
+  "type": "node",
+  "id": 3347742302,
+  "lat": -50.3370454,
+  "lon": -72.2453224
+},
+{
+  "type": "node",
+  "id": 3347742303,
+  "lat": -50.3376879,
+  "lon": -72.2455131
+},
+{
+  "type": "node",
+  "id": 3347742304,
+  "lat": -50.3377003,
+  "lon": -72.2453645
+},
+{
+  "type": "node",
+  "id": 7024421002,
+  "lat": -50.3372752,
+  "lon": -72.2454740
+},
+{
+  "type": "node",
+  "id": 7024421005,
+  "lat": -50.3373622,
+  "lon": -72.2454917
+},
+{
+  "type": "node",
+  "id": 7024421006,
+  "lat": -50.3374397,
+  "lon": -72.2455076
+},
+{
+  "type": "node",
+  "id": 7024421009,
+  "lat": -50.3375123,
+  "lon": -72.2455224
+},
+{
+  "type": "node",
+  "id": 7024421010,
+  "lat": -50.3372052,
+  "lon": -72.2452021
+},
+{
+  "type": "node",
+  "id": 7024421013,
+  "lat": -50.3376288,
+  "lon": -72.2452894
+},
+{
+  "type": "node",
+  "id": 9226931530,
+  "lat": -50.3371922,
+  "lon": -72.2452390
+},
+{
+  "type": "node",
+  "id": 9226931531,
+  "lat": -50.3376238,
+  "lon": -72.2453487
+},
+{
+  "type": "node",
+  "id": 9226931532,
+  "lat": -50.3376300,
+  "lon": -72.2455464
+},
+{
+  "type": "node",
+  "id": 9226931533,
+  "lat": -50.3376225,
+  "lon": -72.2454997
+},
+{
+  "type": "node",
+  "id": 9226931534,
+  "lat": -50.3370821,
+  "lon": -72.2453299
+},
+{
+  "type": "node",
+  "id": 9226931535,
+  "lat": -50.3370784,
+  "lon": -72.2453740
+},
+{
+  "type": "node",
+  "id": 9226931536,
+  "lat": -50.3371697,
+  "lon": -72.2453927
+},
+{
+  "type": "node",
+  "id": 9226931537,
+  "lat": -50.3371648,
+  "lon": -72.2454514
+},
+{
+  "type": "node",
+  "id": 8490234266,
+  "lat": -49.3336810,
+  "lon": -72.8833161
+},
+{
+  "type": "node",
+  "id": 8490234267,
+  "lat": -49.3335640,
+  "lon": -72.8833166
+},
+{
+  "type": "node",
+  "id": 8490234268,
+  "lat": -49.3335637,
+  "lon": -72.8831325
+},
+{
+  "type": "node",
+  "id": 8490234269,
+  "lat": -49.3335957,
+  "lon": -72.8831323
+},
+{
+  "type": "node",
+  "id": 8490234270,
+  "lat": -49.3335956,
+  "lon": -72.8830730
+},
+{
+  "type": "node",
+  "id": 8490234271,
+  "lat": -49.3335521,
+  "lon": -72.8830731
+},
+{
+  "type": "node",
+  "id": 8490234272,
+  "lat": -49.3335520,
+  "lon": -72.8830052
+},
+{
+  "type": "node",
+  "id": 8490234273,
+  "lat": -49.3335939,
+  "lon": -72.8830051
+},
+{
+  "type": "node",
+  "id": 8490234274,
+  "lat": -49.3335938,
+  "lon": -72.8829248
+},
+{
+  "type": "node",
+  "id": 8490234275,
+  "lat": -49.3335229,
+  "lon": -72.8829251
+},
+{
+  "type": "node",
+  "id": 8490234276,
+  "lat": -49.3335228,
+  "lon": -72.8828395
+},
+{
+  "type": "node",
+  "id": 8490234277,
+  "lat": -49.3335949,
+  "lon": -72.8828392
+},
+{
+  "type": "node",
+  "id": 8490234278,
+  "lat": -49.3335947,
+  "lon": -72.8827533
+},
+{
+  "type": "node",
+  "id": 8490234279,
+  "lat": -49.3335520,
+  "lon": -72.8827535
+},
+{
+  "type": "node",
+  "id": 8490234280,
+  "lat": -49.3335518,
+  "lon": -72.8826712
+},
+{
+  "type": "node",
+  "id": 8490234281,
+  "lat": -49.3335965,
+  "lon": -72.8826710
+},
+{
+  "type": "node",
+  "id": 8490234282,
+  "lat": -49.3335964,
+  "lon": -72.8826294
+},
+{
+  "type": "node",
+  "id": 8490234283,
+  "lat": -49.3335669,
+  "lon": -72.8826295
+},
+{
+  "type": "node",
+  "id": 8490234286,
+  "lat": -49.3336805,
+  "lon": -72.8830956
+},
+{
+  "type": "node",
+  "id": 8490234289,
+  "lat": -49.3336800,
+  "lon": -72.8826812
+},
+{
+  "type": "node",
+  "id": 8490234290,
+  "lat": -49.3336805,
+  "lon": -72.8831714
+},
+{
+  "type": "node",
+  "id": 8490234284,
+  "lat": -49.3335666,
+  "lon": -72.8824581
+},
+{
+  "type": "node",
+  "id": 8490234285,
+  "lat": -49.3336794,
+  "lon": -72.8824576
+},
+{
+  "type": "node",
+  "id": 8143707638,
+  "lat": -47.7958171,
+  "lon": -73.5318642
+},
+{
+  "type": "node",
+  "id": 8143707639,
+  "lat": -47.7958541,
+  "lon": -73.5318817
+},
+{
+  "type": "node",
+  "id": 8143707640,
+  "lat": -47.7958805,
+  "lon": -73.5317588
+},
+{
+  "type": "node",
+  "id": 8143707641,
+  "lat": -47.7958435,
+  "lon": -73.5317412
+},
+{
+  "type": "node",
+  "id": 5726537953,
+  "lat": -45.4010363,
+  "lon": -72.6873574
+},
+{
+  "type": "node",
+  "id": 5726537954,
+  "lat": -45.4011018,
+  "lon": -72.6873091
+},
+{
+  "type": "node",
+  "id": 5726537957,
+  "lat": -45.4012042,
+  "lon": -72.6875196
+},
+{
+  "type": "node",
+  "id": 5726537958,
+  "lat": -45.4011183,
+  "lon": -72.6875829
+},
+{
+  "type": "node",
+  "id": 6231083937,
+  "lat": -45.4011413,
+  "lon": -72.6873467
+},
+{
+  "type": "node",
+  "id": 6231083938,
+  "lat": -45.4011210,
+  "lon": -72.6873618
+},
+{
+  "type": "node",
+  "id": 7600767881,
+  "lat": -45.4015807,
+  "lon": -72.6876311
+},
+{
+  "type": "node",
+  "id": 7600767882,
+  "lat": -45.4014045,
+  "lon": -72.6877608
+},
+{
+  "type": "node",
+  "id": 7600767883,
+  "lat": -45.4013647,
+  "lon": -72.6876511
+},
+{
+  "type": "node",
+  "id": 7600767884,
+  "lat": -45.4015409,
+  "lon": -72.6875215
+},
+{
+  "type": "node",
+  "id": 3967246307,
+  "lat": -45.5716011,
+  "lon": -72.0709213
+},
+{
+  "type": "node",
+  "id": 3967246308,
+  "lat": -45.5716656,
+  "lon": -72.0709279
+},
+{
+  "type": "node",
+  "id": 3967246309,
+  "lat": -45.5716695,
+  "lon": -72.0708502
+},
+{
+  "type": "node",
+  "id": 3967246310,
+  "lat": -45.5716051,
+  "lon": -72.0708435
+},
+{
+  "type": "node",
+  "id": 1875410953,
+  "lat": -41.8709141,
+  "lon": -73.8257014
+},
+{
+  "type": "node",
+  "id": 1875410960,
+  "lat": -41.8709361,
+  "lon": -73.8261547
+},
+{
+  "type": "node",
+  "id": 1875410964,
+  "lat": -41.8713955,
+  "lon": -73.8259348
+},
+{
+  "type": "node",
+  "id": 1875410966,
+  "lat": -41.8714274,
+  "lon": -73.8260957
+},
+{
+  "type": "node",
+  "id": 1875410968,
+  "lat": -41.8709441,
+  "lon": -73.8261145
+},
+{
+  "type": "node",
+  "id": 1875410970,
+  "lat": -41.8712636,
+  "lon": -73.8257712
+},
+{
+  "type": "node",
+  "id": 1875410974,
+  "lat": -41.8711818,
+  "lon": -73.8262003
+},
+{
+  "type": "node",
+  "id": 1875410978,
+  "lat": -41.8708322,
+  "lon": -73.8260340
+},
+{
+  "type": "node",
+  "id": 1875410980,
+  "lat": -41.8713276,
+  "lon": -73.8259589
+},
+{
+  "type": "node",
+  "id": 1875410982,
+  "lat": -41.8713176,
+  "lon": -73.8259133
+},
+{
+  "type": "node",
+  "id": 1875410986,
+  "lat": -41.8712956,
+  "lon": -73.8259187
+},
+{
+  "type": "node",
+  "id": 1875410988,
+  "lat": -41.8708717,
+  "lon": -73.8260509
+},
+{
+  "type": "node",
+  "id": 1875410989,
+  "lat": -41.8711798,
+  "lon": -73.8258060
+},
+{
+  "type": "node",
+  "id": 1875410994,
+  "lat": -41.8708580,
+  "lon": -73.8261228
+},
+{
+  "type": "node",
+  "id": 5440509550,
+  "lat": -43.1198937,
+  "lon": -73.6187594
+},
+{
+  "type": "node",
+  "id": 5440509551,
+  "lat": -43.1199745,
+  "lon": -73.6187619
+},
+{
+  "type": "node",
+  "id": 5440509552,
+  "lat": -43.1199780,
+  "lon": -73.6185498
+},
+{
+  "type": "node",
+  "id": 5440509553,
+  "lat": -43.1198681,
+  "lon": -73.6185464
+},
+{
+  "type": "node",
+  "id": 5440509554,
+  "lat": -43.1198675,
+  "lon": -73.6185856
+},
+{
+  "type": "node",
+  "id": 5440509555,
+  "lat": -43.1198966,
+  "lon": -73.6185865
+},
+{
+  "type": "node",
+  "id": 5802619980,
+  "lat": -43.1197505,
+  "lon": -73.6221724
+},
+{
+  "type": "node",
+  "id": 5802619981,
+  "lat": -43.1198410,
+  "lon": -73.6221714
+},
+{
+  "type": "node",
+  "id": 5802619982,
+  "lat": -43.1198411,
+  "lon": -73.6222006
+},
+{
+  "type": "node",
+  "id": 5802619983,
+  "lat": -43.1199675,
+  "lon": -73.6221992
+},
+{
+  "type": "node",
+  "id": 5802619984,
+  "lat": -43.1199700,
+  "lon": -73.6226421
+},
+{
+  "type": "node",
+  "id": 5802619985,
+  "lat": -43.1199060,
+  "lon": -73.6226428
+},
+{
+  "type": "node",
+  "id": 5802619986,
+  "lat": -43.1198766,
+  "lon": -73.6227930
+},
+{
+  "type": "node",
+  "id": 5802619987,
+  "lat": -43.1197720,
+  "lon": -73.6227943
+},
+{
+  "type": "node",
+  "id": 5802619988,
+  "lat": -43.1197710,
+  "lon": -73.6226344
+},
+{
+  "type": "node",
+  "id": 5802619989,
+  "lat": -43.1197533,
+  "lon": -73.6226346
+},
+{
+  "type": "node",
+  "id": 1554374789,
+  "lat": -42.4780852,
+  "lon": -73.7628152
+},
+{
+  "type": "node",
+  "id": 1682074676,
+  "lat": -42.4782795,
+  "lon": -73.7631630
+},
+{
+  "type": "node",
+  "id": 2705984726,
+  "lat": -42.4806798,
+  "lon": -73.7644207
+},
+{
+  "type": "node",
+  "id": 2779351982,
+  "lat": -42.4782572,
+  "lon": -73.7631617
+},
+{
+  "type": "node",
+  "id": 2779351983,
+  "lat": -42.4783003,
+  "lon": -73.7631604
+},
+{
+  "type": "node",
+  "id": 2779351984,
+  "lat": -42.4783002,
+  "lon": -73.7631417
+},
+{
+  "type": "node",
+  "id": 2779351985,
+  "lat": -42.4784494,
+  "lon": -73.7631416
+},
+{
+  "type": "node",
+  "id": 2779351986,
+  "lat": -42.4784493,
+  "lon": -73.7630201
+},
+{
+  "type": "node",
+  "id": 2779351987,
+  "lat": -42.4784941,
+  "lon": -73.7630200
+},
+{
+  "type": "node",
+  "id": 2779351988,
+  "lat": -42.4784940,
+  "lon": -73.7628787
+},
+{
+  "type": "node",
+  "id": 2779351989,
+  "lat": -42.4781757,
+  "lon": -73.7628789
+},
+{
+  "type": "node",
+  "id": 2779351990,
+  "lat": -42.4781758,
+  "lon": -73.7630137
+},
+{
+  "type": "node",
+  "id": 2779351991,
+  "lat": -42.4782165,
+  "lon": -73.7630137
+},
+{
+  "type": "node",
+  "id": 2779351992,
+  "lat": -42.4782165,
+  "lon": -73.7631293
+},
+{
+  "type": "node",
+  "id": 2779351994,
+  "lat": -42.4782553,
+  "lon": -73.7631292
+},
+{
+  "type": "node",
+  "id": 3285794677,
+  "lat": -42.4809614,
+  "lon": -73.7644185
+},
+{
+  "type": "node",
+  "id": 3285794678,
+  "lat": -42.4809611,
+  "lon": -73.7643440
+},
+{
+  "type": "node",
+  "id": 3288711857,
+  "lat": -42.4780806,
+  "lon": -73.7625910
+},
+{
+  "type": "node",
+  "id": 3725506345,
+  "lat": -42.4806330,
+  "lon": -73.7644211
+},
+{
+  "type": "node",
+  "id": 3725506348,
+  "lat": -42.4805899,
+  "lon": -73.7640070
+},
+{
+  "type": "node",
+  "id": 3725506350,
+  "lat": -42.4807132,
+  "lon": -73.7636524
+},
+{
+  "type": "node",
+  "id": 3726447228,
+  "lat": -42.4787689,
+  "lon": -73.7630082
+},
+{
+  "type": "node",
+  "id": 3726447229,
+  "lat": -42.4787689,
+  "lon": -73.7627132
+},
+{
+  "type": "node",
+  "id": 3726447230,
+  "lat": -42.4787392,
+  "lon": -73.7627105
+},
+{
+  "type": "node",
+  "id": 3726447231,
+  "lat": -42.4787392,
+  "lon": -73.7625174
+},
+{
+  "type": "node",
+  "id": 3726447232,
+  "lat": -42.4780796,
+  "lon": -73.7625418
+},
+{
+  "type": "node",
+  "id": 3726459383,
+  "lat": -42.4809582,
+  "lon": -73.7636505
+},
+{
+  "type": "node",
+  "id": 5369249719,
+  "lat": -42.4782957,
+  "lon": -73.7631609
+},
+{
+  "type": "node",
+  "id": 9511151754,
+  "lat": -42.4805918,
+  "lon": -73.7644214
+},
+{
+  "type": "node",
+  "id": 9511151767,
+  "lat": -42.4805886,
+  "lon": -73.7636533
+},
+{
+  "type": "node",
+  "id": 12598288115,
+  "lat": -42.4805917,
+  "lon": -73.7643935
+},
+{
+  "type": "node",
+  "id": 12598288116,
+  "lat": -42.4808861,
+  "lon": -73.7636510
+},
+{
+  "type": "node",
+  "id": 5429653020,
+  "lat": -42.2726979,
+  "lon": -73.5208336
+},
+{
+  "type": "node",
+  "id": 5429653021,
+  "lat": -42.2726988,
+  "lon": -73.5207899
+},
+{
+  "type": "node",
+  "id": 5429653022,
+  "lat": -42.2727225,
+  "lon": -73.5207904
+},
+{
+  "type": "node",
+  "id": 5429653023,
+  "lat": -42.2727329,
+  "lon": -73.5208039
+},
+{
+  "type": "node",
+  "id": 5429653024,
+  "lat": -42.2727316,
+  "lon": -73.5208354
+},
+{
+  "type": "node",
+  "id": 1667606811,
+  "lat": -41.8710999,
+  "lon": -73.8102304
+},
+{
+  "type": "node",
+  "id": 1667606812,
+  "lat": -41.8715574,
+  "lon": -73.8104934
+},
+{
+  "type": "node",
+  "id": 1667606846,
+  "lat": -41.8717400,
+  "lon": -73.8097206
+},
+{
+  "type": "node",
+  "id": 1667606850,
+  "lat": -41.8716631,
+  "lon": -73.8100932
+},
+{
+  "type": "node",
+  "id": 1667606856,
+  "lat": -41.8712477,
+  "lon": -73.8095277
+},
+{
+  "type": "node",
+  "id": 6600887092,
+  "lat": -41.8711616,
+  "lon": -73.8099372
+},
+{
+  "type": "node",
+  "id": 5758874377,
+  "lat": -41.7715883,
+  "lon": -73.1271561
+},
+{
+  "type": "node",
+  "id": 5758874378,
+  "lat": -41.7715844,
+  "lon": -73.1270328
+},
+{
+  "type": "node",
+  "id": 5758874379,
+  "lat": -41.7714643,
+  "lon": -73.1270421
+},
+{
+  "type": "node",
+  "id": 5796402419,
+  "lat": -41.7714652,
+  "lon": -73.1271572
+},
+{
+  "type": "node",
+  "id": 8593498491,
+  "lat": -41.1535101,
+  "lon": -73.4269042
+},
+{
+  "type": "node",
+  "id": 8593498492,
+  "lat": -41.1534590,
+  "lon": -73.4266109
+},
+{
+  "type": "node",
+  "id": 8593498494,
+  "lat": -41.1541456,
+  "lon": -73.4265966
+},
+{
+  "type": "node",
+  "id": 8593498496,
+  "lat": -41.1544256,
+  "lon": -73.4266324
+},
+{
+  "type": "node",
+  "id": 8593498493,
+  "lat": -41.1541187,
+  "lon": -73.4264214
+},
+{
+  "type": "node",
+  "id": 8593498495,
+  "lat": -41.1544068,
+  "lon": -73.4265180
+},
+{
+  "type": "node",
+  "id": 6739184074,
+  "lat": -41.4412460,
+  "lon": -73.0351312
+},
+{
+  "type": "node",
+  "id": 6739184075,
+  "lat": -41.4405843,
+  "lon": -73.0345888
+},
+{
+  "type": "node",
+  "id": 6739184076,
+  "lat": -41.4408589,
+  "lon": -73.0338663
+},
+{
+  "type": "node",
+  "id": 6739184077,
+  "lat": -41.4415621,
+  "lon": -73.0343922
+},
+{
+  "type": "node",
+  "id": 6739184078,
+  "lat": -41.4413916,
+  "lon": -73.0348043
+},
+{
+  "type": "node",
+  "id": 1910854036,
+  "lat": -41.3179547,
+  "lon": -72.9925873
+},
+{
+  "type": "node",
+  "id": 1910854056,
+  "lat": -41.3178096,
+  "lon": -72.9916431
+},
+{
+  "type": "node",
+  "id": 3000518311,
+  "lat": -41.3176242,
+  "lon": -72.9921529
+},
+{
+  "type": "node",
+  "id": 3000519964,
+  "lat": -41.3176161,
+  "lon": -72.9918719
+},
+{
+  "type": "node",
+  "id": 8914206047,
+  "lat": -41.3176067,
+  "lon": -72.9916419
+},
+{
+  "type": "node",
+  "id": 8914206048,
+  "lat": -41.3176428,
+  "lon": -72.9925606
+},
+{
+  "type": "node",
+  "id": 8895421198,
+  "lat": -41.1178500,
+  "lon": -73.0549943
+},
+{
+  "type": "node",
+  "id": 8895421199,
+  "lat": -41.1184199,
+  "lon": -73.0544016
+},
+{
+  "type": "node",
+  "id": 8895421200,
+  "lat": -41.1179086,
+  "lon": -73.0538759
+},
+{
+  "type": "node",
+  "id": 8895421201,
+  "lat": -41.1174560,
+  "lon": -73.0546322
+},
+{
+  "type": "node",
+  "id": 3633208996,
+  "lat": -41.1375294,
+  "lon": -73.0277832
+},
+{
+  "type": "node",
+  "id": 3633208997,
+  "lat": -41.1373770,
+  "lon": -73.0278360
+},
+{
+  "type": "node",
+  "id": 3633208998,
+  "lat": -41.1373936,
+  "lon": -73.0279811
+},
+{
+  "type": "node",
+  "id": 3633208999,
+  "lat": -41.1375427,
+  "lon": -73.0279591
+},
+{
+  "type": "node",
+  "id": 5921842309,
+  "lat": -40.7942223,
+  "lon": -73.2146276
+},
+{
+  "type": "node",
+  "id": 5921842310,
+  "lat": -40.7942925,
+  "lon": -73.2145749
+},
+{
+  "type": "node",
+  "id": 5921842311,
+  "lat": -40.7943651,
+  "lon": -73.2147440
+},
+{
+  "type": "node",
+  "id": 5921842314,
+  "lat": -40.7942949,
+  "lon": -73.2147967
+},
+{
+  "type": "node",
+  "id": 2187931279,
+  "lat": -41.4778613,
+  "lon": -72.9505764
+},
+{
+  "type": "node",
+  "id": 2187931280,
+  "lat": -41.4778444,
+  "lon": -72.9505548
+},
+{
+  "type": "node",
+  "id": 2187931283,
+  "lat": -41.4777840,
+  "lon": -72.9506349
+},
+{
+  "type": "node",
+  "id": 2187931287,
+  "lat": -41.4779994,
+  "lon": -72.9503924
+},
+{
+  "type": "node",
+  "id": 2889473269,
+  "lat": -41.4771052,
+  "lon": -72.9496960
+},
+{
+  "type": "node",
+  "id": 2889473274,
+  "lat": -41.4765349,
+  "lon": -72.9493036
+},
+{
+  "type": "node",
+  "id": 2889473277,
+  "lat": -41.4768417,
+  "lon": -72.9493252
+},
+{
+  "type": "node",
+  "id": 2889473286,
+  "lat": -41.4767020,
+  "lon": -72.9495065
+},
+{
+  "type": "node",
+  "id": 2902989172,
+  "lat": -41.4769911,
+  "lon": -72.9489886
+},
+{
+  "type": "node",
+  "id": 2902989174,
+  "lat": -41.4766156,
+  "lon": -72.9493979
+},
+{
+  "type": "node",
+  "id": 9675990488,
+  "lat": -41.4763980,
+  "lon": -72.9485210
+},
+{
+  "type": "node",
+  "id": 9675990489,
+  "lat": -41.4764430,
+  "lon": -72.9486209
+},
+{
+  "type": "node",
+  "id": 9675990493,
+  "lat": -41.4761547,
+  "lon": -72.9488522
+},
+{
+  "type": "node",
+  "id": 9675990494,
+  "lat": -41.4763499,
+  "lon": -72.9486910
+},
+{
+  "type": "node",
+  "id": 9675990495,
+  "lat": -41.4765588,
+  "lon": -72.9483920
+},
+{
+  "type": "node",
+  "id": 10297252591,
+  "lat": -41.4779429,
+  "lon": -72.9504699
+},
+{
+  "type": "node",
+  "id": 10297747055,
+  "lat": -41.4779008,
+  "lon": -72.9505248
+},
+{
+  "type": "node",
+  "id": 10297747058,
+  "lat": -41.4767590,
+  "lon": -72.9486653
+},
+{
+  "type": "node",
+  "id": 10297747062,
+  "lat": -41.4770221,
+  "lon": -72.9490318
+},
+{
+  "type": "node",
+  "id": 10297747063,
+  "lat": -41.4772917,
+  "lon": -72.9494071
+},
+{
+  "type": "node",
+  "id": 10297747064,
+  "lat": -41.4775855,
+  "lon": -72.9498163
+},
+{
+  "type": "node",
+  "id": 11606205119,
+  "lat": -41.4775380,
+  "lon": -72.9497501
+},
+{
+  "type": "node",
+  "id": 11606205121,
+  "lat": -41.4773298,
+  "lon": -72.9494601
+},
+{
+  "type": "node",
+  "id": 1604285911,
+  "lat": -41.4629746,
+  "lon": -72.9522905
+},
+{
+  "type": "node",
+  "id": 2699043008,
+  "lat": -41.4626578,
+  "lon": -72.9532967
+},
+{
+  "type": "node",
+  "id": 2699043020,
+  "lat": -41.4628811,
+  "lon": -72.9516469
+},
+{
+  "type": "node",
+  "id": 2699045230,
+  "lat": -41.4630245,
+  "lon": -72.9526136
+},
+{
+  "type": "node",
+  "id": 2699045236,
+  "lat": -41.4632161,
+  "lon": -72.9539068
+},
+{
+  "type": "node",
+  "id": 2699045242,
+  "lat": -41.4627446,
+  "lon": -72.9539380
+},
+{
+  "type": "node",
+  "id": 2699045252,
+  "lat": -41.4624747,
+  "lon": -72.9518072
+},
+{
+  "type": "node",
+  "id": 9365649743,
+  "lat": -41.4625884,
+  "lon": -72.9527320
+},
+{
+  "type": "node",
+  "id": 9365650213,
+  "lat": -41.4629691,
+  "lon": -72.9522395
+},
+{
+  "type": "node",
+  "id": 9365650214,
+  "lat": -41.4624606,
+  "lon": -72.9517213
+},
+{
+  "type": "node",
+  "id": 11536958706,
+  "lat": -41.0795554,
+  "lon": -72.6408532
+},
+{
+  "type": "node",
+  "id": 11536958707,
+  "lat": -41.0797818,
+  "lon": -72.6412690
+},
+{
+  "type": "node",
+  "id": 11536958708,
+  "lat": -41.0801589,
+  "lon": -72.6408210
+},
+{
+  "type": "node",
+  "id": 11536958709,
+  "lat": -41.0799233,
+  "lon": -72.6403865
+},
+{
+  "type": "node",
+  "id": 660938024,
+  "lat": -40.5724219,
+  "lon": -73.1261429
+},
+{
+  "type": "node",
+  "id": 660938025,
+  "lat": -40.5732495,
+  "lon": -73.1262986
+},
+{
+  "type": "node",
+  "id": 660938038,
+  "lat": -40.5734276,
+  "lon": -73.1250896
+},
+{
+  "type": "node",
+  "id": 660938039,
+  "lat": -40.5728095,
+  "lon": -73.1258983
+},
+{
+  "type": "node",
+  "id": 1583993944,
+  "lat": -40.5730915,
+  "lon": -73.1262630
+},
+{
+  "type": "node",
+  "id": 2444747176,
+  "lat": -40.5724494,
+  "lon": -73.1258537
+},
+{
+  "type": "node",
+  "id": 10793712905,
+  "lat": -40.5732775,
+  "lon": -73.1260481
+},
+{
+  "type": "node",
+  "id": 10793712906,
+  "lat": -40.5733526,
+  "lon": -73.1255474
+},
+{
+  "type": "node",
+  "id": 10793713123,
+  "lat": -40.5730091,
+  "lon": -73.1250925
+},
+{
+  "type": "node",
+  "id": 2444747180,
+  "lat": -40.5730418,
+  "lon": -73.1249604
+},
+{
+  "type": "node",
+  "id": 4804015387,
+  "lat": -40.5754908,
+  "lon": -73.1153141
+},
+{
+  "type": "node",
+  "id": 4804015391,
+  "lat": -40.5752853,
+  "lon": -73.1152284
+},
+{
+  "type": "node",
+  "id": 4804015392,
+  "lat": -40.5750640,
+  "lon": -73.1154807
+},
+{
+  "type": "node",
+  "id": 4804015393,
+  "lat": -40.5751825,
+  "lon": -73.1149252
+},
+{
+  "type": "node",
+  "id": 4804015420,
+  "lat": -40.5753060,
+  "lon": -73.1149774
+},
+{
+  "type": "node",
+  "id": 4804016434,
+  "lat": -40.5751274,
+  "lon": -73.1149039
+},
+{
+  "type": "node",
+  "id": 4804016455,
+  "lat": -40.5752113,
+  "lon": -73.1155357
+},
+{
+  "type": "node",
+  "id": 4804016465,
+  "lat": -40.5750042,
+  "lon": -73.1154576
+},
+{
+  "type": "node",
+  "id": 4804016504,
+  "lat": -40.5755199,
+  "lon": -73.1150508
+},
+{
+  "type": "node",
+  "id": 4804042659,
+  "lat": -40.5755431,
+  "lon": -73.1150643
+},
+{
+  "type": "node",
+  "id": 2445153868,
+  "lat": -40.4111008,
+  "lon": -73.0112814
+},
+{
+  "type": "node",
+  "id": 2445153869,
+  "lat": -40.4107404,
+  "lon": -73.0116605
+},
+{
+  "type": "node",
+  "id": 11954025092,
+  "lat": -40.4104826,
+  "lon": -73.0112376
+},
+{
+  "type": "node",
+  "id": 11954025093,
+  "lat": -40.4108430,
+  "lon": -73.0108586
+},
+{
+  "type": "node",
+  "id": 5009878607,
+  "lat": -39.8641187,
+  "lon": -73.3924927
+},
+{
+  "type": "node",
+  "id": 5009878608,
+  "lat": -39.8641239,
+  "lon": -73.3924092
+},
+{
+  "type": "node",
+  "id": 5009878609,
+  "lat": -39.8642336,
+  "lon": -73.3924207
+},
+{
+  "type": "node",
+  "id": 5009878610,
+  "lat": -39.8642285,
+  "lon": -73.3925042
+},
+{
+  "type": "node",
+  "id": 7274610057,
+  "lat": -40.4197403,
+  "lon": -72.7861528
+},
+{
+  "type": "node",
+  "id": 7274610058,
+  "lat": -40.4197992,
+  "lon": -72.7858279
+},
+{
+  "type": "node",
+  "id": 7274610059,
+  "lat": -40.4199105,
+  "lon": -72.7858627
+},
+{
+  "type": "node",
+  "id": 7274610060,
+  "lat": -40.4198516,
+  "lon": -72.7861876
+},
+{
+  "type": "node",
+  "id": 10919439805,
+  "lat": -40.3245810,
+  "lon": -72.4788949
+},
+{
+  "type": "node",
+  "id": 10919439815,
+  "lat": -40.3253307,
+  "lon": -72.4788455
+},
+{
+  "type": "node",
+  "id": 10919439816,
+  "lat": -40.3253360,
+  "lon": -72.4787512
+},
+{
+  "type": "node",
+  "id": 10919439817,
+  "lat": -40.3253340,
+  "lon": -72.4786681
+},
+{
+  "type": "node",
+  "id": 10919439818,
+  "lat": -40.3251888,
+  "lon": -72.4781853
+},
+{
+  "type": "node",
+  "id": 10919439819,
+  "lat": -40.3245549,
+  "lon": -72.4785259
+},
+{
+  "type": "node",
+  "id": 10919439820,
+  "lat": -40.3246081,
+  "lon": -72.4792512
+},
+{
+  "type": "node",
+  "id": 2893983453,
+  "lat": -40.0730277,
+  "lon": -72.8744636
+},
+{
+  "type": "node",
+  "id": 2893983454,
+  "lat": -40.0728395,
+  "lon": -72.8739945
+},
+{
+  "type": "node",
+  "id": 2893983462,
+  "lat": -40.0728588,
+  "lon": -72.8744752
+},
+{
+  "type": "node",
+  "id": 2893983465,
+  "lat": -40.0730084,
+  "lon": -72.8739829
+},
+{
+  "type": "node",
+  "id": 1030300254,
+  "lat": -39.8612298,
+  "lon": -72.8118440
+},
+{
+  "type": "node",
+  "id": 5000972551,
+  "lat": -39.8617814,
+  "lon": -72.8114840
+},
+{
+  "type": "node",
+  "id": 5000972552,
+  "lat": -39.8616599,
+  "lon": -72.8112949
+},
+{
+  "type": "node",
+  "id": 5312830131,
+  "lat": -39.8616433,
+  "lon": -72.8116444
+},
+{
+  "type": "node",
+  "id": 5312830134,
+  "lat": -39.8617187,
+  "lon": -72.8115591
+},
+{
+  "type": "node",
+  "id": 5312830136,
+  "lat": -39.8617243,
+  "lon": -72.8114022
+},
+{
+  "type": "node",
+  "id": 5312830137,
+  "lat": -39.8615940,
+  "lon": -72.8113720
+},
+{
+  "type": "node",
+  "id": 11136691072,
+  "lat": -39.8613615,
+  "lon": -72.8119587
+},
+{
+  "type": "node",
+  "id": 11136691073,
+  "lat": -39.8612151,
+  "lon": -72.8118245
+},
+{
+  "type": "node",
+  "id": 11141687275,
+  "lat": -39.8614175,
+  "lon": -72.8115744
+},
+{
+  "type": "node",
+  "id": 11141687283,
+  "lat": -39.8613996,
+  "lon": -72.8115948
+},
+{
+  "type": "node",
+  "id": 11141705711,
+  "lat": -39.8622905,
+  "lon": -72.8096353
+},
+{
+  "type": "node",
+  "id": 4721403367,
+  "lat": -39.8610522,
+  "lon": -72.8099943
+},
+{
+  "type": "node",
+  "id": 4721403368,
+  "lat": -39.8612959,
+  "lon": -72.8097331
+},
+{
+  "type": "node",
+  "id": 4721403369,
+  "lat": -39.8614743,
+  "lon": -72.8100931
+},
+{
+  "type": "node",
+  "id": 4721403370,
+  "lat": -39.8612418,
+  "lon": -72.8102520
+},
+{
+  "type": "node",
+  "id": 11141687301,
+  "lat": -39.8618228,
+  "lon": -72.8090990
+},
+{
+  "type": "node",
+  "id": 11141705705,
+  "lat": -39.8618341,
+  "lon": -72.8093174
+},
+{
+  "type": "node",
+  "id": 11141705706,
+  "lat": -39.8618919,
+  "lon": -72.8095954
+},
+{
+  "type": "node",
+  "id": 11141705707,
+  "lat": -39.8619259,
+  "lon": -72.8097135
+},
+{
+  "type": "node",
+  "id": 11141705709,
+  "lat": -39.8618598,
+  "lon": -72.8094608
+},
+{
+  "type": "node",
+  "id": 11141705710,
+  "lat": -39.8619611,
+  "lon": -72.8098084
+},
+{
+  "type": "node",
+  "id": 11141705712,
+  "lat": -39.8620200,
+  "lon": -72.8090250
+},
+{
+  "type": "node",
+  "id": 11141705713,
+  "lat": -39.8618214,
+  "lon": -72.8089644
+},
+{
+  "type": "node",
+  "id": 1382532347,
+  "lat": -39.8129693,
+  "lon": -73.2440490
+},
+{
+  "type": "node",
+  "id": 1382532349,
+  "lat": -39.8129964,
+  "lon": -73.2438462
+},
+{
+  "type": "node",
+  "id": 4330167977,
+  "lat": -39.8129414,
+  "lon": -73.2441101
+},
+{
+  "type": "node",
+  "id": 4330167978,
+  "lat": -39.8129449,
+  "lon": -73.2440843
+},
+{
+  "type": "node",
+  "id": 4330167979,
+  "lat": -39.8129075,
+  "lon": -73.2440759
+},
+{
+  "type": "node",
+  "id": 4330167980,
+  "lat": -39.8129397,
+  "lon": -73.2438345
+},
+{
+  "type": "node",
+  "id": 4330167983,
+  "lat": -39.8129904,
+  "lon": -73.2440537
+},
+{
+  "type": "node",
+  "id": 4330167984,
+  "lat": -39.8129816,
+  "lon": -73.2441192
+},
+{
+  "type": "node",
+  "id": 9676314089,
+  "lat": -39.8244648,
+  "lon": -73.2205056
+},
+{
+  "type": "node",
+  "id": 9676314090,
+  "lat": -39.8244457,
+  "lon": -73.2202764
+},
+{
+  "type": "node",
+  "id": 9676314091,
+  "lat": -39.8245632,
+  "lon": -73.2202599
+},
+{
+  "type": "node",
+  "id": 9676314092,
+  "lat": -39.8245870,
+  "lon": -73.2205460
+},
+{
+  "type": "node",
+  "id": 9676314093,
+  "lat": -39.8245122,
+  "lon": -73.2205565
+},
+{
+  "type": "node",
+  "id": 1194025141,
+  "lat": -39.8142722,
+  "lon": -73.2356144
+},
+{
+  "type": "node",
+  "id": 1194025157,
+  "lat": -39.8149708,
+  "lon": -73.2344525
+},
+{
+  "type": "node",
+  "id": 1194025163,
+  "lat": -39.8153873,
+  "lon": -73.2362732
+},
+{
+  "type": "node",
+  "id": 1194025189,
+  "lat": -39.8142477,
+  "lon": -73.2355680
+},
+{
+  "type": "node",
+  "id": 1194025196,
+  "lat": -39.8157639,
+  "lon": -73.2360167
+},
+{
+  "type": "node",
+  "id": 1194025295,
+  "lat": -39.8162087,
+  "lon": -73.2356258
+},
+{
+  "type": "node",
+  "id": 1194025334,
+  "lat": -39.8153195,
+  "lon": -73.2362594
+},
+{
+  "type": "node",
+  "id": 1314278189,
+  "lat": -39.8156796,
+  "lon": -73.2360843
+},
+{
+  "type": "node",
+  "id": 1382523453,
+  "lat": -39.8155029,
+  "lon": -73.2362149
+},
+{
+  "type": "node",
+  "id": 2425689776,
+  "lat": -39.8154429,
+  "lon": -73.2354968
+},
+{
+  "type": "node",
+  "id": 2425689779,
+  "lat": -39.8155372,
+  "lon": -73.2361453
+},
+{
+  "type": "node",
+  "id": 2425689780,
+  "lat": -39.8146449,
+  "lon": -73.2350011
+},
+{
+  "type": "node",
+  "id": 2425689785,
+  "lat": -39.8153944,
+  "lon": -73.2358806
+},
+{
+  "type": "node",
+  "id": 2425689788,
+  "lat": -39.8155940,
+  "lon": -73.2361481
+},
+{
+  "type": "node",
+  "id": 2425689789,
+  "lat": -39.8161561,
+  "lon": -73.2355707
+},
+{
+  "type": "node",
+  "id": 2425689793,
+  "lat": -39.8145145,
+  "lon": -73.2353732
+},
+{
+  "type": "node",
+  "id": 2425689794,
+  "lat": -39.8156802,
+  "lon": -73.2350376
+},
+{
+  "type": "node",
+  "id": 2425689795,
+  "lat": -39.8157527,
+  "lon": -73.2359361
+},
+{
+  "type": "node",
+  "id": 2425689800,
+  "lat": -39.8160692,
+  "lon": -73.2354192
+},
+{
+  "type": "node",
+  "id": 2425689801,
+  "lat": -39.8154303,
+  "lon": -73.2362579
+},
+{
+  "type": "node",
+  "id": 4064502557,
+  "lat": -39.8145387,
+  "lon": -73.2357707
+},
+{
+  "type": "node",
+  "id": 4064502564,
+  "lat": -39.8150724,
+  "lon": -73.2361053
+},
+{
+  "type": "node",
+  "id": 5264275884,
+  "lat": -39.8153630,
+  "lon": -73.2358988
+},
+{
+  "type": "node",
+  "id": 5302676346,
+  "lat": -39.8145910,
+  "lon": -73.2354209
+},
+{
+  "type": "node",
+  "id": 5302676347,
+  "lat": -39.8145879,
+  "lon": -73.2351680
+},
+{
+  "type": "node",
+  "id": 8697501355,
+  "lat": -39.8159042,
+  "lon": -73.2358918
+},
+{
+  "type": "node",
+  "id": 8697501357,
+  "lat": -39.8161316,
+  "lon": -73.2354684
+},
+{
+  "type": "node",
+  "id": 12463271505,
+  "lat": -39.8142472,
+  "lon": -73.2354399
+},
+{
+  "type": "node",
+  "id": 12463271508,
+  "lat": -39.8149124,
+  "lon": -73.2356174
+},
+{
+  "type": "node",
+  "id": 12463271511,
+  "lat": -39.8150438,
+  "lon": -73.2357020
+},
+{
+  "type": "node",
+  "id": 12463271524,
+  "lat": -39.8146090,
+  "lon": -73.2351061
+},
+{
+  "type": "node",
+  "id": 2886983073,
+  "lat": -39.6437390,
+  "lon": -72.3334006
+},
+{
+  "type": "node",
+  "id": 2886983074,
+  "lat": -39.6436512,
+  "lon": -72.3333435
+},
+{
+  "type": "node",
+  "id": 2886983075,
+  "lat": -39.6437024,
+  "lon": -72.3331376
+},
+{
+  "type": "node",
+  "id": 2886983076,
+  "lat": -39.6435073,
+  "lon": -72.3330806
+},
+{
+  "type": "node",
+  "id": 2886983077,
+  "lat": -39.6435951,
+  "lon": -72.3326973
+},
+{
+  "type": "node",
+  "id": 2886983078,
+  "lat": -39.6439195,
+  "lon": -72.3328177
+},
+{
+  "type": "node",
+  "id": 2886983079,
+  "lat": -39.6437610,
+  "lon": -72.3334069
+},
+{
+  "type": "node",
+  "id": 6095650714,
+  "lat": -39.6443398,
+  "lon": -72.3359773
+},
+{
+  "type": "node",
+  "id": 6095650719,
+  "lat": -39.6444573,
+  "lon": -72.3357938
+},
+{
+  "type": "node",
+  "id": 6573375962,
+  "lat": -39.6446506,
+  "lon": -72.3364345
+},
+{
+  "type": "node",
+  "id": 6573375963,
+  "lat": -39.6443641,
+  "lon": -72.3367790
+},
+{
+  "type": "node",
+  "id": 7297550759,
+  "lat": -39.6447693,
+  "lon": -72.3360416
+},
+{
+  "type": "node",
+  "id": 11167056117,
+  "lat": -39.6447231,
+  "lon": -72.3365363
+},
+{
+  "type": "node",
+  "id": 11167056118,
+  "lat": -39.6440175,
+  "lon": -72.3371655
+},
+{
+  "type": "node",
+  "id": 11167056148,
+  "lat": -39.6443397,
+  "lon": -72.3359303
+},
+{
+  "type": "node",
+  "id": 11167056149,
+  "lat": -39.6447755,
+  "lon": -72.3364668
+},
+{
+  "type": "node",
+  "id": 11167056150,
+  "lat": -39.6449768,
+  "lon": -72.3362200
+},
+{
+  "type": "node",
+  "id": 11167056151,
+  "lat": -39.6442870,
+  "lon": -72.3360416
+},
+{
+  "type": "node",
+  "id": 11167056152,
+  "lat": -39.6442292,
+  "lon": -72.3360564
+},
+{
+  "type": "node",
+  "id": 11167056153,
+  "lat": -39.6436705,
+  "lon": -72.3366746
+},
+{
+  "type": "node",
+  "id": 4807718555,
+  "lat": -39.2825208,
+  "lon": -72.2296248
+},
+{
+  "type": "node",
+  "id": 4807718556,
+  "lat": -39.2828082,
+  "lon": -72.2299527
+},
+{
+  "type": "node",
+  "id": 4807718557,
+  "lat": -39.2831202,
+  "lon": -72.2294999
+},
+{
+  "type": "node",
+  "id": 4807718558,
+  "lat": -39.2828320,
+  "lon": -72.2291721
+},
+{
+  "type": "node",
+  "id": 4807718559,
+  "lat": -39.2823345,
+  "lon": -72.2306229
+},
+{
+  "type": "node",
+  "id": 4807718560,
+  "lat": -39.2820387,
+  "lon": -72.2302839
+},
+{
+  "type": "node",
+  "id": 4807718561,
+  "lat": -39.2824192,
+  "lon": -72.2297294
+},
+{
+  "type": "node",
+  "id": 4807718562,
+  "lat": -39.2822376,
+  "lon": -72.2303843
+},
+{
+  "type": "node",
+  "id": 4807718563,
+  "lat": -39.2823835,
+  "lon": -72.2305515
+},
+{
+  "type": "node",
+  "id": 4807718564,
+  "lat": -39.2825698,
+  "lon": -72.2299088
+},
+{
+  "type": "node",
+  "id": 4807718565,
+  "lat": -39.2827109,
+  "lon": -72.2300632
+},
+{
+  "type": "node",
+  "id": 4807718566,
+  "lat": -39.2824760,
+  "lon": -72.2304129
+},
+{
+  "type": "node",
+  "id": 4807718567,
+  "lat": -39.2823317,
+  "lon": -72.2302495
+},
+{
+  "type": "node",
+  "id": 4873082687,
+  "lat": -39.2825926,
+  "lon": -72.2302437
+},
+{
+  "type": "node",
+  "id": 4873082842,
+  "lat": -39.2827191,
+  "lon": -72.2293378
+},
+{
+  "type": "node",
+  "id": 9080920522,
+  "lat": -39.2829857,
+  "lon": -72.2293469
+},
+{
+  "type": "node",
+  "id": 9080920524,
+  "lat": -39.2827329,
+  "lon": -72.2293175
+},
+{
+  "type": "node",
+  "id": 11815834376,
+  "lat": -38.7116170,
+  "lon": -73.1684278
+},
+{
+  "type": "node",
+  "id": 11815834377,
+  "lat": -38.7116552,
+  "lon": -73.1686597
+},
+{
+  "type": "node",
+  "id": 11815834378,
+  "lat": -38.7123047,
+  "lon": -73.1684755
+},
+{
+  "type": "node",
+  "id": 11815834379,
+  "lat": -38.7122804,
+  "lon": -73.1682518
+},
+{
+  "type": "node",
+  "id": 9175217492,
+  "lat": -38.1963809,
+  "lon": -72.9947844
+},
+{
+  "type": "node",
+  "id": 9175217493,
+  "lat": -38.1964553,
+  "lon": -72.9945163
+},
+{
+  "type": "node",
+  "id": 9175217494,
+  "lat": -38.1966830,
+  "lon": -72.9946186
+},
+{
+  "type": "node",
+  "id": 9175217495,
+  "lat": -38.1966236,
+  "lon": -72.9948326
+},
+{
+  "type": "node",
+  "id": 9175217496,
+  "lat": -38.1965923,
+  "lon": -72.9948794
+},
+{
+  "type": "node",
+  "id": 10231640277,
+  "lat": -38.1966073,
+  "lon": -72.9948253
+},
+{
+  "type": "node",
+  "id": 4066768570,
+  "lat": -38.9867047,
+  "lon": -72.6431364
+},
+{
+  "type": "node",
+  "id": 4066768571,
+  "lat": -38.9870878,
+  "lon": -72.6428678
+},
+{
+  "type": "node",
+  "id": 4066768575,
+  "lat": -38.9868850,
+  "lon": -72.6432753
+},
+{
+  "type": "node",
+  "id": 8399432562,
+  "lat": -38.9869175,
+  "lon": -72.6432940
+},
+{
+  "type": "node",
+  "id": 8399432563,
+  "lat": -38.9872886,
+  "lon": -72.6431652
+},
+{
+  "type": "node",
+  "id": 8399432564,
+  "lat": -38.9872426,
+  "lon": -72.6428330
+},
+{
+  "type": "node",
+  "id": 10970058434,
+  "lat": -38.9869153,
+  "lon": -72.6427231
+},
+{
+  "type": "node",
+  "id": 10970058441,
+  "lat": -38.9872634,
+  "lon": -72.6430166
+},
+{
+  "type": "node",
+  "id": 11924124146,
+  "lat": -38.7608492,
+  "lon": -72.7490501
+},
+{
+  "type": "node",
+  "id": 11924124147,
+  "lat": -38.7612374,
+  "lon": -72.7489811
+},
+{
+  "type": "node",
+  "id": 11924124148,
+  "lat": -38.7611298,
+  "lon": -72.7467183
+},
+{
+  "type": "node",
+  "id": 11924124149,
+  "lat": -38.7607339,
+  "lon": -72.7467282
+},
+{
+  "type": "node",
+  "id": 1055896523,
+  "lat": -38.7342248,
+  "lon": -72.5803311
+},
+{
+  "type": "node",
+  "id": 1055897164,
+  "lat": -38.7335870,
+  "lon": -72.5799347
+},
+{
+  "type": "node",
+  "id": 1055897355,
+  "lat": -38.7343030,
+  "lon": -72.5798559
+},
+{
+  "type": "node",
+  "id": 1055897509,
+  "lat": -38.7335515,
+  "lon": -72.5801300
+},
+{
+  "type": "node",
+  "id": 1055897686,
+  "lat": -38.7339405,
+  "lon": -72.5797584
+},
+{
+  "type": "node",
+  "id": 4147370458,
+  "lat": -38.7337275,
+  "lon": -72.5803369
+},
+{
+  "type": "node",
+  "id": 4147370462,
+  "lat": -38.7339792,
+  "lon": -72.5804057
+},
+{
+  "type": "node",
+  "id": 4147370463,
+  "lat": -38.7335432,
+  "lon": -72.5805103
+},
+{
+  "type": "node",
+  "id": 4147370465,
+  "lat": -38.7334425,
+  "lon": -72.5804827
+},
+{
+  "type": "node",
+  "id": 4147370466,
+  "lat": -38.7335655,
+  "lon": -72.5803760
+},
+{
+  "type": "node",
+  "id": 4147370467,
+  "lat": -38.7339492,
+  "lon": -72.5805863
+},
+{
+  "type": "node",
+  "id": 4147370470,
+  "lat": -38.7340066,
+  "lon": -72.5806021
+},
+{
+  "type": "node",
+  "id": 4147370477,
+  "lat": -38.7337142,
+  "lon": -72.5804167
+},
+{
+  "type": "node",
+  "id": 4259624143,
+  "lat": -38.7333060,
+  "lon": -72.5802279
+},
+{
+  "type": "node",
+  "id": 4259624144,
+  "lat": -38.7333306,
+  "lon": -72.5800687
+},
+{
+  "type": "node",
+  "id": 4259624145,
+  "lat": -38.7333542,
+  "lon": -72.5804597
+},
+{
+  "type": "node",
+  "id": 4259624146,
+  "lat": -38.7333854,
+  "lon": -72.5802490
+},
+{
+  "type": "node",
+  "id": 4259624152,
+  "lat": -38.7336232,
+  "lon": -72.5796792
+},
+{
+  "type": "node",
+  "id": 4259624156,
+  "lat": -38.7339980,
+  "lon": -72.5806536
+},
+{
+  "type": "node",
+  "id": 4259624162,
+  "lat": -38.7341729,
+  "lon": -72.5806960
+},
+{
+  "type": "node",
+  "id": 2368044186,
+  "lat": -38.7164992,
+  "lon": -72.5688575
+},
+{
+  "type": "node",
+  "id": 8434938377,
+  "lat": -38.7156987,
+  "lon": -72.5688654
+},
+{
+  "type": "node",
+  "id": 8434938378,
+  "lat": -38.7158180,
+  "lon": -72.5689352
+},
+{
+  "type": "node",
+  "id": 8434938379,
+  "lat": -38.7162492,
+  "lon": -72.5689378
+},
+{
+  "type": "node",
+  "id": 2737224380,
+  "lat": -38.7160005,
+  "lon": -72.5674454
+},
+{
+  "type": "node",
+  "id": 12316067898,
+  "lat": -38.7155063,
+  "lon": -72.5660948
+},
+{
+  "type": "node",
+  "id": 12316067899,
+  "lat": -38.7159122,
+  "lon": -72.5671708
+},
+{
+  "type": "node",
+  "id": 8434938375,
+  "lat": -38.7152279,
+  "lon": -72.5662503
+},
+{
+  "type": "node",
+  "id": 8434938376,
+  "lat": -38.7148867,
+  "lon": -72.5664970
+},
+{
+  "type": "node",
+  "id": 3973954552,
+  "lat": -38.7097551,
+  "lon": -72.5572032
+},
+{
+  "type": "node",
+  "id": 3973954556,
+  "lat": -38.7100941,
+  "lon": -72.5575626
+},
+{
+  "type": "node",
+  "id": 3973958659,
+  "lat": -38.7110567,
+  "lon": -72.5559613
+},
+{
+  "type": "node",
+  "id": 3973958660,
+  "lat": -38.7109369,
+  "lon": -72.5561641
+},
+{
+  "type": "node",
+  "id": 3973958677,
+  "lat": -38.7105083,
+  "lon": -72.5568920
+},
+{
+  "type": "node",
+  "id": 8432292497,
+  "lat": -38.7107774,
+  "lon": -72.5554909
+},
+{
+  "type": "node",
+  "id": 8432292514,
+  "lat": -38.7102117,
+  "lon": -72.5564265
+},
+{
+  "type": "node",
+  "id": 6552081457,
+  "lat": -38.4106460,
+  "lon": -72.7800742
+},
+{
+  "type": "node",
+  "id": 6552081458,
+  "lat": -38.4106687,
+  "lon": -72.7797755
+},
+{
+  "type": "node",
+  "id": 6552081459,
+  "lat": -38.4106503,
+  "lon": -72.7797732
+},
+{
+  "type": "node",
+  "id": 6552081460,
+  "lat": -38.4106638,
+  "lon": -72.7795960
+},
+{
+  "type": "node",
+  "id": 6552081461,
+  "lat": -38.4105693,
+  "lon": -72.7800647
+},
+{
+  "type": "node",
+  "id": 6552081462,
+  "lat": -38.4106056,
+  "lon": -72.7795887
+},
+{
+  "type": "node",
+  "id": 3977265187,
+  "lat": -38.2477281,
+  "lon": -72.6688476
+},
+{
+  "type": "node",
+  "id": 3977265188,
+  "lat": -38.2477429,
+  "lon": -72.6684479
+},
+{
+  "type": "node",
+  "id": 3977265189,
+  "lat": -38.2483025,
+  "lon": -72.6684961
+},
+{
+  "type": "node",
+  "id": 3977265190,
+  "lat": -38.2482878,
+  "lon": -72.6688790
+},
+{
+  "type": "node",
+  "id": 1738160337,
+  "lat": -38.5375568,
+  "lon": -72.4350129
+},
+{
+  "type": "node",
+  "id": 7274605254,
+  "lat": -38.5379937,
+  "lon": -72.4358839
+},
+{
+  "type": "node",
+  "id": 7274605255,
+  "lat": -38.5381434,
+  "lon": -72.4352917
+},
+{
+  "type": "node",
+  "id": 7274605256,
+  "lat": -38.5373759,
+  "lon": -72.4355844
+},
+{
+  "type": "node",
+  "id": 7278743815,
+  "lat": -38.5190286,
+  "lon": -72.4286229
+},
+{
+  "type": "node",
+  "id": 7278743816,
+  "lat": -38.5191399,
+  "lon": -72.4283734
+},
+{
+  "type": "node",
+  "id": 7278743817,
+  "lat": -38.5192994,
+  "lon": -72.4284727
+},
+{
+  "type": "node",
+  "id": 7278743818,
+  "lat": -38.5191797,
+  "lon": -72.4287355
+},
+{
+  "type": "node",
+  "id": 3622705060,
+  "lat": -37.7981730,
+  "lon": -73.4003500
+},
+{
+  "type": "node",
+  "id": 11943130214,
+  "lat": -37.8009392,
+  "lon": -73.4009091
+},
+{
+  "type": "node",
+  "id": 11943130215,
+  "lat": -37.8010403,
+  "lon": -73.4004437
+},
+{
+  "type": "node",
+  "id": 11943130216,
+  "lat": -37.8012405,
+  "lon": -73.4005134
+},
+{
+  "type": "node",
+  "id": 11943130217,
+  "lat": -37.8011394,
+  "lon": -73.4009788
+},
+{
+  "type": "node",
+  "id": 11943130218,
+  "lat": -37.8009914,
+  "lon": -73.4006686
+},
+{
+  "type": "node",
+  "id": 11943130221,
+  "lat": -37.8010864,
+  "lon": -73.4009603
+},
+{
+  "type": "node",
+  "id": 11943130223,
+  "lat": -37.8009709,
+  "lon": -73.4007628
+},
+{
+  "type": "node",
+  "id": 2851761730,
+  "lat": -37.8022307,
+  "lon": -73.3994741
+},
+{
+  "type": "node",
+  "id": 2851761731,
+  "lat": -37.8024890,
+  "lon": -73.3995598
+},
+{
+  "type": "node",
+  "id": 2851993307,
+  "lat": -37.8024303,
+  "lon": -73.3998397
+},
+{
+  "type": "node",
+  "id": 2851993308,
+  "lat": -37.8021587,
+  "lon": -73.3997069
+},
+{
+  "type": "node",
+  "id": 2851993309,
+  "lat": -37.8022084,
+  "lon": -73.3994667
+},
+{
+  "type": "node",
+  "id": 2852066003,
+  "lat": -37.7981821,
+  "lon": -73.4000230
+},
+{
+  "type": "node",
+  "id": 2852066004,
+  "lat": -37.7982494,
+  "lon": -73.4000466
+},
+{
+  "type": "node",
+  "id": 2852066005,
+  "lat": -37.7982086,
+  "lon": -73.4002362
+},
+{
+  "type": "node",
+  "id": 2852066006,
+  "lat": -37.7981419,
+  "lon": -73.4002081
+},
+{
+  "type": "node",
+  "id": 2852190767,
+  "lat": -37.8021962,
+  "lon": -73.3997620
+},
+{
+  "type": "node",
+  "id": 2852190768,
+  "lat": -37.8022045,
+  "lon": -73.3997221
+},
+{
+  "type": "node",
+  "id": 3622705057,
+  "lat": -37.7980200,
+  "lon": -73.4002946
+},
+{
+  "type": "node",
+  "id": 3622705058,
+  "lat": -37.7980383,
+  "lon": -73.4002139
+},
+{
+  "type": "node",
+  "id": 3622705059,
+  "lat": -37.7981912,
+  "lon": -73.4002693
+},
+{
+  "type": "node",
+  "id": 3622705061,
+  "lat": -37.7980878,
+  "lon": -73.3999774
+},
+{
+  "type": "node",
+  "id": 3622705062,
+  "lat": -37.7981821,
+  "lon": -73.4000096
+},
+{
+  "type": "node",
+  "id": 3622705063,
+  "lat": -37.7981310,
+  "lon": -73.4002475
+},
+{
+  "type": "node",
+  "id": 3996428469,
+  "lat": -37.8024366,
+  "lon": -73.3998095
+},
+{
+  "type": "node",
+  "id": 3996428471,
+  "lat": -37.8024785,
+  "lon": -73.3996104
+},
+{
+  "type": "node",
+  "id": 2051520939,
+  "lat": -37.6142233,
+  "lon": -73.6460291
+},
+{
+  "type": "node",
+  "id": 2051520940,
+  "lat": -37.6142522,
+  "lon": -73.6462221
+},
+{
+  "type": "node",
+  "id": 2051520946,
+  "lat": -37.6143373,
+  "lon": -73.6462018
+},
+{
+  "type": "node",
+  "id": 2051520947,
+  "lat": -37.6143310,
+  "lon": -73.6461591
+},
+{
+  "type": "node",
+  "id": 2051520949,
+  "lat": -37.6143433,
+  "lon": -73.6460005
+},
+{
+  "type": "node",
+  "id": 2051520950,
+  "lat": -37.6143658,
+  "lon": -73.6461508
+},
+{
+  "type": "node",
+  "id": 3761063401,
+  "lat": -37.4774230,
+  "lon": -73.3433562
+},
+{
+  "type": "node",
+  "id": 3761063402,
+  "lat": -37.4774773,
+  "lon": -73.3432514
+},
+{
+  "type": "node",
+  "id": 3761063403,
+  "lat": -37.4776674,
+  "lon": -73.3433969
+},
+{
+  "type": "node",
+  "id": 3761063404,
+  "lat": -37.4776388,
+  "lon": -73.3434510
+},
+{
+  "type": "node",
+  "id": 3761063405,
+  "lat": -37.4775880,
+  "lon": -73.3434069
+},
+{
+  "type": "node",
+  "id": 3761063413,
+  "lat": -37.4776729,
+  "lon": -73.3433868
+},
+{
+  "type": "node",
+  "id": 3761063415,
+  "lat": -37.4776097,
+  "lon": -73.3433322
+},
+{
+  "type": "node",
+  "id": 3761063418,
+  "lat": -37.4774925,
+  "lon": -73.3432616
+},
+{
+  "type": "node",
+  "id": 3761063421,
+  "lat": -37.4775983,
+  "lon": -73.3433531
+},
+{
+  "type": "node",
+  "id": 6525652295,
+  "lat": -37.4775774,
+  "lon": -73.3434160
+},
+{
+  "type": "node",
+  "id": 6525652296,
+  "lat": -37.4774470,
+  "lon": -73.3433099
+},
+{
+  "type": "node",
+  "id": 6525652314,
+  "lat": -37.4775348,
+  "lon": -73.3434525
+},
+{
+  "type": "node",
+  "id": 1085613811,
+  "lat": -37.8003894,
+  "lon": -72.6962167
+},
+{
+  "type": "node",
+  "id": 1085613835,
+  "lat": -37.8007977,
+  "lon": -72.6963497
+},
+{
+  "type": "node",
+  "id": 1085614217,
+  "lat": -37.8010845,
+  "lon": -72.6962582
+},
+{
+  "type": "node",
+  "id": 1085614232,
+  "lat": -37.8014073,
+  "lon": -72.6973215
+},
+{
+  "type": "node",
+  "id": 1085614404,
+  "lat": -37.8011582,
+  "lon": -72.6959177
+},
+{
+  "type": "node",
+  "id": 1085614832,
+  "lat": -37.8003371,
+  "lon": -72.6969499
+},
+{
+  "type": "node",
+  "id": 1085615027,
+  "lat": -37.8016635,
+  "lon": -72.6960708
+},
+{
+  "type": "node",
+  "id": 1085615079,
+  "lat": -37.8008372,
+  "lon": -72.6961741
+},
+{
+  "type": "node",
+  "id": 4554040781,
+  "lat": -38.0646594,
+  "lon": -72.3780739
+},
+{
+  "type": "node",
+  "id": 4554040784,
+  "lat": -38.0647941,
+  "lon": -72.3780039
+},
+{
+  "type": "node",
+  "id": 4554040782,
+  "lat": -38.0644334,
+  "lon": -72.3773684
+},
+{
+  "type": "node",
+  "id": 4554040783,
+  "lat": -38.0645623,
+  "lon": -72.3772853
+},
+{
+  "type": "node",
+  "id": 1245174042,
+  "lat": -37.5004177,
+  "lon": -72.6874609
+},
+{
+  "type": "node",
+  "id": 1245174326,
+  "lat": -37.5010806,
+  "lon": -72.6869416
+},
+{
+  "type": "node",
+  "id": 6554145048,
+  "lat": -37.5004685,
+  "lon": -72.6859810
+},
+{
+  "type": "node",
+  "id": 6554145083,
+  "lat": -37.4999055,
+  "lon": -72.6864220
+},
+{
+  "type": "node",
+  "id": 8286785920,
+  "lat": -37.5003907,
+  "lon": -72.6860419
+},
+{
+  "type": "node",
+  "id": 8286785977,
+  "lat": -37.5004086,
+  "lon": -72.6860279
+},
+{
+  "type": "node",
+  "id": 8286785981,
+  "lat": -37.5007736,
+  "lon": -72.6863189
+},
+{
+  "type": "node",
+  "id": 8286785987,
+  "lat": -37.5004447,
+  "lon": -72.6859997
+},
+{
+  "type": "node",
+  "id": 8286785988,
+  "lat": -37.5004331,
+  "lon": -72.6860087
+},
+{
+  "type": "node",
+  "id": 8286785994,
+  "lat": -37.5003843,
+  "lon": -72.6860469
+},
+{
+  "type": "node",
+  "id": 6554169988,
+  "lat": -37.5005685,
+  "lon": -72.6859027
+},
+{
+  "type": "node",
+  "id": 8286785995,
+  "lat": -37.5004932,
+  "lon": -72.6859617
+},
+{
+  "type": "node",
+  "id": 4548809896,
+  "lat": -37.5849716,
+  "lon": -72.5269691
+},
+{
+  "type": "node",
+  "id": 4548809897,
+  "lat": -37.5849272,
+  "lon": -72.5264942
+},
+{
+  "type": "node",
+  "id": 4548809898,
+  "lat": -37.5853228,
+  "lon": -72.5264759
+},
+{
+  "type": "node",
+  "id": 5465550599,
+  "lat": -37.5853589,
+  "lon": -72.5269389
+},
+{
+  "type": "node",
+  "id": 1520245843,
+  "lat": -37.4512447,
+  "lon": -72.3386763
+},
+{
+  "type": "node",
+  "id": 1520245868,
+  "lat": -37.4522876,
+  "lon": -72.3397563
+},
+{
+  "type": "node",
+  "id": 1520245989,
+  "lat": -37.4518099,
+  "lon": -72.3392546
+},
+{
+  "type": "node",
+  "id": 1520245996,
+  "lat": -37.4515298,
+  "lon": -72.3389628
+},
+{
+  "type": "node",
+  "id": 11695070393,
+  "lat": -37.4530053,
+  "lon": -72.3387159
+},
+{
+  "type": "node",
+  "id": 11695070414,
+  "lat": -37.4526309,
+  "lon": -72.3392586
+},
+{
+  "type": "node",
+  "id": 1520245795,
+  "lat": -37.4515628,
+  "lon": -72.3380461
+},
+{
+  "type": "node",
+  "id": 1520245857,
+  "lat": -37.4512927,
+  "lon": -72.3377138
+},
+{
+  "type": "node",
+  "id": 1520245932,
+  "lat": -37.4527342,
+  "lon": -72.3378247
+},
+{
+  "type": "node",
+  "id": 1520245959,
+  "lat": -37.4518590,
+  "lon": -72.3370943
+},
+{
+  "type": "node",
+  "id": 1520246044,
+  "lat": -37.4532468,
+  "lon": -72.3384083
+},
+{
+  "type": "node",
+  "id": 1520246056,
+  "lat": -37.4523869,
+  "lon": -72.3376227
+},
+{
+  "type": "node",
+  "id": 1783204997,
+  "lat": -37.4514029,
+  "lon": -72.3375893
+},
+{
+  "type": "node",
+  "id": 1783205074,
+  "lat": -37.4519687,
+  "lon": -72.3372055
+},
+{
+  "type": "node",
+  "id": 3260091143,
+  "lat": -37.4526558,
+  "lon": -72.3379502
+},
+{
+  "type": "node",
+  "id": 11670719929,
+  "lat": -37.4516125,
+  "lon": -72.3381082
+},
+{
+  "type": "node",
+  "id": 11670719930,
+  "lat": -37.4514419,
+  "lon": -72.3383786
+},
+{
+  "type": "node",
+  "id": 7184644540,
+  "lat": -37.6672055,
+  "lon": -72.0149196
+},
+{
+  "type": "node",
+  "id": 7184644541,
+  "lat": -37.6676580,
+  "lon": -72.0150238
+},
+{
+  "type": "node",
+  "id": 7184644542,
+  "lat": -37.6676836,
+  "lon": -72.0148861
+},
+{
+  "type": "node",
+  "id": 7184644543,
+  "lat": -37.6676897,
+  "lon": -72.0146696
+},
+{
+  "type": "node",
+  "id": 7184644544,
+  "lat": -37.6676277,
+  "lon": -72.0146144
+},
+{
+  "type": "node",
+  "id": 7184644545,
+  "lat": -37.6675742,
+  "lon": -72.0148414
+},
+{
+  "type": "node",
+  "id": 7184644546,
+  "lat": -37.6674416,
+  "lon": -72.0146957
+},
+{
+  "type": "node",
+  "id": 7184644547,
+  "lat": -37.6673475,
+  "lon": -72.0146581
+},
+{
+  "type": "node",
+  "id": 7184644548,
+  "lat": -37.6673689,
+  "lon": -72.0145820
+},
+{
+  "type": "node",
+  "id": 7184644549,
+  "lat": -37.6673224,
+  "lon": -72.0145675
+},
+{
+  "type": "node",
+  "id": 7184644550,
+  "lat": -37.6672913,
+  "lon": -72.0146772
+},
+{
+  "type": "node",
+  "id": 7184644551,
+  "lat": -37.6672416,
+  "lon": -72.0147883
+},
+{
+  "type": "node",
+  "id": 7184644552,
+  "lat": -37.6674154,
+  "lon": -72.0147571
+},
+{
+  "type": "node",
+  "id": 9454031366,
+  "lat": -37.6675227,
+  "lon": -72.0150371
+},
+{
+  "type": "node",
+  "id": 9454031367,
+  "lat": -37.6675449,
+  "lon": -72.0149696
+},
+{
+  "type": "node",
+  "id": 9454031368,
+  "lat": -37.6677339,
+  "lon": -72.0149041
+},
+{
+  "type": "node",
+  "id": 9454031369,
+  "lat": -37.6677718,
+  "lon": -72.0147053
+},
+{
+  "type": "node",
+  "id": 9454031370,
+  "lat": -37.6677005,
+  "lon": -72.0146420
+},
+{
+  "type": "node",
+  "id": 1222421373,
+  "lat": -36.9867656,
+  "lon": -73.1555792
+},
+{
+  "type": "node",
+  "id": 1222421593,
+  "lat": -36.9865077,
+  "lon": -73.1546595
+},
+{
+  "type": "node",
+  "id": 1222421723,
+  "lat": -36.9863150,
+  "lon": -73.1553647
+},
+{
+  "type": "node",
+  "id": 1832459670,
+  "lat": -36.9869568,
+  "lon": -73.1548585
+},
+{
+  "type": "node",
+  "id": 4595638180,
+  "lat": -36.9594481,
+  "lon": -73.0112569
+},
+{
+  "type": "node",
+  "id": 4595638181,
+  "lat": -36.9591644,
+  "lon": -73.0114309
+},
+{
+  "type": "node",
+  "id": 4595626388,
+  "lat": -36.9541045,
+  "lon": -73.0216621
+},
+{
+  "type": "node",
+  "id": 4595626589,
+  "lat": -36.9543489,
+  "lon": -73.0221342
+},
+{
+  "type": "node",
+  "id": 4595626590,
+  "lat": -36.9534100,
+  "lon": -73.0227002
+},
+{
+  "type": "node",
+  "id": 4595626591,
+  "lat": -36.9532814,
+  "lon": -73.0224668
+},
+{
+  "type": "node",
+  "id": 1484631017,
+  "lat": -36.9587959,
+  "lon": -73.0116757
+},
+{
+  "type": "node",
+  "id": 1484631040,
+  "lat": -36.9583066,
+  "lon": -73.0117078
+},
+{
+  "type": "node",
+  "id": 1484631079,
+  "lat": -36.9579232,
+  "lon": -73.0100738
+},
+{
+  "type": "node",
+  "id": 1484631088,
+  "lat": -36.9581524,
+  "lon": -73.0114886
+},
+{
+  "type": "node",
+  "id": 1484631094,
+  "lat": -36.9578290,
+  "lon": -73.0109797
+},
+{
+  "type": "node",
+  "id": 1484631097,
+  "lat": -36.9584271,
+  "lon": -73.0118618
+},
+{
+  "type": "node",
+  "id": 4595534558,
+  "lat": -36.9574827,
+  "lon": -73.0097306
+},
+{
+  "type": "node",
+  "id": 4595534559,
+  "lat": -36.9571753,
+  "lon": -73.0099125
+},
+{
+  "type": "node",
+  "id": 4595534560,
+  "lat": -36.9577222,
+  "lon": -73.0101804
+},
+{
+  "type": "node",
+  "id": 4595638178,
+  "lat": -36.9586361,
+  "lon": -73.0100468
+},
+{
+  "type": "node",
+  "id": 4595638179,
+  "lat": -36.9588940,
+  "lon": -73.0099265
+},
+{
+  "type": "node",
+  "id": 12123361510,
+  "lat": -36.9580970,
+  "lon": -73.0114072
+},
+{
+  "type": "node",
+  "id": 12123361511,
+  "lat": -36.9581184,
+  "lon": -73.0114372
+},
+{
+  "type": "node",
+  "id": 12123361512,
+  "lat": -36.9574163,
+  "lon": -73.0103687
+},
+{
+  "type": "node",
+  "id": 12123361514,
+  "lat": -36.9571412,
+  "lon": -73.0099697
+},
+{
+  "type": "node",
+  "id": 1484631018,
+  "lat": -36.9512354,
+  "lon": -73.0143975
+},
+{
+  "type": "node",
+  "id": 1484631095,
+  "lat": -36.9506052,
+  "lon": -73.0146282
+},
+{
+  "type": "node",
+  "id": 1484631142,
+  "lat": -36.9506704,
+  "lon": -73.0155704
+},
+{
+  "type": "node",
+  "id": 1484631143,
+  "lat": -36.9514861,
+  "lon": -73.0152870
+},
+{
+  "type": "node",
+  "id": 4596966184,
+  "lat": -36.9512861,
+  "lon": -73.0154331
+},
+{
+  "type": "node",
+  "id": 4596966185,
+  "lat": -36.9514909,
+  "lon": -73.0153582
+},
+{
+  "type": "node",
+  "id": 4596966186,
+  "lat": -36.9515594,
+  "lon": -73.0163612
+},
+{
+  "type": "node",
+  "id": 4596966187,
+  "lat": -36.9513826,
+  "lon": -73.0164296
+},
+{
+  "type": "node",
+  "id": 4597247543,
+  "lat": -36.9514549,
+  "lon": -73.0147864
+},
+{
+  "type": "node",
+  "id": 4597247544,
+  "lat": -36.9512904,
+  "lon": -73.0148387
+},
+{
+  "type": "node",
+  "id": 8450183982,
+  "lat": -36.9514790,
+  "lon": -73.0151843
+},
+{
+  "type": "node",
+  "id": 1484627631,
+  "lat": -36.9492654,
+  "lon": -73.0122157
+},
+{
+  "type": "node",
+  "id": 4595626384,
+  "lat": -36.9494339,
+  "lon": -73.0114107
+},
+{
+  "type": "node",
+  "id": 4595626385,
+  "lat": -36.9486871,
+  "lon": -73.0111536
+},
+{
+  "type": "node",
+  "id": 4595626386,
+  "lat": -36.9485264,
+  "lon": -73.0119570
+},
+{
+  "type": "node",
+  "id": 8450163247,
+  "lat": -36.9486396,
+  "lon": -73.0113912
+},
+{
+  "type": "node",
+  "id": 8450163248,
+  "lat": -36.9493354,
+  "lon": -73.0113768
+},
+{
+  "type": "node",
+  "id": 1484617936,
+  "lat": -36.9417417,
+  "lon": -73.0272053
+},
+{
+  "type": "node",
+  "id": 1484631070,
+  "lat": -36.9409024,
+  "lon": -73.0275902
+},
+{
+  "type": "node",
+  "id": 1484631102,
+  "lat": -36.9407027,
+  "lon": -73.0270852
+},
+{
+  "type": "node",
+  "id": 1484631054,
+  "lat": -36.9415348,
+  "lon": -73.0266903
+},
+{
+  "type": "node",
+  "id": 4597033432,
+  "lat": -36.8656779,
+  "lon": -73.0334030
+},
+{
+  "type": "node",
+  "id": 4597033433,
+  "lat": -36.8655502,
+  "lon": -73.0334043
+},
+{
+  "type": "node",
+  "id": 4597033423,
+  "lat": -36.8655610,
+  "lon": -73.0332407
+},
+{
+  "type": "node",
+  "id": 4597033424,
+  "lat": -36.8655599,
+  "lon": -73.0331146
+},
+{
+  "type": "node",
+  "id": 4597033425,
+  "lat": -36.8655717,
+  "lon": -73.0330382
+},
+{
+  "type": "node",
+  "id": 4597033426,
+  "lat": -36.8655889,
+  "lon": -73.0329778
+},
+{
+  "type": "node",
+  "id": 4597033427,
+  "lat": -36.8656189,
+  "lon": -73.0329215
+},
+{
+  "type": "node",
+  "id": 4597033428,
+  "lat": -36.8656972,
+  "lon": -73.0328571
+},
+{
+  "type": "node",
+  "id": 4597033429,
+  "lat": -36.8657434,
+  "lon": -73.0327592
+},
+{
+  "type": "node",
+  "id": 4597033430,
+  "lat": -36.8658314,
+  "lon": -73.0328062
+},
+{
+  "type": "node",
+  "id": 4597033431,
+  "lat": -36.8657305,
+  "lon": -73.0331535
+},
+{
+  "type": "node",
+  "id": 2296081653,
+  "lat": -36.8431821,
+  "lon": -73.0096741
+},
+{
+  "type": "node",
+  "id": 2296081654,
+  "lat": -36.8430362,
+  "lon": -73.0101462
+},
+{
+  "type": "node",
+  "id": 2296081655,
+  "lat": -36.8430941,
+  "lon": -73.0101998
+},
+{
+  "type": "node",
+  "id": 2296081656,
+  "lat": -36.8429825,
+  "lon": -73.0105217
+},
+{
+  "type": "node",
+  "id": 2296081657,
+  "lat": -36.8427678,
+  "lon": -73.0105190
+},
+{
+  "type": "node",
+  "id": 2296081658,
+  "lat": -36.8424824,
+  "lon": -73.0101837
+},
+{
+  "type": "node",
+  "id": 2296081659,
+  "lat": -36.8424824,
+  "lon": -73.0101354
+},
+{
+  "type": "node",
+  "id": 2296081660,
+  "lat": -36.8427056,
+  "lon": -73.0094193
+},
+{
+  "type": "node",
+  "id": 6258991038,
+  "lat": -36.8425032,
+  "lon": -73.0100687
+},
+{
+  "type": "node",
+  "id": 7202141343,
+  "lat": -36.8425185,
+  "lon": -73.0100195
+},
+{
+  "type": "node",
+  "id": 7103210266,
+  "lat": -36.8298121,
+  "lon": -73.0608215
+},
+{
+  "type": "node",
+  "id": 7103210267,
+  "lat": -36.8296702,
+  "lon": -73.0604769
+},
+{
+  "type": "node",
+  "id": 7103210268,
+  "lat": -36.8298160,
+  "lon": -73.0603833
+},
+{
+  "type": "node",
+  "id": 7103210269,
+  "lat": -36.8299816,
+  "lon": -73.0602769
+},
+{
+  "type": "node",
+  "id": 7103210270,
+  "lat": -36.8301235,
+  "lon": -73.0606215
+},
+{
+  "type": "node",
+  "id": 7103210271,
+  "lat": -36.8299592,
+  "lon": -73.0607270
+},
+{
+  "type": "node",
+  "id": 1977202698,
+  "lat": -36.8193500,
+  "lon": -73.0621836
+},
+{
+  "type": "node",
+  "id": 1977202701,
+  "lat": -36.8188638,
+  "lon": -73.0618322
+},
+{
+  "type": "node",
+  "id": 1977202703,
+  "lat": -36.8189538,
+  "lon": -73.0617650
+},
+{
+  "type": "node",
+  "id": 1977202714,
+  "lat": -36.8189844,
+  "lon": -73.0620430
+},
+{
+  "type": "node",
+  "id": 1977202723,
+  "lat": -36.8191320,
+  "lon": -73.0616550
+},
+{
+  "type": "node",
+  "id": 1977202727,
+  "lat": -36.8191303,
+  "lon": -73.0623207
+},
+{
+  "type": "node",
+  "id": 1977202729,
+  "lat": -36.8189302,
+  "lon": -73.0617918
+},
+{
+  "type": "node",
+  "id": 1977230961,
+  "lat": -36.8192580,
+  "lon": -73.0622410
+},
+{
+  "type": "node",
+  "id": 1977230962,
+  "lat": -36.8193216,
+  "lon": -73.0622013
+},
+{
+  "type": "node",
+  "id": 1977230997,
+  "lat": -36.8192185,
+  "lon": -73.0622657
+},
+{
+  "type": "node",
+  "id": 1984702151,
+  "lat": -36.8193989,
+  "lon": -73.0619659
+},
+{
+  "type": "node",
+  "id": 1984702158,
+  "lat": -36.8192890,
+  "lon": -73.0620359
+},
+{
+  "type": "node",
+  "id": 1984712978,
+  "lat": -36.8191857,
+  "lon": -73.0617853
+},
+{
+  "type": "node",
+  "id": 1984712980,
+  "lat": -36.8192378,
+  "lon": -73.0617515
+},
+{
+  "type": "node",
+  "id": 1984712985,
+  "lat": -36.8191448,
+  "lon": -73.0616861
+},
+{
+  "type": "node",
+  "id": 1984712991,
+  "lat": -36.8192951,
+  "lon": -73.0617142
+},
+{
+  "type": "node",
+  "id": 1984712998,
+  "lat": -36.8191756,
+  "lon": -73.0617607
+},
+{
+  "type": "node",
+  "id": 4232986721,
+  "lat": -36.8184908,
+  "lon": -73.0597786
+},
+{
+  "type": "node",
+  "id": 4232986734,
+  "lat": -36.8183245,
+  "lon": -73.0603045
+},
+{
+  "type": "node",
+  "id": 4232986752,
+  "lat": -36.8185469,
+  "lon": -73.0604208
+},
+{
+  "type": "node",
+  "id": 4232986754,
+  "lat": -36.8186264,
+  "lon": -73.0601045
+},
+{
+  "type": "node",
+  "id": 4232986767,
+  "lat": -36.8184141,
+  "lon": -73.0605123
+},
+{
+  "type": "node",
+  "id": 4232986776,
+  "lat": -36.8184659,
+  "lon": -73.0604787
+},
+{
+  "type": "node",
+  "id": 4232987097,
+  "lat": -36.8184581,
+  "lon": -73.0602148
+},
+{
+  "type": "node",
+  "id": 4232998034,
+  "lat": -36.8185119,
+  "lon": -73.0603397
+},
+{
+  "type": "node",
+  "id": 4232998036,
+  "lat": -36.8185033,
+  "lon": -73.0598086
+},
+{
+  "type": "node",
+  "id": 4232998044,
+  "lat": -36.8182750,
+  "lon": -73.0599159
+},
+{
+  "type": "node",
+  "id": 4232998047,
+  "lat": -36.8185075,
+  "lon": -73.0601824
+},
+{
+  "type": "node",
+  "id": 4232998055,
+  "lat": -36.8186038,
+  "lon": -73.0600503
+},
+{
+  "type": "node",
+  "id": 4232998077,
+  "lat": -36.8183795,
+  "lon": -73.0598495
+},
+{
+  "type": "node",
+  "id": 4234160003,
+  "lat": -36.8181826,
+  "lon": -73.0599746
+},
+{
+  "type": "node",
+  "id": 1296778064,
+  "lat": -36.8089207,
+  "lon": -73.0345700
+},
+{
+  "type": "node",
+  "id": 1296778069,
+  "lat": -36.8091913,
+  "lon": -73.0341301
+},
+{
+  "type": "node",
+  "id": 1296778071,
+  "lat": -36.8083032,
+  "lon": -73.0340307
+},
+{
+  "type": "node",
+  "id": 1296778088,
+  "lat": -36.8085624,
+  "lon": -73.0335663
+},
+{
+  "type": "node",
+  "id": 1331314718,
+  "lat": -36.8086974,
+  "lon": -73.0336868
+},
+{
+  "type": "node",
+  "id": 1331314737,
+  "lat": -36.8091551,
+  "lon": -73.0340962
+},
+{
+  "type": "node",
+  "id": 2279926789,
+  "lat": -36.8086373,
+  "lon": -73.0336346
+},
+{
+  "type": "node",
+  "id": 4600842247,
+  "lat": -36.8390866,
+  "lon": -73.0079819
+},
+{
+  "type": "node",
+  "id": 4600842248,
+  "lat": -36.8390855,
+  "lon": -73.0079497
+},
+{
+  "type": "node",
+  "id": 4600842249,
+  "lat": -36.8391059,
+  "lon": -73.0079538
+},
+{
+  "type": "node",
+  "id": 4600842250,
+  "lat": -36.8391338,
+  "lon": -73.0079698
+},
+{
+  "type": "node",
+  "id": 4600842251,
+  "lat": -36.8391810,
+  "lon": -73.0080289
+},
+{
+  "type": "node",
+  "id": 4600842252,
+  "lat": -36.8392347,
+  "lon": -73.0081080
+},
+{
+  "type": "node",
+  "id": 4600842253,
+  "lat": -36.8392680,
+  "lon": -73.0081777
+},
+{
+  "type": "node",
+  "id": 4600842254,
+  "lat": -36.8392841,
+  "lon": -73.0082434
+},
+{
+  "type": "node",
+  "id": 4600842255,
+  "lat": -36.8393163,
+  "lon": -73.0083185
+},
+{
+  "type": "node",
+  "id": 4600842256,
+  "lat": -36.8393517,
+  "lon": -73.0084245
+},
+{
+  "type": "node",
+  "id": 4600842257,
+  "lat": -36.8393517,
+  "lon": -73.0084513
+},
+{
+  "type": "node",
+  "id": 4600842258,
+  "lat": -36.8393388,
+  "lon": -73.0084634
+},
+{
+  "type": "node",
+  "id": 4600842259,
+  "lat": -36.8393055,
+  "lon": -73.0084661
+},
+{
+  "type": "node",
+  "id": 4600842260,
+  "lat": -36.8390683,
+  "lon": -73.0084433
+},
+{
+  "type": "node",
+  "id": 2506680254,
+  "lat": -36.8164548,
+  "lon": -73.0224940
+},
+{
+  "type": "node",
+  "id": 4158789513,
+  "lat": -36.8164079,
+  "lon": -73.0227127
+},
+{
+  "type": "node",
+  "id": 5689511254,
+  "lat": -36.8161399,
+  "lon": -73.0220820
+},
+{
+  "type": "node",
+  "id": 5689511256,
+  "lat": -36.8165127,
+  "lon": -73.0222405
+},
+{
+  "type": "node",
+  "id": 5689511260,
+  "lat": -36.8172553,
+  "lon": -73.0230728
+},
+{
+  "type": "node",
+  "id": 5689511264,
+  "lat": -36.8162961,
+  "lon": -73.0229957
+},
+{
+  "type": "node",
+  "id": 5689511268,
+  "lat": -36.8171185,
+  "lon": -73.0232719
+},
+{
+  "type": "node",
+  "id": 5689511269,
+  "lat": -36.8164478,
+  "lon": -73.0229337
+},
+{
+  "type": "node",
+  "id": 5689511270,
+  "lat": -36.8163997,
+  "lon": -73.0229083
+},
+{
+  "type": "node",
+  "id": 5689511271,
+  "lat": -36.8171736,
+  "lon": -73.0233009
+},
+{
+  "type": "node",
+  "id": 5689511272,
+  "lat": -36.8163438,
+  "lon": -73.0228795
+},
+{
+  "type": "node",
+  "id": 5689511273,
+  "lat": -36.8151786,
+  "lon": -73.0222580
+},
+{
+  "type": "node",
+  "id": 5689511274,
+  "lat": -36.8151697,
+  "lon": -73.0222838
+},
+{
+  "type": "node",
+  "id": 5689511275,
+  "lat": -36.8152404,
+  "lon": -73.0222915
+},
+{
+  "type": "node",
+  "id": 5689511276,
+  "lat": -36.8152315,
+  "lon": -73.0223173
+},
+{
+  "type": "node",
+  "id": 5689511289,
+  "lat": -36.8148518,
+  "lon": -73.0221115
+},
+{
+  "type": "node",
+  "id": 5689511291,
+  "lat": -36.8148375,
+  "lon": -73.0221527
+},
+{
+  "type": "node",
+  "id": 5691957776,
+  "lat": -36.8161542,
+  "lon": -73.0229265
+},
+{
+  "type": "node",
+  "id": 5691957777,
+  "lat": -36.8160523,
+  "lon": -73.0228689
+},
+{
+  "type": "node",
+  "id": 5691957930,
+  "lat": -36.8157540,
+  "lon": -73.0226004
+},
+{
+  "type": "node",
+  "id": 5691957931,
+  "lat": -36.8156625,
+  "lon": -73.0225509
+},
+{
+  "type": "node",
+  "id": 5691957943,
+  "lat": -36.8159069,
+  "lon": -73.0227817
+},
+{
+  "type": "node",
+  "id": 5691957944,
+  "lat": -36.8158907,
+  "lon": -73.0226745
+},
+{
+  "type": "node",
+  "id": 6247329495,
+  "lat": -36.8172232,
+  "lon": -73.0231773
+},
+{
+  "type": "node",
+  "id": 6554210033,
+  "lat": -36.8158804,
+  "lon": -73.0227314
+},
+{
+  "type": "node",
+  "id": 6813312962,
+  "lat": -36.8218448,
+  "lon": -72.9930738
+},
+{
+  "type": "node",
+  "id": 6813312964,
+  "lat": -36.8214377,
+  "lon": -72.9933982
+},
+{
+  "type": "node",
+  "id": 6813312966,
+  "lat": -36.8217496,
+  "lon": -72.9927701
+},
+{
+  "type": "node",
+  "id": 6813312965,
+  "lat": -36.8212959,
+  "lon": -72.9931297
+},
+{
+  "type": "node",
+  "id": 5689511251,
+  "lat": -36.8145920,
+  "lon": -73.0215606
+},
+{
+  "type": "node",
+  "id": 5689511252,
+  "lat": -36.8143977,
+  "lon": -73.0218891
+},
+{
+  "type": "node",
+  "id": 5689511253,
+  "lat": -36.8144107,
+  "lon": -73.0219291
+},
+{
+  "type": "node",
+  "id": 5689511255,
+  "lat": -36.8147519,
+  "lon": -73.0214561
+},
+{
+  "type": "node",
+  "id": 5689511288,
+  "lat": -36.8147195,
+  "lon": -73.0220887
+},
+{
+  "type": "node",
+  "id": 5691977280,
+  "lat": -36.8144248,
+  "lon": -73.0218383
+},
+{
+  "type": "node",
+  "id": 5691977284,
+  "lat": -36.8144689,
+  "lon": -73.0217510
+},
+{
+  "type": "node",
+  "id": 5691977285,
+  "lat": -36.8146839,
+  "lon": -73.0215702
+},
+{
+  "type": "node",
+  "id": 6554210071,
+  "lat": -36.8146151,
+  "lon": -73.0215526
+},
+{
+  "type": "node",
+  "id": 6554210072,
+  "lat": -36.8146392,
+  "lon": -73.0215559
+},
+{
+  "type": "node",
+  "id": 6554210073,
+  "lat": -36.8145732,
+  "lon": -73.0215854
+},
+{
+  "type": "node",
+  "id": 4600860427,
+  "lat": -36.7191142,
+  "lon": -73.1207152
+},
+{
+  "type": "node",
+  "id": 4600860428,
+  "lat": -36.7192250,
+  "lon": -73.1209700
+},
+{
+  "type": "node",
+  "id": 4600860429,
+  "lat": -36.7186606,
+  "lon": -73.1213951
+},
+{
+  "type": "node",
+  "id": 4600860430,
+  "lat": -36.7185327,
+  "lon": -73.1211188
+},
+{
+  "type": "node",
+  "id": 2068949297,
+  "lat": -36.7113170,
+  "lon": -73.1152379
+},
+{
+  "type": "node",
+  "id": 2068949299,
+  "lat": -36.7113841,
+  "lon": -73.1156332
+},
+{
+  "type": "node",
+  "id": 2068949301,
+  "lat": -36.7113125,
+  "lon": -73.1152654
+},
+{
+  "type": "node",
+  "id": 2068949303,
+  "lat": -36.7113761,
+  "lon": -73.1157411
+},
+{
+  "type": "node",
+  "id": 2068949309,
+  "lat": -36.7111153,
+  "lon": -73.1151195
+},
+{
+  "type": "node",
+  "id": 2068949311,
+  "lat": -36.7109718,
+  "lon": -73.1151429
+},
+{
+  "type": "node",
+  "id": 2068949317,
+  "lat": -36.7111013,
+  "lon": -73.1157622
+},
+{
+  "type": "node",
+  "id": 1312415874,
+  "lat": -37.1037612,
+  "lon": -72.5620008
+},
+{
+  "type": "node",
+  "id": 1312415917,
+  "lat": -37.1036628,
+  "lon": -72.5614966
+},
+{
+  "type": "node",
+  "id": 1312415945,
+  "lat": -37.1032863,
+  "lon": -72.5620866
+},
+{
+  "type": "node",
+  "id": 4595642583,
+  "lat": -36.9737961,
+  "lon": -72.9272525
+},
+{
+  "type": "node",
+  "id": 4595642584,
+  "lat": -36.9738700,
+  "lon": -72.9265082
+},
+{
+  "type": "node",
+  "id": 4595642585,
+  "lat": -36.9732025,
+  "lon": -72.9262467
+},
+{
+  "type": "node",
+  "id": 4595642586,
+  "lat": -36.9730557,
+  "lon": -72.9262292
+},
+{
+  "type": "node",
+  "id": 4595642587,
+  "lat": -36.9730568,
+  "lon": -72.9269708
+},
+{
+  "type": "node",
+  "id": 7333099480,
+  "lat": -36.9738311,
+  "lon": -72.9272179
+},
+{
+  "type": "node",
+  "id": 2595638422,
+  "lat": -36.9649131,
+  "lon": -72.9231831
+},
+{
+  "type": "node",
+  "id": 2595638425,
+  "lat": -36.9646495,
+  "lon": -72.9226628
+},
+{
+  "type": "node",
+  "id": 2595638429,
+  "lat": -36.9651788,
+  "lon": -72.9222792
+},
+{
+  "type": "node",
+  "id": 2595638432,
+  "lat": -36.9654204,
+  "lon": -72.9227722
+},
+{
+  "type": "node",
+  "id": 1312415855,
+  "lat": -37.1031879,
+  "lon": -72.5616307
+},
+{
+  "type": "node",
+  "id": 3222615409,
+  "lat": -37.0361455,
+  "lon": -72.4068094
+},
+{
+  "type": "node",
+  "id": 3222615410,
+  "lat": -37.0361489,
+  "lon": -72.4067494
+},
+{
+  "type": "node",
+  "id": 3222615411,
+  "lat": -37.0358710,
+  "lon": -72.4067245
+},
+{
+  "type": "node",
+  "id": 3222615412,
+  "lat": -37.0358901,
+  "lon": -72.4063897
+},
+{
+  "type": "node",
+  "id": 3222615413,
+  "lat": -37.0360097,
+  "lon": -72.4064005
+},
+{
+  "type": "node",
+  "id": 3222615414,
+  "lat": -37.0360146,
+  "lon": -72.4063146
+},
+{
+  "type": "node",
+  "id": 3222615415,
+  "lat": -37.0357806,
+  "lon": -72.4062936
+},
+{
+  "type": "node",
+  "id": 3222615416,
+  "lat": -37.0357531,
+  "lon": -72.4067742
+},
+{
+  "type": "node",
+  "id": 2047250500,
+  "lat": -36.6435225,
+  "lon": -72.9489915
+},
+{
+  "type": "node",
+  "id": 2047250502,
+  "lat": -36.6435423,
+  "lon": -72.9491644
+},
+{
+  "type": "node",
+  "id": 2047250508,
+  "lat": -36.6438198,
+  "lon": -72.9488680
+},
+{
+  "type": "node",
+  "id": 2047250510,
+  "lat": -36.6439783,
+  "lon": -72.9489322
+},
+{
+  "type": "node",
+  "id": 2047250512,
+  "lat": -36.6440060,
+  "lon": -72.9490755
+},
+{
+  "type": "node",
+  "id": 2391166447,
+  "lat": -37.1634164,
+  "lon": -72.0699944
+},
+{
+  "type": "node",
+  "id": 2391166445,
+  "lat": -37.1637349,
+  "lon": -72.0696511
+},
+{
+  "type": "node",
+  "id": 2391166446,
+  "lat": -37.1635297,
+  "lon": -72.0693587
+},
+{
+  "type": "node",
+  "id": 2391166448,
+  "lat": -37.1632134,
+  "lon": -72.0697128
+},
+{
+  "type": "node",
+  "id": 2366793185,
+  "lat": -37.1199542,
+  "lon": -72.0121598
+},
+{
+  "type": "node",
+  "id": 2366793186,
+  "lat": -37.1199328,
+  "lon": -72.0127445
+},
+{
+  "type": "node",
+  "id": 2366793187,
+  "lat": -37.1196270,
+  "lon": -72.0120767
+},
+{
+  "type": "node",
+  "id": 2366793188,
+  "lat": -37.1196164,
+  "lon": -72.0127390
+},
+{
+  "type": "node",
+  "id": 5771169522,
+  "lat": -37.1198677,
+  "lon": -72.0121378
+},
+{
+  "type": "node",
+  "id": 5771169524,
+  "lat": -37.1196265,
+  "lon": -72.0121863
+},
+{
+  "type": "node",
+  "id": 5771169525,
+  "lat": -37.1197813,
+  "lon": -72.0127441
+},
+{
+  "type": "node",
+  "id": 5771169527,
+  "lat": -37.1196263,
+  "lon": -72.0122343
+},
+{
+  "type": "node",
+  "id": 365490065,
+  "lat": -36.5964946,
+  "lon": -72.1067832
+},
+{
+  "type": "node",
+  "id": 1718626099,
+  "lat": -36.5968156,
+  "lon": -72.1057246
+},
+{
+  "type": "node",
+  "id": 12538705454,
+  "lat": -36.5965596,
+  "lon": -72.1065689
+},
+{
+  "type": "node",
+  "id": 12538705457,
+  "lat": -36.5968632,
+  "lon": -72.1069526
+},
+{
+  "type": "node",
+  "id": 12538705458,
+  "lat": -36.5973152,
+  "lon": -72.1071437
+},
+{
+  "type": "node",
+  "id": 12538705459,
+  "lat": -36.5971977,
+  "lon": -72.1075665
+},
+{
+  "type": "node",
+  "id": 12538705460,
+  "lat": -36.5973500,
+  "lon": -72.1076173
+},
+{
+  "type": "node",
+  "id": 12538705461,
+  "lat": -36.5977118,
+  "lon": -72.1060696
+},
+{
+  "type": "node",
+  "id": 3777655685,
+  "lat": -36.6091632,
+  "lon": -72.0880165
+},
+{
+  "type": "node",
+  "id": 3777655686,
+  "lat": -36.6086837,
+  "lon": -72.0880077
+},
+{
+  "type": "node",
+  "id": 3777655735,
+  "lat": -36.6086826,
+  "lon": -72.0877596
+},
+{
+  "type": "node",
+  "id": 3777655736,
+  "lat": -36.6090782,
+  "lon": -72.0877684
+},
+{
+  "type": "node",
+  "id": 3777655742,
+  "lat": -36.6089122,
+  "lon": -72.0877620
+},
+{
+  "type": "node",
+  "id": 3777655743,
+  "lat": -36.6087131,
+  "lon": -72.0877601
+}
+
+  ]
+}

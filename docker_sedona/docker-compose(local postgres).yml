@@ -1,0 +1,36 @@
+version: "3.9"
+
+services:
+  sedona:
+    image: apache/sedona:latest
+    container_name: sedona
+    environment:
+      # Adjust if you have less/more RAM
+      - DRIVER_MEM=4g
+      - EXECUTOR_MEM=4g
+
+      # IMPORTANT: preload the PostgreSQL JDBC jar into every Spark session
+      - PYSPARK_SUBMIT_ARGS=--jars /opt/jars/postgresql-42.7.4.jar pyspark-shell
+    ports:
+      - "8888:8888"   # JupyterLab
+      - "8080:8080"   # Spark master UI
+      - "8081:8081"   # Spark worker UI
+      - "4040:4040"   # Spark app UI
+      - "8085:8085"   # Zeppelin (if you use it)
+    volumes:
+      # Your notebooks live here
+      - ./notebooks:/opt/workspace
+
+      # Mount the folder with the JDBC JAR
+      - ./jars:/opt/jars
+
+      # Persist Sedona workspace/configs
+      - sedona_opt:/opt
+    networks:
+      - sedona_net
+
+networks:
+  sedona_net:
+
+volumes:
+  sedona_opt:
